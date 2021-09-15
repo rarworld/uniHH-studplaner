@@ -1,4 +1,4 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import Stundenplan from './components/Stundenplan.vue'
 
-createApp(App).mount('#app')
+createApp(Stundenplan).mount('#app')

@@ -1,0 +1,1516 @@
+{
+  "name": "Physik Overview",
+  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgEMUVY1nAUlSVznOZcw~JqDZVA~w9CWPwKNqyhaITJcgSqnzyGbJmTprtCGaiIUdUVVihR-UkYJDPQXKi0T-6gT8bQeIBWwooNIVr4XL-l6vs0lyH6pMphEmULXU26qoHgDm6OcyvRleX-s476~uiiL-R~ZrEtnzqrSBYeXOfQbCcDNQ-Wcd-Pf2RaD5330-IJoY-aWYaApZZa8_",
+  "links": [
+    {
+      "name": " I. 1. Fachsemester ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AApBlZVQe1CXPy62i-zz2UfvbmpldxPf79kdT6MidgwUHNH3Zf5GBVKkR2ujKAmtZn8sqjigfr2TPXHHiunxYWYoaLZy5FVPnEwnnXrtfdfJVkkYDjZLCWGjK8-V0m4OMR4xnCr4hQD3CrZHEdq8cyqzCEG407lpj1gaSiFHRMKO6YvSGWmUwO3OGR2XvSR1pNgg6Exr7waAj6K4_",
+      "links": [
+        {
+          "name": " Modul PHY-OE: Orientierungseinheit ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AwW69JvX0w~wM2s0aBvx~j0WkegaN035LY~LjGGZEaW~he~d7QKx6caJqiubZJTmOhy3YlV4~Z4j1kc8t57KG48A08Xa4PwID1oWdHmnCMx-vvRl-gSXHmncf5wzJ7-cFGeuIDDyPCxJzB7jgX3tLnxhb1AGSlfZvOYBwHNZUXTLZnuC~sGYD6Gb67fblLacu8zBS5UrdBgZJH8Q_",
+          "links": [
+            {
+              "name": "66-005 Orientierungseinheit f\u00fcr Studienanf\u00e4nger/innen Physik B.Sc.",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633380502230,-N379633380504231,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                "name": "OE Physik",
+                "type": "000000000000053",
+                "id": "66-005",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-E1: Physik I (Mechanik und W\u00e4rmelehre) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgaI1zUoFFIWjnBwTJNiKF4IUPf6wawEjrsXOwBln5aQh6sXF5dbC0Ud23h4HQceFRlt3ir5c65mjOttkzBZY7chdBRnrl2dj0qI1mKyaZtO5GhCjFX5DNdbwqyvagxITcgbSYQNqhn3jpLSpDZgFtwKqUkyz2uy1PS-bUpBrE2-d7lNVvaVsp-Kn5hR97hweaq7qx~hg3XzgFeU_",
+          "links": [
+            {
+              "name": "66-100 Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633497220262,-N379633497286263,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert",
+                "name": "Physik I",
+                "type": "000000000000022",
+                "id": "66-100",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "14:00",
+                    "end": "15:30 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Do",
+                    "start": "09:00",
+                    "end": "10:30 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-101 Einf\u00fchrung in die Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498909366,-N379633498916367,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Daniela Pfannkuche",
+                "name": "Einf. Theo. Physik I",
+                "type": "000000000000001",
+                "id": "66-101",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "15:45",
+                    "end": "16:45 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Do",
+                    "start": "10:45",
+                    "end": "12:00 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-102 \u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633497012240,-N379633497097241,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                "name": "\u00dcbg. Physik I",
+                "type": "000000000000021",
+                "id": "66-102",
+                "time": []
+              }
+            },
+            {
+              "name": "66-103 Tutorium zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498964364,-N379633498962365,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                "name": "Tutorium Physik I",
+                "type": "000000000000016",
+                "id": "66-103",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AIqCSpSOsOrFFOxGuI7B5cBD4DZ~w3Drcq6evkGz4-GleVSSC3WYi5B7cLf6OJHQPDw6S3iL1OKCwOleMr39zZrUDnpjqo4QVWJRTUpI7pa2f7hVKR2R8LRz50G~9HPuEHCIwUTAw8Opgrm~h-7i-Rxn00hv2AslREFDzgG2Kq8K2UmtiJkuvH3cgaJ3cIvvG~IlT1Moew8P~weA_",
+          "links": [
+            {
+              "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043538527009,-N380043538598010,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "PD Dr. Ralf Holtkamp",
+                "name": "Mathe I_Phys-V",
+                "type": "000000000000022",
+                "id": "65-801",
+                "time": [
+                  {
+                    "day": "Mi",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "ESA A"
+                  },
+                  {
+                    "day": "Fr",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "ESA A"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043556507029,-N380043556512030,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "PD Dr. Ralf Holtkamp",
+                "name": "Mathe I_Phys-\u00dc",
+                "type": "000000000000021",
+                "id": "65-802",
+                "time": []
+              }
+            },
+            {
+              "name": "65-804 Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043624963056,-N380043624911057,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe I_Phys-T",
+                "type": "000000000000016",
+                "id": "65-804",
+                "time": []
+              }
+            },
+            {
+              "name": "65-806 Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043730125063,-N380043730169064,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe I_Phys-A\u00dc",
+                "type": "000000000000077",
+                "id": "65-806",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-AP I: Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4NOtJ7Pr4x5UzCMKHG1iYili5AR43beDLgvVkDu7fBFZXQibbXYz4M9PxuEUES0xHoLMfJNF07ZL2SnsNyy5y9jSLMGsFmz3CLbTZdMfjrZPIXWI6V0qpd6zmCxYSoqZliBDEvp2O8IfncbBx72SEtBLulGm6KioQsSq5UOgvX-6tr53uXiqX3b1L4TJU0N7D62gaSx52y3MzMU_",
+          "links": [
+            {
+              "name": "66-120 Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633982889713,-N379633982805714,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+                "name": "Prakt. I NatWiss",
+                "type": "000000000000023",
+                "id": "66-120",
+                "time": []
+              }
+            },
+            {
+              "name": "66-121 Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633982976719,-N379633982959720,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+                "name": "Prakt. I NatWiss",
+                "type": "000000000000023",
+                "id": "66-121",
+                "time": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " II. 2. Fachsemester ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMbT4bgALFlnGMpC4DhhH0V2qpB6i3ZrVLECEX4vIW9Ltxecrna7a2Zozh1KvvQOjP8uD2Sp6pTXrA5HsrGA7kNBVujXo7K5jo5vdwkjTZCAAZwgGInMTnaFIcsna9iZOTMixYnvDTyNYU25n3TmMLuEKHNfKjXA0vTTy5yrP7dLgDsj~n01PGLLsIYjtXxQdj0Ij4OX7mXC7CR4_",
+      "links": [
+        {
+          "name": " Modul PHY-E2: Physik II (Elektrodynamik & Optik) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AGuygGRpOUecTRCje0vp19DWOnh5NC5xrY24zw60WibaRxQ2Vo9ZRV1hy~iF~XOSCKstev4cJnMEWbvm4D1k18Zq8KxF0p5sp6qcMYvuGYuFwMHmdmsTQwnae4WAPH3~MSrzdgWLhoePNfiisD2a2R3ireeDooWYSOrSBo6a8mnc--esISMhjSb7vAR7OYRQoX2Q-Z42vSIkSK6Y_",
+          "links": [
+            {
+              "name": "66-110 Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498581343,-N379633498567344,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns",
+                "name": "Physik II",
+                "type": "000000000000022",
+                "id": "66-110",
+                "time": [
+                  {
+                    "day": "Mo",
+                    "start": "14:00",
+                    "end": "15:30 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Mi",
+                    "start": "10:15",
+                    "end": "11:45 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-111 Einf\u00fchrung in die Theoretische Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499600432,-N379633499626433,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gudrid Moortgat-Pick",
+                "name": "Einf.Theo. Physik II",
+                "type": "000000000000001",
+                "id": "66-111",
+                "time": [
+                  {
+                    "day": "Mo",
+                    "start": "15:45",
+                    "end": "16:45 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Mi",
+                    "start": "12:00",
+                    "end": "13:15 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-112 \u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499797436,-N379633499795437,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                "name": "\u00dcbg. Physik II",
+                "type": "000000000000021",
+                "id": "66-112",
+                "time": []
+              }
+            },
+            {
+              "name": "66-113 Tutorium zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499646434,-N379633499655435,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                "name": "Tutorium Physik II",
+                "type": "000000000000016",
+                "id": "66-113",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7o5mbmh2zoAa4SsBkPmICBwoUzZzHD6p36LOjCBin7Csqch6WxYp6cMmZOrS~79yzFnJFcgBLUsMuEVqJz9SZRYBkrnndycU~ysvNC~0cEfoyYXiJxYSXLT07yFBXiRlS1OIVuYdxd3zsUgizLLAle3-2czcvt7CTbemaj3LH~j6KxMoWP6rd77A1ouWTPiNBApDoIBrgesmFZg_",
+          "links": [
+            {
+              "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043538527009,-N380043538598010,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "PD Dr. Ralf Holtkamp",
+                "name": "Mathe I_Phys-V",
+                "type": "000000000000022",
+                "id": "65-801",
+                "time": [
+                  {
+                    "day": "Mi",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "ESA A"
+                  },
+                  {
+                    "day": "Fr",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "ESA A"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043556507029,-N380043556512030,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "PD Dr. Ralf Holtkamp",
+                "name": "Mathe I_Phys-\u00dc",
+                "type": "000000000000021",
+                "id": "65-802",
+                "time": []
+              }
+            },
+            {
+              "name": "65-804 Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043624963056,-N380043624911057,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe I_Phys-T",
+                "type": "000000000000016",
+                "id": "65-804",
+                "time": []
+              }
+            },
+            {
+              "name": "65-806 Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043730125063,-N380043730169064,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe I_Phys-A\u00dc",
+                "type": "000000000000077",
+                "id": "65-806",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-AP II: Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbFM5oWVS5nZV0Hm7CPnSTTMT2snfDNOSIEBOmKDb~cWwihFgCmKoPArWO4e2lEVZFfqEc8tXec6HN9VTuVy4BGiOK00D4uWmIPN5KcKN3jr-dB9vapc15Zdunheea7QAZ7w48fOHEBNpkjmyuo-sjNI-2w2sZaoB-4ozdJmfed0Cy8HPnZlIyuOXQkTRcAJChNc2qHKVs-qOb0M_",
+          "links": [
+            {
+              "name": "66-122 Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633982835715,-N379633982837716,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+                "name": "Prakt. II NatWiss",
+                "type": "000000000000023",
+                "id": "66-122",
+                "time": []
+              }
+            },
+            {
+              "name": "66-123 Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633982814717,-N379633982800718,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+                "name": "Prakt. II NatWiss",
+                "type": "000000000000023",
+                "id": "66-123",
+                "time": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " III. 3. Fachsemester ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A03iG8wyboxb9fKS87-iZ2fIqNX-mixDrSptboO8M5PqmH2BmXgT2R1MGXSDLeI~NBc~zOYbT1epgkX6VlvW3t~i7UgE5A94joYyzrMfLgBMNYNswPpIGZ5trwG66IVokhYSGl0ZpIikxjT80W6hGaPLQ6OF8DQiJriDcuRXZtZjIDkrWaqIkap4EMD20bcDjda~jL0GaTafzwNo_",
+      "links": [
+        {
+          "name": " Modul PHY-E3: Physik III (Quantenphysik und Statistische Physik) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~5RjpOqb7~tPwlt87vTsHQDo7Puj7-K7HmHjEWOvkuEs5AtQRdeAlUL9EXv8cq2NcurfW8LeO1TnL0I6onfoQ7nEc9A5UsnR8mhyd3vJKHh9dKp~0vf4hHgoRBFQy8o0e~cHinfIgBpl1OIjb~T2Pl8FhfTZVJxHRDvT-ngkNxAnpmzIhlkpHq5yO7~6~OVoKafRGEV2gKFz~fw_",
+          "links": [
+            {
+              "name": "66-130 Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498631346,-N379633498680347,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Henning Moritz",
+                "name": "Physik III",
+                "type": "000000000000022",
+                "id": "66-130",
+                "time": [
+                  {
+                    "day": "Mo",
+                    "start": "14:30",
+                    "end": "16:00 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Mi",
+                    "start": "10:15",
+                    "end": "11:45 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-131 \u00dcbungen zur Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499796446,-N379633499743447,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Henning Moritz",
+                "name": "\u00dcbg. Physik III",
+                "type": "000000000000021",
+                "id": "66-131",
+                "time": []
+              }
+            },
+            {
+              "name": "66-132 Tutorium zur Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499817453,-N379633499854454,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Henning Moritz",
+                "name": "Tutorium Physik III",
+                "type": "000000000000016",
+                "id": "66-132",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYfftWE8zjiLPS97ziU-nx66HuKYNBILSAmdjQd1E40YtgOBJDmOdlYI38CrBMrxlBazRlOwnpEZyGgo2-SxJuHX6XyUC6UqLwR8uM4oELO-eewGVn3jHnD-74JitGnHR3ZM237ffPFlD5CDlN6HpA6cipg7m~AXK59rcZr9glxdXNC0FKOJ9lHopDW67t2S6z4o9L9~d6yXjoYc_",
+          "links": [
+            {
+              "name": "66-170 Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635187025804,-N379635187093805,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Robin Santra",
+                "name": "Theor. Physik I",
+                "type": "000000000000022",
+                "id": "66-170",
+                "time": [
+                  {
+                    "day": "Mo",
+                    "start": "08:30",
+                    "end": "10:00 ",
+                    "hs": "Digital"
+                  },
+                  {
+                    "day": "Do",
+                    "start": "12:30",
+                    "end": "14:00 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-171 \u00dcbungen zur Theoretischen Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635187572866,-N379635187527867,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Robin Santra",
+                "name": "\u00dcbg. Theor. Physik I",
+                "type": "000000000000021",
+                "id": "66-171",
+                "time": []
+              }
+            },
+            {
+              "name": "66-173 Tutorium zur Theoretischen Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635187587864,-N379635187527865,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Robin Santra",
+                "name": "Tut. Theor. Physik I",
+                "type": "000000000000016",
+                "id": "66-173",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7c7ErtjvuQivJAh0jbfS8uAgOkUEixppL-snNFKpokqH-ALP6KRFQWStMnz1bJ0lhSrTS1XP645fFg76Hb5mM5EPMK2EkAsR9u4DJ3QZjoxzxui62pSWhGCnQNby4ce1j0K14qE3XS7PUOIUBkGyiulszeuQdoXppzBakyCHHSvvmBB30CgOgoLtdNx0R14M3Yyt3mxv9WWnx5E_",
+          "links": [
+            {
+              "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750585073,-N380043750573074,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. J\u00f6rg Alexander Teschner",
+                "name": "Mathe III_Phys-V",
+                "type": "000000000000022",
+                "id": "65-811",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "Geom H1"
+                  },
+                  {
+                    "day": "Fr",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "Geom H1"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750630091,-N380043750652092,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "PD Dr. Ralf Holtkamp",
+                "name": "Mathe III_Phys-\u00dc",
+                "type": "000000000000021",
+                "id": "65-812",
+                "time": []
+              }
+            },
+            {
+              "name": "65-814 Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750713109,-N380043750798110,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe III_Phys-T",
+                "type": "000000000000016",
+                "id": "65-814",
+                "time": []
+              }
+            },
+            {
+              "name": "65-816 Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750807116,-N380043750838117,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe III_Phys-A\u00dc",
+                "type": "000000000000077",
+                "id": "65-816",
+                "time": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " IV. 4. Fachsemester ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A5gX6SDNvv03qHv~7H55pkjkJG-UzPA36BuiN6EOxLRqApwA65k8vdEsrY4fIVYDGyOqKF1iAt62xrnfVQ8uRZf6vkfF2SSlcgpVuiaHwrl8Y1zDdvE2ENpMDzjDurttRGzHJ8r24xsut-k9ps1I1MSRHNnFyhLa~9U2i-ni-Ec4t4Ztngq~n48BUwsvhcPli~qcUqKddF3mRSXs_",
+      "links": [
+        {
+          "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AsC9D9eMGrhezmwQudUaHqhJhkBR56IOelNm5prPHSIdlGMe-1rrKHVqAzxQdIg78NstqtPnY5FcDZt35MkGuQwVhBOtB-S94EC93ZwYdH77X5DZIH7aOFd2DmqVuPMPiA9lpX7S7X9UcVdKI4JkzIxObYpspmWI9XkBbgJt8sDTDikK30n2OW8fiB~NBrKKjJqxnLatZgOjWug8_",
+          "links": [
+            {
+              "name": "66-150 Physik V",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655668536786,-N379655668563787,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                "name": "Physik V",
+                "type": "000000000000022",
+                "id": "66-150",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "10:15",
+                    "end": "11:45 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Fr",
+                    "start": "10:15",
+                    "end": "11:45 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-151 \u00dcbungen zur Physik V",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655668636788,-N379655668638789,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                "name": "\u00dcbg. Physik V",
+                "type": "000000000000021",
+                "id": "66-151",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AFE1hhJv9WVWhUQaGE9gpge4ukmywcO7kBoCYohaF1akyPGAW7AOwC7elzS5vznKBeRHSNMOR5QUIKUcLdMOfEus1HAlfi3vAKRExK~EFMCJYK9jqe37~KyktW6j25ED81JwJJhzK6SwEyPoGyh9JxBOwqnTZYUSJ54uOBK3iwo5aiQJFhgzUVe4gKkSIc4FaFX6FTBwc7Cae8UY_",
+          "links": [
+            {
+              "name": "66-170 Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635187025804,-N379635187093805,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Robin Santra",
+                "name": "Theor. Physik I",
+                "type": "000000000000022",
+                "id": "66-170",
+                "time": [
+                  {
+                    "day": "Mo",
+                    "start": "08:30",
+                    "end": "10:00 ",
+                    "hs": "Digital"
+                  },
+                  {
+                    "day": "Do",
+                    "start": "12:30",
+                    "end": "14:00 ",
+                    "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-171 \u00dcbungen zur Theoretischen Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635187572866,-N379635187527867,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Robin Santra",
+                "name": "\u00dcbg. Theor. Physik I",
+                "type": "000000000000021",
+                "id": "66-171",
+                "time": []
+              }
+            },
+            {
+              "name": "66-173 Tutorium zur Theoretischen Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635187587864,-N379635187527865,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Robin Santra",
+                "name": "Tut. Theor. Physik I",
+                "type": "000000000000016",
+                "id": "66-173",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ajktono6ZktLb12WH55neXAs1FQp7kWfguB5YcRjeoqNAmMaLIoD8EKCqG-7WM3B4bmzboUEfoBaaRZHI11FwWnfO3LBvc5xBUHONQf4nrqdVZmBQTrkZCL4ZrXHYUf9~5th3tiJCiTJPLwc2RfCM0zG-GO71uGDDvg3HI5~RpOOM3j8LWdv0EDzIrgr3byeiUswrTbKwCu3dZlE_",
+          "links": [
+            {
+              "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750585073,-N380043750573074,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. J\u00f6rg Alexander Teschner",
+                "name": "Mathe III_Phys-V",
+                "type": "000000000000022",
+                "id": "65-811",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "Geom H1"
+                  },
+                  {
+                    "day": "Fr",
+                    "start": "08:00",
+                    "end": "10:00 ",
+                    "hs": "Geom H1"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750630091,-N380043750652092,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "PD Dr. Ralf Holtkamp",
+                "name": "Mathe III_Phys-\u00dc",
+                "type": "000000000000021",
+                "id": "65-812",
+                "time": []
+              }
+            },
+            {
+              "name": "65-814 Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750713109,-N380043750798110,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe III_Phys-T",
+                "type": "000000000000016",
+                "id": "65-814",
+                "time": []
+              }
+            },
+            {
+              "name": "65-816 Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750807116,-N380043750838117,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "N.N.",
+                "name": "Mathe III_Phys-A\u00dc",
+                "type": "000000000000077",
+                "id": "65-816",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A46eEzDKJZ~MBa41ap-jXCFu5WmT6MnOQncuaJjrGG7NNqQ4VVYYv9n7~OqE2c9OU4saSpq1nFCDHlRfxJ3nmShTtFYLhieslC2CXVR~8~-WkXZE4FyUXzd3ydeFX8qTz8uiYlWBsxnqb6ZdV9Pb6l4Nzb-MOlUFkpM7Jk4O0S6fmialxxlUorvT3IUp1uyThKnTrMacapyGVe6k_",
+          "links": [
+            {
+              "name": "66-455 Physikalisches Praktikum f\u00fcr Fortgeschrittene",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635159047798,-N379635159032799,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
+                "name": "F-Praktikum",
+                "type": "000000000000023",
+                "id": "66-455",
+                "time": []
+              }
+            },
+            {
+              "name": "66-456 Begleitseminar zum Physikalischen Praktikum f\u00fcr Fortgeschrittene",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635159078796,-N379635159012797,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
+                "name": "Begleitseminar F.-P.",
+                "type": "000000000000026",
+                "id": "66-456",
+                "time": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " V. 5. Fachsemester ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AXnKRAR5FLyIITYllWz4uDDLatpHTezg8RKjLByH68lBpZLIor5nCDR2xmgyA8IGvvv2TMpjmMuJRJi~tYcnhdwR4wbOCwEBn71XjnQo7OyVstfXfeLMzWO0~fgXK4DJCaIZsv-vpKXLoZh~LaPVSMm4TEuW3FwfP9pCwdxqjbYpuFLilfBvfkAjr5D7Z7zascJdwSC0rjc34hTk_",
+      "links": [
+        {
+          "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A05xWeenCovwDBU8Fqdo9dDFSlH7W5AfzYwRf0esUw6Uff2CcnbDw79U2fxOvhnoq2MSkaqtNqHyCdGYo~J6MwA50zGHlVpchjcIRLhcTb2OZjAXxaCdWTWnbnlmc-G7KmxcLnvU5zt1lIVrCUY0kv8nbkfsCsd2a6vWDdW7-zi3np5jEs4ohDTm4DbezAbAc17fEk--y9-cJgzY_",
+          "links": [
+            {
+              "name": "66-150 Physik V",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655668536786,-N379655668563787,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                "name": "Physik V",
+                "type": "000000000000022",
+                "id": "66-150",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "10:15",
+                    "end": "11:45 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Fr",
+                    "start": "10:15",
+                    "end": "11:45 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-151 \u00dcbungen zur Physik V",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655668636788,-N379655668638789,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                "name": "\u00dcbg. Physik V",
+                "type": "000000000000021",
+                "id": "66-151",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ACLbPSBPMIMPEl4GPTGVFnWuxXCCLtyQ5X5ivwN6gXUxyv9N~9v8f70cy5RiGA23OgOnt2w7tNqzROyZ86F1B0250kBMLi4tgKpTPNKObul6DOj~OI0La-kXRfaFmBIWVvgiYAgKUWKm5W42RNnaqvWJ5HB9zofvwI3T9IjtayRp-bZW2~zvWQHVEzE6m0RBYhpugPEWQLEhIigc_",
+          "links": [
+            {
+              "name": "66-190 Theoretische Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655779337260,-N379655779366261,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gleb Arutyunov",
+                "name": "Theor. Physik III",
+                "type": "000000000000022",
+                "id": "66-190",
+                "time": [
+                  {
+                    "day": "Mo",
+                    "start": "08:30",
+                    "end": "10:00 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Do",
+                    "start": "08:30",
+                    "end": "10:00 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655779366262,-N379655779340263,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gleb Arutyunov",
+                "name": "\u00dcbg. Th. Physik III",
+                "type": "000000000000021",
+                "id": "66-191",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aq44ypNwGaC9ZF8jOERkS-nBTUVFROr4Q~aBu8tglt6l~EBNxnUFDisFZydOLCJCbmFKmB63uXtxjgWMZdrmoq2FDgky4Q6gR0RZgGmDeAJdGuh0szZf8eDUfS7RLXpbbqy1br-1fTKMXNBYkEVD22lURQ4jZix8~0wPocnO1OpnsFok1sOVk46QQnsM5XB-bQffxKdkpIHAkF3g_",
+          "links": [
+            {
+              "name": "66-455 Physikalisches Praktikum f\u00fcr Fortgeschrittene",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635159047798,-N379635159032799,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
+                "name": "F-Praktikum",
+                "type": "000000000000023",
+                "id": "66-455",
+                "time": []
+              }
+            },
+            {
+              "name": "66-456 Begleitseminar zum Physikalischen Praktikum f\u00fcr Fortgeschrittene",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379635159078796,-N379635159012797,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
+                "name": "Begleitseminar F.-P.",
+                "type": "000000000000026",
+                "id": "66-456",
+                "time": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " VI. 6. Fachsemester ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AELDZmuncnVieb~95EmZ-lV8hZUpp1kecWHKmVpexnrnY9dBoWyO~I~rW-OBk6KWG2VwITeXbkPLsICDQhgMJXz3Ww3gmyUKxusewK8jsjxkok~RG0ze9GueJZFxaUn17sMo2UYrHklF6v3eLAjjF3ixg0-y4zKEFQZ~OCYwbKwJ8G-xpf7BoQBrx0QRwFrsxtfLq5Pe5fSUjFtw_",
+      "links": [
+        {
+          "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ACOsZSvPDiA1ODK~FSoSugoM3tghmu36iFVXoq~-U79XiEX2SgNhYQbw3xvtDzeZTp8xJqNTjuLZQVbYjC1ra3Dz-bLlPfrNsqc47IyK4lCJMYYCyQ5QCNrTP-jdlHuF3lUCscj1vdLRIRLQHJOHGiNLy0YDvTNGOCCcdsIebWlrwSy8G9c~UvweB-Hgx0stNmmBceHFeopZHzII_",
+          "links": [
+            {
+              "name": "66-190 Theoretische Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655779337260,-N379655779366261,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gleb Arutyunov",
+                "name": "Theor. Physik III",
+                "type": "000000000000022",
+                "id": "66-190",
+                "time": [
+                  {
+                    "day": "Mo",
+                    "start": "08:30",
+                    "end": "10:00 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  },
+                  {
+                    "day": "Do",
+                    "start": "08:30",
+                    "end": "10:00 ",
+                    "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655779366262,-N379655779340263,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gleb Arutyunov",
+                "name": "\u00dcbg. Th. Physik III",
+                "type": "000000000000021",
+                "id": "66-191",
+                "time": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " VII. ABK-Module f\u00fcr Physik (B.Sc.) ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A82cWGkKRSFxWnUXrxJvPiFxqBDnaUFc010YElP7TAefgPrIWgK4GBLsihOFTac9yMXGA74vjYm7XA96EMH71-c-Qh8ofc8ISncPyPVjwAqJcY401GzVOGukZ3LXxR5rBcN2rF~Cpwlnt5X-X8pCZq9cDSIU~ghWJMdGdlk1guyVCYH0QhQ-snZ6qW6xI-MfUdAuWSDGwU4cMLBU_",
+      "links": [
+        {
+          "name": " Modul PHY-ABK 02: Arbeiten in und mit Gruppen II: Fachtutorium (3 LP) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AS74-vdN8FRHgPaWhvINQ~x16fi8Qo57GtjLUa1qzdC~0IuHoUT3n2Ty5H9owlz8geWRqIO30CtAmzV0mhMwNXknQGQE5TEqgCDGuGdxXs~IW-o0mcNw-zSltPBPZok5GKR5Gh~M6vl7EuAlUfs1ZyYmSYAsH5FNPEN4OFLr~PJpHWg5eQjoL0KWYcadeiUiEvc~dckbkFeYGeg8_",
+          "links": [
+            {
+              "name": "66-860 ABK 02: Arbeiten mit Gruppen - Leitung einer Fachtutoriumsgruppe",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379663869944172,-N379663869927173,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Jochen Liske",
+                "name": "ABK 02: Fachtutorium",
+                "type": "000000000000047",
+                "id": "66-860",
+                "time": []
+              }
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-ABK 04: Darstellung wissenschaftlicher Ergebnisse (3 LP) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ad706WN~972QgvT2i7HiftsC08yOBnRzEeQq~6DdzDuDMuNmx8rnvswKnPFExDjGIBTMh4Wssjnz9Qq4-TZkRBA5dKtQFfr1VXV83uCMTwR6uAC4paIKJqeQtur9H44kzRYnjPi-UIRhFeIqxxXnjn5VyBKJYP1pPXmy2JiyAafTzsIh6cUxisRPyUIQ8vGV5OlqT7kGRL3y--uA_",
+          "links": [
+            {
+              "name": "66-874 ABK 04: Darstellung wissenschaftlicher Ergebnisse",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379663869973174,-N379663869953175,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Bodo Krause-Kyora Dipl.-Phys.; Michael Richter Dipl.-Chem.; Martin Stieben",
+                "name": "ABK 04: wiss. Ergeb.",
+                "type": "000000000000047",
+                "id": "66-874",
+                "time": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " VIII. Proseminare f\u00fcr Physik (B.Sc.) ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AxcI5SnyPcC2Q2LMdGD5rGCW4pQ65CqNZR5DSSJaSZwpm5SZinOLqvd6QTticBfLMktfkfM3w4q9N-Fg~hfYZhxEo7Xva-RvCA3spe7ULckzLaFk~YW1pB9aLNaFfeUa1VcpZ9U9Wu0slv4-VYvl6gWA~lwuDdzNML-T-ijPoeGjrVbpT-x1FyL~sWeOD54GvVWV-FQjOqbGFr5w_",
+      "links": [
+        {
+          "name": "66-502 Proseminar: Teilchen- und Astroteilchenphysik",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379713488400364,-N379713488451365,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Elisabetta Gallo; Dr. Manuel Meyer",
+            "name": "PS: Astro/Teilchenph",
+            "type": "000000000000003",
+            "id": "66-502",
+            "time": [
+              {
+                "day": "Di",
+                "start": "08:30",
+                "end": "10:00 ",
+                "hs": "SemRm 5"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-504 Proseminar: Theorie und Praxis moderner Beschleuniger",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379713488439366,-N379713488443367,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Florian Gr\u00fcner; Prof. Dr. Wolfgang Hillert; Dr. Velizar Miltchev; Theresa Staufer",
+            "name": "PS: Beschleuniger",
+            "type": "000000000000003",
+            "id": "66-504",
+            "time": [
+              {
+                "day": "Mi",
+                "start": "09:15",
+                "end": "10:45 ",
+                "hs": "Bibliothek INF"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-507 Proseminar: Basics of biomedical physics",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379713488401368,-N379713488453369,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Florian Gr\u00fcner",
+            "name": "Intro Biomedical Phy",
+            "type": "000000000000003",
+            "id": "66-507",
+            "time": [
+              {
+                "day": "Mi",
+                "start": "14:30",
+                "end": "16:00 ",
+                "hs": "Bibliothek INF"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-508 Proseminar: R\u00f6ntgenphysik und Photon Science",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379923876373172,-N379923876329173,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Francesca Calegari; Prof. Dr. Taisia Gorkhover; PD Dr. Michael Martins",
+            "name": "PS: R\u00f6ntgenphysik",
+            "type": "000000000000003",
+            "id": "66-508",
+            "time": [
+              {
+                "day": "Di",
+                "start": "16:15",
+                "end": "17:45 ",
+                "hs": "Bibliothek INF"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-510 Proseminar: Grundlagen nanostrukturierter Festk\u00f6rper",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379714102918431,-N379714102932432,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Wolfgang Hansen; Dr. Christian Heyn; PD Dr. Guido Meier; Dr. Lars Tiemann",
+            "name": "PS: nanostruktur. FK",
+            "type": "000000000000003",
+            "id": "66-510",
+            "time": []
+          }
+        },
+        {
+          "name": "66-516 Proseminar: Visionen der Festk\u00f6rperforschung",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379714102949427,-N379714102937428,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Roland Wiesendanger",
+            "name": "PS: Fk-Forschung",
+            "type": "000000000000003",
+            "id": "66-516",
+            "time": [
+              {
+                "day": "Do",
+                "start": "10:15",
+                "end": "11:45 ",
+                "hs": "Bibliothek INF"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-518 Proseminar: Nano-Bio-Elektronik",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379714102989429,-N379714102982430,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Robert H. Blick",
+            "name": "Prosem. Nanobioelek",
+            "type": "000000000000003",
+            "id": "66-518",
+            "time": [
+              {
+                "day": "Di",
+                "start": "13:00",
+                "end": "14:30 ",
+                "hs": "SemRm 6"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-523 Proseminar: Moderne Quantenphysik: Quantensimulation und Quantencomputing mit ultrakalten Gasen",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379773410379084,-N379773410339085,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Andreas Hemmerich; Prof. Dr. Henning Moritz; Prof. Dr. Klaus Sengstock",
+            "name": "PS: Mod. Atomphysik",
+            "type": "000000000000003",
+            "id": "66-523",
+            "time": [
+              {
+                "day": "Mo",
+                "start": "12:30",
+                "end": "14:00 ",
+                "hs": "H\u00f6rsaal III (Physik, Jungiusstra\u00dfe 9)"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-524 Proseminar: Molek\u00fclphysik",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379923963513511,-N379923963548512,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Jochen K\u00fcpper; Dr. Sebastian Trippel; Dr. Andrey Yachmenev",
+            "name": "PS: Molek\u00fclphysik",
+            "type": "000000000000003",
+            "id": "66-524",
+            "time": []
+          }
+        },
+        {
+          "name": "66-526 Proseminar: Kryptographie und Quantenschl\u00fcsselverteilung",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379773410369086,-N379773410347087,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Dr. Ralf Riedinger; Prof. Dr. Roman Schnabel",
+            "name": "PS: Kry. Quan.Vert.",
+            "type": "000000000000003",
+            "id": "66-526",
+            "time": [
+              {
+                "day": "Mi",
+                "start": "13:30",
+                "end": "15:00 ",
+                "hs": "Jungius 11, Mikrostrukturpausenraum"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-529 Proseminar: Photonen",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379773410236082,-N379773410288083,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Ludwig Mathey",
+            "name": "PS Photon",
+            "type": "000000000000003",
+            "id": "66-529",
+            "time": [
+              {
+                "day": "Mo",
+                "start": "14:00",
+                "end": "15:30 ",
+                "hs": "SemRm 2"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-530 Proseminar: Moderne Themen aus der Astrophysik",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379784429234468,-N379784429210469,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Stefan Robi Banerjee",
+            "name": "PS: Astrophysik",
+            "type": "000000000000003",
+            "id": "66-530",
+            "time": []
+          }
+        },
+        {
+          "name": "66-532 Proseminar: Moderne Fragen der Stellarastrophysik",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379784432418470,-N379784432406471,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Peter Hauschildt",
+            "name": "",
+            "type": "000000000000003",
+            "id": "66-532",
+            "time": []
+          }
+        },
+        {
+          "name": "66-534 Proseminar: Energiewende, physikalische und \u00f6konomische Grundlagen",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380113995117306,-N380113995129307,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Stefan Robi Banerjee; Dr. Dieter Engels",
+            "name": "",
+            "type": "000000000000003",
+            "id": "66-534",
+            "time": [
+              {
+                "day": "Di",
+                "start": "16:15",
+                "end": "19:15 ",
+                "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-547 Proseminar: Recherchieren, Pr\u00e4sentieren und Diskutieren radioonkologischer Themen",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379784432412472,-N379784432471473,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "PD Dr. Annette Raabe; Prof. Dr. Kai Rothkamm",
+            "name": "PS.Strahl.Bio.Themen",
+            "type": "000000000000003",
+            "id": "66-547",
+            "time": [
+              {
+                "day": "Mi",
+                "start": "14:00",
+                "end": "15:30 ",
+                "hs": "Campus Lehre (N 55), Rm 210/211, UKE Martinistr. 52"
+              }
+            ]
+          }
+        },
+        {
+          "name": "66-661 Proseminar \u201eStrahlung und Strahlenschutz\u201c",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379924737783378,-N379924737771379,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Prof. Dr. Gerald Kirchner; Prof. Dr. Kai Rothkamm",
+            "name": "",
+            "type": "000000000000003",
+            "id": "66-661",
+            "time": [
+              {
+                "day": "Di",
+                "start": "10:15",
+                "end": "11:45 ",
+                "hs": "Digital oder Beim Schlump 83, Raum 02/023"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": " IX. Wahlbereich f\u00fcr Physik (B.Sc.) ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AT8TjhlP-Vs2FNEqGAby-eIkzRaHadLnKcdsxEeD4dZe-5EXYshsmXe8N-t9cULQah6c8mL8Tnc4bjZtUsvVQ66ZrRYriuWBEpcEjset9wppppxzKHSMTmKHPWZ07ocVUtQ30uZFhWpsVzL2XzMlI-p2R8tr~VJ4NQYYRvoSCmM5Seb-itKliBeoyf3FJvSY2V9nu0Euf64Fo5PY_",
+      "links": [
+        {
+          "name": " Astronomie und Astrophysik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aj5jCeEoEkcJ3qXcZfe3Frnu5evdR4MybEhQjZ1IYFaDSLjEpy9MWyuTqeZ8Ikqy~sqRrA6eRoFt3w~i225Nk90XZPZ3xutVv4KCMMYW4hTcSrNzmMJN8bi2PExfzvtBkb-l0rCliPrISvhPmICZkKiDZrYkvQbx-fY6X3WK8xEKCRAPRvNB2xHEQ~Yo6dFFOoQIOPhUZq8OUQ~w_",
+          "links": [
+            {
+              "name": " Modul PHY-Astro I: Astronomie und Astrophysik I ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Asf1PsXZW2sv93Nc249I6Nxq3co~mUS2p8WSYp~80Zqyt8rwcOTQVuHackQDNZ8zSb9LTdUctW9vf2jXOfc5c8pT7FstgJiOqXrhhs-6ORgLV9dPzEYb-4wJGwx3hHcUYiq03Y209x4KooddCFsSOvTaUIML6paYM5DF4jmD63wsH56q1rOuF3cHEIYW~~Q9qwnxRRGyAaJgkiKo_",
+              "links": [
+                {
+                  "name": "66-901 Einf\u00fchrung in die Astronomie und Astrophysik I",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379844383131536,-N379844383180537,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": {
+                    "dozent": "Prof. Dr. Peter Hauschildt",
+                    "name": "Astrophysik I",
+                    "type": "000000000000022",
+                    "id": "66-901",
+                    "time": [
+                      {
+                        "day": "Di",
+                        "start": "14:15",
+                        "end": "15:45 ",
+                        "hs": "Digital"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "66-902 \u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379844383121521,-N379844383138522,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": {
+                    "dozent": "Prof. Dr. Peter Hauschildt",
+                    "name": "\u00dcbg. Astrophysik I",
+                    "type": "000000000000021",
+                    "id": "66-902",
+                    "time": []
+                  }
+                }
+              ]
+            },
+            {
+              "name": " Modul PHY-Astro II: Astronomie und Astrophysik II ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AFyNM06DnHqGVWXApCWUKSeUbP2L5pqL0q1u9YU8fsFu3Yx-dx6H7yIyHJtZiNUrK0FFRVAUTH8rOIsKUWdaPwh1JtM98wqbuFl-HrAzzvGl3wqeDGs~ozZY~Iz75xJ3Ob84WSInopxo8h05UrOOc4GZN4nqCuEjSJV6CxZhwC8ruQVsED3mLfNWkjbBVwFnuGTOTtDnF-0CUlsY_",
+              "links": [
+                {
+                  "name": "66-903 Einf\u00fchrung in die Astronomie und Astrophysik II",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379844383114529,-N379844383151530,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": {
+                    "dozent": "Prof. Dr. Jochen Liske",
+                    "name": "Astrophysik II",
+                    "type": "000000000000009",
+                    "id": "66-903",
+                    "time": [
+                      {
+                        "day": "Do",
+                        "start": "14:15",
+                        "end": "15:45 ",
+                        "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "66-904 \u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379844383166531,-N379844383116532,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": {
+                    "dozent": "Prof. Dr. Jochen Liske; Dr. Andreas Schweitzer",
+                    "name": "\u00dcbg. Astro II",
+                    "type": "000000000000021",
+                    "id": "66-904",
+                    "time": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Einf\u00fchrung Biomedizinische Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AwQkSbKiibhd73R39cUGFBF6WmLmAIv-bZCr5IQc2uXCx5-M79jDQzN9idjkHW5~brag9SyefLdkm-gQ0sZYPRQxAlj9l90tPH1ohkTqpcY7L7grm5x9Ac7baew~IGw2Jg5yfE7zCT~UV9z5kYvpjI-HU2kub7gptto8uh2D91poqVZ~cjVL~qUyW4r~U5U-iOiteiAQThMqAbBc_",
+          "links": [
+            {
+              "name": " Modul PHY-NF-BS02: Introduction to Biomedical Physics II (3 LP) ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7T0zHEfoJ0MfIb0rDhw9jUHYSUiaPmIdWWWzZCyEMySpc3rK7XO1H9x4ZL2LaQ073HmyeZYUGwRHK7fe9p1nZTaKmKSV18gLjSOVWSCnjkasMJVY6GEyzFerqq9M5DRd8YjpP-BifFTdNJynlqwIqBoOo7rid~PwfgQ4IUwJ-9TKYDDheoYcJq7dNaSLJWeBii1Vnefs8utbXME_",
+              "links": [
+                {
+                  "name": "66-675 Introduction to biomedical physics  II",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379784466268612,-N379784466220613,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": {
+                    "dozent": "PD Dr. Annette Raabe; Prof. Dr. Kai Rothkamm",
+                    "name": "Biophysik",
+                    "type": "000000000000022",
+                    "id": "66-675",
+                    "time": [
+                      {
+                        "day": "Mo",
+                        "start": "14:15",
+                        "end": "15:45 ",
+                        "hs": "H\u00f6rsaal der Kinderklinik,045, UKE, Martinistra\u00dfe 52"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "name": " Modul PHY-NF-BS-P: Introduction to Biomedical Physics - Laboratory (3 LP) ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ALnh-Eo0s6eYRrikkzb7cpI6aYb~WHk7OiHEFETwzdfVho5zISN7-rJvRnNMG7CII84LMcYhq1WgLIXuUhz-sHF2LXqdekFob7duSeZibav9YYv2~CN~opUHKbIF-mFyVfcSoPjz7D-7eoKUZzhYK2wXkYd21DMAk3PoDAHZWee2nAN86kkjLTyeEdgJn8cQkU60tacWTl8uUr4k_",
+              "links": [
+                {
+                  "name": "66-677 Introduction to biomedical physics - laboratory",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379784466260614,-N379784466280615,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": {
+                    "dozent": "Dr. Elisabetta Gargioni; PD Dr. Annette Raabe; Dr. Thorsten Rieckmann; Prof. Dr. Kai Rothkamm",
+                    "name": "Biophysik-Praktikum",
+                    "type": "000000000000023",
+                    "id": "66-677",
+                    "time": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Zentrum f\u00fcr Naturwissenschaft und Friedensforschung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ag-9I0xEl-rFbTgjQQFxG0C0HdLc0VPO4tRsD~zqAH1e8Lf6DDRg~e4N39DS3zKZc1RlwY1QUWigTDmPVRL3kUcS2kzdpwA0BL~cjSVtaKLTjpOUebylritnhaoA1ezuLzMUxfQJuPDJ~XLm-x2r-9H84O9muu524SjN1iT4wdJdQq60nbEGhTILxnRNbEKs7pE9C-Sa0QaEVag8_",
+          "links": [
+            {
+              "name": "66-650 Carl Friedrich von Weizs\u00e4cker-Friedensvorlesung: \u201eSeuchen, Biowaffen, Pandemien - ein interdisziplin\u00e4rer Blick auf Covid-19\u201c",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379924738490399,-N379924738433400,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Gunnar Jeremias; Prof. Dr. Gerald Kirchner; Hares Sarwary",
+                "name": "C-F.v.W.-Friedens-V.",
+                "type": "000000000000022",
+                "id": "66-650",
+                "time": [
+                  {
+                    "day": "Mi",
+                    "start": "16:15",
+                    "end": "17:45 ",
+                    "hs": "ESA H"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-651 Seminar \u201eTransformationskonflikte einer nachhaltigen Entwicklung auf nationaler und EU- Ebene\"",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379924738985410,-N379924738924411,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Dr. Gesine Sch\u00fctte",
+                "name": "Transformationskonfl",
+                "type": "000000000000020",
+                "id": "66-651",
+                "time": []
+              }
+            },
+            {
+              "name": "66-654 Vorlesung \u201eNaturwissenschaftliche Beitr\u00e4ge zur Friedensforschung\u201c",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379924738114387,-N379924738149388,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gerald Kirchner; Prof. Dr. G\u00f6tz Neuneck",
+                "name": "Friedensforschung",
+                "type": "000000000000022",
+                "id": "66-654",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "16:15",
+                    "end": "17:45 ",
+                    "hs": "Digital oder Raum wird bei STiNE bekanntgegeben"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "66-658 Seminar \u201eModel United Nations \u2013 Verhandlungen der Vereinten Nationen zu Wissenschafts- und Technikfragen mit Rollenspielen zum Thema: *Abr\u00fcstung der Massenvernichtungswaffen Nordkoreas*\u201c",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379924808239020,-N379924808219021,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gerald Kirchner",
+                "name": "",
+                "type": "000000000000059",
+                "id": "66-658",
+                "time": []
+              }
+            },
+            {
+              "name": "66-661 Proseminar \u201eStrahlung und Strahlenschutz\u201c",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379924737783378,-N379924737771379,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": {
+                "dozent": "Prof. Dr. Gerald Kirchner; Prof. Dr. Kai Rothkamm",
+                "name": "",
+                "type": "000000000000003",
+                "id": "66-661",
+                "time": [
+                  {
+                    "day": "Di",
+                    "start": "10:15",
+                    "end": "11:45 ",
+                    "hs": "Digital oder Beim Schlump 83, Raum 02/023"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "66-878 Hochleistungsrechnen in der Physik: Grundlagen der Entwicklung paralleler Anwendungen",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379713452354361,-N379713452345362,-N0,-N0,-N0",
+          "links": [],
+          "vorlesung": {
+            "dozent": "Niklas K\u00e4ming; Martin Stieben",
+            "name": "PHY-HLR-V",
+            "type": "000000000000022",
+            "id": "66-878",
+            "time": [
+              {
+                "day": "Di",
+                "start": "11:00",
+                "end": "12:30 ",
+                "hs": "Poolraum 3\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 1\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 2"
+              },
+              {
+                "day": "Do",
+                "start": "14:30",
+                "end": "16:00 ",
+                "hs": "Poolraum 3\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 1\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 2"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+[
+    {
+        "id":     "67-100",
+        "name":   "Vorlesung Programmierung für Naturwissenschaften I",
+        "time":   "Mi 12:15-13:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Stefan Kurtz",
+        "cat":    "inf"
+    },
+    {
+        "id":     "67-101a",
+        "name":   "Übungen Programmierung für Naturwissenschaften I",
+        "time":   "Mi 14:15-15:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Stefan Kurtz",
+        "cat":    "inf"
+    },
+    {
+        "id":     "67-101b",
+        "name":   "Übungen Programmierung für Naturwissenschaften I",
+        "time":   "Mi 16:15-17:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Stefan Kurtz",
+        "cat":    "inf"
+    },
+    {
+        "id":     "67-780",
+        "name":   "Proseminar „Computing in Science“ (CiS Physik)",
+        "time":   "Do 12:00-13:30",
+        "slots":  [],
+        "prof":   "Prof. Dr. Nina Rohringer",
+        "cat":    "inf"
+    },
+    {
+        "id":     "67-782",
+        "name":   "Computational physics",
+        "time":   "Do 10:15-11:45, Fr 12:30-14:00",
+        "slots":  [],
+        "prof":   "Prof. Dr. Günter Hans Walter Sigl",
+        "cat":    "inf"
+    },
+    {
+        "id":     "67-783",
+        "name":   "Exercises in computational physics",
+        "time":   "Mi 12:00-12:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Günter Hans Walter Sigl",
+        "cat":    "inf"
+    },
+    {
+        "id":     "66-130",
+        "name":   "Physik III",
+        "time":   "Mo 14:30-16:00, Mi 10:15-11:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Henning Moritz",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-131",
+        "name":   "Übungen zur Physik III",
+        "time":   "Mo 16:15-17:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Henning Moritz",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-131b",
+        "name":   "Übungen zur Physik III",
+        "time":   "Mi 08:30-10:00",
+        "slots":  [],
+        "prof":   "Prof. Dr. Henning Moritz",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-170",
+        "name":   "Theoretische Physik I",
+        "time":   "Mo 08:30-10:00, Do 12:30-14:00",
+        "slots":  [],
+        "prof":   "Prof. Dr. Robin Santra ",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-171a",
+        "name":   "Übungen zur Theoretische Physik I",
+        "time":   "Mo 10:15-11:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Robin Santra ",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-171b",
+        "name":   "Übungen zur Theoretische Physik I",
+        "time":   "Do 09:00-10:30",
+        "slots":  [],
+        "prof":   "Prof. Dr. Robin Santra ",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-171c",
+        "name":   "Übungen zur Theoretische Physik I",
+        "time":   "Do 10:45-12:15",
+        "slots":  [],
+        "prof":   "Prof. Dr. Robin Santra ",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-171d",
+        "name":   "Übungen zur Theoretische Physik I",
+        "time":   "Mo 12:00-13:30",
+        "slots":  [],
+        "prof":   "Prof. Dr. Robin Santra ",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-150",
+        "name":   "Physik V",
+        "time":   "Di 10:15-11:45, Fr 10:15-11:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-150a",
+        "name":   "Übungen zur Physik V",
+        "time":   "Fr 12:30-14:00",
+        "slots":  [],
+        "prof":   "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-150b",
+        "name":   "Übungen zur Physik V ",
+        "time":   "Fr 14:30-16:00",
+        "slots":  [],
+        "prof":   "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-190",
+        "name":   "Theoretische Physik III",
+        "time":   "Mo 08:30-10:00, Do 08:30-10:00",
+        "slots":  [],
+        "prof":   "Prof. Dr. Gleb Arutyunov",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-191a",
+        "name":   "Übungen zur Theoretische Physik III",
+        "time":   "Mo 10:15-11:45",
+        "slots":  [],
+        "prof":   "Prof. Dr. Gleb Arutyunov",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-191b",
+        "name":   "Übungen zur Theoretische Physik III",
+        "time":   "Mo 12:00-13:30",
+        "slots":  [],
+        "prof":   "Prof. Dr. Gleb Arutyunov",
+        "cat":    "phy"
+    },
+    {
+        "id":     "66-191c",
+        "name":   "Übungen zur Theoretische Physik III",
+        "time":   "Mo 14:30-16:00",
+        "slots":  [],
+        "prof":   "Prof. Dr. Gleb Arutyunov",
+        "cat":    "phy"
+    }
+]
