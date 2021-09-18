@@ -53,7 +53,9 @@
           </h2>
           <div id="textArea-collapse" class="accordion-collapse collapse" aria-labelledby="textAreaHeader" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-              <input  class="form-control" v-model="activeVorlesungen" placeholder="[VorlesugsId,…]" />
+              <form method="GET">
+              <input name="activList" class="form-control" v-model="activeVorlesungen" placeholder="[VorlesugsId,…]" />
+              </form>
             </div>
           </div>
         </div>
@@ -166,8 +168,13 @@ export default {
         }
     },
     created: function(){
-      this.activeVorlesungen.forEach(vID => this.addVorlesung(vID))
-      this.hoover=""
+      console.log(window.location.search)
+      if( window.location.search != ""){
+        var searchParams = decodeURIComponent(window.location.search.substr(1).split('=')[1])
+        this.activeVorlesungen=searchParams.split(',')
+        this.activeVorlesungen.forEach(vID => this.addVorlesung(vID))
+        this.hoover=""
+      }
     }
 }
 </script>
