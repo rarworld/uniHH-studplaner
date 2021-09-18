@@ -1,7 +1,8 @@
 [
   {
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
-    "name": "OE Physik",
+    "name": "Orientierungseinheit f\u00fcr Studienanf\u00e4nger/innen Physik B.Sc.",
+    "short": "OE Physik",
     "type": "000000000000053",
     "id": "66-005",
     "time": []
@@ -9,6 +10,7 @@
   {
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert",
     "name": "Physik I",
+    "short": "Physik I",
     "type": "000000000000022",
     "id": "66-100",
     "time": [
@@ -36,7 +38,8 @@
   },
   {
     "dozent": "Prof. Dr. Daniela Pfannkuche",
-    "name": "Einf. Theo. Physik I",
+    "name": "Einf\u00fchrung in die Theoretische Physik I",
+    "short": "Einf. Theo. Physik I",
     "type": "000000000000001",
     "id": "66-101",
     "time": [
@@ -63,7 +66,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe A",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe A",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_0",
@@ -81,7 +85,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe B",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe B",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_1",
@@ -99,7 +104,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe C",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe C",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_2",
@@ -117,7 +123,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe D",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe D",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_3",
@@ -135,7 +142,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe E",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe E",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_4",
@@ -153,7 +161,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe F",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe F",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_5",
@@ -171,7 +180,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe G",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe G",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_6",
@@ -189,7 +199,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe H",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe H",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_7",
@@ -207,7 +218,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe J",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe J",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_8",
@@ -225,7 +237,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe K",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe K",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_9",
@@ -243,7 +256,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe L",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe L",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_10",
@@ -261,7 +275,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe M",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe M",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_11",
@@ -279,7 +294,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe N",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe N",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_12",
@@ -297,7 +313,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe O",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe O",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_13",
@@ -315,7 +332,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe P",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe P",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_14",
@@ -333,7 +351,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe W - f\u00fcr WiederholerInnen",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe W - f\u00fcr WiederholerInnen",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
     "type": "000000000000021",
     "id": "66-102_15",
@@ -352,14 +371,16 @@
   },
   {
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
-    "name": "Tutorium Physik I",
+    "name": "Tutorium zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "short": "Tutorium Physik I",
     "type": "000000000000016",
     "id": "66-103",
     "time": []
   },
   {
     "dozent": "PD Dr. Ralf Holtkamp",
-    "name": "Mathe I_Phys-V",
+    "name": "Mathematik I f\u00fcr Studierende der Physik",
+    "short": "Mathe I_Phys-V",
     "type": "000000000000022",
     "id": "65-801",
     "time": [
@@ -386,7 +407,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_0",
@@ -404,7 +426,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_1",
@@ -422,7 +445,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_2",
@@ -440,7 +464,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_3",
@@ -458,7 +483,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_4",
@@ -476,7 +502,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_5",
@@ -494,7 +521,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B4",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B4",
     "dozent": "PD Dr. Ralf Holtkamp",
     "type": "000000000000021",
     "id": "65-802_6",
@@ -512,7 +540,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_7",
@@ -530,7 +559,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_8",
@@ -548,7 +578,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_9",
@@ -566,7 +597,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C4",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C4",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_10",
@@ -584,7 +616,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_11",
@@ -602,7 +635,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_12",
@@ -620,7 +654,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_13",
@@ -639,28 +674,32 @@
   },
   {
     "dozent": "N.N.",
-    "name": "Mathe I_Phys-T",
+    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+    "short": "Mathe I_Phys-T",
     "type": "000000000000016",
     "id": "65-804",
     "time": []
   },
   {
     "dozent": "N.N.",
-    "name": "Mathe I_Phys-A\u00dc",
+    "name": "Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+    "short": "Mathe I_Phys-A\u00dc",
     "type": "000000000000077",
     "id": "65-806",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
-    "name": "Prakt. I NatWiss",
+    "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+    "short": "Prakt. I NatWiss",
     "type": "000000000000023",
     "id": "66-120",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
-    "name": "Prakt. I NatWiss",
+    "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+    "short": "Prakt. I NatWiss",
     "type": "000000000000023",
     "id": "66-121",
     "time": []
@@ -668,6 +707,7 @@
   {
     "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns",
     "name": "Physik II",
+    "short": "Physik II",
     "type": "000000000000022",
     "id": "66-110",
     "time": [
@@ -695,7 +735,8 @@
   },
   {
     "dozent": "Prof. Dr. Gudrid Moortgat-Pick",
-    "name": "Einf.Theo. Physik II",
+    "name": "Einf\u00fchrung in die Theoretische Physik II",
+    "short": "Einf.Theo. Physik II",
     "type": "000000000000001",
     "id": "66-111",
     "time": [
@@ -722,7 +763,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II -  Gruppe D (Wiederholergruppe)",
+    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+    "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II -  Gruppe D (Wiederholergruppe)",
     "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
     "type": "000000000000021",
     "id": "66-112_0",
@@ -740,7 +782,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe A",
+    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+    "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe A",
     "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
     "type": "000000000000021",
     "id": "66-112_1",
@@ -758,7 +801,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe B",
+    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+    "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe B",
     "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
     "type": "000000000000021",
     "id": "66-112_2",
@@ -776,7 +820,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe C",
+    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+    "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe C",
     "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
     "type": "000000000000021",
     "id": "66-112_3",
@@ -795,21 +840,24 @@
   },
   {
     "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
-    "name": "Tutorium Physik II",
+    "name": "Tutorium zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+    "short": "Tutorium Physik II",
     "type": "000000000000016",
     "id": "66-113",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
-    "name": "Prakt. II NatWiss",
+    "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+    "short": "Prakt. II NatWiss",
     "type": "000000000000023",
     "id": "66-122",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
-    "name": "Prakt. II NatWiss",
+    "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+    "short": "Prakt. II NatWiss",
     "type": "000000000000023",
     "id": "66-123",
     "time": []
@@ -817,6 +865,7 @@
   {
     "dozent": "Prof. Dr. Henning Moritz",
     "name": "Physik III",
+    "short": "Physik III",
     "type": "000000000000022",
     "id": "66-130",
     "time": [
@@ -843,7 +892,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik III - Gruppe A",
+    "name": "\u00dcbungen zur Physik III",
+    "groupname": "\u00dcbungen zur Physik III - Gruppe A",
     "dozent": "Prof. Dr. Henning Moritz",
     "type": "000000000000021",
     "id": "66-131_0",
@@ -861,7 +911,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik III - Gruppe B",
+    "name": "\u00dcbungen zur Physik III",
+    "groupname": "\u00dcbungen zur Physik III - Gruppe B",
     "dozent": "Prof. Dr. Henning Moritz",
     "type": "000000000000021",
     "id": "66-131_1",
@@ -879,7 +930,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik III - Gruppe C",
+    "name": "\u00dcbungen zur Physik III",
+    "groupname": "\u00dcbungen zur Physik III - Gruppe C",
     "dozent": "Prof. Dr. Henning Moritz",
     "type": "000000000000021",
     "id": "66-131_2",
@@ -897,7 +949,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik III - Gruppe D",
+    "name": "\u00dcbungen zur Physik III",
+    "groupname": "\u00dcbungen zur Physik III - Gruppe D",
     "dozent": "Prof. Dr. Henning Moritz",
     "type": "000000000000021",
     "id": "66-131_3",
@@ -915,7 +968,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik III - Gruppe E",
+    "name": "\u00dcbungen zur Physik III",
+    "groupname": "\u00dcbungen zur Physik III - Gruppe E",
     "dozent": "Prof. Dr. Henning Moritz",
     "type": "000000000000021",
     "id": "66-131_4",
@@ -934,14 +988,16 @@
   },
   {
     "dozent": "Prof. Dr. Henning Moritz",
-    "name": "Tutorium Physik III",
+    "name": "Tutorium zur Physik III",
+    "short": "Tutorium Physik III",
     "type": "000000000000016",
     "id": "66-132",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Robin Santra",
-    "name": "Theor. Physik I",
+    "name": "Theoretische Physik I",
+    "short": "Theor. Physik I",
     "type": "000000000000022",
     "id": "66-170",
     "time": [
@@ -968,7 +1024,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe A",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe A",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_0",
@@ -986,7 +1043,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe B",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe B",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_1",
@@ -1004,7 +1062,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe C",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe C",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_2",
@@ -1022,7 +1081,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe D",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe D",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_3",
@@ -1040,7 +1100,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe E",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe E",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_4",
@@ -1058,7 +1119,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe F",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe F",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_5",
@@ -1076,7 +1138,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe G",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe G",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_6",
@@ -1094,7 +1157,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik I - Gruppe H",
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe H",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_7",
@@ -1113,14 +1177,16 @@
   },
   {
     "dozent": "Prof. Dr. Robin Santra",
-    "name": "Tut. Theor. Physik I",
+    "name": "Tutorium zur Theoretischen Physik I",
+    "short": "Tut. Theor. Physik I",
     "type": "000000000000016",
     "id": "66-173",
     "time": []
   },
   {
     "dozent": "Prof. Dr. J\u00f6rg Alexander Teschner",
-    "name": "Mathe III_Phys-V",
+    "name": "Mathematik III f\u00fcr Studierende der Physik",
+    "short": "Mathe III_Phys-V",
     "type": "000000000000022",
     "id": "65-811",
     "time": [
@@ -1147,7 +1213,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
     "dozent": "PD Dr. Ralf Holtkamp",
     "type": "000000000000021",
     "id": "65-812_0",
@@ -1165,7 +1232,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_1",
@@ -1183,7 +1251,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
     "dozent": "PD Dr. Ralf Holtkamp",
     "type": "000000000000021",
     "id": "65-812_2",
@@ -1201,7 +1270,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_3",
@@ -1219,7 +1289,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B3",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B3",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_4",
@@ -1237,7 +1308,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B4",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B4",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_5",
@@ -1255,7 +1327,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_6",
@@ -1273,7 +1346,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_7",
@@ -1291,7 +1365,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_8",
@@ -1310,14 +1385,16 @@
   },
   {
     "dozent": "N.N.",
-    "name": "Mathe III_Phys-T",
+    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+    "short": "Mathe III_Phys-T",
     "type": "000000000000016",
     "id": "65-814",
     "time": []
   },
   {
     "dozent": "N.N.",
-    "name": "Mathe III_Phys-A\u00dc",
+    "name": "Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+    "short": "Mathe III_Phys-A\u00dc",
     "type": "000000000000077",
     "id": "65-816",
     "time": []
@@ -1325,6 +1402,7 @@
   {
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "name": "Physik V",
+    "short": "Physik V",
     "type": "000000000000022",
     "id": "66-150",
     "time": [
@@ -1351,7 +1429,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik V - Gruppe A",
+    "name": "\u00dcbungen zur Physik V",
+    "groupname": "\u00dcbungen zur Physik V - Gruppe A",
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "type": "000000000000021",
     "id": "66-151_0",
@@ -1369,7 +1448,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik V - Gruppe B",
+    "name": "\u00dcbungen zur Physik V",
+    "groupname": "\u00dcbungen zur Physik V - Gruppe B",
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "type": "000000000000021",
     "id": "66-151_1",
@@ -1387,7 +1467,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik V - Gruppe C",
+    "name": "\u00dcbungen zur Physik V",
+    "groupname": "\u00dcbungen zur Physik V - Gruppe C",
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "type": "000000000000021",
     "id": "66-151_2",
@@ -1405,7 +1486,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik V - Gruppe D",
+    "name": "\u00dcbungen zur Physik V",
+    "groupname": "\u00dcbungen zur Physik V - Gruppe D (Englisch)",
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "type": "000000000000021",
     "id": "66-151_3",
@@ -1423,7 +1505,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik V - Gruppe E",
+    "name": "\u00dcbungen zur Physik V",
+    "groupname": "\u00dcbungen zur Physik V - Gruppe E",
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "type": "000000000000021",
     "id": "66-151_4",
@@ -1441,7 +1524,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik V - Gruppe F",
+    "name": "\u00dcbungen zur Physik V",
+    "groupname": "\u00dcbungen zur Physik V - Gruppe F",
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "type": "000000000000021",
     "id": "66-151_5",
@@ -1459,7 +1543,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Physik V - Gruppe G",
+    "name": "\u00dcbungen zur Physik V",
+    "groupname": "\u00dcbungen zur Physik V - Gruppe G",
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
     "type": "000000000000021",
     "id": "66-151_6",
@@ -1478,21 +1563,24 @@
   },
   {
     "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
-    "name": "F-Praktikum",
+    "name": "Physikalisches Praktikum f\u00fcr Fortgeschrittene",
+    "short": "F-Praktikum",
     "type": "000000000000023",
     "id": "66-455",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
-    "name": "Begleitseminar F.-P.",
+    "name": "Begleitseminar zum Physikalischen Praktikum f\u00fcr Fortgeschrittene",
+    "short": "Begleitseminar F.-P.",
     "type": "000000000000026",
     "id": "66-456",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Gleb Arutyunov",
-    "name": "Theor. Physik III",
+    "name": "Theoretische Physik III",
+    "short": "Theor. Physik III",
     "type": "000000000000022",
     "id": "66-190",
     "time": [
@@ -1519,7 +1607,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik III - Gruppe A",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe A",
     "dozent": "Prof. Dr. Gleb Arutyunov; Prof. Dr. Sven-Olaf Moch",
     "type": "000000000000021",
     "id": "66-191_0",
@@ -1537,7 +1626,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik III - Gruppe B",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe B",
     "dozent": "Prof. Dr. Gleb Arutyunov",
     "type": "000000000000021",
     "id": "66-191_1",
@@ -1555,7 +1645,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik III - Gruppe C",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe C",
     "dozent": "Prof. Dr. Gleb Arutyunov; Prof. Dr. Sven-Olaf Moch",
     "type": "000000000000021",
     "id": "66-191_2",
@@ -1573,7 +1664,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik III - Gruppe D",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe D",
     "dozent": "Prof. Dr. Gleb Arutyunov",
     "type": "000000000000021",
     "id": "66-191_3",
@@ -1591,7 +1683,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik III - Gruppe E",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe E",
     "dozent": "Prof. Dr. Gleb Arutyunov",
     "type": "000000000000021",
     "id": "66-191_4",
@@ -1609,7 +1702,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik III - Gruppe F",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe F",
     "dozent": "Prof. Dr. Gleb Arutyunov",
     "type": "000000000000021",
     "id": "66-191_5",
@@ -1627,7 +1721,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Theoretischen Physik III - Gruppe G",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe G",
     "dozent": "Prof. Dr. Gleb Arutyunov",
     "type": "000000000000021",
     "id": "66-191_6",
@@ -1646,21 +1741,24 @@
   },
   {
     "dozent": "Prof. Dr. Jochen Liske",
-    "name": "ABK 02: Fachtutorium",
+    "name": "ABK 02: Arbeiten mit Gruppen - Leitung einer Fachtutoriumsgruppe",
+    "short": "ABK 02: Fachtutorium",
     "type": "000000000000047",
     "id": "66-860",
     "time": []
   },
   {
     "dozent": "Bodo Krause-Kyora Dipl.-Phys.; Michael Richter Dipl.-Chem.; Martin Stieben",
-    "name": "ABK 04: wiss. Ergeb.",
+    "name": "ABK 04: Darstellung wissenschaftlicher Ergebnisse",
+    "short": "ABK 04: wiss. Ergeb.",
     "type": "000000000000047",
     "id": "66-874",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Elisabetta Gallo; Dr. Manuel Meyer",
-    "name": "PS: Astro/Teilchenph",
+    "name": "Proseminar: Teilchen- und Astroteilchenphysik",
+    "short": "PS: Astro/Teilchenph",
     "type": "000000000000003",
     "id": "66-502",
     "time": [
@@ -1678,7 +1776,8 @@
   },
   {
     "dozent": "Prof. Dr. Florian Gr\u00fcner; Prof. Dr. Wolfgang Hillert; Dr. Velizar Miltchev; Theresa Staufer",
-    "name": "PS: Beschleuniger",
+    "name": "Proseminar: Theorie und Praxis moderner Beschleuniger",
+    "short": "PS: Beschleuniger",
     "type": "000000000000003",
     "id": "66-504",
     "time": [
@@ -1696,7 +1795,8 @@
   },
   {
     "dozent": "Prof. Dr. Florian Gr\u00fcner",
-    "name": "Intro Biomedical Phy",
+    "name": "Proseminar: Basics of biomedical physics",
+    "short": "Intro Biomedical Phy",
     "type": "000000000000003",
     "id": "66-507",
     "time": [
@@ -1714,7 +1814,8 @@
   },
   {
     "dozent": "Prof. Dr. Francesca Calegari; Prof. Dr. Taisia Gorkhover; PD Dr. Michael Martins",
-    "name": "PS: R\u00f6ntgenphysik",
+    "name": "Proseminar: R\u00f6ntgenphysik und Photon Science",
+    "short": "PS: R\u00f6ntgenphysik",
     "type": "000000000000003",
     "id": "66-508",
     "time": [
@@ -1732,14 +1833,16 @@
   },
   {
     "dozent": "Prof. Dr. Wolfgang Hansen; Dr. Christian Heyn; PD Dr. Guido Meier; Dr. Lars Tiemann",
-    "name": "PS: nanostruktur. FK",
+    "name": "Proseminar: Grundlagen nanostrukturierter Festk\u00f6rper",
+    "short": "PS: nanostruktur. FK",
     "type": "000000000000003",
     "id": "66-510",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Roland Wiesendanger",
-    "name": "PS: Fk-Forschung",
+    "name": "Proseminar: Visionen der Festk\u00f6rperforschung",
+    "short": "PS: Fk-Forschung",
     "type": "000000000000003",
     "id": "66-516",
     "time": [
@@ -1757,7 +1860,8 @@
   },
   {
     "dozent": "Prof. Dr. Robert H. Blick",
-    "name": "Prosem. Nanobioelek",
+    "name": "Proseminar: Nano-Bio-Elektronik",
+    "short": "Prosem. Nanobioelek",
     "type": "000000000000003",
     "id": "66-518",
     "time": [
@@ -1775,7 +1879,8 @@
   },
   {
     "dozent": "Prof. Dr. Andreas Hemmerich; Prof. Dr. Henning Moritz; Prof. Dr. Klaus Sengstock",
-    "name": "PS: Mod. Atomphysik",
+    "name": "Proseminar: Moderne Quantenphysik: Quantensimulation und Quantencomputing mit ultrakalten Gasen",
+    "short": "PS: Mod. Atomphysik",
     "type": "000000000000003",
     "id": "66-523",
     "time": [
@@ -1793,14 +1898,16 @@
   },
   {
     "dozent": "Prof. Dr. Jochen K\u00fcpper; Dr. Sebastian Trippel; Dr. Andrey Yachmenev",
-    "name": "PS: Molek\u00fclphysik",
+    "name": "Proseminar: Molek\u00fclphysik",
+    "short": "PS: Molek\u00fclphysik",
     "type": "000000000000003",
     "id": "66-524",
     "time": []
   },
   {
     "dozent": "Dr. Ralf Riedinger; Prof. Dr. Roman Schnabel",
-    "name": "PS: Kry. Quan.Vert.",
+    "name": "Proseminar: Kryptographie und Quantenschl\u00fcsselverteilung",
+    "short": "PS: Kry. Quan.Vert.",
     "type": "000000000000003",
     "id": "66-526",
     "time": [
@@ -1818,7 +1925,8 @@
   },
   {
     "dozent": "Prof. Dr. Ludwig Mathey",
-    "name": "PS Photon",
+    "name": "Proseminar: Photonen",
+    "short": "PS Photon",
     "type": "000000000000003",
     "id": "66-529",
     "time": [
@@ -1836,21 +1944,24 @@
   },
   {
     "dozent": "Prof. Dr. Stefan Robi Banerjee",
-    "name": "PS: Astrophysik",
+    "name": "Proseminar: Moderne Themen aus der Astrophysik",
+    "short": "PS: Astrophysik",
     "type": "000000000000003",
     "id": "66-530",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Peter Hauschildt",
-    "name": "",
+    "name": "Proseminar: Moderne Fragen der Stellarastrophysik",
+    "short": "",
     "type": "000000000000003",
     "id": "66-532",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Stefan Robi Banerjee; Dr. Dieter Engels",
-    "name": "",
+    "name": "Proseminar: Energiewende, physikalische und \u00f6konomische Grundlagen",
+    "short": "",
     "type": "000000000000003",
     "id": "66-534",
     "time": [
@@ -1868,7 +1979,8 @@
   },
   {
     "dozent": "PD Dr. Annette Raabe; Prof. Dr. Kai Rothkamm",
-    "name": "PS.Strahl.Bio.Themen",
+    "name": "Proseminar: Recherchieren, Pr\u00e4sentieren und Diskutieren radioonkologischer Themen",
+    "short": "PS.Strahl.Bio.Themen",
     "type": "000000000000003",
     "id": "66-547",
     "time": [
@@ -1886,7 +1998,8 @@
   },
   {
     "dozent": "Prof. Dr. Gerald Kirchner; Prof. Dr. Kai Rothkamm",
-    "name": "",
+    "name": "Proseminar \u201eStrahlung und Strahlenschutz\u201c",
+    "short": "",
     "type": "000000000000003",
     "id": "66-661",
     "time": [
@@ -1904,7 +2017,8 @@
   },
   {
     "dozent": "Prof. Dr. Peter Hauschildt",
-    "name": "Astrophysik I",
+    "name": "Einf\u00fchrung in die Astronomie und Astrophysik I",
+    "short": "Astrophysik I",
     "type": "000000000000022",
     "id": "66-901",
     "time": [
@@ -1921,7 +2035,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe A",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
+    "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe A",
     "dozent": "Prof. Dr. Peter Hauschildt",
     "type": "000000000000021",
     "id": "66-902_0",
@@ -1939,7 +2054,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe B",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
+    "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe B",
     "dozent": "Prof. Dr. Peter Hauschildt",
     "type": "000000000000021",
     "id": "66-902_1",
@@ -1957,7 +2073,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe C",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
+    "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe C",
     "dozent": "Prof. Dr. Peter Hauschildt",
     "type": "000000000000021",
     "id": "66-902_2",
@@ -1975,7 +2092,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe D",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
+    "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe D",
     "dozent": "Prof. Dr. Peter Hauschildt",
     "type": "000000000000021",
     "id": "66-902_3",
@@ -1994,7 +2112,8 @@
   },
   {
     "dozent": "Prof. Dr. Jochen Liske",
-    "name": "Astrophysik II",
+    "name": "Einf\u00fchrung in die Astronomie und Astrophysik II",
+    "short": "Astrophysik II",
     "type": "000000000000009",
     "id": "66-903",
     "time": [
@@ -2011,7 +2130,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II-Gruppe A",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
+    "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II-Gruppe A",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "66-904_0",
@@ -2029,7 +2149,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II-Gruppe B",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
+    "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II-Gruppe B",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "66-904_1",
@@ -2047,7 +2168,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II-Gruppe C",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
+    "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II-Gruppe C",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "66-904_2",
@@ -2066,7 +2188,8 @@
   },
   {
     "dozent": "PD Dr. Annette Raabe; Prof. Dr. Kai Rothkamm",
-    "name": "Biophysik",
+    "name": "Introduction to biomedical physics  II",
+    "short": "Biophysik",
     "type": "000000000000022",
     "id": "66-675",
     "time": [
@@ -2084,14 +2207,16 @@
   },
   {
     "dozent": "Dr. Elisabetta Gargioni; PD Dr. Annette Raabe; Dr. Thorsten Rieckmann; Prof. Dr. Kai Rothkamm",
-    "name": "Biophysik-Praktikum",
+    "name": "Introduction to biomedical physics - laboratory",
+    "short": "Biophysik-Praktikum",
     "type": "000000000000023",
     "id": "66-677",
     "time": []
   },
   {
     "dozent": "Gunnar Jeremias; Prof. Dr. Gerald Kirchner; Hares Sarwary",
-    "name": "C-F.v.W.-Friedens-V.",
+    "name": "Carl Friedrich von Weizs\u00e4cker-Friedensvorlesung: \u201eSeuchen, Biowaffen, Pandemien - ein interdisziplin\u00e4rer Blick auf Covid-19\u201c",
+    "short": "C-F.v.W.-Friedens-V.",
     "type": "000000000000022",
     "id": "66-650",
     "time": [
@@ -2109,14 +2234,16 @@
   },
   {
     "dozent": "Dr. Gesine Sch\u00fctte",
-    "name": "Transformationskonfl",
+    "name": "Seminar \u201eTransformationskonflikte einer nachhaltigen Entwicklung auf nationaler und EU- Ebene\"",
+    "short": "Transformationskonfl",
     "type": "000000000000020",
     "id": "66-651",
     "time": []
   },
   {
     "dozent": "Prof. Dr. Gerald Kirchner; Prof. Dr. G\u00f6tz Neuneck",
-    "name": "Friedensforschung",
+    "name": "Vorlesung \u201eNaturwissenschaftliche Beitr\u00e4ge zur Friedensforschung\u201c",
+    "short": "Friedensforschung",
     "type": "000000000000022",
     "id": "66-654",
     "time": [
@@ -2134,14 +2261,16 @@
   },
   {
     "dozent": "Prof. Dr. Gerald Kirchner",
-    "name": "",
+    "name": "Seminar \u201eModel United Nations \u2013 Verhandlungen der Vereinten Nationen zu Wissenschafts- und Technikfragen mit Rollenspielen zum Thema: *Abr\u00fcstung der Massenvernichtungswaffen Nordkoreas*\u201c",
+    "short": "",
     "type": "000000000000059",
     "id": "66-658",
     "time": []
   },
   {
     "dozent": "Niklas K\u00e4ming; Martin Stieben",
-    "name": "PHY-HLR-V",
+    "name": "Hochleistungsrechnen in der Physik: Grundlagen der Entwicklung paralleler Anwendungen",
+    "short": "PHY-HLR-V",
     "type": "000000000000022",
     "id": "66-878",
     "time": [

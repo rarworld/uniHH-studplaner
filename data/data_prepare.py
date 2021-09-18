@@ -34,6 +34,7 @@ VL_TYPE = {
     "000000000000021" : "Übung", 
     "000000000000022" : "Vorlesung",
     "000000000000023" : "Praktikum", 
+    "000000000000024" : "Projekt", 
     "000000000000026" : "Begleitseminar", 
     "000000000000047" : "Fachtutorium", 
     "000000000000053" : "OE",
@@ -55,39 +56,48 @@ def calcSlot(timeJson):
 def flatList(linksList, lessonList, lessonIds):
     # print(linksList['name'])
     if(len(linksList['links'])==0):
-        for tmp in linksList['vorlesung']:
-            tmpId = tmp['id']
-            if(not tmpId in lessonIds):
-                lessonIds.append(tmpId)
-                lessonList.append(tmp)
+        if 'vorlesung' in linksList:
+            for tmp in linksList['vorlesung']:
+                tmpId = tmp['id']
+                if(not tmpId in lessonIds):
+                    lessonIds.append(tmpId)
+                    lessonList.append(tmp)
     else:
         for links in linksList['links']:
             flatList(links, lessonList, lessonIds)
 
 
-with open("linkList.json") as jsonFile:
-    jsonObject = json.load(jsonFile)
-    jsonFile.close()
+def prepareData(fileType):
+    with open("linkList_"+fileType+".json") as jsonFile:
+        jsonObject = json.load(jsonFile)
+        jsonFile.close()
 
-lessonList=[]
-lessonIds=[]
+    lessonList=[]
+    lessonIds=[]
 
-flatList(jsonObject, lessonList, lessonIds)
-print(f"{len(lessonList)} verschiedene Vorlesungen geflatted")
+    flatList(jsonObject, lessonList, lessonIds)
+    print(f"{len(lessonList)} verschiedene Vorlesungen geflatted")
 
-i=0
-zur=[]
-for lesson in lessonList:
-    for tmp in lesson['time']:
-        tmp['slot'] = calcSlot(tmp)
-    if(len(lesson['time']) == 0 ):
-        print(f"{lesson['type']} : {VL_TYPE[lesson['type']]} : {lesson['id']}")
-    i +=1
+    i=0
+    zur=[]
+    for lesson in lessonList:
+        if not('time' in lesson) or len(lesson['time']) == 0 :
+            print(f"{lesson['type']} : {VL_TYPE[lesson['type']]} : {lesson['id']}")
+        else:
+            for tmp in lesson['time']:
+                tmp['slot'] = calcSlot(tmp)
+            i +=1
 
-with open('dataTmp.json', 'w') as outfile:
-    json.dump( lessonList, outfile, indent=2)
+    with open(f"data{fileType}.json", 'w') as outfile:
+        json.dump( lessonList, outfile, indent=2)
 
-print(f"total ",i)
+    print(f"total ",i)
+
+
+if __name__ == '__main__':
+    prepareData('Phy')
+    prepareData('Inf')
+    #prepareData('Tmp')
 
 
 # 000000000000003 : Proseminar : 66-510

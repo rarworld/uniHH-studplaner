@@ -6,8 +6,8 @@ import re
 from bs4 import BeautifulSoup
 
 BASE_URL="https://stine.uni-hamburg.de"
-START_URL="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgEMUVY1nAUlSVznOZcw~JqDZVA~w9CWPwKNqyhaITJcgSqnzyGbJmTprtCGaiIUdUVVihR-UkYJDPQXKi0T-6gT8bQeIBWwooNIVr4XL-l6vs0lyH6pMphEmULXU26qoHgDm6OcyvRleX-s476~uiiL-R~ZrEtnzqrSBYeXOfQbCcDNQ-Wcd-Pf2RaD5330-IJoY-aWYaApZZa8_"
-#START_URL="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633497220262,-N379633497286263,-N0,-N0,-N0"
+START_URL_PHY="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgEMUVY1nAUlSVznOZcw~JqDZVA~w9CWPwKNqyhaITJcgSqnzyGbJmTprtCGaiIUdUVVihR-UkYJDPQXKi0T-6gT8bQeIBWwooNIVr4XL-l6vs0lyH6pMphEmULXU26qoHgDm6OcyvRleX-s476~uiiL-R~ZrEtnzqrSBYeXOfQbCcDNQ-Wcd-Pf2RaD5330-IJoY-aWYaApZZa8_"
+START_URL_INF="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4q44qENDI4Y8Q6xak1Qw~rJ2ofruoap-IgfTiZdgy0d977RZdXkQzskSbPkfl-RrZTJvU3o2JIMambmYchAELDJ3mz9T2KtyxBiTtNz8YJfAY0HMf2GD2StN83Xr0hi8Ex~R35msxz-QyHIzMOeayDvoIiU3f73-jQ0o6nJMJdlfEyWfk7lmpy8mzHfH1orUFlmvoNsWdUCwpK4_"
 OVERVIEW_HREF_CLASS="auditRegNodeLink"
 CATEGORY_HREF_CLASS="eventTitle"
 TIME_PARSE_REGEX = re.compile('(\w\w),.*\[(\d\d:\d\d)\]-.*\[(\d\d:\d\d)\]')
@@ -19,7 +19,8 @@ def parseUebungsZeiten(vorlesung, soup):
         pList = li.find_all('p')
         
         tmp = {
-            'name': pList[0].text,
+            'name': vorlesung['name'],
+            'groupname': pList[0].text,
             'dozent': pList[1].text,
             'type': vorlesung['type'],
             'id': f"{vorlesung['id']}_{len(vList)}"
@@ -59,19 +60,25 @@ def parseVorlesungsZeiten(vorlesung, soup):
 
 
 def parseVorlesung(jsonObj, soup):
-    type = soup.find('input', {'name':'coursetyp'})['value']
-    mainDataVorlesung = {
-        'dozent': soup.find('span', id='dozenten').text,
-        'name': soup.find('input', {'name':'shortdescription'})['value'],
-        'type': soup.find('input', {'name':'coursetyp'})['value'],
-        'id': soup.find('form', {'name':'courseform'}).h1.text.split('\n')[1].strip()
-    }
+    test = soup.find('input', {'name':'coursetyp'})
+    if test != None:
+        type = test['value']
+        mainDataVorlesung = {
+            'dozent': soup.find('span', id='dozenten').text,
+            'name': soup.find('form', {'name':'courseform'}).h1.text.split('\n')[2].strip(),
+            'short': soup.find('input', {'name':'shortdescription'})['value'],
+            'type': soup.find('input', {'name':'coursetyp'})['value'],
+            'id': soup.find('form', {'name':'courseform'}).h1.text.split('\n')[1].strip()
+        }
 
-    vorlesung = parseVorlesungsZeiten(mainDataVorlesung, soup)
-    if type == "000000000000021":
-       jsonObj['vorlesung'] = parseUebungsZeiten(mainDataVorlesung, soup) 
+        vorlesung = parseVorlesungsZeiten(mainDataVorlesung, soup)
+        if type == "000000000000021":
+            jsonObj['vorlesung'] = parseUebungsZeiten(mainDataVorlesung, soup) 
+        else:
+            jsonObj['vorlesung'] = [ parseVorlesungsZeiten(mainDataVorlesung, soup) ]
     else:
-        jsonObj['vorlesung'] = [ parseVorlesungsZeiten(mainDataVorlesung, soup) ]
+        print(f" - Empty Liste")
+
 
 def parseOverview(jsonObj):
     print(f"Parsing {jsonObj['name']}")
@@ -93,19 +100,20 @@ def parseOverview(jsonObj):
     for l in link_liste:
         parseOverview(l)
     
-    if(len(link_liste) == 0):
+    if(soup != None and len(link_liste) == 0):
         parseVorlesung(jsonObj, soup)
 
 
-if __name__ == '__main__':
-    overviewJson = { 
-            'name': "Physik Overview",
-            #'url': "https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000605,-N0,-N377704122472643,-N377704122476644,-N0,-N0,-N3,-AQjAZPqHYPjAl3opkOoKAVIWXQSR3CYUCfDRNcjW6YYDNmd60vWL5HzwCOjBF4qAPHom9cgHIvURp7UH0YBmHe-5WxUawYqZWPMRHQd6qegpN7dRzRD5JmBBwegmkmBVZcUPL7f9tODwxHUH-OzHJQuUCfBwsYMpJOIR97dwMmSRIQMAyxoLomD7jOzHZxz5VRdLpVuoYeQRHVNoaHupQ4oPS3fBwQDZlVZHSW-mxxzWE4qKoPDRfYootQY5YVS59WQWFmIWjPIP5WDULcZHKxUPz4BRkvUWqxUKhVj56PzoeHYw3RqGAOzHoWSKCxuUZWqZmrMo5RjLKed5wQNUqPYHlco7Zmzm64SLfHSR3RNaARQctcUps7WUAxdPvHjmJQMRU7qGAHkZBOo5wPNLZVQUS7WPqRNofWfBZvUWLxoH9CfW9VBU5cBAtmURz4WLexuP34om97Dwb7YKPeZpwWqUVeZLxmUPDvY2ZOdoCmMKNQfWSv-mJfZLfQQUQegcNxN6FRWp-WoHQmfKIeMH8cgP6czLoRDRX3uR5cZitWgmWrq65YDR-CfLm7gP8WIRzOqGyfumCrUmTWqew4uWEvULLRdAKxMm53oLffUUDcomBcSRYYYHFOWeNfjKo3SKuevNdHbZIVgUAeWHwOfZk4B7AQzAHH-WMRB6le-ptWdKJfdH0vdGseMLDYYHmVjW5xYB9RNPlH-m67U5tcDKMOoHpxIRUPDWtv-RLxfywfQpM4Mm6voPPvB6P4YK07NR8",
-            'url': START_URL,
-            'links': []
-        }
-    
-    parseOverview(overviewJson)
+overviewJson = { 
+        'name': "Physik Overview",
+        'url': START_URL_PHY,
+        #'name': "Informatik Overview",
+        #'url': START_URL_INF,
+        'links': []
+        #'url': "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AV26AlKIclMNmLqjrgDpk4oJhzhffzeR1i4Z7syShPux4baLbyldWky~xhSVxEVQNpkv4LSB~Fp8jGDHQ3tAmYlPE9oe16JqRUZoCKCdBLXe1a2KSieVRu4lWI1n9K32DMxlUgE~Dy7hltEMcemZQYY02CVifzmyn5z6nVow0RjUSpuIYo-AEy9z4inGnTZzGGMF5h~edgFvrVGc_"
+    }
 
-    with open('linkList.json', 'w') as outfile:
-        json.dump( overviewJson, outfile, indent=2)
+parseOverview(overviewJson)
+
+with open('linkList_Phy.json', 'w') as outfile:
+    json.dump( overviewJson, outfile, indent=2)
