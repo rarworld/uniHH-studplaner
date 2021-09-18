@@ -2,7 +2,6 @@
     <div>
       <div class="accordion" id="accordionFlushExample">
 
-
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -60,13 +59,12 @@
         </div>
       </div>
 
-
-      <div id="v-model-multiple-checkboxes">
-
+      <div>
         <br />
         <span>Aktive Vorlesungen: {{ activeVorlesungen }}</span>
       </div>
     </div>
+
     <table class="table table-striped table-hover table-bordered">
       <thead>
         <tr>
@@ -88,11 +86,27 @@
         </stundenplan-row>
       </tbody>
     </table> 
+
+    <div class="container">
+      <div class="card">
+        <div class="card-header">
+          Timeless
+        </div>
+      
+        <div class="card-body row row-cols-auto">
+          <div class="col" v-for="(vorl,i) in timelessTable" scope="col" :id="'col_TL_'+i" :key="vorl.id">
+            <vorlesungsBox :data="vorl" @box-hoover="onHoover" :hover="hoover"></vorlesungsBox>
+          </div>
+        </div>
+      </div>
+    </div>
+          
 </template>
 
 <script>
 
 import stundenplanRow from "./StundenplanRow.vue";
+import vorlesungsBox from "./VorlesungsBox.vue";
 import usersData from "../assets/data.json";
 
 function createDataArray() {
@@ -114,25 +128,37 @@ export default {
             studTable: createDataArray(),
             hoover: "",
             selected: "",
-            activeVorlesungen: []
+            activeVorlesungen: [],
+            timelessTable: []
         }
       },
     components: {
-        stundenplanRow
+        stundenplanRow,
+        vorlesungsBox
     },
     methods: {
         addToTable(element) {
-          element["time"].forEach(slotTmp => {
-            var slot = slotTmp['slot']
+          if(!element['time'] || element['time'].length == 0){
             var tt = {
               'id': element['id'],
               'name': element['name'],
               'dozent': element['dozent'],
-              'hs': slotTmp['hs']
+              'hs': ""
             }
-            this.studTable[slot[0]]['data'][slot[1]].push(tt);
-          })
-          this.hoover = element.id;
+            this.timelessTable.push(tt)
+          }
+          if(element['time'] && element['time'].length > 0){
+            element["time"].forEach(slotTmp => {
+              var slot = slotTmp['slot']
+              var tt = {
+                'id': element['id'],
+                'name': element['name'],
+                'dozent': element['dozent'],
+                'hs': slotTmp['hs']
+              }
+              this.studTable[slot[0]]['data'][slot[1]].push(tt);
+            })
+          }
         },
         addVorlesung(vId){
           var res = undefined;
@@ -146,6 +172,11 @@ export default {
             this.activeVorlesungen.forEach((vorl, i) => {
                 if(vId == vorl){
                   this.activeVorlesungen.splice(i, 1);
+                }
+              })
+            this.timelessTable.forEach((vorl, i) => {
+                if(vId == vorl['id']){
+                  this.timelessTable.splice(i, 1);
                 }
               })
           }
@@ -163,8 +194,8 @@ export default {
         },
         setVorlesungen(){
           this.studTable= createDataArray();
+          this.timelessTable=[]
           this.activeVorlesungen.forEach(vID => this.addVorlesung(vID));
-          console.log(this.studTable)
         }
     },
     created: function(){

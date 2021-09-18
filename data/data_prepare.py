@@ -55,11 +55,11 @@ def calcSlot(timeJson):
 def flatList(linksList, lessonList, lessonIds):
     # print(linksList['name'])
     if(len(linksList['links'])==0):
-        tmp = linksList['vorlesung']
-        tmpId = tmp['id']
-        if(not tmpId in lessonIds):
-            lessonIds.append(tmpId)
-            lessonList.append(tmp)
+        for tmp in linksList['vorlesung']:
+            tmpId = tmp['id']
+            if(not tmpId in lessonIds):
+                lessonIds.append(tmpId)
+                lessonList.append(tmp)
     else:
         for links in linksList['links']:
             flatList(links, lessonList, lessonIds)
@@ -73,7 +73,7 @@ lessonList=[]
 lessonIds=[]
 
 flatList(jsonObject, lessonList, lessonIds)
-print(f"{len(lessonIds)} verschiedene Vorlesungen geflatted")
+print(f"{len(lessonList)} verschiedene Vorlesungen geflatted")
 
 i=0
 zur=[]
@@ -101,16 +101,6 @@ print(f"total ",i)
 # 000000000000016 : Tutorium : 66-173
 # 000000000000016 : Tutorium : 65-814
 # 000000000000020 : Seminar : 66-651
-# 000000000000021 : Übung : 65-802
-# 000000000000021 : Übung : 65-812
-# 000000000000021 : Übung : 66-102
-# 000000000000021 : Übung : 66-112
-# 000000000000021 : Übung : 66-131
-# 000000000000021 : Übung : 66-151
-# 000000000000021 : Übung : 66-171
-# 000000000000021 : Übung : 66-191
-# 000000000000021 : Übung : 66-904
-# 000000000000021 : Übung : 66-902
 # 000000000000023 : Praktikum : 66-120
 # 000000000000023 : Praktikum : 66-121
 # 000000000000023 : Praktikum : 66-122

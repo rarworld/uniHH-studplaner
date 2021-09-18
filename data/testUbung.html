@@ -1,0 +1,809 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de"><head>
+		<title>Universität Hamburg</title>
+		<!--
+			© DATENLOTSEN INFORMATIONSSYSTEME GMBH
+			e-mail: 		info@datenlotsen.de
+			web: 			http://www.datenlotsen.de
+			
+			customer: 		uhh
+			version: 		11.10.007
+			filename:		head.htm
+		//-->
+
+		<!-- IE document mode -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<meta http-equiv="cache-control" content="no-cache">
+		<meta http-equiv="expires" content="-1">
+		<meta http-equiv="pragma" content="no-cache">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Content-Script-Type" content="text/javascript">
+		<meta name="referrer" content="origin">
+		<meta name="keywords" content="Datenlotsen,Datenlotsen Informationssysteme GmbH,CampusNet,Campus Management">
+
+					<!-- Other analytics code - e.g. PIWIK, Tag manager instead of Pageview etc. -->
+			<!-- Piwik --> 
+ 		<script type="text/javascript" async="" defer="defer" src="testUbung-Dateien/piwik.js"></script><script type="text/javascript"> 
+ 			var _paq = _paq || []; 
+ 			_paq.push(['trackPageView']); 
+ 			_paq.push(['enableLinkTracking']); 
+	  		(function() {var u="//www.piwik.uni-hamburg.de/";  
+ 			_paq.push(['setTrackerUrl', u+'piwik.php']); 
+ 			_paq.push(['setSiteId', 79]); 
+ 			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+ 			g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); 
+ 			})(); 
+ 		</script> 
+ 		<!-- End Piwik Code -->
+				
+						
+						
+					<link rel="shortcut icon" type="image/x-icon" href="https://stine.uni-hamburg.de/gfx/uhh/icons/favicon.ico">
+				
+		<script src="testUbung-Dateien/jquery.js" type="text/javascript"></script>
+		<script src="testUbung-Dateien/checkDate.js" type="text/javascript"></script>
+		<script src="testUbung-Dateien/edittext.js" type="text/javascript"></script>
+		<script src="testUbung-Dateien/skripts.js" type="text/javascript"></script>
+		<script src="testUbung-Dateien/x.js" type="text/javascript"></script>
+
+						
+						
+				
+			<script type="text/javascript">
+			// hide username and password for sso
+			$(document).ready(function () {
+				$('#fieldSet_login').hide();
+				$('#logIn_btn').mouseover(function(){ $('#fieldSet_login').show(); });
+				$('#logIn_btn_sso,#forgotPassword_btn').mouseover(function(){ $('#fieldSet_login').hide();	});
+			});		
+		</script>
+	
+	<!-- ++++++++++++++++++ DEFAULT STYLESHEETS  ++++++++++++++++++++ -->	
+	<link id="defLayout" href="testUbung-Dateien/def_layout.css" rel="stylesheet" type="text/css" media="screen">
+	<link id="defMenu" href="testUbung-Dateien/def_menu.css" rel="stylesheet" type="text/css" media="screen">
+	<link id="defStyles" href="testUbung-Dateien/def_styles.css" rel="stylesheet" type="text/css"><!-- no media specified - used for screen AND print -->
+	<link id="pagePrint" href="testUbung-Dateien/def_print.css" rel="stylesheet" type="text/css" media="print">
+			
+			
+			
+			
+	<!-- ++++++++++++++++++ CUSTOM STYLESHEETS  ++++++++++++++++++++ -->	
+	<link id="pageStyle" href="testUbung-Dateien/styles.css" rel="stylesheet" type="text/css">	<!-- no media specified - used for screen AND print -->	
+
+		
+	<link id="pageColors" href="testUbung-Dateien/colors.css" rel="stylesheet" type="text/css" media="screen">
+		
+			
+		<!-- ++++++++++++++++++ MINOR IE FIXES ++++++++++++++++++ -->
+		<!--[if IE 9]>
+			<link id="IE9FIXES" href="/css/_default/IE/fixes_ie9.css" rel="stylesheet" type="text/css" />
+		<![endif]-->		
+		<!--[if lt IE 8]>
+			<link id="IE7FIXES" href="/css/_default/IE/fixes_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if lt IE 7]>
+			<link id="IE6FIXES" href="/css/_default/IE/fixes_ie6.css" rel="stylesheet" type="text/css"  media="screen" />
+			<noscript>
+				<link id="IE6FIXESNOSCRIPT" href="/css/_default/IE/fixes_ie6_noScript.css" 	rel="stylesheet" type="text/css"  media="screen" />
+			</noscript>
+		<![endif]-->
+		<!-- ++++++++++++++++++ MENU_CSS FOR HIGHLITING ++++++++++++++++++ -->		
+					<style type="text/css">
+				  				#pageTopNavi ul.nav #link000265 a.link000265{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000266 a.link000266{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000267 a.link000267{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000268 a.link000268{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000269 a.link000269{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000270 a.link000270{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000271 a.link000271{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000272 a.link000272{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000273 a.link000273{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000331 a.link000331{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000349 a.link000349{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000382 a.link000382{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000383 a.link000383{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000384 a.link000384{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000391 a.link000391{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000398 a.link000398{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000399 a.link000399{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000409 a.link000409{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000602 a.link000602{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				  				#pageTopNavi ul.nav #link000658 a.link000658{
+					background-image:url(/gfx/uhh/buttons/btn_empty.gif);
+				}
+		  				</style>
+	
+
+
+
+
+	
+	
+	<style type="text/css">
+		#pageTopNavi ul.nav #link000602 a.link000602{
+								
+			background-image:url(/gfx/uhh/buttons/btn__active.gif);
+						background-color:#808080;
+
+								}
+								#pageTopNavi ul.nav #link000602 a.link000602,
+		#pageTopNavi ul.nav #link000602 a.link000602 span{
+			color:#ffffff;
+							text-decoration:underline;
+						}
+
+		#pageTopNavi ul.nav.depth_1 #link000602{
+			
+		}
+		#pageTopNavi ul.nav.depth_1 #link000602 > a{
+			
+		}
+		#pageTopNavi ul.nav.depth_1 #link000602:before{
+			
+		}
+		#pageTopNavi ul.nav.depth_1 #link000602:first-child:before{
+			
+		}
+		#pageTopNavi ul.nav.depth_1 #link000602:after{
+			
+		}
+		#pageTopNavi ul.nav.depth_1 #link000602:last-child:before{
+			
+		}
+		#pageTopNavi ul.nav.depth_1 #link000602:hover{
+			
+		}
+		#pageTopNavi ul.nav #link000602.tree ul.nav{
+			left:0px;
+			height:auto;
+			display:block;
+		}
+				#pageTopNavi ul.nav #link000602.tree .tree ul{
+			height:0;
+		}	
+			</style>
+
+
+
+
+	
+	
+
+	<style type="text/css">
+		#pageTopNavi ul.nav.depth_2 #link000605 a.link000605,
+		#pageTopNavi ul.nav.depth_2 #link000605 a.link000605 span {
+			background-color:#808080;
+							color: !important;
+									font-weight:bold;	
+										text-decoration:underline;
+					}
+				#pageTopNavi ul.nav #link000605 a.link000605{
+			background-image:url(/gfx/uhh/buttons/level2_active.gif);
+			background-repeat:no-repeat;
+			background-position:left;
+		}
+		#pageTopNavi ul.nav #link000605.tree a.link000605{
+			background-image:url(/gfx/uhh/buttons/level2_tree_active.gif);
+			background-repeat:no-repeat !important;
+			background-position:left;
+		}
+				#pageTopNavi ul.nav #link000605.tree ul.nav{
+			height:auto;
+
+		}
+				#pageTopNavi ul.nav #link000605.tree .tree ul{
+			height:0;
+		}
+				
+		
+	</style>	
+
+
+
+	
+	
+
+	</head>
+	<body>
+
+		
+		
+		<div id="Cn-system-desc"></div>
+		<script type="text/javascript">
+		  $(document).ready(function(){
+			var SystemDesc = $.trim($("#Cn-system-desc").text());
+			
+			if(SystemDesc !=''){
+				$("#Cn-system-desc").text(SystemDesc);
+				$("#Cn-system-desc").css('display','block');
+			}
+		  });
+		  			var activateSignCheck = false;
+		  		</script>
+		<div id="acc_pageDescription" class="hidden"><a name="keypadDescription" class="hidden">keypadDescription</a>
+			Für maximale Nutzerfreundlichkeit empfehlen wir, die Ausführung von 
+JavaScript und Cookies zu erlauben.Mithilfe der folgenden Accesskeys 
+können Sie im Portal navigieren:
+			<a href="#mainNavi" accesskey="1">1 Hauptmenü</a>
+			<a href="#mainContent" accesskey="2">2 Inhalt</a>
+			<a href="#keypadDescription" accesskey="3">3 Zurück zu dieser Anleitung</a>
+		</div>
+		<div id="pageContainer" class="pageElementTop">
+			<div class="invAnchor">
+				<a name="top" class="invAnchor"></a>
+			</div>
+			<div id="pageHead" class="pageElementTop">
+				<div id="pageHeadTop" class="pageElementTop">
+					<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000605,-Aimprint" class="img img_arrowImprint pageElementLeft">Impressum</a>
+					<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000605,-Acontact" class="img img_arrowContact pageElementLeft">Kontaktperson</a>
+					<a href="#" onclick="window.print();" class="img img_arrowPrint pageElementLeft">Drucken</a>
+					<a href="#bottom" class="img img_arrowDown pageElementRight">Zum Ende der Seite</a>
+				</div>
+				<div id="pageHeadCenter" class="pageElementTop">
+					<div id="pageHeadLeft" class="pageElementLeft">
+												<a href="http://www.uni-hamburg.de/" title="extern www.uni-hamburg.de">
+													<img id="imagePageHeadLeft" src="testUbung-Dateien/logo.gif" alt="Logo Universität Hamburg">
+						</a>
+					</div>
+								<div id="pageHeadRight" class="pageElementRight">
+						&nbsp;
+					</div>
+				</div>
+								<div id="pageHeadBottom_1" class="pageElementTop">
+					<div id="pageHeadControlsLeft" class="pageElementLeft">
+						<a class="img pageHeadLink" href="http://www.uni-hamburg.de/" id="extraNav_link1" target="_blank">UHH  &gt;</a>
+						<a class="img pageHeadLink" href="https://www.stine.uni-hamburg.de/" id="extraNav_link2" target="_blank">STiNE - Das Studieninfonetz</a>
+					</div>
+					<div id="pageHeadControlsRight" class="pageElementRight"><a class="img" href="https://www.stine.uni-hamburg.de/startpage_mobile.htm" id="extraNav_link3" alt="Mobile Version">Mobile Version</a>
+						<a class="img" href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000000,-A0009000" id="extraNav_link3" target="_blank">Kommunikation</a>
+						<a class="img" href="https://twitter.com/stine_uhh" id="extraNav_link4" target="_blank">&nbsp;</a>
+						<a class="img" href="#bottom" id="extraNav_link5" target="_blank">&nbsp;</a>
+					</div>
+				</div>
+				<div id="pageHeadBottom_2" class="pageElementTop">
+					
+					<div id="pageHeadBottom_2sub_1" class="pageElementTop">
+						&nbsp;
+					</div>
+					<div id="pageHeadBottom_2sub_2" class="pageElementTop">
+						&nbsp;
+					</div>
+					&nbsp;
+
+				</div>
+				
+												
+				<div id="pageTopNavi" class="pageElementTop"> <!-- INCLUDING MENU-FILE FOR NAVIGATION-->
+						<a name="mainNavi" class="hidden">&nbsp;</a> <!-- ANCHOR NAVI -->
+							
+<ul class="nav depth_1 linkItemContainer"><li class="intern depth_1 linkItem " title="Startseite" id="link000265"><a class="depth_1 link000265 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000265,-Astartseite">Startseite</a></li><li class="tree depth_1 linkItem branchLinkItem " title="Bewerbung" id="link000269"><a class="depth_1 link000269 navLink branchLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000269,-A100101">Bewerbung</a><ul class="nav depth_2 linkItemContainer"><li class="intern depth_2 linkItem " title="Bewerberaccount anlegen" id="link000280"><a class="depth_2 link000280 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=CREATEACCOUNT&amp;ARGUMENTS=-N000000000000001,-N000280,">Bewerberaccount anlegen</a></li><li class="intern depth_2 linkItem " title="FAQ" id="link000281"><a class="depth_2 link000281 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000281,-A100102">FAQ</a></li><li class="intern depth_2 linkItem " title="Passwort vergessen" id="link000415"><a class="depth_2 link000415 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=LOSTPASS&amp;ARGUMENTS=-N000000000000001,-N000415,">Passwort vergessen</a></li></ul></li><li class="tree depth_1 linkItem branchLinkItem " title="Vorlesungsverzeichnis" id="link000602"><a class="depth_1 link000602 navLink branchLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000602,-A100201">Vorlesungsverzeichnis</a><ul class="nav depth_2 linkItemContainer"><li class="tree depth_2 linkItem branchLinkItem " title="Vorlesungsverzeichnis" id="link000603"><a class="depth_2 link000603 navLink branchLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000603,-Avv%5Fvorlesungen">Vorlesungsverzeichnis</a><ul class="nav depth_3 linkItemContainer"><li class="intern depth_3 linkItem " title="WiSe 21/22" id="link000650"><a class="depth_3 link000650 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-As-CbJl0x2ayqXmjKoUlPMcQTRy~Y84bH1ZwlDRwTrgZPwl6lfswUora86t-PNOnACkfcdcFNpMjzkMahUIxFTR4UFh5V-zx7S77U7tdnhQUAmOfoJ1gAw-iyL2pfngn22Si1SoZf-z4FE38nghORX18YIKj9S8YM0Sq5IE1D0Z~Mr3bqW2eEXkkEQg__">WiSe 21/22</a></li><li class="intern depth_3 linkItem " title="SoSe 21" id="link000639"><a class="depth_3 link000639 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-ApaQQ9iALLfsp9zkLUUDqXvM~AAFA9dJGKFVAI1K~vxbtb9k8C7DuWIYoraEUQ9JMxeQlSqrwj4fgDFqyTH-29GxpVkJVpz-V9sw97E~RkP04I-BHIBcuOKI~IyqjOeo7hHOuF7lX5K7IxmIM9M2IhEVGLXmwlWaj3DcYTXg3omDQD26xN-R1plsRiw__">SoSe 21</a></li><li class="intern depth_3 linkItem " title="WiSe 20/21" id="link000631"><a class="depth_3 link000631 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-ATzco-215m9yojSlvNJz3k-XI5oaFZ1ypOXjE9nmPxU7XXC7WAj~B~2FIqRskwf98Q8CA12A7CPqV37jPhgCNSWbcazjL3hfvYlyLIELh~sQBXv8kqvxy9uL1Gc3AoX-dWHvm6W~OejVtT-AuXK0MXEW~KUOaH2ArkMBwoX7Q9w1EJjC6LRsUsadtYA__">WiSe 20/21</a></li><li class="intern depth_3 linkItem " title="SoSe 20" id="link000618"><a class="depth_3 link000618 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-Ak-sYrfrxeEfWZnDFf-QqX8ZFLy9Eh0trc8xmEAZmqBPxesGM3dfxq7W-SG6~XtxANbxdaAYumGyb88w5~Eq~50DoMGk26ag9fp~OpsmjRgVMsIOwhhFNSO7vRs1fjnUAUoZ5FTMuUjnk1nGrjMRx~qafXRJc7MZmpAONjk7Zg3A8B-Lv0zYQmIrd3Q__">SoSe 20</a></li></ul></li><li class="tree depth_2 linkItem branchLinkItem " title="Extracurriculare Veranstaltungen" id="link000604"><a class="depth_2 link000604 navLink branchLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000604,-Avv%5Fweitere%5Fveranstaltungen">Extracurriculare Veranstaltungen</a><ul class="nav depth_3 linkItemContainer"><li class="intern depth_3 linkItem " title="WiSe 21/22" id="link000651"><a class="depth_3 link000651 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-ATe0HxOQIwrco2nufyw5qMxB~NWO9HtQRemsl5QNRvLnzg8-oGyoTfz61WkhD6ElpKpKm0on~KbygabM5TYpDxzYimureh2tU6b5KgqZNp8DAGgPT4Awyzy4CRF5G-1hWRTBI~6IJwA84mc0XaQEcnMJmuTtXHqcQbamUVKJ3HqzVCGgi1bfZEguv4g__">WiSe 21/22</a></li><li class="intern depth_3 linkItem " title="SoSe 21" id="link000640"><a class="depth_3 link000640 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-AQi27M2tvbnizXP98D-73KLigFsMv4QCBHI-aJWpINzY5BDHnBWDsPpIxw9Mgif9N4LF95p7rkcWmDjOqS6G8Jnc9hSNyM7WZOMSXO5GmQlTwfmLYkrdeERYx8grIeg7tszChsLnCnB3AYFt8VPBbx55EP0QgSrBL9uaZwHHXbTDF~nXdsllxHuMD3w__">SoSe 21</a></li><li class="intern depth_3 linkItem " title="WiSe 20/21" id="link000632"><a class="depth_3 link000632 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-A-xbYh5cZo2O0YMo4L5mLLDV91wN9ScScCwqFp~ERZ3ph4QlYai7QXrL89u37qb8dqVxs-ekICgAay0SnRweRx2ezlVnv4l96oNP8G2IhzzSjFT79IWTj56jOk~pz3CGZR5ojg702ZZqIYwKdZixg1K2jq~34qBybYzoowpQndkDw0ic2-fzKlWANXg__">WiSe 20/21</a></li><li class="intern depth_3 linkItem " title="SoSe 20" id="link000619"><a class="depth_3 link000619 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-AqRgWfRDoPGi8DFPIw8eXo4DoHtTM4HVb5EY2bTX9mtm6GDR-qomRU8IXtavP17Ml-xF06AAyb96~T5amwmuA2j-BvXL9PK7hf-b63EVUzUnrhLD2bia~PTr3NcGKvvCEPHvOquEyigA-4ieRFya3M8iN8DFf~papDJ7zrhpbAc7dHQS6hWGKza~WuA__">SoSe 20</a></li></ul></li><li class="intern depth_2 linkItem " title="Veranstaltungssuche" id="link000605"><a class="depth_2 link000605 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-Apc8wzDKTWRNTAy8EnDUr17ddiEJKztC9EhAaduYaP3fHfs1vWpGMC4TxWnn4qZD-H6JTqngOguwndfLt9d9nfSqTrkDPT2Pj68ZUzTJ4uSHnFkmzFiFofhBvLRBRtXOwVGpbHltYK74MpSbYVgwjTU97yc8y">Veranstaltungssuche</a></li></ul></li><li class="intern depth_1 linkItem " title="FAQ" id="link000382"><a class="depth_1 link000382 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000382,-Afaq">FAQ</a></li><li class="tree depth_1 linkItem branchLinkItem " title="Service" id="link000384"><a class="depth_1 link000384 navLink branchLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000384,-Aservice">Service</a><ul class="nav depth_2 linkItemContainer"><li class="intern depth_2 linkItem " title="Anmeldephasen" id="link000385"><a class="depth_2 link000385 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000385,-Aanmeldephasen">Anmeldephasen</a></li><li class="intern depth_2 linkItem " title="Hilfreiche Links" id="link000386"><a class="depth_2 link000386 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000386,-Ahilfreichelinks">Hilfreiche Links</a></li><li class="intern depth_2 linkItem " title="Kommunikation" id="link000387"><a class="depth_2 link000387 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000387,-Akommunikation">Kommunikation</a></li><li class="intern depth_2 linkItem " title="Schulungen" id="link000388"><a class="depth_2 link000388 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000388,-Aschulungen">Schulungen</a></li><li class="intern depth_2 linkItem " title="Anleitungen" id="link000402"><a class="depth_2 link000402 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000402,-Aanleitungen%5Fhinweis">Anleitungen</a></li><li class="intern depth_2 linkItem " title="News-Archiv" id="link000389"><a class="depth_2 link000389 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000389,-Anewsarchiv">News-Archiv</a></li><li class="intern depth_2 linkItem " title="Über STiNE" id="link000390"><a class="depth_2 link000390 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000390,-Aueberstine">Über STiNE</a></li><li class="intern depth_2 linkItem " title="Barrierefreiheit" id="link000627"><a class="depth_2 link000627 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000627,-Abarrierefreiheit">Barrierefreiheit</a></li></ul></li><li class="intern depth_1 linkItem " title="Kontakt" id="link000398"><a class="depth_1 link000398 navLink " href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000398,-Akontakt">Kontakt</a></li></ul>
+			
+				</div>
+				<div id="pageHeadBottom_3" class="pageElementTop">
+
+												<div id="pageHeadSwitchLang" class="pageElementRight">
+                          	
+															<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=CHANGELANGUAGE&amp;ARGUMENTS=-N000000000000002,-N002" class="img img_LangEnglish pageElementLeft" title="English">English</a>
+							
+														
+														
+																					
+						</div>
+						
+												<div id="cn_loginForm">
+							<a id="logIn_btn" class="img img_arrowSubmit" title="Anmelden" href="https://cndsf.ad.uni-hamburg.de/IdentityServer/connect/authorize?client_id=ClassicWeb&amp;scope=openid%20DSF&amp;response_mode=query&amp;response_type=code&amp;nonce=kQEKs7lCwN2CEXvCDeD1Zw==&amp;redirect_uri=https%3A%2F%2Fstine.uni-hamburg.de%2Fscripts%2Fmgrqispi.dll%3FAPPNAME%3DCampusNet%26PRGNAME%3DLOGINCHECK%26ARGUMENTS%3Dids_mode%26ids_mode%3DY">Anmelden</a>
+
+																							<a class="img img_arrowHelp" id="forgotPassword_btn" href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000510,-Apasswort_vergessen">Passwort vergessen</a>
+																					</div>
+															</div>
+			</div>
+			
+			<div id="pageContentContainer" class="pageElementTop">
+				<!-- Anker für Content2 -->		
+				<div id="pageLeft" class="pageElementLeft"> <!-- LEFT COL OF CONTENT -->
+				 	<div id="pageLeftTop"></div>
+				</div>
+				
+				<div id="pageContent" class="pageElementLeft">
+					<a name="mainContent" class="hidden">&nbsp;</a> <!-- ANCHOR MAIN CONTENT -->
+					<div id="pageContentTop" class="pageElementTop">
+											</div>
+					<div id="contentSpacer_IE" class="pageElementTop"><!-- FORCE MIN HEIGHT IN IE<7 -->
+					<!--[if lt IE 7]>
+						<p class="error">
+							Sie verwenden eine Browserversion, die nicht mehr unterstützt wird. Bitte upgraden Sie Ihren Browser auf die aktuelle Version, um funktionale Störungen und Darstellungsprobleme zu vermeiden.
+						</p>
+					<![endif]-->
+							
+					
+<!--
+	© DATENLOTSEN INFORMATIONSSYSTEME GMBH
+	e-mail: 		info@datenlotsen.de
+	web: 			http://www.datenlotsen.de
+	
+	customer: 		uhh
+	version: 		11.10.007
+	filename:		coursedetails.htm
+//-->
+
+	<script type="text/javascript"></script>
+	<noscript>
+<img src="//www.piwik.uni-hamburg.de/piwik.php?idsite=79" style="border:0;" alt="" />
+</noscript>
+
+
+<script type="text/javascript">
+<!--
+
+function focus (){
+        Message.focus();
+}
+
+var Message;
+function popUp(datei) {
+        Message = window.open(datei,"Message","width=650,height=650,dependent=yes,scrollbars=no");
+}
+
+// -->
+</script>
+
+        
+<form name="courseform" action="/scripts/mgrqispi.dll" method="post">
+
+<h1>
+66-102
+Übungen zur Physik I und Einführung in die Theoretische Physik I
+</h1>
+
+
+
+
+<div class="contentlayoutleft" id="contentlayoutleft">
+
+<table class="tb rw-table rw-all">
+        <caption>Veranstaltungsdetails <div style="float: right; font-weight: normal; color: white;"><script>document.write(location.search.match(".*?-N.*?-N.*?-N.*?-N(.*?),-N.*")[1])</script>377704122472643</div></caption>
+        
+		<tbody><tr>
+			<td class="tbcontrol" colspan="3">
+																					
+						
+						
+																				
+						
+						
+														<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=ACTION&amp;ARGUMENTS=-Ass9heMl1BXtImHWamDlnE5qMaBuATS-v8q2mNTeF4uurNmtAH0y~bves0~z9xWypxLyEOhSTzzQYUfO20SPRbHgB-24B30p56TZVhWEXNgc3scbCQUDB4Nrggdpun4nl5Ncw2M0NHVHTMxM5u3pOZqUaRk9H~QFs97~7bw2pefjxUO6h4N5iUKGPvy0k" class="arrow">Schließen</a>&nbsp;
+						
+						
+																		</td>
+		</tr>		
+        <tr>
+                <td class="tbdata" colspan="3">
+                        <!-- LIST OF COURSE PROPS -->
+
+                                                        <p>
+                                        <b>Lehrende: </b><span id="dozenten">keine Angabe</span>
+                                </p>
+                        
+                        
+                                                        <p><b>Veranstaltungsart:</b>
+								                                        Übung
+                                        <input type="hidden" name="coursetyp" value="000000000000021">
+                                								</p>
+                        
+                        
+                                                <p>        <b>Anzeige im Stundenplan: </b>
+                                                                        Übg. Physik I
+                                        <input type="hidden" name="shortdescription" value="Übg. Physik I">
+                                                </p>
+                        
+                                                        <input type="hidden" name="courselevel" value="000000000000000">
+                        
+                                                        <input type="hidden" name="coursearea" value="">
+                        
+                                                        <input type="hidden" name="creditingfor" value="">
+                        
+                                                <p><b>Semesterwochenstunden: </b>
+                                                                        3
+                                                <input type="hidden" name="sws" value="3">
+                                						</p>
+                        
+                                                        <input type="hidden" name="credits" value="  0,0">
+                        
+                                                        <input type="hidden" name="location" value="324364849131000">
+
+                                                        <p><b>Unterrichtssprache: </b>
+                                                                                      <span name="courseLanguageOfInstruction">Deutsch</span>
+                                                <input type="hidden" name="language" value="001">
+                                        										</p>
+                              
+                    <p><b>Min. | Max. Teilnehmerzahl:</b>
+
+                              5 | 106
+                <input type="hidden" name="min_participantsno" value="5">
+                <input type="hidden" name="max_participantsno" value="106">
+                                			</p>
+      
+                <!-- Reggroup,prioscheme,alloscheme,waitlist -->
+                                                                                                
+                                                                                                                        <!-- / LIST OF COURSE PROPS -->
+        </td>
+</tr>
+</tbody></table>
+
+
+<!-- KG START -->
+	<div class="tb">
+		<div>
+			<div class="tbhead">Kleingruppe(n)</div>
+			<div class="tbdata">
+				Die Veranstaltung ist in die folgenden Kleingruppen aufgeteilt:
+							</div>
+		</div>
+
+		<ul class="dl-ul-listview">
+							<li class="tbdata listelement">
+											<div class="dl-inner">
+							<p class="dl-ul-li-headline"><strong>Übungen zur Physik I und Einführung in die Theoretische Physik I - Gruppe A</strong></p>
+
+							<p>Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick</p>
+							
+							<p>Di, 20. Apr. 2021 [11:15]-Di, 6. Jul. 2021 [13:30]</p>
+						</div>
+						
+						<div class="dl-link">
+															<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=COURSEDETAILS&amp;ARGUMENTS=-N000000000000001,-N000605,-N380324393567387,-N377704122472643,-N377704122478646,-N0,-N000000000000000,-N3" class="img img_arrowLeft pageElementRight">
+									Kleingruppe anzeigen
+								</a>
+													</div>
+							
+									</li>
+							<li class="tbdata listelement">
+											<div class="dl-inner">
+							<p class="dl-ul-li-headline"><strong>Übungen zur Physik I und Einführung in die Theoretische Physik I - Gruppe B</strong></p>
+
+							<p>Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick</p>
+							
+							<p>Mi, 21. Apr. 2021 [09:00]-Mi, 7. Jul. 2021 [11:15]</p>
+						</div>
+						
+						<div class="dl-link">
+															<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=COURSEDETAILS&amp;ARGUMENTS=-N000000000000001,-N000605,-N380324393567387,-N377704122472643,-N377704122454648,-N0,-N000000000000000,-N3" class="img img_arrowLeft pageElementRight">
+									Kleingruppe anzeigen
+								</a>
+													</div>
+							
+									</li>
+							<li class="tbdata listelement">
+											<div class="dl-inner">
+							<p class="dl-ul-li-headline"><strong>Übungen zur Physik I und Einführung in die Theoretische Physik I - Gruppe C</strong></p>
+
+							<p>Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick</p>
+							
+							<p>Mi, 21. Apr. 2021 [11:30]-Mi, 7. Jul. 2021 [13:45]</p>
+						</div>
+						
+						<div class="dl-link">
+															<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=COURSEDETAILS&amp;ARGUMENTS=-N000000000000001,-N000605,-N380324393567387,-N377704122472643,-N377704122459645,-N0,-N000000000000000,-N3" class="img img_arrowLeft pageElementRight">
+									Kleingruppe anzeigen
+								</a>
+													</div>
+							
+									</li>
+							<li class="tbdata listelement">
+											<div class="dl-inner">
+							<p class="dl-ul-li-headline"><strong>Übungen zur Physik I und Einführung in die Theoretische Physik I - Gruppe D</strong></p>
+
+							<p>Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick</p>
+							
+							<p>Mi, 21. Apr. 2021 [11:30]-Mi, 7. Jul. 2021 [13:45]</p>
+						</div>
+						
+						<div class="dl-link">
+															<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=COURSEDETAILS&amp;ARGUMENTS=-N000000000000001,-N000605,-N380324393567387,-N377704122472643,-N377704122488647,-N0,-N000000000000000,-N3" class="img img_arrowLeft pageElementRight">
+									Kleingruppe anzeigen
+								</a>
+													</div>
+							
+									</li>
+							<li class="tbdata listelement">
+											<div class="dl-inner">
+							<p class="dl-ul-li-headline"><strong>Übungen zur Physik I und Einführung in die Theoretische Physik I - Gruppe fuer WiederholerInnen</strong></p>
+
+							<p>Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick</p>
+							
+							<p></p>
+						</div>
+						
+						<div class="dl-link">
+															<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=COURSEDETAILS&amp;ARGUMENTS=-N000000000000001,-N000605,-N380324393567387,-N377704122472643,-N378234198818112,-N0,-N000000000000000,-N3" class="img img_arrowLeft pageElementRight">
+									Kleingruppe anzeigen
+								</a>
+													</div>
+							
+									</li>
+					</ul>
+	</div>
+<!-- KG END -->
+
+<!-- Media START -->
+<!-- Media END -->
+
+<!-- Prep Start -->
+<!--Prep End-->
+
+<!-- Anmeldefristen START -->
+   <!-- Anmeldefristen ENDE -->
+
+
+<!-- Termine START -->
+
+        <table class="tb list rw-table rw-all">
+                <caption>Termine</caption>
+        <tbody><tr class="rw-hide">
+                      <td class="tbsubhead"></td>
+                      <td class="tbsubhead" style="width:120px;">Datum</td>
+                      <td class="tbsubhead">Von</td>
+                      <td class="tbsubhead">Bis</td>
+                      <td class="tbsubhead">Raum</td>
+                      <td class="tbsubhead">Lehrende</td>
+            </tr>
+
+                                                                <tr>
+                              <td class="tbdata" colspan="6">Es liegen keine Termine vor.</td>
+                      </tr>
+                                      </tbody></table>
+
+<!-- Termine END -->
+
+
+
+<!-- PreCoRequisites Start-->
+<!-- PreCoRequisites End-->
+
+
+
+
+
+<!-- Cluster START -->
+<!-- Cluster END -->
+
+<!-- Contained in modules START -->
+<!-- Contained in modules END -->
+
+<!-- exams within modules START-->
+
+	<table class="tb rw-table rw-all" summary="Prüfungen im Rahmen von Modulen">
+	<caption>Prüfungen im Rahmen von Modulen</caption>
+	<thead>
+	
+		<tr class="tbsubhead rw-hide">
+			<th scope="col">Modul (Startsemester)/
+				Kurs
+			</th>
+			<th scope="col">Prüfung</th>
+			<th scope="col">Datum</th>
+			<th scope="col">Lehrende</th>
+			<th scope="col">Bestehens­pflicht</th>
+		</tr>
+	</thead>
+
+	<tbody>
+    <!--Course/Module header-->
+		<tr>
+			<td rowspan="0002" class="tbsubhead level02_color h_center rw rw-detail-cour rw-detail-mod">
+									PHY-LAGym-E 1/2
+					Physik I/II für Lehramt an Gymnasien
+					(WiSe 19/20)
+					/
+								PHY-LAGym-E 1/2-Ü1&nbsp;
+				Übungen zur Physik I und Einführung in die Theoretische Physik I
+							</td>
+              <!--Variable exams/ requirements-->
+    			<td class="tbborderleft rw rw-detail-exam">
+				   6&nbsp;
+				Take-Home-Exam
+			</td>
+			<td class="rw rw-detail-date">
+									Mi, 21. Jul. 2021, 10:00 - 13:00
+                   					</td>
+			<td class="rw rw-detail-instruct">Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick</td>
+				
+						<td class="rw rw-detail-compulsary">Nein</td>
+			        	</tr>
+	        <!--Variable exams/ requirements-->
+    		<tr class="tbdata">
+    			<td class="tbborderleft rw rw-detail-exam">
+				   7&nbsp;
+				Take-Home-Exam
+			</td>
+			<td class="rw rw-detail-date">
+									Mi, 6. Okt. 2021, 10:00 - 13:00
+                   					</td>
+			<td class="rw rw-detail-instruct">Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick</td>
+				
+						<td class="rw rw-detail-compulsary">Nein</td>
+			        	</tr>
+		</tbody>
+	</table>
+<!-- Exams within Modules END-->
+
+<!-- Exams Start -->
+<!-- Exams End -->
+
+
+
+
+<!-- Show course catalogues -->
+
+<!-- End New Part -->
+
+<!-- End of Main Content -->
+</div>
+
+<!-- Side Content -->
+<!-- Navigator start -->
+<div class="contentlayoutright" id="contentlayoutright">
+<div class="tb courseList">
+        <div class="tbhead">Übersicht der Kurstermine</div>
+                <ul class="courseList">
+                                                   <li class="courseListCell noLink">Es liegen keine Termine vor.</li>
+                                                        </ul>
+</div>
+
+
+                        <table class="tb rw-table">
+                        <tbody><tr class="rw-all">
+                                <td class="tbhead">Lehrende</td>
+                        </tr>
+                                                                                        <tr>
+                                        <td class="tbdata" name="instructorTitle">
+                                                Prof. Dr. Caren Hagner
+                                        </td>
+                                </tr>
+                                                                                        <tr>
+                                        <td class="tbdata" name="instructorTitle">
+                                                Prof. Dr. Dieter Horns
+                                        </td>
+                                </tr>
+                                                                                        <tr>
+                                        <td class="tbdata" name="instructorTitle">
+                                                Prof. Dr. Gudrid Moortgat-Pick
+                                        </td>
+                                </tr>
+                                        </tbody></table>
+        
+<!-- Navigator end -->
+</div>
+
+</form>
+<script type="text/javascript">
+<!--
+var Cal=document.getElementById("calendar");
+if(Cal){
+        Cal.style.display="inline";
+}
+
+//-->
+</script>
+<noscript></noscript>
+		<!--
+			© DATENLOTSEN INFORMATIONSSYSTEME GMBH
+			e-mail: 		info@datenlotsen.de
+			web: 			http://www.datenlotsen.de
+			
+			customer: 		uhh
+			version: 		11.10.007
+			filename:		foot.htm
+		//-->
+					</div>
+				</div>
+			</div>
+									<div id="pageFoot" class="pageElementTop">
+				<div id="pageFootControls" class="pageElementTop">
+					<div id="pageFootControlsLeft">
+																	<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000605,-Aimprint" class="img img_arrowImprint pageElementLeft" id="pageFootControl_imp">Impressum</a><a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000605,-Adatenschutzerklaerung" class="img img_arrowImprint pageElementLeft" id="pageFootControl_imp">Datenschutzerklärung</a><a href="https://www.stine.uni-hamburg.de/startpage_mobile.htm" class="img img_arrowImprint pageElementLeft" id="pageFootControl_imp">Mobile Version</a><a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000605,-Abarrierefreiheit" class="img img_arrowImprint pageElementLeft" id="pageFootControl_imp">Barrierefreiheit</a>
+																																									<a href="https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000605,-Acontact" class="img img_arrowContact pageElementLeft" id="pageFootControl_con">Kontaktperson</a>
+																											<a href="#" onclick="window.print();" class="img img_arrowPrint pageElementLeft" id="pageFootControl_pri">Drucken</a>
+						
+																	</div>
+					<div id="pageFootControlsRight">
+						<a href="#top" class="img img_arrowUp pageElementRight" id="pageFootControl_up">&nbsp;</a>
+					</div>
+				</div>	
+			</div>
+		</div>
+		<div id="IEdiv">&nbsp;</div><!-- purpose of this is to avoid a pretty strange bug in IE's -->
+
+		<!-- in case the schedule exceeds the given width in lower IE's-->
+		<!--[if lt IE 7]>
+			<script language="JavaScript" type="text/javascript">
+				adjustWidth();
+			</script>
+		<![endif]-->
+
+		<div class="invAnchor">
+			<a name="bottom" class="invAnchor">&nbsp;</a>
+		</div>
+<!-- ++++++++++++++++++ Beginn - Skript für die Nachhaltigkeit in der Lehre +++++++++++++++++++++ -->		
+		<script>
+			current_year=parseInt($(".loginDataDate").text().match(/\d\d\d\d/));
+			lecture_year=$(".vvz .tbdata a").text()=="" ? current_year : parseInt("20"+$(".vvz .tbdata a").text().match(/Se\ (\d\d)/)[1])
+            if (lecture_year >= current_year-1) {
+				id=location.search.match(".*?-N.*?-N.*?-N.*?-N.*?-N(.*?),-N.*")[1]; $("#sust_link").html("<a href='http://landkarte-nachhaltigkeit-lehre.rrz.uni-hamburg.de/formular.html?id="+id+"' class='arrow'>Nachhaltigkeit in der Lehre</a>")
+												}
+		</script>
+<!-- ++++++++++++++++++ Ende - Skript für die Nachhaltigkeit in der Lehre +++++++++++++++++++++ -->
+		
+<!-- ++++++++++++++++++ Beginn - Skript für die Ausblendung der Lehrenden +++++++++++++++++++++ -->
+		<script>
+			most_recent_year="2010"
+			$.each($(".tbdata[name=appointmentDate], .tbdata a[name=appointmentDate]"), function(idx, elem) {
+			year=$(elem).text().match(/\d{4}/);
+			if (year) {
+				if (most_recent_year < year[0]) {most_recent_year=year[0]}
+						}
+			});
+			most_recent_year=parseInt(most_recent_year);
+
+
+			current_year=$("#pageTopNavi .tree.depth_2 .depth_3.navLink").first().text().match(/\d{2}$/);
+			if (current_year) {
+				current_year="20"+current_year
+			}else{
+				current_year=
+				(new Date()).getFullYear()
+				}
+
+
+			if (most_recent_year < (current_year-2)) {
+			$("#dozenten").text("keine Angabe");
+			$(".tbdata[name=appointmentInstructors]").text("keine Angabe");
+			$("span.instructor").text("keine Angabe");
+			$("span.dozkleingruppen").text("keine Angabe");
+			$("span.dozkasten").text("keine Angabe");
+			}
+		</script>
+<!-- ++++++++++++++++++ Ende - Skript für die Ausblendung der Lehrenden +++++++++++++++++++++ -->		
+	
+
+	
+</body></html>
