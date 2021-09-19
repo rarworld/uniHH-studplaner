@@ -107,7 +107,7 @@ def parseOverview(jsonObj):
 overviewJson = { 
         'name': "Physik Overview",
         'url': START_URL_PHY,
-        #'name': "Informatik Overview",
+        #'name': "Computing in Science - Physik Overview",
         #'url': START_URL_INF,
         'links': []
         #'url': "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AV26AlKIclMNmLqjrgDpk4oJhzhffzeR1i4Z7syShPux4baLbyldWky~xhSVxEVQNpkv4LSB~Fp8jGDHQ3tAmYlPE9oe16JqRUZoCKCdBLXe1a2KSieVRu4lWI1n9K32DMxlUgE~Dy7hltEMcemZQYY02CVifzmyn5z6nVow0RjUSpuIYo-AEy9z4inGnTZzGGMF5h~edgFvrVGc_"

@@ -53,7 +53,7 @@
           </h2>
           <div id="accordion-Nav-body" class="accordion-collapse collapse" aria-labelledby="accordion-Nav-header" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-              
+              <navmenu @nav-cb="activateNavCheckbox" :activeVorlesungen="activeVorlesungen"/>
             </div>
           </div>
         </div>
@@ -92,6 +92,7 @@
 <script>
 import usersData from "../assets/data.json";
 import timetable from './timetable/Timetable.vue';
+import navmenu from './navmenu/navmenu.vue';
 
 function createDataArray() {
   return [
@@ -117,7 +118,7 @@ export default {
         }
       },
     components: {
-        timetable
+        timetable, navmenu
     },
     methods: {
         addToTable(element) {
@@ -179,10 +180,16 @@ export default {
           this.studTable= createDataArray();
           this.timelessTable=[]
           this.activeVorlesungen.forEach(vID => this.addVorlesung(vID));
+        },
+        activateNavCheckbox(vId,value){
+          if(value){
+            this.activateVorlesung(vId)
+          }else{
+            this.delVorlesung(vId)
+          }
         }
     },
     created: function(){
-      console.log(window.location.search)
       if( window.location.search != ""){
         var searchParams = decodeURIComponent(window.location.search.substr(1).split('=')[1])
         this.activeVorlesungen=searchParams.split(',')

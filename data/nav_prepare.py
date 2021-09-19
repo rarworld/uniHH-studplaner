@@ -37,7 +37,7 @@ def prepare_data(file_type):
 if __name__ == '__main__':
     res = []
     res.append(prepare_data('Phy'))
-    #res.append(prepare_data('Inf'))
+    res.append(prepare_data('Inf'))
 
     with open(f"nav.json", 'w') as outfile:
         json.dump( res, outfile, indent=2)

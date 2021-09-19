@@ -16,7 +16,6 @@ export default {
     props: ['data','hover'],
     emits: ['box-hoover'],
     data() {
-        console.log(this.hover == this.data.id)
         return {
             isHoover: this.hover == this.data.id
         }
