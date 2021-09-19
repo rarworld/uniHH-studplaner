@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import vorlesungsBox from "./VorlesungsBox.vue";
+import vorlesungsBox from "../timetable/VorlesungsBox.vue";
 
 export default {
     name: "stundenplanRow",

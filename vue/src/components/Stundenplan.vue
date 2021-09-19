@@ -46,6 +46,19 @@
         </div>
 
         <div class="accordion-item">
+          <h2 class="accordion-header" id="accordion-Nav-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-Nav-body" aria-expanded="false" aria-controls="accordion-Nav-body">
+              Navigation Vorlesungen
+            </button>
+          </h2>
+          <div id="accordion-Nav-body" class="accordion-collapse collapse" aria-labelledby="accordion-Nav-header" data-bs-parent="#accordionFlushExample">
+            <div class="accordion-body">
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
           <h2 class="accordion-header" id="textAreaHeader">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#textArea-collapse" aria-expanded="false" aria-controls="textArea-collapse">
               TextArea Vorlesungen
@@ -78,7 +91,7 @@
 
 <script>
 import usersData from "../assets/data.json";
-import timetable from './Timetable.vue';
+import timetable from './timetable/Timetable.vue';
 
 function createDataArray() {
   return [
