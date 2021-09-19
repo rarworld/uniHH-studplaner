@@ -19,9 +19,14 @@ if __name__ == '__main__':
 
     lessonList=[]
     for k in dict:
-        lessonList.append(dict[k])
+        lessonList.append(k)
+    lessonList.sort()
+
+    export=[]
+    for k in lessonList:
+        export.append(dict[k])
 
     with open("data.json", 'w') as outfile:
-        json.dump( lessonList, outfile, indent=2)
+        json.dump( export, outfile, indent=2)
 
     print(f"total ",len(lessonList))
