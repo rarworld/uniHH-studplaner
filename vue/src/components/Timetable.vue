@@ -1,36 +1,32 @@
 <template>
-  <table class="table table-striped table-hover table-bordered">
-    <thead>
-      <tr>
-        <th scope="col">#</th>
-        <th scope="col">Montag</th>
-        <th scope="col">Dienstag</th>
-        <th scope="col">Mittwoch</th>
-        <th scope="col">Donnerstag</th>
-        <th scope="col">Freitag</th>
-      </tr>
-    </thead>
-    <tbody>          
-      <stundenplan-row 
+
+  <div class="container table">
+    <div class="row bg-secondary bg-gradient" id="timetableHead">
+      <div class="col-2 border">#</div>
+      <div class="col-2 border">Montag</div>
+      <div class="col-2 border">Dienstag</div>
+      <div class="col-2 border">Mittwoch</div>
+      <div class="col-2 border">Donnerstag</div>
+      <div class="col-2 border">Freitag</div>
+    </div>
+    <stundenplan-row 
         v-for="row in studTable" 
         v-bind:key="row.id"
         v-bind:row="row"
         :hover="hoover"
-        @box-selected="onHoover">
-      </stundenplan-row>
-    </tbody>
-  </table> 
+        @box-hoover="onHoover">
+    </stundenplan-row>
+  </div>
 
-  <div class="container">
-    <div class="card">
-      <div class="card-header">
+  <div class="container table border">
+    <div class="row bg-secondary bg-gradient" id="timelessHead">
+      <div class="col">
         Timeless
       </div>
-    
-      <div class="card-body row row-cols-auto">
-        <div class="col" v-for="(vorl,i) in timelessTable" scope="col" :id="'col_TL_'+i" :key="vorl.id">
-          <vorlesungsBox :data="vorl" @box-hoover="onHoover" :hover="hoover"></vorlesungsBox>
-        </div>
+    </div>
+    <div class="row row-cols-auto" id="timelessRow">
+      <div class="col" v-for="(vorl,i) in timelessTable" scope="col" :id="'col_TL_'+i" :key="vorl.id">
+        <vorlesungsBox :data="vorl" @box-hoover="onHoover" :hover="hoover"></vorlesungsBox>
       </div>
     </div>
   </div>
@@ -50,10 +46,11 @@ export default {
         vorlesungsBox
     },
     methods: {
-      onHoover(vId){
-        this.$emit("box-selected", vId);
-      }
-    }
+        onHoover(vId){
+            this.$emit("box-hoover", vId);
+        }
+    },
+    emits:['box-hoover']
 }
 </script>
 

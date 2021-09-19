@@ -1,11 +1,11 @@
 <template>
-    <div :class="'card vorl_'+data.id" style="width: 18rem;" @mouseover="$emit('box-hoover',data.id)" >
-        <div class="card-body" :class="{'hoverClass': hover == data.id}">
-            <h6 class="card-title"><strong>{{ data.id}}</strong> {{ data.name }}</h6>
-            <div class="card-text fs-6">
-                <div>{{ data.dozent }}</div>
-                <div>{{ data.hs }}</div>
-            </div>
+    <div :class="['smallText', 'card','vorl_'+data.id, {'border-primary': isHoover}, {'text-primary': isHoover}]" 
+            @mouseover="$emit('box-hoover',data.id)" @mouseleave="$emit('box-hoover','')">
+        <div class="card-body">
+            <div class="card-title"><strong>{{ data.name }}</strong></div>
+            <div class="card-subtitle mb-2 text-muted">{{ data.id}}</div>
+            <div v-if="data.dozent.length > 0" class="text-truncate"><strong>Dozent:</strong> {{ data.dozent }}</div>
+            <div v-if="data.hs.length > 0"><strong>HS:</strong> {{ data.hs }}</div>
         </div>
     </div>
 </template>
@@ -14,12 +14,24 @@
 export default {
     name: "vorlesungsBox",
     props: ['data','hover'],
-    emits: ['box-hoover']
+    emits: ['box-hoover'],
+    data() {
+        console.log(this.hover == this.data.id)
+        return {
+            isHoover: this.hover == this.data.id
+        }
+    },
+    watch: {
+        hover(val){
+           this.isHoover= val == this.data.id 
+        }
+    }
 }
 </script>
 
 <style scoped>
-    .hoverClass {
-        background-color: blue;
+    .smallText {
+        text-align: left !important;
+        font-size: 0.7rem !important;
     }
 </style>

@@ -68,6 +68,7 @@
     </div>
 
     <timetable 
+      @box-hoover="onHoover"
       :studTable="studTable"
       :hoover="hoover"
       :selected="selected"
