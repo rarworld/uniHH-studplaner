@@ -7,7 +7,7 @@
 
 <script>
 import navData from "../../assets/nav.json";
-import navsubmenu from "./navsubmenu.vue";
+import navsubmenu from "./NavSubMenu.vue";
 
 export default {
     name: "navMenu",

@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import navEntry from "./entry.vue";
+import navEntry from "./NavEntry.vue";
 
 export default {
     name: "navsubmenu",

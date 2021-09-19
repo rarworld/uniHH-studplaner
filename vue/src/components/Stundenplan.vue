@@ -92,7 +92,7 @@
 <script>
 import usersData from "../assets/data.json";
 import timetable from './timetable/Timetable.vue';
-import navmenu from './navmenu/navmenu.vue';
+import navmenu from './navmenu/NavMenu.vue';
 
 function createDataArray() {
   return [
