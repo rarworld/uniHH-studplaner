@@ -66,6 +66,14 @@
     ]
   },
   {
+    "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "short": "\u00dcbg. Physik I",
+    "type": "000000000000021",
+    "id": "66-102",
+    "time": []
+  },
+  {
     "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
     "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe A",
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
@@ -407,8 +415,16 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
+    "dozent": "PD Dr. Ralf Holtkamp",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "short": "Mathe I_Phys-\u00dc",
+    "type": "000000000000021",
+    "id": "65-802",
+    "time": []
+  },
+  {
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_0",
@@ -426,8 +442,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_1",
@@ -445,8 +461,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3 (nur f\u00fcr CiS)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_2",
@@ -464,8 +480,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_3",
@@ -483,8 +499,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_4",
@@ -502,8 +518,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3(nur f\u00fcr Erdsystemwissenschaften)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_5",
@@ -521,27 +537,27 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B4",
-    "dozent": "PD Dr. Ralf Holtkamp",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
+    "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_6",
     "time": [
       {
         "day": "Mi",
-        "start": "12:00",
-        "end": "14:00",
+        "start": "14:00",
+        "end": "16:00",
         "hs": "",
         "slot": [
-          2,
+          3,
           2
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_7",
@@ -559,8 +575,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3 (nur f\u00fcr Erdsystemwissenschaften)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_8",
@@ -578,87 +594,49 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_9",
     "time": [
       {
         "day": "Mi",
-        "start": "14:00",
-        "end": "16:00",
+        "start": "16:00",
+        "end": "18:00",
         "hs": "",
         "slot": [
-          3,
+          4,
           2
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C4",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_10",
     "time": [
       {
         "day": "Mi",
-        "start": "14:00",
-        "end": "16:00",
+        "start": "16:00",
+        "end": "18:00",
         "hs": "",
         "slot": [
-          3,
+          4,
           2
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3 (nur f\u00fcr Erdsystemwissenschaften)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_11",
-    "time": [
-      {
-        "day": "Mi",
-        "start": "16:00",
-        "end": "18:00",
-        "hs": "",
-        "slot": [
-          4,
-          2
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-802_12",
-    "time": [
-      {
-        "day": "Mi",
-        "start": "16:00",
-        "end": "18:00",
-        "hs": "",
-        "slot": [
-          4,
-          2
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-802_13",
     "time": [
       {
         "day": "Mi",
@@ -679,6 +657,44 @@
     "type": "000000000000016",
     "id": "65-804",
     "time": []
+  },
+  {
+    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 1",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-804_0",
+    "time": [
+      {
+        "day": "Di",
+        "start": "10:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 2",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-804_1",
+    "time": [
+      {
+        "day": "Di",
+        "start": "12:00",
+        "end": "14:00",
+        "hs": "",
+        "slot": [
+          2,
+          1
+        ]
+      }
+    ]
   },
   {
     "dozent": "N.N.",
@@ -761,6 +777,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+    "short": "\u00dcbg. Physik II",
+    "type": "000000000000021",
+    "id": "66-112",
+    "time": []
   },
   {
     "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
@@ -890,6 +914,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Prof. Dr. Henning Moritz",
+    "name": "\u00dcbungen zur Physik III",
+    "short": "\u00dcbg. Physik III",
+    "type": "000000000000021",
+    "id": "66-131",
+    "time": []
   },
   {
     "name": "\u00dcbungen zur Physik III",
@@ -1024,8 +1056,16 @@
     ]
   },
   {
+    "dozent": "Prof. Dr. Robin Santra",
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe A",
+    "short": "\u00dcbg. Theor. Physik I",
+    "type": "000000000000021",
+    "id": "66-171",
+    "time": []
+  },
+  {
+    "name": "\u00dcbungen zur Theoretischen Physik I",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe A (Pr\u00e4senz)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_0",
@@ -1044,7 +1084,7 @@
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe B",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe B (Online)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_1",
@@ -1063,7 +1103,7 @@
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe C",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe C (Pr\u00e4senz)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_2",
@@ -1082,7 +1122,7 @@
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe D",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe D (Pr\u00e4senz)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_3",
@@ -1101,7 +1141,7 @@
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe E",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe E (Online)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_4",
@@ -1120,7 +1160,7 @@
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe F",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe F (Online)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_5",
@@ -1139,7 +1179,7 @@
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe G",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe G (Pr\u00e4senz)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_6",
@@ -1158,7 +1198,7 @@
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik I",
-    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe H",
+    "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe H (Pr\u00e4senz, Englisch)",
     "dozent": "Prof. Dr. Robin Santra",
     "type": "000000000000021",
     "id": "66-171_7",
@@ -1213,8 +1253,16 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
+    "dozent": "PD Dr. Ralf Holtkamp",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "short": "Mathe III_Phys-\u00dc",
+    "type": "000000000000021",
+    "id": "65-812",
+    "time": []
+  },
+  {
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
     "dozent": "PD Dr. Ralf Holtkamp",
     "type": "000000000000021",
     "id": "65-812_0",
@@ -1232,8 +1280,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_1",
@@ -1251,8 +1299,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
     "dozent": "PD Dr. Ralf Holtkamp",
     "type": "000000000000021",
     "id": "65-812_2",
@@ -1270,8 +1318,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_3",
@@ -1289,87 +1337,49 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B3",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_4",
     "time": [
       {
         "day": "Di",
-        "start": "12:00",
-        "end": "14:00",
+        "start": "14:00",
+        "end": "16:00",
         "hs": "",
         "slot": [
-          2,
+          3,
           1
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B4",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_5",
     "time": [
       {
         "day": "Di",
-        "start": "12:00",
-        "end": "14:00",
+        "start": "14:00",
+        "end": "16:00",
         "hs": "",
         "slot": [
-          2,
+          3,
           1
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_6",
-    "time": [
-      {
-        "day": "Di",
-        "start": "14:00",
-        "end": "16:00",
-        "hs": "",
-        "slot": [
-          3,
-          1
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-812_7",
-    "time": [
-      {
-        "day": "Di",
-        "start": "14:00",
-        "end": "16:00",
-        "hs": "",
-        "slot": [
-          3,
-          1
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-812_8",
     "time": [
       {
         "day": "Di",
@@ -1384,12 +1394,45 @@
     ]
   },
   {
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D2",
+    "dozent": "PD Dr. Ralf Holtkamp",
+    "type": "000000000000021",
+    "id": "65-812_7",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "16:00",
+        "end": "18:00",
+        "hs": "",
+        "slot": [
+          4,
+          0
+        ]
+      }
+    ]
+  },
+  {
     "dozent": "N.N.",
     "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
     "short": "Mathe III_Phys-T",
     "type": "000000000000016",
     "id": "65-814",
     "time": []
+  },
+  {
+    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 1",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-814_0"
+  },
+  {
+    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 2",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-814_1"
   },
   {
     "dozent": "N.N.",
@@ -1427,6 +1470,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+    "name": "\u00dcbungen zur Physik V",
+    "short": "\u00dcbg. Physik V",
+    "type": "000000000000021",
+    "id": "66-151",
+    "time": []
   },
   {
     "name": "\u00dcbungen zur Physik V",
@@ -1607,6 +1658,14 @@
     ]
   },
   {
+    "dozent": "Prof. Dr. Gleb Arutyunov",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "short": "\u00dcbg. Th. Physik III",
+    "type": "000000000000021",
+    "id": "66-191",
+    "time": []
+  },
+  {
     "name": "\u00dcbungen zur Theoretischen Physik III",
     "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe A",
     "dozent": "Prof. Dr. Gleb Arutyunov; Prof. Dr. Sven-Olaf Moch",
@@ -1754,6 +1813,44 @@
     "type": "000000000000047",
     "id": "66-874",
     "time": []
+  },
+  {
+    "name": "ABK 04: Darstellung wissenschaftlicher Ergebnisse",
+    "groupname": "ABK 04: Darstellung wissenschaftlicher Ergebnisse",
+    "dozent": "N.N.",
+    "type": "000000000000047",
+    "id": "66-874_0",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "10:00",
+        "end": "11:30",
+        "hs": "",
+        "slot": [
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ABK 04: Darstellung wissenschaftlicher Ergebnisse",
+    "groupname": "ABK 04: Darstellung wissenschaftlicher Ergebnisse",
+    "dozent": "N.N.",
+    "type": "000000000000047",
+    "id": "66-874_1",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "12:00",
+        "end": "13:30",
+        "hs": "",
+        "slot": [
+          2,
+          0
+        ]
+      }
+    ]
   },
   {
     "dozent": "Prof. Dr. Elisabetta Gallo; Dr. Manuel Meyer",
@@ -2035,6 +2132,14 @@
     ]
   },
   {
+    "dozent": "Prof. Dr. Peter Hauschildt",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
+    "short": "\u00dcbg. Astrophysik I",
+    "type": "000000000000021",
+    "id": "66-902",
+    "time": []
+  },
+  {
     "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
     "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I-Gruppe A",
     "dozent": "Prof. Dr. Peter Hauschildt",
@@ -2128,6 +2233,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Prof. Dr. Jochen Liske; Dr. Andreas Schweitzer",
+    "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
+    "short": "\u00dcbg. Astro II",
+    "type": "000000000000021",
+    "id": "66-904",
+    "time": []
   },
   {
     "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
@@ -2278,7 +2391,7 @@
         "day": "Di",
         "start": "11:00",
         "end": "12:30 ",
-        "hs": "Poolraum 3\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 1\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 2",
+        "hs": "Digital",
         "slot": [
           1,
           1
@@ -2288,7 +2401,7 @@
         "day": "Do",
         "start": "14:30",
         "end": "16:00 ",
-        "hs": "Poolraum 3\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 1\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 2",
+        "hs": "Digital",
         "slot": [
           3,
           3

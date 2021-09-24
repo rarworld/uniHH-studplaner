@@ -91,7 +91,8 @@ def prepareData(fileType):
     with open(f"data{fileType}.json", 'w') as outfile:
         json.dump( lessonList, outfile, indent=2)
 
-    print(f"total ",i)
+    print(f"Exported ",i)
+    print(f"Missing ", (len(lessonList) - i))
 
 
 if __name__ == '__main__':
@@ -99,28 +100,79 @@ if __name__ == '__main__':
     prepareData('Inf')
     #prepareData('Tmp')
 
-
-# 000000000000003 : Proseminar : 66-510
-# 000000000000003 : Proseminar : 66-524
-# 000000000000003 : Proseminar : 66-530
-# 000000000000003 : Proseminar : 66-532
-# 000000000000016 : Tutorium : 66-103
-# 000000000000016 : Tutorium : 65-804
-# 000000000000016 : Tutorium : 66-113
-# 000000000000016 : Tutorium : 66-132
-# 000000000000016 : Tutorium : 66-173
-# 000000000000016 : Tutorium : 65-814
-# 000000000000020 : Seminar : 66-651
-# 000000000000023 : Praktikum : 66-120
-# 000000000000023 : Praktikum : 66-121
-# 000000000000023 : Praktikum : 66-122
-# 000000000000023 : Praktikum : 66-123
-# 000000000000023 : Praktikum : 66-455
-# 000000000000023 : Praktikum : 66-677
-# 000000000000026 : Begleitseminar : 66-456
-# 000000000000047 : Fachtutorium : 66-860
-# 000000000000047 : Fachtutorium : 66-874
-# 000000000000053 : OE : 66-005
-# 000000000000059 : Seminar/Übung : 66-658
-# 000000000000077 : Anleitung : 65-806
-# 000000000000077 : Anleitung : 65-816
+# prepareData('Phy')
+#  - 142 verschiedene Vorlesungen geflatted
+#  - Exported 106
+#  - Missing 36
+# prepareData('Inf')
+#  - 204 verschiedene Vorlesungen geflatted
+#  - Exported 176
+#  - Missing 28
+#
+# Totalmissing 36+28 = 64 von 346
+# 
+# 53 : OE : 66-005
+# 21 : Übung : 66-102
+# 16 : Tutorium : 66-103
+# 21 : Übung : 65-802
+# 16 : Tutorium : 65-804
+# 77 : Anleitung : 65-806
+# 23 : Praktikum : 66-120
+# 23 : Praktikum : 66-121
+# 21 : Übung : 66-112
+# 16 : Tutorium : 66-113
+# 23 : Praktikum : 66-122
+# 23 : Praktikum : 66-123
+# 21 : Übung : 66-131
+# 16 : Tutorium : 66-132
+# 21 : Übung : 66-171
+# 16 : Tutorium : 66-173
+# 21 : Übung : 65-812
+# 16 : Tutorium : 65-814
+# 16 : Tutorium : 65-814_0
+# 16 : Tutorium : 65-814_1
+# 77 : Anleitung : 65-816
+# 21 : Übung : 66-151
+# 23 : Praktikum : 66-455
+# 26 : Begleitseminar : 66-456
+# 21 : Übung : 66-191
+# 47 : Fachtutorium : 66-860
+# 47 : Fachtutorium : 66-874
+# 03 : Proseminar : 66-510
+# 03 : Proseminar : 66-524
+# 03 : Proseminar : 66-530
+# 03 : Proseminar : 66-532
+# 21 : Übung : 66-902
+# 21 : Übung : 66-904
+# 23 : Praktikum : 66-677
+# 20 : Seminar : 66-651
+# 59 : Seminar/Übung : 66-658
+# 
+# 21 : Übung : 67-101
+# 21 : Übung : 64-071
+# 21 : Übung : 64-081
+# 21 : Übung : 65-802
+# 16 : Tutorium : 65-804
+# 77 : Anleitung : 65-806
+# 21 : Übung : 65-072
+# 24 : Projekt : 66-784
+# 21 : Übung : 66-102
+# 16 : Tutorium : 66-103
+# 21 : Übung : 66-112
+# 16 : Tutorium : 66-113
+# 23 : Praktikum : 66-120
+# 23 : Praktikum : 66-121
+# 21 : Übung : 65-812
+# 16 : Tutorium : 65-814
+# 16 : Tutorium : 65-814_0
+# 16 : Tutorium : 65-814_1
+# 77 : Anleitung : 65-816
+# 23 : Praktikum : 66-786
+# 21 : Übung : 66-191
+# 21 : Übung : 64-254
+# 21 : Übung : 64-257
+# 21 : Übung : 64-041
+# 21 : Übung : 64-041_16
+# 23 : Praktikum : 64-042
+# 21 : Übung : 65-052
+# 21 : Übung : 66-151

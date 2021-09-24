@@ -49,6 +49,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-102",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
                     "id": "66-102_0",
                     "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
                   },
@@ -141,64 +145,60 @@
                 ]
               },
               {
-                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "65-802",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
                     "id": "65-802_0",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_1",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_2",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_3",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_4",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_5",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_6",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_7",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_8",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_9",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_10",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_11",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_12",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_13",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   }
                 ]
               },
@@ -208,6 +208,14 @@
                 "entries": [
                   {
                     "id": "65-804",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_0",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_1",
                     "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
@@ -285,6 +293,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-112",
+                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
+                  },
+                  {
                     "id": "66-112_0",
                     "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
                   },
@@ -329,64 +341,60 @@
                 ]
               },
               {
-                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "65-802",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
                     "id": "65-802_0",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_1",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_2",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_3",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_4",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_5",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_6",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_7",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_8",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_9",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_10",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_11",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_12",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_13",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   }
                 ]
               },
@@ -396,6 +404,14 @@
                 "entries": [
                   {
                     "id": "65-804",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_0",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_1",
                     "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
@@ -463,6 +479,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-131",
+                    "name": "\u00dcbungen zur Physik III"
+                  },
+                  {
                     "id": "66-131_0",
                     "name": "\u00dcbungen zur Physik III"
                   },
@@ -515,6 +535,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-171",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
+                  },
+                  {
                     "id": "66-171_0",
                     "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
@@ -575,44 +599,44 @@
                 ]
               },
               {
-                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "65-812",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
                     "id": "65-812_0",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_1",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_2",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_3",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_4",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_5",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_6",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_7",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_8",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   }
                 ]
               },
@@ -622,6 +646,14 @@
                 "entries": [
                   {
                     "id": "65-814",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_0",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_1",
                     "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
@@ -662,6 +694,10 @@
                 "name": "66-151 \u00dcbungen zur Physik V",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "66-151",
+                    "name": "\u00dcbungen zur Physik V"
+                  },
                   {
                     "id": "66-151_0",
                     "name": "\u00dcbungen zur Physik V"
@@ -713,6 +749,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-171",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
+                  },
+                  {
                     "id": "66-171_0",
                     "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
@@ -773,44 +813,44 @@
                 ]
               },
               {
-                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "65-812",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
                     "id": "65-812_0",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_1",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_2",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_3",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_4",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_5",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_6",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_7",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_8",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   }
                 ]
               },
@@ -820,6 +860,14 @@
                 "entries": [
                   {
                     "id": "65-814",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_0",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_1",
                     "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
@@ -887,6 +935,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-151",
+                    "name": "\u00dcbungen zur Physik V"
+                  },
+                  {
                     "id": "66-151_0",
                     "name": "\u00dcbungen zur Physik V"
                   },
@@ -936,6 +988,10 @@
                 "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "66-191",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
                   {
                     "id": "66-191_0",
                     "name": "\u00dcbungen zur Theoretischen Physik III"
@@ -1019,6 +1075,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-191",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
                     "id": "66-191_0",
                     "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
@@ -1082,6 +1142,14 @@
                 "entries": [
                   {
                     "id": "66-874",
+                    "name": "ABK 04: Darstellung wissenschaftlicher Ergebnisse"
+                  },
+                  {
+                    "id": "66-874_0",
+                    "name": "ABK 04: Darstellung wissenschaftlicher Ergebnisse"
+                  },
+                  {
+                    "id": "66-874_1",
                     "name": "ABK 04: Darstellung wissenschaftlicher Ergebnisse"
                   }
                 ]
@@ -1282,6 +1350,10 @@
                     "submenu": [],
                     "entries": [
                       {
+                        "id": "66-902",
+                        "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I"
+                      },
+                      {
                         "id": "66-902_0",
                         "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I"
                       },
@@ -1319,6 +1391,10 @@
                     "name": "66-904 \u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
                     "submenu": [],
                     "entries": [
+                      {
+                        "id": "66-904",
+                        "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II"
+                      },
                       {
                         "id": "66-904_0",
                         "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II"
@@ -1473,6 +1549,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "67-101",
+                    "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I"
+                  },
+                  {
                     "id": "67-101_0",
                     "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I"
                   },
@@ -1516,6 +1596,10 @@
                 "name": "64-071 \u00dcbungen Algorithmen und Datenstrukturen",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "64-071",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
                   {
                     "id": "64-071_0",
                     "name": "\u00dcbungen Algorithmen und Datenstrukturen"
@@ -1631,6 +1715,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "64-081",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
                     "id": "64-081_0",
                     "name": "\u00dcbungen Grundlagen von Datenbanken"
                   },
@@ -1724,64 +1812,60 @@
                 ]
               },
               {
-                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
+                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "65-802",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
                     "id": "65-802_0",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_1",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_2",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_3",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_4",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_5",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_6",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_7",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_8",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_9",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_10",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_11",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_12",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_13",
-                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   }
                 ]
               },
@@ -1791,6 +1875,14 @@
                 "entries": [
                   {
                     "id": "65-804",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_0",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_1",
                     "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
@@ -1830,6 +1922,10 @@
                 "name": "65-072 \u00dcbungen zu Numerische Mathematik (3 Gruppen)",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "65-072",
+                    "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)"
+                  },
                   {
                     "id": "65-072_0",
                     "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)"
@@ -1911,7 +2007,12 @@
               {
                 "name": "66-783 Exercises in computational physics",
                 "submenu": [],
-                "entries": []
+                "entries": [
+                  {
+                    "id": "66-783",
+                    "name": "Exercises in computational physics"
+                  }
+                ]
               }
             ],
             "entries": []
@@ -1949,6 +2050,10 @@
                 "name": "66-102 \u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "66-102",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
                   {
                     "id": "66-102_0",
                     "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
@@ -2056,6 +2161,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "66-112",
+                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
+                  },
+                  {
                     "id": "66-112_0",
                     "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
                   },
@@ -2137,44 +2246,44 @@
                 ]
               },
               {
-                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
+                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "65-812",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
                     "id": "65-812_0",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_1",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_2",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_3",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_4",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_5",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_6",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_7",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_8",
-                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   }
                 ]
               },
@@ -2184,6 +2293,14 @@
                 "entries": [
                   {
                     "id": "65-814",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_0",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_1",
                     "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
@@ -2234,6 +2351,10 @@
                 "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "66-191",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
                   {
                     "id": "66-191_0",
                     "name": "\u00dcbungen zur Theoretischen Physik III"
@@ -2321,6 +2442,10 @@
                 "submenu": [],
                 "entries": [
                   {
+                    "id": "64-254",
+                    "name": "\u00dcbungen Hochleistungsrechnen"
+                  },
+                  {
                     "id": "64-254_0",
                     "name": "\u00dcbungen Hochleistungsrechnen"
                   },
@@ -2355,6 +2480,10 @@
                 "name": "64-257 \u00dcbungen Modellierung und Analyse komplexer Systeme",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "64-257",
+                    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
+                  },
                   {
                     "id": "64-257_0",
                     "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
@@ -2402,6 +2531,10 @@
                 "name": "64-041 \u00dcbung zu Rechnerstrukturen und Betriebssysteme",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "64-041",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
                   {
                     "id": "64-041_0",
                     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
@@ -2479,6 +2612,110 @@
                   {
                     "id": "64-042",
                     "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_0",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_1",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_2",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_3",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_4",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_5",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_6",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_7",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_8",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_9",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_10",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_11",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_12",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_13",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_14",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_15",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_16",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_17",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_18",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_19",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_20",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_21",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_22",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_23",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_24",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_25",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
                   }
                 ]
               }
@@ -2542,7 +2779,12 @@
               {
                 "name": "65-172 \u00dcbungen zu Approximation",
                 "submenu": [],
-                "entries": []
+                "entries": [
+                  {
+                    "id": "65-172",
+                    "name": "\u00dcbungen zu Approximation"
+                  }
+                ]
               }
             ],
             "entries": []
@@ -2564,6 +2806,10 @@
                 "name": "65-052 \u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "65-052",
+                    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)"
+                  },
                   {
                     "id": "65-052_0",
                     "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)"
@@ -2613,6 +2859,10 @@
                 "name": "66-151 \u00dcbungen zur Physik V",
                 "submenu": [],
                 "entries": [
+                  {
+                    "id": "66-151",
+                    "name": "\u00dcbungen zur Physik V"
+                  },
                   {
                     "id": "66-151_0",
                     "name": "\u00dcbungen zur Physik V"

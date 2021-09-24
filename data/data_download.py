@@ -67,15 +67,12 @@ def parseVorlesung(jsonObj, soup):
             'dozent': soup.find('span', id='dozenten').text,
             'name': soup.find('form', {'name':'courseform'}).h1.text.split('\n')[2].strip(),
             'short': soup.find('input', {'name':'shortdescription'})['value'],
-            'type': soup.find('input', {'name':'coursetyp'})['value'],
+            'type': type,
             'id': soup.find('form', {'name':'courseform'}).h1.text.split('\n')[1].strip()
         }
 
-        vorlesung = parseVorlesungsZeiten(mainDataVorlesung, soup)
-        if type == "000000000000021":
-            jsonObj['vorlesung'] = parseUebungsZeiten(mainDataVorlesung, soup) 
-        else:
-            jsonObj['vorlesung'] = [ parseVorlesungsZeiten(mainDataVorlesung, soup) ]
+        jsonObj['vorlesung'] = [ parseVorlesungsZeiten(mainDataVorlesung, soup) ]
+        jsonObj['vorlesung'] += parseUebungsZeiten(mainDataVorlesung, soup)             
     else:
         print(f" - Empty Liste")
 
@@ -104,16 +101,30 @@ def parseOverview(jsonObj):
         parseVorlesung(jsonObj, soup)
 
 
-overviewJson = { 
-        'name': "Physik Overview",
-        'url': START_URL_PHY,
-        #'name': "Computing in Science - Physik Overview",
-        #'url': START_URL_INF,
-        'links': []
-        #'url': "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AV26AlKIclMNmLqjrgDpk4oJhzhffzeR1i4Z7syShPux4baLbyldWky~xhSVxEVQNpkv4LSB~Fp8jGDHQ3tAmYlPE9oe16JqRUZoCKCdBLXe1a2KSieVRu4lWI1n9K32DMxlUgE~Dy7hltEMcemZQYY02CVifzmyn5z6nVow0RjUSpuIYo-AEy9z4inGnTZzGGMF5h~edgFvrVGc_"
-    }
+overviewPhysik = { 
+    'file':"linkList_Phy.json",
+    'name': "Physik Overview",
+    'url': START_URL_PHY,
+    'links': []
+}
+overviewCis = { 
+    'file':"linkList_Inf.json",
+    'name': "Computing in Science - Physik Overview",
+    'url': START_URL_INF,
+    'links': []
+}
+overviewTest = { 
+    'file':"linkList_tmp.json",
+    'name': "Computing in Science - Physik Overview",
+    'url': "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379853809291016,-N379853809235017,-N0,-N0,-N0",
+    'links': []
+}
+
+#overviewJson=overviewPhysik
+#overviewJson=overviewCis
+overviewJson=overviewTest
 
 parseOverview(overviewJson)
 
-with open('linkList_Phy.json', 'w') as outfile:
+with open(overviewJson['file'], 'w') as outfile:
     json.dump( overviewJson, outfile, indent=2)

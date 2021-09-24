@@ -19,6 +19,14 @@
     ]
   },
   {
+    "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+    "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
+    "short": "PfN1_\u00dcb",
+    "type": "000000000000021",
+    "id": "67-101",
+    "time": []
+  },
+  {
     "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
     "groupname": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I - Gruppe 1",
     "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
@@ -105,9 +113,17 @@
     ]
   },
   {
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+    "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+    "short": "AD - \u00dcb",
+    "type": "000000000000021",
+    "id": "64-071",
+    "time": []
+  },
+  {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "Entf\u00e4llt_\u00dcbung Gr. 07  (Mi. 16-18 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_0",
     "time": [
@@ -126,7 +142,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "Entf\u00e4llt_\u00dcbung Gr. 17 (Fr. 08-10 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_1",
     "time": [
@@ -145,7 +161,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "Entf\u00e4llt_\u00dcbung Gr. 22 (Fr. 12-14 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_2",
     "time": [
@@ -164,7 +180,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 01 (Mi. 12-14 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_3",
     "time": [
@@ -183,7 +199,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 02 (Mi. 12-14 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_4",
     "time": [
@@ -202,7 +218,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 03 (Mi. 14-16 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_5",
     "time": [
@@ -221,7 +237,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 04  (Mi. 14-16 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_6",
     "time": [
@@ -240,7 +256,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 05 (Mi. 14-16 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_7",
     "time": [
@@ -259,7 +275,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 06 (Mi. 16-18 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_8",
     "time": [
@@ -278,7 +294,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 08 (Mi. 16-18 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_9",
     "time": [
@@ -297,7 +313,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 09 (Do. 08-10 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_10",
     "time": [
@@ -316,7 +332,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 10 (Do. 08-10 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_11",
     "time": [
@@ -335,7 +351,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 11 (Do. 10-12 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_12",
     "time": [
@@ -354,7 +370,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 12 (Do. 10-12 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_13",
     "time": [
@@ -373,7 +389,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 13 (Do. 12-14 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_14",
     "time": [
@@ -392,7 +408,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 14 (Do. 14-16 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_15",
     "time": [
@@ -411,7 +427,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 15 (Fr. 08-10 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_16",
     "time": [
@@ -430,7 +446,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 16 (Fr. 08-10 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_17",
     "time": [
@@ -449,7 +465,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 18 (Fr. 10-12 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_18",
     "time": [
@@ -468,7 +484,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 19 (Fr. 10-12 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_19",
     "time": [
@@ -487,7 +503,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 20 (Fr. 10-12 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_20",
     "time": [
@@ -506,7 +522,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 21 (Fr. 12-14 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_21",
     "time": [
@@ -525,7 +541,7 @@
   {
     "name": "\u00dcbungen Algorithmen und Datenstrukturen",
     "groupname": "\u00dcbung Gr. 23 (Fr. 12-14 Uhr)",
-    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Florian Schneider; Fynn Schr\u00f6der",
+    "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
     "type": "000000000000021",
     "id": "64-071_22",
     "time": [
@@ -559,6 +575,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+    "name": "\u00dcbungen Grundlagen von Datenbanken",
+    "short": "GDB - \u00dcb",
+    "type": "000000000000021",
+    "id": "64-081",
+    "time": []
   },
   {
     "name": "\u00dcbungen Grundlagen von Datenbanken",
@@ -894,8 +918,16 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
+    "dozent": "PD Dr. Ralf Holtkamp",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "short": "Mathe I_Phys-\u00dc",
+    "type": "000000000000021",
+    "id": "65-802",
+    "time": []
+  },
+  {
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_0",
@@ -913,8 +945,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_1",
@@ -932,8 +964,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3 (nur f\u00fcr CiS)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_2",
@@ -951,8 +983,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_3",
@@ -970,8 +1002,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_4",
@@ -989,8 +1021,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3(nur f\u00fcr Erdsystemwissenschaften)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_5",
@@ -1008,27 +1040,27 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B4",
-    "dozent": "PD Dr. Ralf Holtkamp",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
+    "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_6",
     "time": [
       {
         "day": "Mi",
-        "start": "12:00",
-        "end": "14:00",
+        "start": "14:00",
+        "end": "16:00",
         "hs": "",
         "slot": [
-          2,
+          3,
           2
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_7",
@@ -1046,8 +1078,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3 (nur f\u00fcr Erdsystemwissenschaften)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_8",
@@ -1065,87 +1097,49 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_9",
     "time": [
       {
         "day": "Mi",
-        "start": "14:00",
-        "end": "16:00",
+        "start": "16:00",
+        "end": "18:00",
         "hs": "",
         "slot": [
-          3,
+          4,
           2
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C4",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_10",
     "time": [
       {
         "day": "Mi",
-        "start": "14:00",
-        "end": "16:00",
+        "start": "16:00",
+        "end": "18:00",
         "hs": "",
         "slot": [
-          3,
+          4,
           2
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
+    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3 (nur f\u00fcr Erdsystemwissenschaften)",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-802_11",
-    "time": [
-      {
-        "day": "Mi",
-        "start": "16:00",
-        "end": "18:00",
-        "hs": "",
-        "slot": [
-          4,
-          2
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-802_12",
-    "time": [
-      {
-        "day": "Mi",
-        "start": "16:00",
-        "end": "18:00",
-        "hs": "",
-        "slot": [
-          4,
-          2
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (14 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-802_13",
     "time": [
       {
         "day": "Mi",
@@ -1168,6 +1162,44 @@
     "time": []
   },
   {
+    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 1",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-804_0",
+    "time": [
+      {
+        "day": "Di",
+        "start": "10:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 2",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-804_1",
+    "time": [
+      {
+        "day": "Di",
+        "start": "12:00",
+        "end": "14:00",
+        "hs": "",
+        "slot": [
+          2,
+          1
+        ]
+      }
+    ]
+  },
+  {
     "dozent": "N.N.",
     "name": "Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
     "short": "Mathe I_Phys-A\u00dc",
@@ -1184,11 +1216,11 @@
     "time": [
       {
         "day": "Mo",
-        "start": "10:15",
-        "end": "11:45 ",
-        "hs": "Geom H4",
+        "start": "12:15",
+        "end": "13:45 ",
+        "hs": "Geom H2",
         "slot": [
-          1,
+          2,
           0
         ]
       },
@@ -1205,19 +1237,27 @@
     ]
   },
   {
+    "dozent": "Dr. Stefan Heitmann",
     "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)",
-    "groupname": "\u00dcbungen zu Numerische Mathematik Gruppe 1- Mo 12-14",
+    "short": "P-Num-\u00dc",
+    "type": "000000000000021",
+    "id": "65-072",
+    "time": []
+  },
+  {
+    "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)",
+    "groupname": "\u00dcbungen zu Numerische Mathematik Gruppe 1 - Mo 16-18",
     "dozent": "Dr. Stefan Heitmann",
     "type": "000000000000021",
     "id": "65-072_0",
     "time": [
       {
         "day": "Mo",
-        "start": "12:15",
-        "end": "13:45",
+        "start": "16:15",
+        "end": "17:45",
         "hs": "",
         "slot": [
-          2,
+          4,
           0
         ]
       }
@@ -1318,6 +1358,25 @@
     ]
   },
   {
+    "dozent": "Prof. Dr. G\u00fcnter Hans Walter Sigl",
+    "name": "Exercises in computational physics",
+    "short": "PHY-CiS-CP-\u00dc",
+    "type": "000000000000021",
+    "id": "66-783",
+    "time": [
+      {
+        "day": "Mi",
+        "start": "12:00",
+        "end": "12:45 ",
+        "hs": "Digital",
+        "slot": [
+          2,
+          2
+        ]
+      }
+    ]
+  },
+  {
     "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert",
     "name": "Physik I",
     "short": "Physik I",
@@ -1374,6 +1433,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+    "short": "\u00dcbg. Physik I",
+    "type": "000000000000021",
+    "id": "66-102",
+    "time": []
   },
   {
     "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
@@ -1746,6 +1813,14 @@
     ]
   },
   {
+    "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+    "short": "\u00dcbg. Physik II",
+    "type": "000000000000021",
+    "id": "66-112",
+    "time": []
+  },
+  {
     "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
     "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II -  Gruppe D (Wiederholergruppe)",
     "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
@@ -1875,8 +1950,16 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
+    "dozent": "PD Dr. Ralf Holtkamp",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "short": "Mathe III_Phys-\u00dc",
+    "type": "000000000000021",
+    "id": "65-812",
+    "time": []
+  },
+  {
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
     "dozent": "PD Dr. Ralf Holtkamp",
     "type": "000000000000021",
     "id": "65-812_0",
@@ -1894,8 +1977,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_1",
@@ -1913,8 +1996,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
     "dozent": "PD Dr. Ralf Holtkamp",
     "type": "000000000000021",
     "id": "65-812_2",
@@ -1932,8 +2015,8 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_3",
@@ -1951,87 +2034,49 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B3",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_4",
     "time": [
       {
         "day": "Di",
-        "start": "12:00",
-        "end": "14:00",
+        "start": "14:00",
+        "end": "16:00",
         "hs": "",
         "slot": [
-          2,
+          3,
           1
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 12-14 Gr. B4",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_5",
     "time": [
       {
         "day": "Di",
-        "start": "12:00",
-        "end": "14:00",
+        "start": "14:00",
+        "end": "16:00",
         "hs": "",
         "slot": [
-          2,
+          3,
           1
         ]
       }
     ]
   },
   {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
     "dozent": "N.N.",
     "type": "000000000000021",
     "id": "65-812_6",
-    "time": [
-      {
-        "day": "Di",
-        "start": "14:00",
-        "end": "16:00",
-        "hs": "",
-        "slot": [
-          3,
-          1
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-812_7",
-    "time": [
-      {
-        "day": "Di",
-        "start": "14:00",
-        "end": "16:00",
-        "hs": "",
-        "slot": [
-          3,
-          1
-        ]
-      }
-    ]
-  },
-  {
-    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (9 Gruppen)",
-    "groupname": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
-    "dozent": "N.N.",
-    "type": "000000000000021",
-    "id": "65-812_8",
     "time": [
       {
         "day": "Di",
@@ -2046,12 +2091,45 @@
     ]
   },
   {
+    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+    "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D2",
+    "dozent": "PD Dr. Ralf Holtkamp",
+    "type": "000000000000021",
+    "id": "65-812_7",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "16:00",
+        "end": "18:00",
+        "hs": "",
+        "slot": [
+          4,
+          0
+        ]
+      }
+    ]
+  },
+  {
     "dozent": "N.N.",
     "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
     "short": "Mathe III_Phys-T",
     "type": "000000000000016",
     "id": "65-814",
     "time": []
+  },
+  {
+    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 1",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-814_0"
+  },
+  {
+    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+    "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 2",
+    "dozent": "N.N.",
+    "type": "000000000000016",
+    "id": "65-814_1"
   },
   {
     "dozent": "N.N.",
@@ -2097,6 +2175,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Prof. Dr. Gleb Arutyunov",
+    "name": "\u00dcbungen zur Theoretischen Physik III",
+    "short": "\u00dcbg. Th. Physik III",
+    "type": "000000000000021",
+    "id": "66-191",
+    "time": []
   },
   {
     "name": "\u00dcbungen zur Theoretischen Physik III",
@@ -2261,6 +2347,14 @@
     ]
   },
   {
+    "dozent": "Anna Fuchs; Jannek Squar",
+    "name": "\u00dcbungen Hochleistungsrechnen",
+    "short": "HLR - \u00dcb",
+    "type": "000000000000021",
+    "id": "64-254",
+    "time": []
+  },
+  {
     "name": "\u00dcbungen Hochleistungsrechnen",
     "groupname": "\u00dcbungen Gr. 01 (Di. 14-16 Uhr)",
     "dozent": "Anna Fuchs; Jannek Squar",
@@ -2326,6 +2420,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Dimitri Popov",
+    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+    "short": "MAKS - \u00dcb",
+    "type": "000000000000021",
+    "id": "64-257",
+    "time": []
   },
   {
     "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
@@ -2452,9 +2554,17 @@
     ]
   },
   {
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+    "short": "RS - \u00dcb",
+    "type": "000000000000021",
+    "id": "64-041",
+    "time": []
+  },
+  {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 01 (Mo. 12-13 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_0",
     "time": [
@@ -2473,7 +2583,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 02 (Mo. 12-13 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_1",
     "time": [
@@ -2492,7 +2602,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 03 (Mo. 12-13 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_2",
     "time": [
@@ -2511,7 +2621,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 04 (Mo. 13-14 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_3",
     "time": [
@@ -2530,7 +2640,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 05 (Mo. 13-14 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_4",
     "time": [
@@ -2549,7 +2659,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 06 (Mo. 13-14 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_5",
     "time": [
@@ -2568,7 +2678,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 07 (Mo. 14-15 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_6",
     "time": [
@@ -2587,7 +2697,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 08 (Mo. 14-15 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_7",
     "time": [
@@ -2606,7 +2716,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 09 (Mo. 15-16 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_8",
     "time": [
@@ -2625,7 +2735,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 10 (Mo. 15-16 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_9",
     "time": [
@@ -2644,7 +2754,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 11 ( Di. 10-11 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_10",
     "time": [
@@ -2663,7 +2773,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 12 (Di. 11-12 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_11",
     "time": [
@@ -2682,7 +2792,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 13 (Di. 12-13 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_12",
     "time": [
@@ -2701,7 +2811,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 14 (Di. 13-14 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_13",
     "time": [
@@ -2720,7 +2830,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 15 (Mi. 08-09 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_14",
     "time": [
@@ -2739,7 +2849,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 16 (Mi. 09-10 Uhr)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_15",
     "time": [
@@ -2758,7 +2868,7 @@
   {
     "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
     "groupname": "\u00dcbung Gr. 17 (Blockveranstaltung)",
-    "dozent": "Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+    "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
     "type": "000000000000021",
     "id": "64-041_16"
   },
@@ -2769,6 +2879,500 @@
     "type": "000000000000023",
     "id": "64-042",
     "time": []
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.01 (Mo. 9-12 Uhr) Nov-Dez - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_0",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.01a (Mo. 9-12 Uhr) Nov-Dez - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_1",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.02 (Mo. 12:30-15:30 Uhr) Nov-Dez - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_2",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "12:30",
+        "end": "15:30",
+        "hs": "",
+        "slot": [
+          2,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.02a (Mo. 12:30-15:30 Uhr) Nov-Dez - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_3",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "12:30",
+        "end": "15:30",
+        "hs": "",
+        "slot": [
+          2,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.03 (Di. 9-12 Uhr) Nov-Dez - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_4",
+    "time": [
+      {
+        "day": "Di",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.03a (Di. 9-12 Uhr) Nov-Dez - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_5",
+    "time": [
+      {
+        "day": "Di",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.04 (Di. 13-16 Uhr) Nov-Dez - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_6",
+    "time": [
+      {
+        "day": "Di",
+        "start": "13:00",
+        "end": "16:00",
+        "hs": "",
+        "slot": [
+          2,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.04a (Di. 13-16 Uhr) Nov-Dez - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_7",
+    "time": [
+      {
+        "day": "Di",
+        "start": "13:00",
+        "end": "16:00",
+        "hs": "",
+        "slot": [
+          2,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.05 (Mi. 9-12 Uhr) Nov-Dez - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_8",
+    "time": [
+      {
+        "day": "Mi",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.05a (Mi. 9-12 Uhr) Nov-Dez - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_9",
+    "time": [
+      {
+        "day": "Mi",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.06 (Fr. 8:30-11:30 Uhr) Nov-Dez - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_10",
+    "time": [
+      {
+        "day": "Fr",
+        "start": "08:30",
+        "end": "11:30",
+        "hs": "",
+        "slot": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.06a (Fr. 8:30-11:30 Uhr) Nov-Dez - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_11",
+    "time": [
+      {
+        "day": "Fr",
+        "start": "08:30",
+        "end": "11:30",
+        "hs": "",
+        "slot": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.07 (Mo. 9-12 Uhr) Januar - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_12",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.07a (Mo. 9-12 Uhr) Januar - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_13",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.08 (Mo. 12:30-15:30 Uhr) Januar- Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_14",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "12:30",
+        "end": "15:30",
+        "hs": "",
+        "slot": [
+          2,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.08a (Mo. 12:30-15:30 Uhr) Januar - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_15",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "12:30",
+        "end": "15:30",
+        "hs": "",
+        "slot": [
+          2,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.09 (Di. 9-12 Uhr) Januar - P\u00e4rsenz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_16",
+    "time": [
+      {
+        "day": "Di",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.09a (Di. 9-12 Uhr) Januar - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_17",
+    "time": [
+      {
+        "day": "Di",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.10 (Di. 13-16 Uhr) Januar - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_18",
+    "time": [
+      {
+        "day": "Di",
+        "start": "13:00",
+        "end": "16:00",
+        "hs": "",
+        "slot": [
+          2,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.10a (Di. 13-16 Uhr) Januar - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_19",
+    "time": [
+      {
+        "day": "Di",
+        "start": "13:00",
+        "end": "16:00",
+        "hs": "",
+        "slot": [
+          2,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.11 (Mi. 9-12 Uhr) Januar - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_20",
+    "time": [
+      {
+        "day": "Mi",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.11a (Mi. 9-12 Uhr) Januar - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_21",
+    "time": [
+      {
+        "day": "Mi",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.12 (Fr. 8:30-11:30 Uhr) Januar - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_22",
+    "time": [
+      {
+        "day": "Fr",
+        "start": "08:30",
+        "end": "11:30",
+        "hs": "",
+        "slot": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.12a (Fr. 8:30-11:30 Uhr) Januar - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_23",
+    "time": [
+      {
+        "day": "Fr",
+        "start": "08:30",
+        "end": "11:30",
+        "hs": "",
+        "slot": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.13 (Blockveranstaltung) - Pr\u00e4senz",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_24",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+    "groupname": "Praktikum Gr.13a (Blockveranstaltung) - Digital",
+    "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+    "type": "000000000000023",
+    "id": "64-042_25",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "09:00",
+        "end": "12:00",
+        "hs": "",
+        "slot": [
+          0,
+          0
+        ]
+      }
+    ]
   },
   {
     "dozent": "Dr. Timo Baumann",
@@ -2819,6 +3423,25 @@
     ]
   },
   {
+    "dozent": "Dr. Claus R\u00fcdiger Goetz",
+    "name": "\u00dcbungen zu Approximation",
+    "short": "WP-Approx-\u00dc",
+    "type": "000000000000021",
+    "id": "65-172",
+    "time": [
+      {
+        "day": "Do",
+        "start": "12:15",
+        "end": "13:45 ",
+        "hs": "Geom H6",
+        "slot": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
     "dozent": "Prof. Dr. Armin Iske",
     "name": "H\u00f6here Analysis",
     "short": "P-HAn-V",
@@ -2827,11 +3450,11 @@
     "time": [
       {
         "day": "Mo",
-        "start": "12:15",
-        "end": "13:45 ",
-        "hs": "Geom H2",
+        "start": "14:15",
+        "end": "15:45 ",
+        "hs": "Geom H1",
         "slot": [
-          2,
+          3,
           0
         ]
       },
@@ -2848,32 +3471,88 @@
     ]
   },
   {
-    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
-    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 1",
     "dozent": "Lars Poppe",
+    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+    "short": "P-HAn-\u00dc",
     "type": "000000000000021",
-    "id": "65-052_0"
+    "id": "65-052",
+    "time": []
   },
   {
     "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
-    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 2",
+    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 1 - Mo 16-18",
     "dozent": "Lars Poppe",
     "type": "000000000000021",
-    "id": "65-052_1"
+    "id": "65-052_0",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "16:15",
+        "end": "17:45",
+        "hs": "",
+        "slot": [
+          4,
+          0
+        ]
+      }
+    ]
   },
   {
     "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
-    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 3",
+    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 2 - Mo 16-18",
     "dozent": "Lars Poppe",
     "type": "000000000000021",
-    "id": "65-052_2"
+    "id": "65-052_1",
+    "time": [
+      {
+        "day": "Mo",
+        "start": "16:15",
+        "end": "17:45",
+        "hs": "",
+        "slot": [
+          4,
+          0
+        ]
+      }
+    ]
   },
   {
     "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
-    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 4",
+    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 3 - Mi 10-12",
     "dozent": "Lars Poppe",
     "type": "000000000000021",
-    "id": "65-052_3"
+    "id": "65-052_2",
+    "time": [
+      {
+        "day": "Mi",
+        "start": "10:15",
+        "end": "11:45",
+        "hs": "",
+        "slot": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+    "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 4 - Do 16-18",
+    "dozent": "Lars Poppe",
+    "type": "000000000000021",
+    "id": "65-052_3",
+    "time": [
+      {
+        "day": "Do",
+        "start": "16:15",
+        "end": "17:45",
+        "hs": "",
+        "slot": [
+          4,
+          3
+        ]
+      }
+    ]
   },
   {
     "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
@@ -2903,6 +3582,14 @@
         ]
       }
     ]
+  },
+  {
+    "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+    "name": "\u00dcbungen zur Physik V",
+    "short": "\u00dcbg. Physik V",
+    "type": "000000000000021",
+    "id": "66-151",
+    "time": []
   },
   {
     "name": "\u00dcbungen zur Physik V",
