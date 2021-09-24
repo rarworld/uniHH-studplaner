@@ -82,17 +82,24 @@
 
     <timetable 
       @box-hoover="onHoover"
+      @box-click="showModal"
       :studTable="studTable"
       :hoover="hoover"
       :selected="selected"
       :timelessTable="timelessTable" />
-          
+    
+    <delModal 
+      v-show="isDelModalVisible"
+      :vId="delModalVid"
+      @delModal="delVorlesung"
+      @modalCancel="hideModal" />
 </template>
 
 <script>
 import usersData from "../assets/data.json";
 import timetable from './timetable/Timetable.vue';
 import navmenu from './navmenu/NavMenu.vue';
+import delModal from './DelModal.vue';
 
 function createDataArray() {
   return [
@@ -114,11 +121,13 @@ export default {
             hoover: "",
             selected: "",
             activeVorlesungen: [],
-            timelessTable: []
+            timelessTable: [],
+            delModalVid: "",
+            isDelModalVisible: false
         }
       },
     components: {
-        timetable, navmenu
+        timetable, navmenu, delModal
     },
     methods: {
         addToTable(element) {
@@ -165,6 +174,7 @@ export default {
               })
           }
           this.setVorlesungen();
+          this.hideModal()
         },
         activateVorlesung(vId){
           if(!this.activeVorlesungen.includes(vId)){
@@ -187,6 +197,14 @@ export default {
           }else{
             this.delVorlesung(vId)
           }
+        },
+        showModal(vId){
+          this.delModalVid = vId
+          this.isDelModalVisible=true
+        },
+        hideModal(){
+          this.delModalVid = ""
+          this.isDelModalVisible=false
         }
     },
     created: function(){

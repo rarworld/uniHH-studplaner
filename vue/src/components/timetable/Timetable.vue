@@ -14,6 +14,7 @@
         v-bind:key="row.id"
         v-bind:row="row"
         :hover="hoover"
+        @box-click="onClick"
         @box-hoover="onHoover">
     </stundenplan-row>
   </div>
@@ -26,7 +27,7 @@
     </div>
     <div class="row row-cols-auto" id="timelessRow">
       <div class="col" v-for="(vorl,i) in timelessTable" scope="col" :id="'col_TL_'+i" :key="vorl.id">
-        <vorlesungsBox :data="vorl" @box-hoover="onHoover" :hover="hoover"></vorlesungsBox>
+        <vorlesungsBox :data="vorl" @box-hoover="onHoover" :hover="hoover" @box-click="onClick"></vorlesungsBox>
       </div>
     </div>
   </div>
@@ -48,9 +49,12 @@ export default {
     methods: {
         onHoover(vId){
             this.$emit("box-hoover", vId);
+        },
+        onClick(vId){
+            this.$emit("box-click", vId);
         }
     },
-    emits:['box-hoover']
+    emits:['box-hoover','box-click']
 }
 </script>
 
