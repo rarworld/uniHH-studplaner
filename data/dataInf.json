@@ -24,6 +24,7 @@
     "short": "PfN1_\u00dcb",
     "type": "000000000000021",
     "id": "67-101",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -118,6 +119,7 @@
     "short": "AD - \u00dcb",
     "type": "000000000000021",
     "id": "64-071",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -582,6 +584,7 @@
     "short": "GDB - \u00dcb",
     "type": "000000000000021",
     "id": "64-081",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -923,6 +926,7 @@
     "short": "Mathe I_Phys-\u00dc",
     "type": "000000000000021",
     "id": "65-802",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1159,6 +1163,7 @@
     "short": "Mathe I_Phys-T",
     "type": "000000000000016",
     "id": "65-804",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1205,6 +1210,7 @@
     "short": "Mathe I_Phys-A\u00dc",
     "type": "000000000000077",
     "id": "65-806",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1242,6 +1248,7 @@
     "short": "P-Num-\u00dc",
     "type": "000000000000021",
     "id": "65-072",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1326,6 +1333,7 @@
     "short": "PHY-CiS-Pro",
     "type": "000000000000024",
     "id": "66-784",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1440,6 +1448,7 @@
     "short": "\u00dcbg. Physik I",
     "type": "000000000000021",
     "id": "66-102",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1752,6 +1761,7 @@
     "short": "Tutorium Physik I",
     "type": "000000000000016",
     "id": "66-103",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1818,6 +1828,7 @@
     "short": "\u00dcbg. Physik II",
     "type": "000000000000021",
     "id": "66-112",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1902,6 +1913,7 @@
     "short": "Tutorium Physik II",
     "type": "000000000000016",
     "id": "66-113",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1910,6 +1922,7 @@
     "short": "Prakt. I NatWiss",
     "type": "000000000000023",
     "id": "66-120",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1918,6 +1931,7 @@
     "short": "Prakt. I NatWiss",
     "type": "000000000000023",
     "id": "66-121",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -1955,6 +1969,7 @@
     "short": "Mathe III_Phys-\u00dc",
     "type": "000000000000021",
     "id": "65-812",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2115,6 +2130,7 @@
     "short": "Mathe III_Phys-T",
     "type": "000000000000016",
     "id": "65-814",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2137,6 +2153,7 @@
     "short": "Mathe III_Phys-A\u00dc",
     "type": "000000000000077",
     "id": "65-816",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2145,6 +2162,7 @@
     "short": "Kl F-Prakt CIS",
     "type": "000000000000023",
     "id": "66-786",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2182,6 +2200,7 @@
     "short": "\u00dcbg. Th. Physik III",
     "type": "000000000000021",
     "id": "66-191",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2352,6 +2371,7 @@
     "short": "HLR - \u00dcb",
     "type": "000000000000021",
     "id": "64-254",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2427,6 +2447,7 @@
     "short": "MAKS - \u00dcb",
     "type": "000000000000021",
     "id": "64-257",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2559,6 +2580,7 @@
     "short": "RS - \u00dcb",
     "type": "000000000000021",
     "id": "64-041",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -2878,6 +2900,7 @@
     "short": "RS - Prak",
     "type": "000000000000023",
     "id": "64-042",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -3476,6 +3499,7 @@
     "short": "P-HAn-\u00dc",
     "type": "000000000000021",
     "id": "65-052",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {
@@ -3589,6 +3613,7 @@
     "short": "\u00dcbg. Physik V",
     "type": "000000000000021",
     "id": "66-151",
+    "blub": "Es liegen keine Termine vor.",
     "time": []
   },
   {

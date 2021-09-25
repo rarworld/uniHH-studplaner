@@ -55,6 +55,9 @@ def parseVorlesungsZeiten(vorlesung, soup):
                 #zeit=f"{tds[1].text.split(',')[0]} {tds[2].text}-{tds[3].text} in {tds[4].text.strip()}"
                 if(not zeit in zeiten):
                     zeiten.append(zeit)
+            else:
+                vorlesung['blub'] = tds[0].text
+                print(f" - {tds[0].text}")
     vorlesung['time'] = zeiten
     return vorlesung
 
@@ -114,15 +117,15 @@ overviewCis = {
     'links': []
 }
 overviewTest = { 
-    'file':"linkList_tmp.json",
+    'file':"linkList_Tmp.json",
     'name': "Computing in Science - Physik Overview",
-    'url': "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379853809291016,-N379853809235017,-N0,-N0,-N0",
+    'url': "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498964364,-N379633498962365,-N0,-N0,-N0",
     'links': []
 }
 
-#overviewJson=overviewPhysik
+overviewJson=overviewPhysik
 #overviewJson=overviewCis
-overviewJson=overviewTest
+#overviewJson=overviewTest
 
 parseOverview(overviewJson)
 

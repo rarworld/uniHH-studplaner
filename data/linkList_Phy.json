@@ -5,11 +5,11 @@
   "links": [
     {
       "name": " I. 1. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ai9-BxiCxnIdOJEvWeaD7UJAMSZS8BOaGj3wx290I8mivv33~qqq4-UUfajvpzyT9TEpPmwPpPnE7QLA9HoUrpdml~xiLEHnJrxy6rX9lzUX2--efvwNprGF6hrVOnQPKg--CUOSDTWO27POLE2jCpERXF9sopndFF3xNc5uUkyI3534NR3~k9NXfUT36f5LiBZJJTbYiGHE4-Rg_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJWH-30h1M~BgUDiCq7yzQidqTzZesLzABOMt2yNm9WGKKnKgCHn~ZEs0cgA5ACz9Y8fY3UH64hNK7r-eeyPIsvr7E4Dnu4YRdzhdUpz7S~evQAmwyz1JhNJWOiUQZRLXwXlfMEs8SV9NQgGnK3YcbAI0iIvxjJPTxgFp4JJoekyjeTw94O1Ah1hhPlrAc0F2jzEJBrWCyanYmos_",
       "links": [
         {
           "name": " Modul PHY-OE: Orientierungseinheit ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ax8IOvNC-xFQxRj-RUtmoNHMK1UXEpzRkGOiOpCdGCvOyNStsvLfPKIs04~KXHHplMk0ZZdliTn~5dIKONJeWZp5V5O7w5No88nHVxXu1kNOpa8XQQ9~mOT6eJ7fV3Fsl-SXKXoOjco5z-vzxWLc3VIDYW7Czt4r0IffHaPl7m6aYb5sS7sfnYPqdZRl1lLdAB0QDMeauShv2tJM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A0-SPDh2R7O2a4Qfj9SrwPubHarcY~VQ-qt2J48Col3sTY9QeMnZNC9Y1WPdCgkWQahKNf6y0M0C7m3hZFCQ9zw471cHmEEMfaSEgR06p327rTOvBn-f5MnApBsYN-Fag3-7EyX~nHtsTndnLhK41NWI0XPSZN6kfs1Qn0Uz6YgQDenPYU-VnS75KL6U7WCNdOzJxd4weMT7W0ZA_",
           "links": [
             {
               "name": "66-005 Orientierungseinheit f\u00fcr Studienanf\u00e4nger/innen Physik B.Sc.",
@@ -22,6 +22,7 @@
                   "short": "OE Physik",
                   "type": "000000000000053",
                   "id": "66-005",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -30,7 +31,7 @@
         },
         {
           "name": " Modul PHY-E1: Physik I (Mechanik und W\u00e4rmelehre) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AznEPMqgT-5z7JNEYraxZL63-ZJMyM6yRdqBXddbKTI82Uq8~FldLs0e0JSsLQa87yckTljDeIYsxADZWvjNMrRV8H1hgzbdqh2ktSyq282Qy3EWF4l7AY1a2ZQJI9TzxjuoNP38mk~DXu5SiL60gQwNkHDu3SmUyCluytd~4bnRQLf9tsou~yd4kez0-C8jFh4X5B3sfL-EK0Jc_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AiH-sZJ0GkKHJQQCCaaS9CtrZRWB48rSlvXZP4gREpXRr3dswtGpTsRcyvitEBmq3280aRJTzWq7v4VT5n5N9~s7utdi~OfgwDpoGO~LZ7RDP4V9IbSXjyp4CLy~pQcNUyMOVtJjN~6LLZxPq1U9wNpJQu7MLoXxxHzaw3ssjwcTDRt3Ueso0xV77NKdaxWtr5aLZU9kX5rSFJ94_",
           "links": [
             {
               "name": "66-100 Physik I",
@@ -99,6 +100,7 @@
                   "short": "\u00dcbg. Physik I",
                   "type": "000000000000021",
                   "id": "66-102",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -354,6 +356,7 @@
                   "short": "Tutorium Physik I",
                   "type": "000000000000016",
                   "id": "66-103",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -362,7 +365,7 @@
         },
         {
           "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbCXTRWrO7-RB5z9X8WVWAN7bzgMcnWKqPsU8bXJCBrGgd9ACSdoOisFYeSCOl~XinFEqndIUPprVXZ3DYCkynguLW~uGjQTBrOC8SB-4S-qSzEx1~7iIg9rCtzDRVgiS87Ov87iCBuGqgmwSro-l-xHn~28Se6w1pcgeNjv8MDePKQxStmAvY5vUj~iCaStkvxdIjz8LYj0x91Y_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ae4QJF3Nv4Npn6A7kGm9yJEV3R2UJTIbAct6vkI9pGyHzDvbYWYXe1UmM4Zvs~tHGS05YxSrxVUEEuiHN~d1EE~oFulBpw~D8cGC7yAjrIB8oDJmAeu7t9PtDii9lnZMhp8EwtPnf84-2yQUd8oRE5d30MCtMCggn6MnPT6SSOvmDm94hvNXbLfDue17wJeOBgYVUNrP2mmhdSNA_",
           "links": [
             {
               "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
@@ -403,6 +406,7 @@
                   "short": "Mathe I_Phys-\u00dc",
                   "type": "000000000000021",
                   "id": "65-802",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -598,6 +602,7 @@
                   "short": "Mathe I_Phys-T",
                   "type": "000000000000016",
                   "id": "65-804",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -643,6 +648,7 @@
                   "short": "Mathe I_Phys-A\u00dc",
                   "type": "000000000000077",
                   "id": "65-806",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -651,7 +657,7 @@
         },
         {
           "name": " Modul PHY-AP I: Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7K33Vf6SUOMqNKMkNeE-~d6aT4Gs~cCfZdgHk2tgVfpyPPrYlk95~XTKiUKfgPxVsTI75nf8Rz1fn4me6G4mfMXpDPoUxVvZ5Wwi1xGMhltFNMi1GVXrd4xdXowli-DJMkYr9Efj9DcJPekMeXMX8KIPG3lREiDmu3oPtVQp4VAfn7KACuZ~J4lRi--DgY97RwKAaFF~XkqQj9s_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7h8ekfGXVP4TjB5jX2vsVxW7N8LH~VEc8R1NuyoJxhVvcJJhzibsO-cfWkuRZUU15KH5nd31eYxxMFJUROthqT5u~gjNwpPcjf~q8TKUkJ1U0CeT-63TZ8p1C4szmBRJ6xTxhOlyGXBTbwMvklQcUsFqMddzoYbcOBPnY8zbPrkV9cgTs2i1nmPNubJBWDZ0-RPm26Ur-1m3cb8_",
           "links": [
             {
               "name": "66-120 Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
@@ -664,6 +670,7 @@
                   "short": "Prakt. I NatWiss",
                   "type": "000000000000023",
                   "id": "66-120",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -679,6 +686,7 @@
                   "short": "Prakt. I NatWiss",
                   "type": "000000000000023",
                   "id": "66-121",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -689,11 +697,11 @@
     },
     {
       "name": " II. 2. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AnUs3ReVxTqqU~fXZciSGcAPVcYs8ZlBj0slx9E~GSBdBTAS5GzPENe0pknuPFrS853zIZpBKBJ-g-bXx10gnAHqwh838OO4ZoTCbpA-zaAln4vsSapCSwKOAwa7pn3kOrrxMDppaR94GWPYJugk-jaY8JQ7GSOjpIqizZdRkUPlMqseaXio5sMeZiiZODwZYb3tG8UF2YkLXpFk_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AV5ZvTj9X0kwMGdV-7C9rFnvjjwJ8jRZ0pCLywJVR5TLTv-2x-lyGDJx4VmlHRGYJ20QWTWkVd~iZs6iDf8bQ19dhxo6QzMoEg2LQit0YVdmxLM3IozQdXJgjlRBhv6jDn8mfOAx8Fh0JgvyiTRBMXH85EgvgmHUBVR-86xWtcaAOEYkjrlXT0etwOIzXBJ1RJgkGCA6QR-9D5ZA_",
       "links": [
         {
           "name": " Modul PHY-E2: Physik II (Elektrodynamik & Optik) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbZN-PfD6ViadwEM0JHmyljK6gVNzylluBUhKUy4~jymwPO~mxcuF3hYhtJq3zaXLvJWCnIwTJTsbpli~tQMcwixd8Ab59zh~sRO6LaehAMhFS8D1ZJ8UAhtHAsq01bd-~kj3urI8dLbXTQO5A4Ok-Bu4~KeYgsv8o8LKd9QZhq7QUEBXTW74QhOm2SHJCOfdPrr05oKhIcU0GXg_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AEOV40emOxb~7CSzkSJEwlIvGnG99b0Sbo~-me7Z-LiGU0tAiXiXxOHvNX0-NGHMcHtmEqaAtMNwLPnRwfjlLSt-51NqWuYDgP3j-vaJRuWz1H~CSqqgQQIJt8KTLA7cquVTtWG01IDX2rbMv5d9k8XJoftxOWiXnnkZNvT0QHd8R93OE2~ZjI1wvc7zbymts84z16bxDU1Hz7SQ_",
           "links": [
             {
               "name": "66-110 Physik II",
@@ -762,6 +770,7 @@
                   "short": "\u00dcbg. Physik II",
                   "type": "000000000000021",
                   "id": "66-112",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -837,6 +846,7 @@
                   "short": "Tutorium Physik II",
                   "type": "000000000000016",
                   "id": "66-113",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -845,7 +855,7 @@
         },
         {
           "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~5ux~h0BD3FhrbrLfV6M36pma3tzIDvx~p752Oym5D92z7O3sZIhvKcIq6ARG9KqPKqroGjTqHkdhUl41HouTmxZeqw3WE0M-C9zvbSxJYxfcV9unDwIYTGZ6yzElbfZKOenZFIMVCmxkqfGprL1xHljaNNv~NCYem97gCUrWx8EKYvTuLAVjlRPCmul-C04TfIwqCwHh6Uihao_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AEk5zegywq9FB3fd5pH1zPlUtEtMTe~EtEiwhtboCtwjQOuWKRm8yxhN2Z-cP4U8uB0jdPzWMkj4oo4wbFUQQiksw6qMb3g7R8wuiQOe4Qt1PMYzapbFy33cdBFNb-ZsRBTbDlqDxQS7Bk2pJEjmGvIRl-S4xoJZok9Vy0hkz6rsyvffkdau4Ow6bGzD1zoySuN4zRlfiFdclh9g_",
           "links": [
             {
               "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
@@ -886,6 +896,7 @@
                   "short": "Mathe I_Phys-\u00dc",
                   "type": "000000000000021",
                   "id": "65-802",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -1081,6 +1092,7 @@
                   "short": "Mathe I_Phys-T",
                   "type": "000000000000016",
                   "id": "65-804",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -1126,6 +1138,7 @@
                   "short": "Mathe I_Phys-A\u00dc",
                   "type": "000000000000077",
                   "id": "65-806",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -1134,7 +1147,7 @@
         },
         {
           "name": " Modul PHY-AP II: Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AOfXwSZgMG3caD2CIa5T-4xl8hJ5TzVwu0cf0N2tz4YpoXUWewU5ARUbERyDlo659cw6PRZIMnPurTTLtnyaVqmD-1H5GQZj5OPOY179kxRvBeZCsE4nzQiW498xDS-Z318Dt3pmRZq3yKCDw7dsVPGKi14kXwFlIZPvJeezdhv9jmLB0rYQOOXF4tATgTmXIMiaOiC7Iwyhaou0_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AwpBGIPRVChwQdR6OYYnwszql-Gn758S3pcggiL51GCAsu1gQiZ25kAVZpAEfCZP2H~adetV6m3fnm2ioelGmt4An3-WGGOS-7igXS0LVndcVdrWZM1CQw059gocZqERYRNcEpxbJUi9lGLDnj0SeYLfyB0rcxvp20qGo5kXJd8sR3VV-pdMNNYV6R5hluAWdszKdD8sOdzubmks_",
           "links": [
             {
               "name": "66-122 Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
@@ -1147,6 +1160,7 @@
                   "short": "Prakt. II NatWiss",
                   "type": "000000000000023",
                   "id": "66-122",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -1162,6 +1176,7 @@
                   "short": "Prakt. II NatWiss",
                   "type": "000000000000023",
                   "id": "66-123",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -1172,11 +1187,11 @@
     },
     {
       "name": " III. 3. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AtuUPSemi2cuXcTfreU-rL1o3Y2ExyadTxLjHwwPyoCoFrUt-CPMzijAovFv8WZtN-7xAh2H39ze5gF9BMb4X~yYOpxrdv7JqySdgcrmECpY~xUhOD38-9~WnQmvsEkdwYowOg6d6xW3My8O5JjNeKIq2akMAg~-QF9zaY5FUTvemFvQZOayX7qdSqLqUevC7sC8avN2nI-wHX7w_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AzXqvK~WXwBXL~QwuXumQAXYjRbdXetmhHekQv-kJXvtLpI9914I~Q097oiUan9BpRZbaZ8mAziEHTyuunl9hQqKREBrT8Cmpi1D8N9YJLCFKvt4PS~pEtLzcH~vuh7SycZEjNkwFEAe51XeSFg5b4p7hxSfGRWKgsMbl0JTdCARsaQOZ0CbH7JiXJbg6~ErBx29FqxWCzO4MtL8_",
       "links": [
         {
           "name": " Modul PHY-E3: Physik III (Quantenphysik und Statistische Physik) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMkip1~M1ORqM~imGW8DKWuZWDS08OGsbq9mNXcr8fWTN8ynnjKLGWhIcZLT34lVFmgViuAxBry1JWOPZnWgAcn0i9TbNZP2J01kv8jYyED4V6lshNcySp8bdkrZzAlhinjW7ri3RXElYudDkJO9mkaKmADt0T4QFl6IicCTyqZs~ymSyjF98hMaapgUC1HzfY9ZypCED1mhu4pU_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AwOUtwy0~yKLPVApud49~rpgag8GGGEseCUZTe48-oo2~lFwa-HlFI0AObVcRIpvMQSRVojehr6vCY6xU6bXiKsZxJINRpRzlsMhqSrup9ZWYQCI8mxlSY59qnqpurEHiIaWq0cN1C7Dho1lj7qHQOx1GAhVavfiHruK-d2-Yi~Jwlu9l3UKCdE6ADuFm1YBHdCvVYhx6p6VXa10_",
           "links": [
             {
               "name": "66-130 Physik III",
@@ -1217,6 +1232,7 @@
                   "short": "\u00dcbg. Physik III",
                   "type": "000000000000021",
                   "id": "66-131",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -1307,6 +1323,7 @@
                   "short": "Tutorium Physik III",
                   "type": "000000000000016",
                   "id": "66-132",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -1315,7 +1332,7 @@
         },
         {
           "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AlVeULcu4vVnxwTc8glgk2EQqpBFSe0wbV2kQaisRWGQabLjZtpusRMfs6DwkBmzcs49KefvjqB8eZS99lpChK8W7H0e~g3BkNsJyxtOUGLhQ1sx~GXlZiLQbOZPeB2f07D-axiRZPCLVWuEj7l~MAP8YNXAdZGZcrM8e39t5Rtygyzn3~yUcwOtzM~spf8W-iJrTOAcQYQjYiVE_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgFDGCCPsZWSsAPXWXGHsvQypI6~rh7Bv-pqas0Lb4E-0xohSOMERQ5X0eoQWbD3nEa3icusreaiUYaETtDL8~J2iVxohT3C7W48dR8TwWfqPmnQbfdZko2McCJlg8TH3xN7qufK7R~wqusY1tq0ke2PJ7ekwp9JDcmeNpdRzjPYbLK3tNdTWzmeNgrSWOuZ07teMinNBjg5C-Qw_",
           "links": [
             {
               "name": "66-170 Theoretische Physik I",
@@ -1356,6 +1373,7 @@
                   "short": "\u00dcbg. Theor. Physik I",
                   "type": "000000000000021",
                   "id": "66-171",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -1491,6 +1509,7 @@
                   "short": "Tut. Theor. Physik I",
                   "type": "000000000000016",
                   "id": "66-173",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -1499,7 +1518,7 @@
         },
         {
           "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AkPdl8Hws7oxTCKw454muJtjnI-xT9oeEgvz-BdgmAnsiZ43v4WWfzGR4jErcV5~g57yUvw4gAdPGQpaNCQss~~QbvqWcIrLJCFa-QpDTlVJOC8b4vLDaKl54PuF-IYUwSWc6WjH3hT~kBXzPLB8FgbOnK8liisuSNh~OUHMwN33cZDOXGGEkx8avU~3NUystbb2A0v4jv4FgdoU_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AdUE7fxEmUw0t2Ufk02jfBe0Uy2QH0zCClF5gUzoUMrBCrN5Y1bP22YdyEdXJb3e0Vbg0FefhtyObT8skKKYudqio~epT7uK-Mve25MbNMof1xcnNf0j3Lw7ernam4ush7IKmSidx1JkLzT1K2sd423mhhyN85jyRMKPr6fyz9On8U4FNbbKe4rkfzsqIP1sEymJZDenBa35ockA_",
           "links": [
             {
               "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
@@ -1540,6 +1559,7 @@
                   "short": "Mathe III_Phys-\u00dc",
                   "type": "000000000000021",
                   "id": "65-812",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -1675,6 +1695,7 @@
                   "short": "Mathe III_Phys-T",
                   "type": "000000000000016",
                   "id": "65-814",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -1704,6 +1725,7 @@
                   "short": "Mathe III_Phys-A\u00dc",
                   "type": "000000000000077",
                   "id": "65-816",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -1714,11 +1736,11 @@
     },
     {
       "name": " IV. 4. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbQuKog8yYmhuCXTyQOuusOQ6g79PhqVJlhG2xqJ-QnCd8SjmHNTWvqmy6N18wEyqXQRYTiwY8U6g53mEwb6hLYWIuJqr-Jbr4v7Tbx2d~6tu0NVxd4Xe7z~wRxTki6N4GJxZ-o5GiCCwOMCR4Z6eSeJE2iuht-h-Dzvj4eQbJwX3g4Jf1msA4lYMm3pX9KWyjDdW1qQ4hSP9hq8_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgjgvPR5ETIzDBXX7qmXWmI5WoBmwHgOnkVYx1q37Wp6t21OULyXmwg04kJyKUzvSue4o~9B26sznZoXGUg8i9FzkJP5EAAb~LIu-wRdRkb8DU3T4suS9DmZfeZ1hjAQtsMnGKa2gtLFJfegyNtRbI3lE~a~~KqVA32EyBwvoHo1oKqW4vnAozCzMI~VRYHKQIJcralcwjUniGMU_",
       "links": [
         {
           "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A96Ls2yjJRGQd7Bo3yJ6089KR-DX1dO--HWPcWpUT1mS14K6QCRHOC6uJuM-hFKA67khAedfQocaSGx3MGTC2k-fedgjBa49ZgONnQl0NXL0MXpdGWuiltUsLTuvs-jYIxjanlWofQx3xij0YmDNodmf7oMBU-t5b-MRc7-vRygf77PAzFl03h~YD0lqISLQ1lPCNab1T5HSnoRw_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AZN-ITz6Hc3FnAmPNdLtrcn3a4avpQlvo85GBxlteTtFu83jxMTse6JAtkDGiwWcXhCgDmg0PHhJLeKaie1EfsyEIaVIALgqgzeL5fjufGX3UpFrmfmpl7pHr3sOgKSFCjqFyEwlBDkrye2O3nSEJSHljyhMriJaN2BCl5GuRyzW725j-LDac9-njR-Vf6-L64Hz7jkhmjNzPl6Q_",
           "links": [
             {
               "name": "66-150 Physik V",
@@ -1759,6 +1781,7 @@
                   "short": "\u00dcbg. Physik V",
                   "type": "000000000000021",
                   "id": "66-151",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -1872,7 +1895,7 @@
         },
         {
           "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~aFUK17bVyWXzEy9Bs1aOphlGwKQHz-32SIhC~d2PIo-DnSCu5bpYf8-x7-lYUM3rVVPQLhCe9DG9wltZtaxGq8OzS4BLWCtuY0iKd2sPwmAW1MTp9KELmdb~OPEHVTS9KKt6xmGMJtgKGO-LlBeHJf7OQ2pWWF94hYM80icnAveN-RZjqfk49-F8NFgChwuVajhESPHnpla4rk_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AA8V1~tMTiqJLJtRH9HsdMLo~ROUeY5PJH8MlRgrTxYvH8w4rx4rVaTX5XLcOTf-RoUrjGIYExgmgWdirFpxzFKqGOLsfjMfkU7gAKnfH9ChdGxuidt4bwBr0YQgCmdi9NC0hZJJ8A10rDODXMnf-LlgwRIGkuKXXO7LlYw0HpPKpnwEvJS4mQn6pINzJuFAw7s8OzA2SNIqZGK8_",
           "links": [
             {
               "name": "66-170 Theoretische Physik I",
@@ -1913,6 +1936,7 @@
                   "short": "\u00dcbg. Theor. Physik I",
                   "type": "000000000000021",
                   "id": "66-171",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -2048,6 +2072,7 @@
                   "short": "Tut. Theor. Physik I",
                   "type": "000000000000016",
                   "id": "66-173",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -2056,7 +2081,7 @@
         },
         {
           "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A80ETULEYxnNRUFlqe1auspaFqeYA96PoWCT9XhhE~VSznJLbg7ekEOZWYbW~7D6eEVVnQBlZ1HtsxOQNJRErBQqZPkY98H2JIQ3nktTSRdWzS9DzAlgkBu4vnOWAc4r4hkeZoD-Kp9PCAdrRtzwBLvQUMFfbpAf0Hq5NCEfwjhkahUY9z7NBwM3E~d3d2fKvYydGItKpFl07Pkk_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aa16veFAcTN05ufvQ-yCYKqXG-06eiNwB8XY05EPBqKEYdB0FvdC9a6TaMHvwBbD9kll5nwj4PemffLScrfa45OzKX63lSQBNUVTG9q8EJWngwrPNIm2rQ3z69AiQSZbfaC9qmXQz6O7~NjZyW6nKOIQFEV37iUVIwnitHowPEF15E0Z0DbzDRqv5yRhKP89KzJjAkPtupN1I8R4_",
           "links": [
             {
               "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
@@ -2097,6 +2122,7 @@
                   "short": "Mathe III_Phys-\u00dc",
                   "type": "000000000000021",
                   "id": "65-812",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -2232,6 +2258,7 @@
                   "short": "Mathe III_Phys-T",
                   "type": "000000000000016",
                   "id": "65-814",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -2261,6 +2288,7 @@
                   "short": "Mathe III_Phys-A\u00dc",
                   "type": "000000000000077",
                   "id": "65-816",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -2269,7 +2297,7 @@
         },
         {
           "name": " Modul PHY-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJWWZBpOc0ZhMRDI~7Lw9rEY~rWaSVX3xl~6VZcR1p667JWwPDupSl4szU2VSsKCsbq4mJ-8kjT98rvItBUIvXOFOUScSUC0GMmVYtFxvZ64XxJF2CCI0v5OGfHJlnYSVSWXbtubrJlEiBUN8vjhobgAMYGvGTAWSOUay3RtJ8Pw2nxgZgRQs7OLhTdLxgfU55cNw-Nx5RHdAN-c_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-As1dPilpQ15VevdGFxGbL8cMN47Im6VEDUMk0q8HepSd-XmnR4xIEHaZscg4KYO5JqTDqgElRfqY1dWvmIyhxcnB7dAxdFUlrxnAV6Sf2h43dxzPdiScfXRfPBK2v-hLW~v7E79~jAJ2i3qPrmS9oQWQZC~lM3lU5aENe7dFK3L4fGJIXeag8w4rPYYN3BafCBdO37wASAXHDK94_",
           "links": [
             {
               "name": "66-455 Physikalisches Praktikum f\u00fcr Fortgeschrittene",
@@ -2282,6 +2310,7 @@
                   "short": "F-Praktikum",
                   "type": "000000000000023",
                   "id": "66-455",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -2297,6 +2326,7 @@
                   "short": "Begleitseminar F.-P.",
                   "type": "000000000000026",
                   "id": "66-456",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -2307,11 +2337,11 @@
     },
     {
       "name": " V. 5. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AquUWYYXcB6hjCi3JATNIG7MjeEQR7mL4uxvbx9JIoxMPAdr7SAlqtnM05F4W9lAXme~bLQS59y~gWydxaWmzMflFs39nm6BVtAXojr-lZe2h2oCO~aRPcZjcQFL6XzYRkzDMHO67rCYmNRCldrA1ue0yXQJKzI9tHtSbI~EjY6i8G2qQ2fMAjEfGgiq4T3sQGGvHOHVweBlsC~I_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AspQtVdMaphDsic4MQSExXFHIIMihDXNhXKEUKr0KRbt5CNmDv94IWxJPGVNyrejzUX9VVZOGbRb0LVGFthAi~xvp6t8wMIPuF3zYUIjI~F7pYjIgyuGrK6gwYoGhTrmUbo~DfNcto5xEGVzBaFyDLf79WpF5-bc7cbBMiTozNnab6sbWfX2n7gZ9dBL6FGqjNsqmpO6XDcE1o-8_",
       "links": [
         {
           "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AK-mTOxX4Ogpq049Oo0O63IFwD8MMujImpnDu7Ik5EgRigaqGx39EnUYVccw0Pshd-f9qA2yypQdnMpKcw2PFr27oamgDiu4cbI2AW2SErBVh8HMNIY56UKKcFC4u4AuFS12~9oWHLM99a4QBf8ILkba8dgya2FJPSzQJw5BYEyLXsLNirO0Gi5p8zgb~oUbvxbmOyJP18803FI4_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ATowET~6TAq9BN9U1UegCi62~5Lg9g6K2NoD8ctyPwlstVJ1fL5xPt4GXUMXIZp~wtsWbRbwKrgLkVIUeImEbMFIh1dEWH4w3NdNEl-yXQYyyj06bu78o1leKRl1dgBC3tyXpJFjeZDjocvYVkgmJOWTQBXGfpQAOkeqLDBapGVnbNKlZq50Bl-JaObNAM-YgpwscTHeN49YVPiw_",
           "links": [
             {
               "name": "66-150 Physik V",
@@ -2352,6 +2382,7 @@
                   "short": "\u00dcbg. Physik V",
                   "type": "000000000000021",
                   "id": "66-151",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -2465,7 +2496,7 @@
         },
         {
           "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A239Ug9RLO-465TsxNK9SWZvztKaCG0CfBCT~uKUo0AFNq-KGyaXZO7BZf5IIDoat~4w27tCASqLNbIQkilsy7v2GbuLqKydfWOIqgrEz~12dt5sB7FaMq18XEca632lQwaUNo4JpUVpzP69NB8RoKBdpSGdnUqs5XWrLmuGpqoADRaiexdl4fHK1oYGFDynNvuIvwDDB6vGbiqU_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ATqc3WAKiquNsLh6EBe~brPbQx3rMLxI9rmnVxPaHh64hp8i0rDDeiCzR02KN-lyFYqyAnDjz2lu8eYkKhTYs5owtK1rqTvvOnBCp88VVWLFUdnA2nhmziw8z-G5ZQ9v4~G4Uip2~qGYu2ZNaPzKg9RAKuVwkwmrUUpnSU2HIzqQ3XxbbKEK2SGg-LgIeB17bLp9TsqPDOlO9PuA_",
           "links": [
             {
               "name": "66-190 Theoretische Physik III",
@@ -2506,6 +2537,7 @@
                   "short": "\u00dcbg. Th. Physik III",
                   "type": "000000000000021",
                   "id": "66-191",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -2619,7 +2651,7 @@
         },
         {
           "name": " Modul PHY-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3PJPb6T29h6vt7MC3KEXGniDRbNOIDx7j37j0lNNclYaTw6bSZsJ7ek8Vq6rA0YRbFcyID-a19fYPmWvBVFwmS5vrhn2RVJqkQ4hCBz8Rilveo0Bg5onaDSgFvcpmiJTrnqT9KdDgZzuUZwctEuANSZfBflMMUeMGjxgqVcAD9VaCUULWPOnVH01sq8NsVqBgrEION5f4rN2tO0_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AaldYuPCHYdTpKfs1AkitTCF2WDOqUNmsQjIreMqFR1g73enz1VDt3QdLR5Fx1G-3tIx5~KrjyGCo8W0biecT3Z1~qZwDjLHo4PL6k~xyMd3~t73sFYxiJQS58iOGM4ADeh8Is~AG6IQtYP-I2Lyklr5lF5MVOtR6N4NYAcBLRYLuTWOc5ZiCwL0tYBMA9Y0kv01UK9ZKqCbCDjc_",
           "links": [
             {
               "name": "66-455 Physikalisches Praktikum f\u00fcr Fortgeschrittene",
@@ -2632,6 +2664,7 @@
                   "short": "F-Praktikum",
                   "type": "000000000000023",
                   "id": "66-455",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -2647,6 +2680,7 @@
                   "short": "Begleitseminar F.-P.",
                   "type": "000000000000026",
                   "id": "66-456",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -2657,11 +2691,11 @@
     },
     {
       "name": " VI. 6. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AxocXyJ4o~BblL~8ZK8SukUHg22z1arv9io0-Rc~XyArGUQXyqiFc~SOsBF0ly9APEA49sirOcJ~lFtSTdJDL407xKhURY~VdbCN20rXda22EzkKPxFsr9kpQqWjee-yLl71tuHKWNZEHknbGxOT~LPOGS6gC1dFc4cb7QVCrRl-4CF3j975LARTUAg6Q305xYsNAVPI~SBk7A3A_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7dUPsU3q9QanHG9mmGLJJUV7MrX-MoF4oltxlyvdiHM3yckvc54u10QgtEwHc0UM0y3L5xZAx9mvJuSMvc1ivveKMIpVZnbB0fvLtC2Lx02cuPIcjDsyCFe209tN69O66gkX3W-hbZ4TF9sNY4evZGFu2obP6XqRuXDbnQDFKOdQaQiZmXJDcHkK0K9GCWBSr~pbe6~lSp721Vg_",
       "links": [
         {
           "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AEGMDlbqLCRn0QC8f1IJniNXwdixUGy3biWQ~vv0p1QkcDeD~9JkI7xbgm2fbmdoZc5K56oW~iqWfME4AVyRZ99d7e2ORhU5~5ZaZF09qF4Y4hbznSwnn7a-5r8n~Xhv9dpAA~sGhYTzQpD-qIzbFvYCKpIoCMwwTvESbRj7yQnxWlPxCQ34hvBjeo08fvLdT03NsD9PtGq7lI90_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AaT86HfaINldRRBJ1FaxTRxSthYjF~B54ZWOAjdkaWFBYvHCtD-TaIjww1SaAYQCjm-NmyQi7cmusz3TSvy~TDCyy8c6HU4076eqvJP9HOXNgdorBiphD-JetLPI-9zwijO4ADwSqVfmtanp1TerWiDK4KDDKAvkt5zBxkFQ2ZpTXlJAuBBJ8VUnUAb~xR9Hbuj6kQdyFznD5SJY_",
           "links": [
             {
               "name": "66-190 Theoretische Physik III",
@@ -2702,6 +2736,7 @@
                   "short": "\u00dcbg. Th. Physik III",
                   "type": "000000000000021",
                   "id": "66-191",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -2817,11 +2852,11 @@
     },
     {
       "name": " VII. ABK-Module f\u00fcr Physik (B.Sc.) ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AXwCm4Ar0EwT1YU0RhWTdM-PGynsVFHRmc-6Y3iqOML3C5MCpnpmi4pzsC6ktc~q2Nf00oQUB5Kf6foeAj5OoRntuT4Y5BPfQrp4DzQDqtwYYi3c-zBNMZ65NgueSbaxlCOh~GCeMk8-LcItrbWNbUS95DByx3IG-INKwfR3MxVp8spuw46pgHLdofvOtqvfHXfCVsrynTo3c~q0_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A0qsGmjGyjpDDrW87hPB8IfNqLGRr2DS4fdXJiN74dwoRPpReQ~N6xFkF3a5ZPJs5kSBZLvPGV987iNHOnBQq2tENtVA2-H3hwQbyj3nGac3gt53vkU2QLLz6hDxyoiQ3Wp-PYQ2mUcvYfC9HBfeb7NmAAbV6HPgHGTu9~5p625LCd3uS-FxIjr80H-DgtDPCrmP6zN1nFYtsZfY_",
       "links": [
         {
           "name": " Modul PHY-ABK 02: Arbeiten in und mit Gruppen II: Fachtutorium (3 LP) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHkqidwWnUw-ALbbnNa-Egna~wVB-ompgGbvKmzQa3-aLkmVhNEiJDdpkNgyHY25kbquMsziXQSqvpF6pXD-KfB8esMNhaeeKG9S~c3-Zw0R2wl5b1oIlcBF7UUISeFR8UETORuXx60iLxmzG1hOlhGPJv7Yp-mn9~4Z--o2NhbsYfZd~O643GEhC-naXHe9UPlz~08ExG3gFG1Q_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AZqQDw3KmwxXh7jAXQ4hYZnInY9YT1a3podsJ50gWGjFib0eWPBcOgTqIAHXvtS1VGz6girNEgYeidK6QS12g1~7PHVRHuo8X3sGCvxEvfU1qxzfRjpM0evFOOkv3OibiuuiDdXo~KD-Txk16KjAO4sMzilXU-kCSwz0CLP6Mj1nrZlt8T5S2cZDCPlwOccUXHO6wu72UAldg~Pg_",
           "links": [
             {
               "name": "66-860 ABK 02: Arbeiten mit Gruppen - Leitung einer Fachtutoriumsgruppe",
@@ -2834,6 +2869,7 @@
                   "short": "ABK 02: Fachtutorium",
                   "type": "000000000000047",
                   "id": "66-860",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -2842,7 +2878,7 @@
         },
         {
           "name": " Modul PHY-ABK 04: Darstellung wissenschaftlicher Ergebnisse (3 LP) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ATdD~bx69Ib7fF0jdnOwB5sw9OUwltL18Jj6fOXiTc6EsFJlhlMhBnk5S7lecLo0GQMI7sKezKB6OaB9DKwql0e9d6SxsYr3X-EwqXcK2kv8FxLUYkC9GIKfKdPW4b9pjKUVYm4ni-ACX~7LJzy7F5Tb~dHRLj8zmQnE9dYno8xmMkwueoxicWaq3HSajPpqe4JWSHs7vQm4XrHc_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbK6DAragCpGxzCTMi8ejIlyW~LbyWiXMtAWEMt65FcHbjQIjq~tPjMg2AIoS5x7bOj9Xu0NQ1ZrnCPs33IFMWZIQZctZ3Wgqzn91tNtMR3wfix8KIYQdff5wk5eTBVICHLteg~gT66xVTf5OOzlW-FZhr3vzElhxMxLir6sybeyBf28g6HBfgXBd9VHhhLN64hGhNf11UDtBWO8_",
           "links": [
             {
               "name": "66-874 ABK 04: Darstellung wissenschaftlicher Ergebnisse",
@@ -2855,6 +2891,7 @@
                   "short": "ABK 04: wiss. Ergeb.",
                   "type": "000000000000047",
                   "id": "66-874",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 },
                 {
@@ -2895,7 +2932,7 @@
     },
     {
       "name": " VIII. Proseminare f\u00fcr Physik (B.Sc.) ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ASEDWqi8-MosUaiCXWiAg5IfgLazEtfMWKA5WvvN0bxYwEfhGED0-9aSxtaVM8IhU80WW2RI4nYYAvxQzeo1jkmfG1B6mopTZYqDKm9iq0L1QIj8J22EAiPsLijERH-EWBTNtMbyCETjOVOSdCCP8WYdnBWJsxdt6Fusy8p6n~JD3CtJmyMVyKnkaK~63k6Dr~GHqBxPB3HCq9O4_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHlpd6NmN4kSGX-e2YWLspwV~f5EvDTe2yOm3KxscP36yzEGgivKs1IwciEl8uw7Lnw1VgCdwkp-U8KJV3Zjny0FYEBztVHaHM7JPAhLnFRpkPSv~PJ3m4tQ65qDr7uKTCmgoKn2~r7ratYRYS4q~S3~6NQUMD~XuFQPf0ahVqeMp3-~1su-AA2ubpV4ishNhA1-kFk~9RuagKMQ_",
       "links": [
         {
           "name": "66-502 Proseminar: Teilchen- und Astroteilchenphysik",
@@ -2996,6 +3033,7 @@
               "short": "PS: nanostruktur. FK",
               "type": "000000000000003",
               "id": "66-510",
+              "blub": "Es liegen keine Termine vor.",
               "time": []
             }
           ]
@@ -3077,6 +3115,7 @@
               "short": "PS: Molek\u00fclphysik",
               "type": "000000000000003",
               "id": "66-524",
+              "blub": "Es liegen keine Termine vor.",
               "time": []
             }
           ]
@@ -3136,6 +3175,7 @@
               "short": "PS: Astrophysik",
               "type": "000000000000003",
               "id": "66-530",
+              "blub": "Es liegen keine Termine vor.",
               "time": []
             }
           ]
@@ -3151,6 +3191,7 @@
               "short": "",
               "type": "000000000000003",
               "id": "66-532",
+              "blub": "Es liegen keine Termine vor.",
               "time": []
             }
           ]
@@ -3225,15 +3266,15 @@
     },
     {
       "name": " IX. Wahlbereich f\u00fcr Physik (B.Sc.) ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbVKDRoUQq~H9~Tc2OXa~ELdRdvTEwl6eZQC2Vw5ohgRa8B1oN0cu0QAErXlf0D2LOTWyJXUdqZtARCDJ~feYxUKPX2hLpFqXqKnbwyssH3MHxKDcvle0EZdkGrFZIZdRqFxWi8V70xINUyYwx5IMIWwE7ZAvjb5Ihsy9nji9buzYootP2pR1zAcsf3heKziP5F8LtbOWhdgLdRA_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ab45CX8FHIkyde6S9WBde8qk0GGmVN3WMKs-1HUch2JHpplla27fVXl7JsBg6k-xzz4ngm~N9ytEUwOo8yZWdCW~QRh4oSOrohKnSN7z9-eFR6WS3iQpVlU9G0Nr5-HKAm-bRuKXtjetnAheU4Fkth~uZVXdETl6V4zU5hxLHXNqt-p1sOlZKLn82G2jQl2vG8dXxZ6jrtMWE3Ns_",
       "links": [
         {
           "name": " Astronomie und Astrophysik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AESv2LqQMOSO8WNR4MZfq4OHFJJ6WIxNykiske0gc2hs7psAjzYxOJRoyJd73F9FzCps~zjrMMpt4odWSwrWFnA1oTmzNK0xAE8o2zp87Ins8jBxgmN0Vfw2PjE-STN3u0JRmYce77awAVo7lO9qEvbLyiqHGOWTdOhTvo4fOWphNPU3pTvRx1LvZHjdz1aG7t1ZuC8aOOAV3RKA_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aa6PtZR-phix-aWUSLCw~RjSeyAmnQjIo8fCUHXp32UjIC1PQr4~FdZd5Z7vQ~hEMpSxLA25Fm~c8rPQD019t2UTmkm1zEXuy8ILiYvq~dTsY~WbVIZcoemo3ycp~Zv56fPQm0NECqPcTQnnkm47672BXtYofDsNYYQ-v1qbQQ1BLseCmqSXwprq8tAlYZb5KB-cDjDAKOxc9wdY_",
           "links": [
             {
               "name": " Modul PHY-Astro I: Astronomie und Astrophysik I ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANSLfaFaSMeAm1GtrB6lMs77gPoem5Ivu6Klx8O4szabpY8NV7eazEkDLjzVdWtoiIHLnL5xIZwAzDlI4hvgV-hz1s5ZB~-6hnmSKORQAcyB25Il3JdzdgNm0ZHwgPSGMrHne0-c2xSiAYawaenosyeZHZDp9IC2D6wXP05ACKFcMBvaLwzlQ8upqBjNmRUspGPNz6EfGvyg53Ag_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYA7Vq5pMKUOqfZ6O3X7~b~-MxZhvnACLo6vVUGbzxqLyGyfnwE5NiM-uBDfHY8NEoWiIsIrM2ZLJmjmaoRPgc7cEQba01l1fIDP69FYC8QehzGAF00XaFW9Ky3~qP6ZNigwsCeJABO2T7x0F0gRAOYjIT0jNz2yVNm1APKF11yIK3yTLfSIn7X0v3gdHVALTG3SRaCDsXn~9UOU_",
               "links": [
                 {
                   "name": "66-901 Einf\u00fchrung in die Astronomie und Astrophysik I",
@@ -3268,6 +3309,7 @@
                       "short": "\u00dcbg. Astrophysik I",
                       "type": "000000000000021",
                       "id": "66-902",
+                      "blub": "Es liegen keine Termine vor.",
                       "time": []
                     },
                     {
@@ -3336,7 +3378,7 @@
             },
             {
               "name": " Modul PHY-Astro II: Astronomie und Astrophysik II ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AODZ1mdRp0Fj2iWByAgxqDquaS7YAwIADq0gN-DXvYlnJolOrA3lioOC-2qa-352NIGHAnTpdoRpUPQLfnwanY7m0zq4gYrgIA4xifQwfc0BYcAHJ0UR0zuRJe-DYgZTq8eRerWlh~sUg3LX6pIJiQ4iiO-KMME2LGlicBGzyKDJza6jqZbuhoi0P9PybWXgU3QZpiYiC022TvYk_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A5zPiKVt38mn73sEG1MIdQay2QqknB9-und3ZRD0qVY2Exrfk3HkOHAb5KINuwMuMawuX7rLm7TRUZaSidxBm3WFAst8aSMsjpt-xnwpTNcZpE8sMkcyvHbe3A2C9PF3djKQ1pXwejmL~ifKe~eTT5VSmiPCVdfJk2m61TVpskAfyymSkx6JjMx2pGckNjZzkjIW2niI2cimwLp8_",
               "links": [
                 {
                   "name": "66-903 Einf\u00fchrung in die Astronomie und Astrophysik II",
@@ -3371,6 +3413,7 @@
                       "short": "\u00dcbg. Astro II",
                       "type": "000000000000021",
                       "id": "66-904",
+                      "blub": "Es liegen keine Termine vor.",
                       "time": []
                     },
                     {
@@ -3426,11 +3469,11 @@
         },
         {
           "name": " Einf\u00fchrung Biomedizinische Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AQ-9xRHAX7A~Tod~D6nnDBYX8aEsphghPzI~aMs6UaDtrdsDW0b11EGpdXxk0skTYIIFA~oCFGiJiN~qY83foGgx2DI9bW~Kj0i6QyMz41o6m2WpavTwt5lYnf50k9PpbC1IbuNKiO43Uy-XFil3HlkrXiGKv37WH6dRG4qSsTySPPt00dmhzr-oeEB228AxNLzytpPnZWAI99Ko_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AX-lDgrbBoKnXVSi1CAEvK8HrLr5N5bF9TqiFFvGgkfYtSelJP1Fsw87iaDgcXBXoLN4WLREBMHCVvDp0gr7xIYhIGCHuzSWh-ZkMtqcefysPn0eGmACXX2p~7S4neCsSn54~4SOPqb9e0A8M6U5EfznpzDpqTEVS~7Kzy5tovC4pqFrYGsygqhNzzY8oPNVeEP7w4ba-0hF9IaI_",
           "links": [
             {
               "name": " Modul PHY-NF-BS02: Introduction to Biomedical Physics II (3 LP) ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AD8QP0OheReKqOF3nypgfpn6r2DFxyhWTkD13vrpD9dhLYuyAOyo7~PFdKbi~8wUFE8TVCaZbrAzKueCP7gpRlKKV-zblThe3dfr-uWdnYBlJ9iDztNeFFt4hro2xC~JHlyWJEVnmhjNdpW2rlchWREDc9DqS7OIxT6wllhKs8S8P8-GLSLldyKWBvqB0LYtRcv-DNqHulvmu19E_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aujo4xElhMvl523cgb2rZvL2xlIC5FnWihz0BChJpEfdjPSpbaJIrrhuNAz8rTrL~8A9Fo826S9pFyNhFL62NtAtuzwf~Ub1w4Un4ClNOdxL-TCJL3ZvWd2Maxc0hNX2ROVHNn1qAtKWskA5ZqtBV4913JbREmWPDvjmgXM0hkce9etrU12Bw2VNRLdq0BYL7IJVsNcVXrWz3tVA_",
               "links": [
                 {
                   "name": "66-675 Introduction to biomedical physics  II",
@@ -3458,7 +3501,7 @@
             },
             {
               "name": " Modul PHY-NF-BS-P: Introduction to Biomedical Physics - Laboratory (3 LP) ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ayotx98T8bgZXdiMtIWqO2fXpF0AypwXVhnOMhnxneotCx0Qx6vevDVhJWzl6xCw7Kk9s~bNFrkOsVYRYRNqgGUD3cFarPh61FSralnS~vD9VSRwRFYN1zI8MEEUaq0VtSkVbpyt3jKNwn0h-TTLVyi7corzicv6lGYQpdjS88cMl1odkyqIjY~vdChO~bJ~c42u7WKxEBIGbj2Q_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AQ1kSFumwv3wixcldCaB7hue12jVMfg2FA1GoL~igrsANYvCWNONTrEm3BlajM9tA-dQB8Vbp29Qm-FRxOABU-FUEoxd2wWQdU65V~14P27s-hInwSwAcjWp-7gd80OSX1wrKhUv1Gs75oLKeL1-gQ0ZrWwlbygpFugBoTBAJ06m6cclbqo77D-9~xiIO1WP3HIEjjKNi7pVzhsM_",
               "links": [
                 {
                   "name": "66-677 Introduction to biomedical physics - laboratory",
@@ -3471,6 +3514,7 @@
                       "short": "Biophysik-Praktikum",
                       "type": "000000000000023",
                       "id": "66-677",
+                      "blub": "Es liegen keine Termine vor.",
                       "time": []
                     }
                   ]
@@ -3481,7 +3525,7 @@
         },
         {
           "name": " Zentrum f\u00fcr Naturwissenschaft und Friedensforschung ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ArZUmrB2eyoW6rvsuaAW3qeO5Sde6gxNqzOZC7f1qq1yY~yvxI0hVlAMfnxCK~bGRRbHqlk2kbhdmLfTPhBWQG2Xd~IN1xFfFkBEPeEJ~4hJpxOxDWIWydI04jAYmoS6jMO9iXcvHh6BXYu~hq4fCvoCn-9FLmAKzbLz40Y4AWKqDHHvfMcCkeNEcnL7tXNa36GtGt4Z5UGY2BS0_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AV1cG7-A0KzmBcnM64hgCpZhsoEun1Jt9CzWcnjBDpprbzDajKgG7h~k-6fyRgd6JBOwDwtBkiQ8uG8pjsTp5eKwXJIKLlEv0g4-9nHEZJdxjsWen7DfKj3QJ2o091V4da7eq-DtqbIlH~d4DZF9XLouI1yHGZ0tdpL2~e5wY-~-koyueWub6ylNC~Y1dyjP~iFENwmrsO1lj6G4_",
           "links": [
             {
               "name": "66-650 Carl Friedrich von Weizs\u00e4cker-Friedensvorlesung: \u201eSeuchen, Biowaffen, Pandemien - ein interdisziplin\u00e4rer Blick auf Covid-19\u201c",
@@ -3516,6 +3560,7 @@
                   "short": "Transformationskonfl",
                   "type": "000000000000020",
                   "id": "66-651",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
@@ -3553,6 +3598,7 @@
                   "short": "",
                   "type": "000000000000059",
                   "id": "66-658",
+                  "blub": "Es liegen keine Termine vor.",
                   "time": []
                 }
               ]
