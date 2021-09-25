@@ -9,10 +9,10 @@
       <div :id="level+'-collapseOne'" class="accordion-collapse collapsed collapse" :aria-labelledby="level+'-heading'">
         <div class="accordion-body">
           <navsubmenu v-for="(sub, index) in submenu.submenu" :key="level+'_'+index" :level="level+'_'+index" 
-              :submenu="sub" @nav-cb="onNavCbChange" :activeVorlesungen="activeVorlesungen"></navSubmenu>
+              :submenu="sub" :activeVorlesungen="activeVorlesungen" @navEntryInput="onVModel"></navSubmenu>
           <navEntry v-for="(entry, index) in submenu.entries" 
-              :key="level+'_e_'+index" :level="level+'_e_'+index" 
-              :data="entry" @nav-cb="onNavCbChange" :activeVorlesungen="activeVorlesungen">
+              :key="level+'_e_'+index" :level="level+'_e_'+index" @navEntryInput="onVModel"
+              :data="entry" :activeVorlesungen="activeVorlesungen">
           </navEntry>
         </div>
       </div>
@@ -27,16 +27,17 @@ import navEntry from "./NavEntry.vue";
 
 export default {
     name: "navsubmenu",
-    props: ['level','submenu','onNavChange','activeVorlesungen'],
+    props: ['level','submenu','activeVorlesungen'],
     components: {
         navEntry
     },
     methods: {
-        onNavCbChange(vId, value){
-          this.$emit("nav-cb", vId, value);
+        onVModel(vIdList){
+          console.log("vIdList",vIdList)
+          this.$emit("navEntryInput", vIdList)
         }
     },
-    emits:['nav-cb']
+    emits:['navEntryInput']
 }
 </script>
 
