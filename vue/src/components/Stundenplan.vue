@@ -27,6 +27,19 @@
         </div>
 
         <div class="accordion-item">
+          <h2 class="accordion-header" id="accordion-Nav-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-Nav-body" aria-expanded="false" aria-controls="accordion-Nav-body">
+              Navigation Vorlesungen
+            </button>
+          </h2>
+          <div id="accordion-Nav-body" class="accordion-collapse collapse" aria-labelledby="accordion-Nav-header" data-bs-parent="#accordionFlushExample">
+            <div class="accordion-body">
+              <navmenu @nav-cb="activateNavCheckbox" :activeVorlesungen="activeVorlesungen" @navEntryInput="activeVorlesungen = $event" />
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item" v-if="false">
           <h2 class="accordion-header" id="flush-headingOne">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
               Liste der Vorlesungen
@@ -46,28 +59,22 @@
         </div>
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="accordion-Nav-header">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-Nav-body" aria-expanded="false" aria-controls="accordion-Nav-body">
-              Navigation Vorlesungen
-            </button>
-          </h2>
-          <div id="accordion-Nav-body" class="accordion-collapse collapse" aria-labelledby="accordion-Nav-header" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
-              <navmenu @nav-cb="activateNavCheckbox" :activeVorlesungen="activeVorlesungen" @navEntryInput="activeVorlesungen = $event" />
-            </div>
-          </div>
-        </div>
-
-        <div class="accordion-item">
           <h2 class="accordion-header" id="textAreaHeader">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#textArea-collapse" aria-expanded="false" aria-controls="textArea-collapse">
-              TextArea Vorlesungen
+              Eingabefeld Vorlesungen
             </button>
           </h2>
           <div id="textArea-collapse" class="accordion-collapse collapse" aria-labelledby="textAreaHeader" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
               <form method="GET">
-              <input name="activList" class="form-control" v-model="activeVorlesungen" placeholder="[VorlesugsId,…]" />
+                <div class="row">
+                  <div class="col-10">
+                    <input name="activList" class="form-control" v-model="activeVorlesungen" placeholder="[VorlesugsId,…]" />
+                  </div>
+                  <div class="col-auto">
+                    <button type="submit" class="btn btn-primary mb-3">Laden</button>
+                  </div>
+                </div>
               </form>
             </div>
           </div>
