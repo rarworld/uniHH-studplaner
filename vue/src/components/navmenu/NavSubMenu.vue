@@ -14,6 +14,7 @@
               :key="level+'_e_'+index" :level="level+'_e_'+index" @navEntryInput="onVModel"
               :data="entry" :activeVorlesungen="activeVorlesungen">
           </navEntry>
+          <navEntryEmpty v-if="submenu.entries.length == 0 && submenu.submenu.length == 0 " />
         </div>
       </div>
     </div>
@@ -24,12 +25,13 @@
 
 <script>
 import navEntry from "./NavEntry.vue";
+import navEntryEmpty from "./NavEntryEmpty.vue";
 
 export default {
     name: "navsubmenu",
     props: ['level','submenu','activeVorlesungen'],
     components: {
-        navEntry
+        navEntry, navEntryEmpty
     },
     methods: {
         onVModel(vIdList){
