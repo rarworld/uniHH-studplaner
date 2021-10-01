@@ -34,7 +34,7 @@
           </h2>
           <div id="accordion-Nav-body" class="accordion-collapse collapse" aria-labelledby="accordion-Nav-header" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-              <navmenu @nav-cb="activateNavCheckbox" :activeVorlesungen="activeVorlesungen" @navEntryInput="activeVorlesungen = $event" />
+              <navmenu :activeVorlesungen="activeVorlesungen" @navMenuInput="activeVorlesungen = $event;setVorlesungen()" />
             </div>
           </div>
         </div>

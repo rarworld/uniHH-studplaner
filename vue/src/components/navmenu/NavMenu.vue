@@ -1,6 +1,6 @@
 <template>
   <navsubmenu v-for="(sub,index) in navListe" :key="'0_'+index" :level="'_0'+index" 
-      :submenu="sub" @navEntryInput="$emit('navEntryInput',$event)" :activeVorlesungen="activeVorlesungen">
+      :submenu="sub" @navSubMenuInput="$emit('navMenuInput',$event)" :activeVorlesungen="activeVorlesungen">
 
   </navsubmenu>
 </template>
@@ -20,7 +20,7 @@ export default {
         navListe: navData
       }
     },
-    emits:['navEntryInput']
+    emits:['navMenuInput']
 }
 </script>
 

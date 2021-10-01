@@ -9,7 +9,7 @@
       <div :id="level+'-collapseOne'" class="accordion-collapse collapsed collapse" :aria-labelledby="level+'-heading'">
         <div class="accordion-body">
           <navsubmenu v-for="(sub, index) in submenu.submenu" :key="level+'_'+index" :level="level+'_'+index" 
-              :submenu="sub" :activeVorlesungen="activeVorlesungen" @navEntryInput="onVModel"></navSubmenu>
+              :submenu="sub" :activeVorlesungen="activeVorlesungen" @navSubMenuInput="onVModel"></navSubmenu>
           <navEntry v-for="(entry, index) in submenu.entries" 
               :key="level+'_e_'+index" :level="level+'_e_'+index" @navEntryInput="onVModel"
               :data="entry" :activeVorlesungen="activeVorlesungen">
@@ -33,11 +33,10 @@ export default {
     },
     methods: {
         onVModel(vIdList){
-          console.log("vIdList",vIdList)
-          this.$emit("navEntryInput", vIdList)
+          this.$emit("navSubMenuInput", vIdList)
         }
     },
-    emits:['navEntryInput']
+    emits:['navSubMenuInput']
 }
 </script>
 
