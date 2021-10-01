@@ -154,7 +154,8 @@ export default {
                 'id': element['id'],
                 'name': element['name'],
                 'dozent': element['dozent'],
-                'hs': slotTmp['hs']
+                'hs': slotTmp['hs'],
+                'time': slotTmp['start']+" - "+slotTmp['end']
               }
               this.studTable[slot[0]]['data'][slot[1]].push(tt);
             })
