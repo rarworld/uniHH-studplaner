@@ -1,13 +1,17 @@
 #! /usr/bin/env python3
 
+import sys
 import requests
 import json
 import re
 from bs4 import BeautifulSoup
 
 BASE_URL="https://stine.uni-hamburg.de"
-START_URL_PHY="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgEMUVY1nAUlSVznOZcw~JqDZVA~w9CWPwKNqyhaITJcgSqnzyGbJmTprtCGaiIUdUVVihR-UkYJDPQXKi0T-6gT8bQeIBWwooNIVr4XL-l6vs0lyH6pMphEmULXU26qoHgDm6OcyvRleX-s476~uiiL-R~ZrEtnzqrSBYeXOfQbCcDNQ-Wcd-Pf2RaD5330-IJoY-aWYaApZZa8_"
-START_URL_INF="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4q44qENDI4Y8Q6xak1Qw~rJ2ofruoap-IgfTiZdgy0d977RZdXkQzskSbPkfl-RrZTJvU3o2JIMambmYchAELDJ3mz9T2KtyxBiTtNz8YJfAY0HMf2GD2StN83Xr0hi8Ex~R35msxz-QyHIzMOeayDvoIiU3f73-jQ0o6nJMJdlfEyWfk7lmpy8mzHfH1orUFlmvoNsWdUCwpK4_"
+#WS 2021/2022
+#START_URL_PHY="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgEMUVY1nAUlSVznOZcw~JqDZVA~w9CWPwKNqyhaITJcgSqnzyGbJmTprtCGaiIUdUVVihR-UkYJDPQXKi0T-6gT8bQeIBWwooNIVr4XL-l6vs0lyH6pMphEmULXU26qoHgDm6OcyvRleX-s476~uiiL-R~ZrEtnzqrSBYeXOfQbCcDNQ-Wcd-Pf2RaD5330-IJoY-aWYaApZZa8_"
+#START_URL_INF="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4q44qENDI4Y8Q6xak1Qw~rJ2ofruoap-IgfTiZdgy0d977RZdXkQzskSbPkfl-RrZTJvU3o2JIMambmYchAELDJ3mz9T2KtyxBiTtNz8YJfAY0HMf2GD2StN83Xr0hi8Ex~R35msxz-QyHIzMOeayDvoIiU3f73-jQ0o6nJMJdlfEyWfk7lmpy8mzHfH1orUFlmvoNsWdUCwpK4_"
+START_URL_PHY="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AnIpuyxaapGZ6HBS~Sb8MMdpL-s~63sHFxOUTtzKGkWy-2CK-WNI1ReuUx582PRAYhf1Z4M3MILKyjgoDmp1jsAZEzKiiq9C4Uagewpa31eLauzyxg08aMKb8tTO9zFGLSx8NoNtW-ZzD-I4Wrr550asXzKIlsmDBgta0aTG2ovmuBIjPPtUxTyPq2WHXUFTa~Dwe7QFXjStOUKI_"
+START_URL_INF="/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AkpPWSqBzz9k7prVUd4jTWC3TatsKNfGZybddd38-tGtrn6Ef5EdaTj2FE5QGZb5tUkV4rO~uezamrpA21mnXu9GJnRdg98DTQ0XezlqRE2romddYh6lxGN6mCa3ye64yacOAmxL5CwwFgFR2ksSGn4zqbgCZDrCj9b6gjnDW9QJ5Zvt~PpR-TS~k-Evx5XgDXYzjWJ5BVCVkU7k_"
 OVERVIEW_HREF_CLASS="auditRegNodeLink"
 CATEGORY_HREF_CLASS="eventTitle"
 TIME_PARSE_REGEX = re.compile('(\w\w),.*\[(\d\d:\d\d)\]-.*\[(\d\d:\d\d)\]')
@@ -123,9 +127,21 @@ overviewTest = {
     'links': []
 }
 
-overviewJson=overviewPhysik
-#overviewJson=overviewCis
-#overviewJson=overviewTest
+print( 'Number of arguments:', len(sys.argv), 'arguments.')
+print( 'Argument List:', str(sys.argv))
+print( sys.argv[0])
+
+if(len(sys.argv) == 2):
+    if(sys.argv[1] == 'cis'):
+        overviewJson=overviewCis
+    elif(sys.argv[1] == 'phy'):
+        overviewJson=overviewPhysik
+    elif(sys.argv[1] == 'test'):
+        overviewJson=overviewTest
+    else:
+        exit()
+else:
+    exit()
 
 parseOverview(overviewJson)
 

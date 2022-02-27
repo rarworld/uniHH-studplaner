@@ -1,0 +1,3596 @@
+{
+  "file": "linkList_Inf.json",
+  "name": "Computing in Science - Physik Overview",
+  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4q44qENDI4Y8Q6xak1Qw~rJ2ofruoap-IgfTiZdgy0d977RZdXkQzskSbPkfl-RrZTJvU3o2JIMambmYchAELDJ3mz9T2KtyxBiTtNz8YJfAY0HMf2GD2StN83Xr0hi8Ex~R35msxz-QyHIzMOeayDvoIiU3f73-jQ0o6nJMJdlfEyWfk7lmpy8mzHfH1orUFlmvoNsWdUCwpK4_",
+  "links": [
+    {
+      "name": " 1. Pflichtmodule Informatik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A03xK4KMg9l5oFANhmRT9rdSelzjY-vpK0Vj7qQMJPyR39OlpPBVkN2Rnf13xiMaPcypQx3EEcq~4yTdM5N0iwJi2Rz~8Ug-J6~Jhp170mKlrsLmyCCg1hbmEsFelyHGXZXoW01R4mJoocXMRJxhjDe7U8B616K6lvO2OFZbYk~DZvqHEm3YZd5iksvaAF27P1kuIfTt1VGhGN-k_",
+      "links": [
+        {
+          "name": " Modul InfB-PfN1: Programmierung f\u00fcr Naturwissenschaften I ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AjOFGjMIG3PhEgRKdkERu5I52zuxr4ApWqrX~hNTUzhmxgMW0E1yEHJ~9A1Gkp4uUYUJkwg7oBc1idaMCLCV3oO3CP~YDP4KCK~hNuzIlMRVM~8IjIlwfTUoT4dfhkl8h1PnDwoHNc5ll6JXY6Pd1Eb-tB33G-Iqtep-jwaSm3w56~UdHmpLEHA4ApDyQ0Yn9lf5QUmm5fa2RMss_",
+          "links": [
+            {
+              "name": "67-100 Vorlesung Programmierung f\u00fcr Naturwissenschaften I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379734826301122,-N379734826327123,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Stefan Kurtz",
+                  "name": "Vorlesung Programmierung f\u00fcr Naturwissenschaften I",
+                  "short": "PfN1_VL",
+                  "type": "000000000000022",
+                  "id": "67-100",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "67-101 \u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379734826522163,-N379734826539164,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+                  "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
+                  "short": "PfN1_\u00dcb",
+                  "type": "000000000000021",
+                  "id": "67-101",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
+                  "groupname": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I - Gruppe 1",
+                  "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+                  "type": "000000000000021",
+                  "id": "67-101_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
+                  "groupname": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I - Gruppe 2",
+                  "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+                  "type": "000000000000021",
+                  "id": "67-101_1",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
+                  "groupname": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I - Gruppe 3 (englisch)",
+                  "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+                  "type": "000000000000021",
+                  "id": "67-101_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-PfN2: Programmierung f\u00fcr Naturwissenschaften II ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AykNIAS0QjHegT2CdgCLD91msEKKUgYOfxvYHG-8pVxHWHYMZ96jjTbclPZF5y2n71i8B60vnqNvH6nvh-kXxBlsdGz-wCa6MHky7Z2~Bx7GJHMBHU3qRkc1MXscFr3m6TjxUNhsi729NTFTexoxH-y5pWfzkQ2BF85E6PagzHsUNJ81ixkfgCa3VH9vCqNfjj8aMeLIy6oYE0Lo_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-ETI: Einf\u00fchrung in die Theoretische Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ARJ7CetWtwtc7EyfHfn26UH4ZLzz8065FKpbcAmxlwXaSqKiHrFkn1Vn97r3oEqxxlo3gZTCkRfPLzyc2tXo-yplvxaVqJ04ljIc74Da0VWeLCaCgxqPQ0BOpUI5CuBo9SnhTPalLPievnAA8f-GQTZZYCGuVaWp3cLHz~FRg~Jwn4K~brs6WJzWz4YPM6v4Nle3QSURdR0RIVHA_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-AD: Algorithmen und Datenstrukturen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AX1rzeCY2NeeAwyvh31ersL6mL7hzv8mmMdkrSajCXf8kfI2z5dISIgimMUXVo0HDo3dUiTjyOqULvnGo-pgs9j2fieyf8ASxAhNCdIl9bnloKZJMU07BBWm3zAeSToCymVn~0EpIvvGnKvLcPI31BAulGdUbdv7rVW5a7zr0GmvD1huOtqdPFsH3NG1DLPDt9SyPiRvagMVTTJU_",
+          "links": [
+            {
+              "name": "64-070 Vorlesung Algorithmen und Datenstrukturen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984935765289,-N379984935738290,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Peter Kling",
+                  "name": "Vorlesung Algorithmen und Datenstrukturen",
+                  "short": "AD - VL",
+                  "type": "000000000000022",
+                  "id": "64-070",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:00",
+                      "end": "11:30 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "11:30 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-071 \u00dcbungen Algorithmen und Datenstrukturen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984935818291,-N379984935806292,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "short": "AD - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-071",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "Entf\u00e4llt_\u00dcbung Gr. 07  (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "Entf\u00e4llt_\u00dcbung Gr. 17 (Fr. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_1",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "Entf\u00e4llt_\u00dcbung Gr. 22 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_2",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 01 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_3",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 02 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_4",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 03 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_5",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 04  (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_6",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 05 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_7",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 06 (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_8",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 08 (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_9",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 09 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_10",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 10 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_11",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 11 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_12",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 12 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_13",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 13 (Do. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_14",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 14 (Do. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_15",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 15 (Fr. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_16",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 16 (Fr. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_17",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 18 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_18",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 19 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_19",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 20 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_20",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 21 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_21",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 23 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Bunlong Lay; Tim Rolff; Florian Schneider; Fynn Schr\u00f6der",
+                  "type": "000000000000021",
+                  "id": "64-071_22",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-GDB: Grundlagen von Datenbanken ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AtK2hrKjBkJzpYNuqWAD2cFEjTAjBF-oFwqIZfjcs6e1pjlQdwWvz8cVR1ru8e2aosrJ6FSVnknI5m6fVNriaqS8vufg4TvqmoeRZf2fcI~5mPkhAcWewBOv-5fTw2ZinJOZYAm8TbAHDpsMrHZ3rWn7pBrKJ-QFOsiyYOIAu9L909uuKkoxaswdNACSzGJpc8C1FDgm6POKAuGc_",
+          "links": [
+            {
+              "name": "64-080 Vorlesung Grundlagen von Datenbanken",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984936284332,-N379984936297333,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Norbert Ritter",
+                  "name": "Vorlesung Grundlagen von Datenbanken",
+                  "short": "GDB - VL",
+                  "type": "000000000000022",
+                  "id": "64-080",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "15:15",
+                      "end": "17:45 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-081 \u00dcbungen Grundlagen von Datenbanken",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984936065312,-N379984936014313,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "short": "GDB - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-081",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 01 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 02 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_1",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 03 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 04 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_3",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 05 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_4",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 06 (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_5",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 07 (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_6",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 08 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_7",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 09 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_8",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 10 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_9",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 11 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_10",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 12 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_11",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 13 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_12",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 14 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_13",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 15 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_14",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 16 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt",
+                  "type": "000000000000021",
+                  "id": "64-081_15",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-SWT: Softwaretechnik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AiCU-Hkk7XUv6zvBmP~a5YytfuXLt0mZY1-un284vzfr1yXqpLoaAidEX4FNKyvBhYSoPsnlDUT6l~R203F6L1W8KxgMsICw1HixTgWUu6OtENe4hfPMWKQa7Kq3CCVZjLWsAdxL-yZSi-bMBof~d1opVl1ChGV459ssS0osOIUPTFG2Vf-eaK-wD~3RmLymWcPEY~PF1z6tZxUk_",
+          "links": []
+        }
+      ]
+    },
+    {
+      "name": " 2. Pflichtmodule Mathematik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AUANSn9-r5EfhryTjav9hdP17imr4NBTPBQr7aOIlYXnnN7Aknjmf4cpL7exQRVfDoMHI6-s8lOJFc6JLvVDbHd7~xsr2qvEPjPpGkKuygix7cDzc7LOwDfn0siHGRqvKuS2~KZEBJOseTLgdpK8nBLTGnMS~HLvoMNLyfksK7~DukkuM4J~J5dGoJfIqLdkPBqZhHkgH4JEJ1yo_",
+      "links": [
+        {
+          "name": " Modul MATH1-CiS: Mathematik I f\u00fcr Studierende Computing in Science ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A0pxPATXH7X9fB3HtZwRUknOHmhK~aP8jQI05u6oneRkfEi0jSyeSF9cdqd8ssPZtGtu84aFgQDGzrcIgrj-U0pjc6bBh996RC2G5NjTOky6iIPx9e11u5GGTnVP4DvFyhWiYOJLYGkC34rVZ1lc31WyIC6Ne8DPSmsUsDaoHA8deV-z9YgbFV2p7s30pC69Ts8tRn5dhApEWQTo_",
+          "links": [
+            {
+              "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043538527009,-N380043538598010,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "PD Dr. Ralf Holtkamp",
+                  "name": "Mathematik I f\u00fcr Studierende der Physik",
+                  "short": "Mathe I_Phys-V",
+                  "type": "000000000000022",
+                  "id": "65-801",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "08:00",
+                      "end": "10:00 ",
+                      "hs": "ESA A"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "08:00",
+                      "end": "10:00 ",
+                      "hs": "ESA A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043556507029,-N380043556512030,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "PD Dr. Ralf Holtkamp",
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "short": "Mathe I_Phys-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-802",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_1",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3 (nur f\u00fcr CiS)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_3",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_4",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3(nur f\u00fcr Erdsystemwissenschaften)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_5",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_6",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_7",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3 (nur f\u00fcr Erdsystemwissenschaften)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_8",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_9",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_10",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3 (nur f\u00fcr Erdsystemwissenschaften)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-802_11",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-804 Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043624963056,-N380043624911057,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+                  "short": "Mathe I_Phys-T",
+                  "type": "000000000000016",
+                  "id": "65-804",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+                  "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 1",
+                  "dozent": "N.N.",
+                  "type": "000000000000016",
+                  "id": "65-804_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+                  "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 2",
+                  "dozent": "N.N.",
+                  "type": "000000000000016",
+                  "id": "65-804_1",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-806 Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043730125063,-N380043730169064,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+                  "short": "Mathe I_Phys-A\u00dc",
+                  "type": "000000000000077",
+                  "id": "65-806",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH2-CiS: Mathematik II f\u00fcr Studierende Computing in Science ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AqyORO8APc9ar6WpMhbf~urOaKP8J3I8QSDn1WnSQtN4Fa4-YUCHLHYfWGfrgo1MwQ3ndX-OZ5Y1QR-~9VwrkcDzCmDMRi3fcuVyiAAdjx5~vKfDWk3oREK272ABbiqeI7LJNYgJUPP3h5wdtr61y~0Gy2foG2IqyJuw9J88D7RjVC4~8ZFyn80CTACvyoX7Pi522S5w48FBuFX8_",
+          "links": []
+        },
+        {
+          "name": " Modul Ma-P4: Numerische Mathematik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AW1fkvbVeU3zgvZPCyMQmONMWMmmHHkcFHLfWtvCd66ZQiAfIC-rClDxJh~WIkdr2-wfZjw4L-~s2glXQDoP39PhiIEzi4Su6nHNNwVNunJkOeqJSzggciEsGL80DR7ymADWWU0NVYIn7KQwWlnsZVzm1qaQRbhqipaH4xPJwED4nLrCuMxaQ5HK9mBgBNlnTWuHw0oYFo708tRk_",
+          "links": [
+            {
+              "name": "65-071 Numerische Mathematik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379423151587569,-N379423151577570,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Jens Struckmeier",
+                  "name": "Numerische Mathematik",
+                  "short": "P-Num-V",
+                  "type": "000000000000022",
+                  "id": "65-071",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "Geom H2"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "Geom H1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-072 \u00dcbungen zu Numerische Mathematik (3 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379423151656600,-N379423151623601,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Stefan Heitmann",
+                  "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)",
+                  "short": "P-Num-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-072",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)",
+                  "groupname": "\u00dcbungen zu Numerische Mathematik Gruppe 1 - Mo 16-18",
+                  "dozent": "Dr. Stefan Heitmann",
+                  "type": "000000000000021",
+                  "id": "65-072_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)",
+                  "groupname": "\u00dcbungen zu Numerische Mathematik Gruppe 2 - Di 10-12",
+                  "dozent": "Dr. Stefan Heitmann",
+                  "type": "000000000000021",
+                  "id": "65-072_1",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Numerische Mathematik (3 Gruppen)",
+                  "groupname": "\u00dcbungen zu Numerische Mathematik Gruppe 3 - Di 14-16",
+                  "dozent": "Dr. Stefan Heitmann",
+                  "type": "000000000000021",
+                  "id": "65-072_2",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH-Inf/STO1: Stochastik 1 f\u00fcr Studierende der Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-enoDJKMpVSF7xEwPXjqFqzQkSy48M02wjhXVe1ejsfAJZGK99pD1ZhCnK40WK91tLSnxFANqE4SVox~U2tKJ879tRghmdFvykwUmGZuaAA4xyUkmxu~E3QnK8WrQth4GY4NIH0KrPaXFq7MIARyawm5PkA7vFu1hkdbZmV35czQgfUN4muNJ24L4pvcZwk9B7zwy94yWbDCiO8_",
+          "links": []
+        }
+      ]
+    },
+    {
+      "name": " 3. Pflichtmodule Naturwissenschaftliche Informatik (CiS) ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AIym184NzlNWr-qMVy7jSJY55sTSWg98aZ-JpFiaDCnCUq3h~3Zf161DPoHMG0i3J9fJIKwHCxL9WYN0qChlBQT3G87agfLcrYqHc-XqKWuRHg04mRX2wm6qgQUqbgiecZuWuGrwuNa4l1kCL9YA1Fr7O5v-l3cm~8j8Dw5F-7TxOqhxorTCyeIB5Iv2oU12nu5fbZgusQLTNCmA_",
+      "links": [
+        {
+          "name": " Modul PHY-CiS-PS: Proseminar CiS Physik (ABK-Modul) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4iy4G~pQSegNsbylNJLGN~9Qr-0siqXucIVC6WPRFPldrRZiVbhJQ6iKXZZiMMcazgnzx9QPILUL5U8IFjL5K2aDAraxlwUO7ak6DiWiFpadb6zkcFBx0tFvMBF9MbnieP-mfgGaQz4mx17sizkRkHM7n6M7mr-aOtPNodnFEX4IqDSSrRSkEE1w5082AGK9uUc1w82NpQMF9JA_",
+          "links": [
+            {
+              "name": "66-780 Proseminar \u201eComputing in Science\u201c (CiS Physik)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379853809242012,-N379853809273013,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Nina Rohringer",
+                  "name": "Proseminar \u201eComputing in Science\u201c (CiS Physik)",
+                  "short": "ProSem CiS-Physik",
+                  "type": "000000000000003",
+                  "id": "66-780",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:00",
+                      "end": "13:30 ",
+                      "hs": "Jungiusstra\u00dfe 11B, Mikrostrukturpausenraum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-CiS-Pro: Projekt CiS Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgCONi8OUa8oYyZvA8~OBZbOLVGc-Dvb9AnV6nhEq9dhmoXnpa0mU~4h2xxJUQFRi-9irMUMGEGvfuuFuhtF7Hzc5R5M7m-R1LPfj6PA3rm9Gf5EN8dL-HU7r59BEFiIYCvZHcZAssy7TDUqzBGdDyL98FsF~r~pQaiL7hqp9-nPY-t0z9zYVzEMnO0L2bWxnacj~vdUkKsTXDuw_",
+          "links": [
+            {
+              "name": "66-784 Projekt CiS-Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379853809212018,-N379853809246019,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Sven-Olaf Moch",
+                  "name": "Projekt CiS-Physik",
+                  "short": "PHY-CiS-Pro",
+                  "type": "000000000000024",
+                  "id": "66-784",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-CiS-Sem: Seminar CiS Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AyoA9RBVPn-YAuqc~zCdryN8cViKWhblLCqAfv9V10~ctYEV2YnaqMrzFXD6FrovwkQDHbb-cKCdyXrBmvYT~Lr76prvwn~fSSxzmDILKOpL3CM7MLlZ36EemJXY9bwah~4qgkTlE~AqdZcVCVR6xPkeOR3-YrTWcYfljIxCOSEVZRYvvd74RTQZeNqnvKw~yP21Kf6tWoJ08T30_",
+          "links": []
+        },
+        {
+          "name": " Modul PHY-CiS-CP: Computational Physics ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AvmFmMJ~53NZ2TIRfNHo5Fu~rbUp0epiPpuAwun3jIf6KQPElnOeV0zw3mCjU4THeV8rn4VTC3af-CBrjlBuAorHyIJ6GTzk2P7wL27ntCNysDOcxAgfkt2CSTaNRVzi6QVmGKk5sYmn7eW~qc8qDYwVsDkvR17ewnbDKzing-WbqzbGTnfVEyxxT~uE7A1fowgF0Z29xiJL9pZI_",
+          "links": [
+            {
+              "name": "66-782 Computational physics",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379853809206020,-N379853809211021,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. G\u00fcnter Hans Walter Sigl",
+                  "name": "Computational physics",
+                  "short": "PHY-CiS-CP-V",
+                  "type": "000000000000022",
+                  "id": "66-782",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "12:30",
+                      "end": "14:00 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-783 Exercises in computational physics",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379853809291016,-N379853809235017,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. G\u00fcnter Hans Walter Sigl",
+                  "name": "Exercises in computational physics",
+                  "short": "PHY-CiS-CP-\u00dc",
+                  "type": "000000000000021",
+                  "id": "66-783",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:00",
+                      "end": "12:45 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " 4. Pflichtmodule im Schwerpunkt Physik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AmxA1U4wUb4nBkPb~3Wa4pOklQU3~w212iXGzWe125vndQWJu-Jiou7Jw7lAXJ86wv70EPtvBAlyeaDnFGpCOa92vhqDdnDP9C9giSPfNbQVqRze7raznogxeQfK0Tb~lLedgvXl9RnXG2w6Whidwaai7SNY2~8qItQ9iyx4a7STt4nmwhRfcXq5cutAg4lXtIknpUFdruTNn0aA_",
+      "links": [
+        {
+          "name": " Modul PHY-E1: Physik I ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ALnQgpqPIFhQF3rspwTLCsrSGp13-salAbckqBKtVLOvtNTTl7k1CDDPXgZa63jEctjgZHTcgQHl2BgGFqMzqoO0Tx9mc4BURrdKIyINlciXrcuKBMDIGf3dOWSVoibKJSh2luikwBhC8yeXVFPjPtjtKGc1kT3zdiYsbJ0yjfqUuy6K7dgG4srA6TxGHX9Nf9CBi8A31AE77TxM_",
+          "links": [
+            {
+              "name": "66-100 Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633497220262,-N379633497286263,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert",
+                  "name": "Physik I",
+                  "short": "Physik I",
+                  "type": "000000000000022",
+                  "id": "66-100",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:00",
+                      "end": "15:30 ",
+                      "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "09:00",
+                      "end": "10:30 ",
+                      "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-101 Einf\u00fchrung in die Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498909366,-N379633498916367,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Daniela Pfannkuche",
+                  "name": "Einf\u00fchrung in die Theoretische Physik I",
+                  "short": "Einf. Theo. Physik I",
+                  "type": "000000000000001",
+                  "id": "66-101",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "15:45",
+                      "end": "16:45 ",
+                      "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "10:45",
+                      "end": "12:00 ",
+                      "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-102 \u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633497012240,-N379633497097241,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "short": "\u00dcbg. Physik I",
+                  "type": "000000000000021",
+                  "id": "66-102",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe A",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_0",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "13:00",
+                      "end": "15:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe B",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "13:00",
+                      "end": "15:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe C",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_2",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "13:00",
+                      "end": "15:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe D",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_3",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "13:00",
+                      "end": "15:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe E",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_4",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "13:00",
+                      "end": "15:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe F",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_5",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "15:30",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe G",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_6",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "15:30",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe H",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_7",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "15:30",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe J",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_8",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "15:30",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe K",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_9",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "15:30",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe L",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_10",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:00",
+                      "end": "20:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe M",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_11",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:00",
+                      "end": "20:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe N",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_12",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:00",
+                      "end": "20:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe O",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_13",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:00",
+                      "end": "20:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe P",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_14",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:00",
+                      "end": "20:15",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe W - f\u00fcr WiederholerInnen",
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "type": "000000000000021",
+                  "id": "66-102_15",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:00",
+                      "end": "20:15",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-103 Tutorium zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498964364,-N379633498962365,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
+                  "name": "Tutorium zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+                  "short": "Tutorium Physik I",
+                  "type": "000000000000016",
+                  "id": "66-103",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-E2: Physik II ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7yZjBZ-IbJqixn0TmFzNE-gTX7YpUZP3724pgaXSmY11Q7ATR1~iJ1DqRILIGyi0pxCTKQUfVExN~QE54nWoldJ3Yq5MlAVjngkS4gR-D-outyWTU2hOCqDNSIlzycmja7YDWoqHaKA1k5dvE6PBTKdSyDUkepjTqS5P1Fpy1er9MytdbrlUGJ3PJLqtZfr1A1zGzNn3-yZwPMQ_",
+          "links": [
+            {
+              "name": "66-110 Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498581343,-N379633498567344,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns",
+                  "name": "Physik II",
+                  "short": "Physik II",
+                  "type": "000000000000022",
+                  "id": "66-110",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:00",
+                      "end": "15:30 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-111 Einf\u00fchrung in die Theoretische Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499600432,-N379633499626433,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Gudrid Moortgat-Pick",
+                  "name": "Einf\u00fchrung in die Theoretische Physik II",
+                  "short": "Einf.Theo. Physik II",
+                  "type": "000000000000001",
+                  "id": "66-111",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "15:45",
+                      "end": "16:45 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "12:00",
+                      "end": "13:15 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-112 \u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499797436,-N379633499795437,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                  "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+                  "short": "\u00dcbg. Physik II",
+                  "type": "000000000000021",
+                  "id": "66-112",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+                  "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II -  Gruppe D (Wiederholergruppe)",
+                  "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                  "type": "000000000000021",
+                  "id": "66-112_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "17:15",
+                      "end": "19:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+                  "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe A",
+                  "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                  "type": "000000000000021",
+                  "id": "66-112_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "11:15",
+                      "end": "13:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+                  "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe B",
+                  "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                  "type": "000000000000021",
+                  "id": "66-112_2",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "12:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+                  "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe C",
+                  "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                  "type": "000000000000021",
+                  "id": "66-112_3",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "12:30",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-113 Tutorium zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633499646434,-N379633499655435,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Caren Hagner; Prof. Dr. Dieter Horns; Prof. Dr. Gudrid Moortgat-Pick",
+                  "name": "Tutorium zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+                  "short": "Tutorium Physik II",
+                  "type": "000000000000016",
+                  "id": "66-113",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul: PHY-T2 Theoretische Physik II ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AVztDbW-0QnK9kVkglU20l6hM12R8okJVnQQ7XVEPiXN-EZoKFfWLqXtl6i35JDElMiap-Xab2-SDA~BJA3OuLT1o6bWNehJ3Kd-8onqYlpRrB6sC4VBZuvh70-660x0D1npa7oIeC14U4O6Qy739-fE2lu~eI3~ev-un3bR2bNFit9zkOMJFPdtiqGh3V4LwriYswzmw-hlDRnM_",
+          "links": []
+        },
+        {
+          "name": " Modul PHY-AP-I: Physikalisches Praktikum f\u00fcr Studierende der Naturwissenschaften ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AXjzAbhCMRcltqYnCEiFqFnR5x9hzEL0yFnTikL28L6nEzA7oF6tVMw9I4MSSn31-bHh3aGST--eyAUGsD5oD6qP1~gcX3wMSEMJK8oSepmxN0ZKUPFthRr73CM0A3MfUyToYnm3FtoUxFIHm7SvddjLWZXIezMr5Rx1BfNE-iwBFURI90WR0CBZ9716SB115Xh4VFxBZ6nP~9jo_",
+          "links": [
+            {
+              "name": "66-120 Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633982889713,-N379633982805714,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+                  "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+                  "short": "Prakt. I NatWiss",
+                  "type": "000000000000023",
+                  "id": "66-120",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            },
+            {
+              "name": "66-121 Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633982976719,-N379633982959720,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+                  "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+                  "short": "Prakt. I NatWiss",
+                  "type": "000000000000023",
+                  "id": "66-121",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " 5. Wahlpflichtbereich I - Informatik / Mathematik / Physik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ADiAOWxSaDoYjJOd7lZX2w-F6foDoYj6-5dD90diCDgusSaX7cf1KP0eRD-wOeSG9VNF0fE8RXhkrRkRC5DVJvTtqLnieTosBLt4vYfVcdaoNQF3DJFnrQOYyesUZUBgDmYu1rtww8Seg9o14FCQcSG6eiKMSlWVdo-cUxEwhmqPLZbJFb9oNzLTc5dyazHsa1Rv9O0Ct2c9RTUo_",
+      "links": [
+        {
+          "name": " Modul MATH3-CiS: Mathematik III f\u00fcr Studierende Computing in Science ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ag3Vi7RkHIbx-d4xsYSMn5uPzl9fLk34BTqw5U9JE6v9OAxp1JovUyFoC8MV9cmerox542ZtIkzgyj-0sCZCEc56YDgRv1SFwKx7QOuXpgxFe6KxCI2BbqO23CmxrjpCJnhjF~btLaY9YqF3qUWIPDrChpWwKBqW82tkBx4XQJix6ABWPEVHimvXB8yiQdVww--W7DsCdAl61Xfk_",
+          "links": [
+            {
+              "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750585073,-N380043750573074,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. J\u00f6rg Alexander Teschner",
+                  "name": "Mathematik III f\u00fcr Studierende der Physik",
+                  "short": "Mathe III_Phys-V",
+                  "type": "000000000000022",
+                  "id": "65-811",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:00",
+                      "end": "10:00 ",
+                      "hs": "Geom H1"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "08:00",
+                      "end": "10:00 ",
+                      "hs": "Geom H1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750630091,-N380043750652092,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "PD Dr. Ralf Holtkamp",
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "short": "Mathe III_Phys-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-812",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
+                  "dozent": "PD Dr. Ralf Holtkamp",
+                  "type": "000000000000021",
+                  "id": "65-812_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-812_1",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
+                  "dozent": "PD Dr. Ralf Holtkamp",
+                  "type": "000000000000021",
+                  "id": "65-812_2",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-812_3",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-812_4",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-812_5",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-812_6",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D2",
+                  "dozent": "PD Dr. Ralf Holtkamp",
+                  "type": "000000000000021",
+                  "id": "65-812_7",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-814 Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750713109,-N380043750798110,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+                  "short": "Mathe III_Phys-T",
+                  "type": "000000000000016",
+                  "id": "65-814",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+                  "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 1",
+                  "dozent": "N.N.",
+                  "type": "000000000000016",
+                  "id": "65-814_0"
+                },
+                {
+                  "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+                  "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 2",
+                  "dozent": "N.N.",
+                  "type": "000000000000016",
+                  "id": "65-814_1"
+                }
+              ]
+            },
+            {
+              "name": "65-816 Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N380043750807116,-N380043750838117,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+                  "short": "Mathe III_Phys-A\u00dc",
+                  "type": "000000000000077",
+                  "id": "65-816",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-CiS-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AdeSJBBcEGGjCbT1WTHpBQ7ciXlEKTdWfD7m6SVk5dYNCtZW4rbSVzt761utVr5Q2-VF7XeFBXJUaA~3hJqjyO1oQxgJo9TQ1P6PnUZLwA284y1NLDaQLhesRLPR9u2jGMnHhQrwD2mDQ-RxmTFF6xeSzZOO6OAv4Do-~NmKmU2xmB3T2WmTZh3VQ3Y8tFETLbBQMXy8KBFvV240_",
+          "links": [
+            {
+              "name": "66-786 Kleines Physikalisches Praktikum f\u00fcr Fortgeschrittene CiS B.Sc.",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379853809270022,-N379853809272023,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
+                  "name": "Kleines Physikalisches Praktikum f\u00fcr Fortgeschrittene CiS B.Sc.",
+                  "short": "Kl F-Prakt CIS",
+                  "type": "000000000000023",
+                  "id": "66-786",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-T3: Theoretische Physik III ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aui30ECZggFvI0Kivb6G7eIEwcrBXi31SWVFUpSpyQo3q1RzmEtgqrluUHCUZiuavUnND9gEuAkvIl1CUxzf5SZZC8EnEFmUsxhREjAEcW8OzDnbZ39eNDshkKe66DV07Djeh~ejLq5SBgwLum0O5SHKQcDGSJNcH-nD4t32uACCSSmKT9xA8ScS6YRdouxa7ZjUaT4c6d~hahLs_",
+          "links": [
+            {
+              "name": "66-190 Theoretische Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655779337260,-N379655779366261,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Gleb Arutyunov",
+                  "name": "Theoretische Physik III",
+                  "short": "Theor. Physik III",
+                  "type": "000000000000022",
+                  "id": "66-190",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "08:30",
+                      "end": "10:00 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "08:30",
+                      "end": "10:00 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655779366262,-N379655779340263,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Gleb Arutyunov",
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "short": "\u00dcbg. Th. Physik III",
+                  "type": "000000000000021",
+                  "id": "66-191",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe A",
+                  "dozent": "Prof. Dr. Gleb Arutyunov; Prof. Dr. Sven-Olaf Moch",
+                  "type": "000000000000021",
+                  "id": "66-191_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe B",
+                  "dozent": "Prof. Dr. Gleb Arutyunov",
+                  "type": "000000000000021",
+                  "id": "66-191_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe C",
+                  "dozent": "Prof. Dr. Gleb Arutyunov; Prof. Dr. Sven-Olaf Moch",
+                  "type": "000000000000021",
+                  "id": "66-191_2",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:00",
+                      "end": "13:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe D",
+                  "dozent": "Prof. Dr. Gleb Arutyunov",
+                  "type": "000000000000021",
+                  "id": "66-191_3",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:00",
+                      "end": "13:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe E",
+                  "dozent": "Prof. Dr. Gleb Arutyunov",
+                  "type": "000000000000021",
+                  "id": "66-191_4",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:30",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe F",
+                  "dozent": "Prof. Dr. Gleb Arutyunov",
+                  "type": "000000000000021",
+                  "id": "66-191_5",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:30",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Theoretischen Physik III",
+                  "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe G",
+                  "dozent": "Prof. Dr. Gleb Arutyunov",
+                  "type": "000000000000021",
+                  "id": "66-191_6",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:30",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-BKA: Berechenbarkeit, Komplexitat und Approximation ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ArH1NUI~OxJ2PVqGoZnuIuHJ1V5NGnkNMs9CQjRjHOJLYjkfZ5A269qosJBeqkLvhYsJUI7BT~v1XVVBblD5vNgxrwxp8J0ocNp309~mXl8Xy0M1ptBUjbhlEnUMoFPrdeC2RMYLJ5trg4nc4xJzcTNoDTMWAqoCkghrwpQMtnzBmrO4k-2dZFavlJf23pqZcJzyKYeIr5DmImAs_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-BV: Einf\u00fchrung in die Bildverarbeitung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3MRFZC5~6Ka7NsTCJkPe~ir8itj~ju~MgSFc-4iMpt0AQzZCw8v6xbMySOlZjfJDRura2rSLgBKkhd-titmOGjD3Od7VJW2-fMoAlCjbNOP0ST0JhKO~lX0QIXQ0clgsPbeiBm9WbFR8gHA4Yo8a-DFIxFGhhc2OHowgP~u3bEvxY9txYVV9xHlEE6-iTzESr8rSmFH4vWK6Ty8_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-DAIS: Data-driven Intelligent Systems ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AIvddtJH8UfGD0ZGXzCtcrOb4mPz3sND~nSqzTaSelpTg9wOY~-PedefrtOAToSEDDPBN8xBFxH21QLjfVmgA~tWyCnc8-SSjIW41nArM-E8VJDI2NjO~l-vnyjUzKLr5Vmvb~P0gLlYI9JmWZY025O4-ioulocdP47bMZSYduXXLWLbyRsu4D-pjpXZ2EPX2jEnd3MEvC6w1K9E_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-DMSV: Digitale Mediensignalverarbeitung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Av94CqAX1VSDXleuVQk5qjrNd5AFZjVZVXaBqC~53GGJOlTweuU8UwoHgkooaJ1E~ACs3gnToqVJyZ-gk6uD0SGfo2fnrm33p5ofIbC88DVyhm5vdxnnS2Fo~OptxA6K6HyAdQmV4r4w20zDzqVDE0qpOFOu18MJfZobbnv3s6trjqdEo1L~E9XxnzS~7RVr-ECjGsu8xIH0aV-U_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-DV: Datenvisualisierung und GPU-Computing ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHmyhbYTzJHofNFu7xVq8ViSKb8FxZ3aVbPVtzVRbeJ7TvZyl5p4y8kYntUZ-rf5YckCPEYPLSwua5xpsup6NJantXzpMOfJnwyOaaky-wk8f--ZIDoajq8jSRwehJX99djlOInsxpBZimDAZJi2~K5fSpfw52waEFlnPT9uE5buRerFSS5dATcXK~ug9Zqfire8L0LA940X5qwQ_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-ES: Eingebette Systeme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AGvyauMnYNmdJXk~xQ4iwywruRXGGFqO1t0jKggtDWT~WMfEgX77b~z22nl0K1dXxJ-f2xku5WfRWmFAB5vf2NjSAJAcekxCQvq8tTtY5dH0QcD7NEPfypvG5fFuR2WWLzTZ-l44VD5jTbqX1AYMu0QFNKbNsmYp~Q85qBx98aDmS5ZgbH15f1U~DDcCiBSv0OvJp7W~08HjC~-4_",
+          "links": [
+            {
+              "name": " Modul InfB-BKA: Berechenbarkeit, Komplexit\u00e4t und Approximation ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJSb5tljEueGqAXf43CF2CkdB71Xxmn6njNSacn59YPCP2rK1DiTnqw9jmGOc2h-21Ps2hFuYZO12C3~li0yBZKfa5VIl9fVewSe-f3t6nrovZtmiEjYwEnE~JokZBLkrqWb2V2j~5oSRxNGZWJBXfKzej2K7KN98k6FRkONNHvwFhsfcFOFCpppUQyvFiYrPHO5uA3Fyr~qgIHc_",
+              "links": []
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-HLR: Hochleistungsrechnen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AxmP0IiByH0-eBC9u97sseTAtQZD6X52-jWgCDqUJjG7LKOlDuEizsYcUVX9xTgu9kndpvQukx69OTAqDDujVHtulzKBgSZ0U2i6wh0sdtGBFmvJwpuP5gldXvRIoxsHSMO1jfaUlbV4H-Sm-fqkj3nBxzVBZ9WkTaWj3CfXl-hqyIhirCDlT4h4XjO4mDeMJtGTVNNW0xZcK3V0_",
+          "links": [
+            {
+              "name": "64-253 Vorlesung Hochleistungsrechnen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984936329344,-N379984936376345,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Thomas Ludwig",
+                  "name": "Vorlesung Hochleistungsrechnen",
+                  "short": "HLR - VL",
+                  "type": "000000000000022",
+                  "id": "64-253",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "DKRZ, R-034, Teilpr\u00e4senz"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "DKRZ, R-034, Teilpr\u00e4senz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-254 \u00dcbungen Hochleistungsrechnen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984936264336,-N379984936288337,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "name": "\u00dcbungen Hochleistungsrechnen",
+                  "short": "HLR - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-254",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Hochleistungsrechnen",
+                  "groupname": "\u00dcbungen Gr. 01 (Di. 14-16 Uhr)",
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "type": "000000000000021",
+                  "id": "64-254_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Hochleistungsrechnen",
+                  "groupname": "\u00dcbungen Gr. 02 (Do. 10-12 Uhr)",
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "type": "000000000000021",
+                  "id": "64-254_1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-IGMO: Informatikgest\u00fctzte Gestaltung und Modellierung von Organisationen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Abo9RGect2rEyDqq28nfwIybA6SLetSShjCbDZh89p1eYmV5Od3ePT5phBKGYor4igv7n~NyA~N1w97BpvUJONxsHq-T2tdwBCzbS0xQmmiYyVyz9XN8OwaTE1jiPUg68t8AUXIul~Yl~K7MMLEh7wHZfWNx3mEB9cjzVjStXC3~~J1VUB6g4VIYvkuPwDCUCoG0i4F5D1xvaeQw_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-MAKS: Modellierung und Analyse komplexer Systeme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ABFBe8TpfQsi17qki37u77tACFUh6X3hvUFxFEEqT7KWjypi4y-w~XJOG~Lxf3lvgR-jU36K9nmiRjAiZo~oL4-OHvaPN23XQ2jEIIAJ-citk3JI~WJk4prIX0PDan25pwQC2isbxncntVwsp8gvyNUxWxuo-wPpyfnZamp5agd0Ij2V6D0E1wZz4VqQByPu9BrEVwP1SncpJBG4_",
+          "links": [
+            {
+              "name": "64-256 Vorlesung Modellierung und Analyse komplexer Systeme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984936468362,-N379984936420363,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Vorlesung Modellierung und Analyse komplexer Systeme",
+                  "short": "MAKS - VL",
+                  "type": "000000000000022",
+                  "id": "64-256",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-257 \u00dcbungen Modellierung und Analyse komplexer Systeme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984936435364,-N379984936436365,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dimitri Popov",
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "short": "MAKS - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-257",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 01 (Mo. 10-12 Uhr) G-021/022",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 02 (Mo. 10-12 Uhr) - Digital",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 03 (Mo. 12-14 Uhr) G-021/022",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_2",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 04  (Mo. 12-14 Uhr) - Digital",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_3",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 05 (Di. 10-12 Uhr) - Digital",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_4",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-PGIT: Philosophie, Gesellschaft und IT ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AVfRNB9xm8Loyw7ISF624nWTWm-7C2nRy5RvfpGsDVXW48PxbZK1~gEQ7sAPtl9idY18ceFDuuxYF8~IZcbE1rHm9B5PR0-lnsxhSv20btt0Y6yui42WxPJXLRNo166Mwk5gVo0YK8nzlw5WBhWAV-5VjXTY9QssVGJNcA39UxlrZl9qhxcnd89mBslL4hDmY2xqua~Z6ZCUS9jA_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-RSB: Rechnerstrukturen und Betriebssysteme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AdC3lUMHSn5evI60KzTGNbMp2qn7zUvPO949XSgW42JGRCpjmeEKyCakD5YTBG2QBIh5PXVjSDiMBZHyUhQKvEuql3taclWT6YtpHxAhA5wGmaHtBEcaOtDoSQNBQJrhSr4uC9u1GiP4w5xXvG6B6GOlykTQIX8-CJAZVcpXwrp3w1zaJieMfRRevruAeSsE~ekWAeUHz25feruY_",
+          "links": [
+            {
+              "name": "64-040 Vorlesung Rechnerstrukturen und Betriebssysteme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379923411847710,-N379923411883711,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Andreas M\u00e4der; Prof. Dr. Jianwei Zhang",
+                  "name": "Vorlesung Rechnerstrukturen und Betriebssysteme",
+                  "short": "RS - VL",
+                  "type": "000000000000022",
+                  "id": "64-040",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-041 \u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379923412094724,-N379923412016725,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "short": "RS - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-041",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 01 (Mo. 12-13 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 02 (Mo. 12-13 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 03 (Mo. 12-13 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_2",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 04 (Mo. 13-14 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_3",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 05 (Mo. 13-14 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_4",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 06 (Mo. 13-14 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_5",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 07 (Mo. 14-15 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_6",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "15:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 08 (Mo. 14-15 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_7",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "15:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 09 (Mo. 15-16 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_8",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "15:15",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 10 (Mo. 15-16 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_9",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "15:15",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 11 ( Di. 10-11 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_10",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 12 (Di. 11-12 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_11",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "11:15",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 13 (Di. 12-13 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_12",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 14 (Di. 13-14 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_13",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 15 (Mi. 08-09 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_14",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "08:15",
+                      "end": "09:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 16 (Mi. 09-10 Uhr)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_15",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:15",
+                      "end": "10:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 17 (Blockveranstaltung)",
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Shuang Li; Cedric M\u00f6ller; Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_16"
+                }
+              ]
+            },
+            {
+              "name": "64-042 Praktikum zu Rechnerstrukturen und Betriebssysteme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379923411655684,-N379923411672685,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "short": "RS - Prak",
+                  "type": "000000000000023",
+                  "id": "64-042",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.01 (Mo. 9-12 Uhr) Nov-Dez - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.01a (Mo. 9-12 Uhr) Nov-Dez - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.02 (Mo. 12:30-15:30 Uhr) Nov-Dez - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_2",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:30",
+                      "end": "15:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.02a (Mo. 12:30-15:30 Uhr) Nov-Dez - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_3",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:30",
+                      "end": "15:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.03 (Di. 9-12 Uhr) Nov-Dez - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_4",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.03a (Di. 9-12 Uhr) Nov-Dez - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_5",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.04 (Di. 13-16 Uhr) Nov-Dez - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_6",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.04a (Di. 13-16 Uhr) Nov-Dez - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_7",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.05 (Mi. 9-12 Uhr) Nov-Dez - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_8",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.05a (Mi. 9-12 Uhr) Nov-Dez - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_9",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.06 (Fr. 8:30-11:30 Uhr) Nov-Dez - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_10",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:30",
+                      "end": "11:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.06a (Fr. 8:30-11:30 Uhr) Nov-Dez - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_11",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:30",
+                      "end": "11:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.07 (Mo. 9-12 Uhr) Januar - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_12",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.07a (Mo. 9-12 Uhr) Januar - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_13",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.08 (Mo. 12:30-15:30 Uhr) Januar- Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_14",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:30",
+                      "end": "15:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.08a (Mo. 12:30-15:30 Uhr) Januar - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_15",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:30",
+                      "end": "15:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.09 (Di. 9-12 Uhr) Januar - P\u00e4rsenz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_16",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.09a (Di. 9-12 Uhr) Januar - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_17",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.10 (Di. 13-16 Uhr) Januar - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_18",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.10a (Di. 13-16 Uhr) Januar - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_19",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.11 (Mi. 9-12 Uhr) Januar - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_20",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.11a (Mi. 9-12 Uhr) Januar - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_21",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.12 (Fr. 8:30-11:30 Uhr) Januar - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_22",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:30",
+                      "end": "11:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.12a (Fr. 8:30-11:30 Uhr) Januar - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_23",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:30",
+                      "end": "11:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.13 (Blockveranstaltung) - Pr\u00e4senz",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_24",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.13a (Blockveranstaltung) - Digital",
+                  "dozent": "Bernd Sch\u00fctz; Huajian Fang",
+                  "type": "000000000000023",
+                  "id": "64-042_25",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-SDS: Sprachdialogsysteme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3hWYO~RE3b6-hnrGeGerQAFPfiV1YLl64COhmkiYu2YoxLEVvnnF3VDjkCyZe~UiDq188AUp5VOzJ07-1kC1OtZor3BF4-Dgp1Hsz7e49eaQSwK7uAQa7F~GDdmRnnbyWfku34FAzxiGPdG8d3xh64HPzsfUpcXXpIKQIc89~9XnACLCkCiVCKp9-~5LtEEiH5pty~5rJZn-cN8_",
+          "links": [
+            {
+              "name": "64-238 Vorlesung Sprachdialogsysteme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379984936417358,-N379984936455359,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Timo Baumann",
+                  "name": "Vorlesung Sprachdialogsysteme",
+                  "short": "SDS - VL",
+                  "type": "000000000000022",
+                  "id": "64-238",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "D-125/129\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Teilpr\u00e4senz"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH4: Mathematik IV f\u00fcr Studierende der Physik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ah-~uUlKfnVbrNlINaZRgRiFpJUqwqKB6aFlsaM9Edj3cawAo5fMNCvbO7zp1RMnBskVhLOJHq6L6xeesF2zv37JcLIPhzdztvxtUfJYrUlPlANLjr56inxSgR-BPoTm~YIgQLRdjZ8IzOqq8TJutoE7JTuoifc30MOCI4GLQI~HY9-mky53dJbk4lF6zzTbRM1LZdA3NjCt~Ma8_",
+          "links": []
+        },
+        {
+          "name": " Modul Math-Inf/STO2: Stochastik 2 f\u00fcr Studierende der Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A93DDmKUNLcvwepwKQ6mhIIqupZgVlV~wbWx9hWp05BZQLlGC1EOw72cOa4OGjsxUz4IfFJz-d5hQTe0g793ZiBAt-DvWnv-G2FtK5-~E4WRLALnVz1QTp32e5ivHzvnt1-OPnrdQUKABRsSCJetWd1r4RxA0Z05t8wj1pBQgeEyZZmFpG2oyYZEUEmMxS0pBR8WqQimhxTvR-QM_",
+          "links": []
+        },
+        {
+          "name": " Modul Ma-WP12: Einf\u00fchrung in die Mathematische Modellierung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4BaCJuJZT-P9QuXQIbYDEtZeL9HrRovGWTTgqFJtHSi~rpKl6d0810TWsjfAeK7IR5XacA-NS-1wk9ytoW1JELfevzhQgueLHq~bfYn83bVggYioBMhOD8yHSS4yAfPDjKIJsi~Wr8ssFC8Xw82ZI2uphwBhaB2BbwjS45xPpO67VP~Jrjz7obQbJBg3QDEjuOJ6zDpH5rM4sYA_",
+          "links": []
+        },
+        {
+          "name": " Modul Ma-WP11: Gew\u00f6hnliche Differentialgleichungen und Dynamische Systeme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbWEyHTpwCeyv3UfCDkQJOEZNAa1qFJ3ezBl1OXHBmKzLIlqCaPiYbmjGNvdDxwUqXWalQFJGjY5fws05OG4Nq1LdkaQzw7gw6oIPTzLfz915-wEEPRQFfqYScZlZdLrdj6Jf04LQRat~t1ZbsMMJ1FMe88sD5lywUUuuEg2-vV3dmLcT2bZqC~NWKi83HZYP3a35utDHKdaY2LY_",
+          "links": []
+        },
+        {
+          "name": " Modul Ma-WP14: Optimierung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ap7XUP6yaYR-UZlm1Aq-SfzrFKE~ifmm8jboq9vBDoRSfV3-55GZX7bnXDS6rLO5gSiEq7erbTdAOI5NxhQbIGkxwDZIQ0HOOXzZY8gSk9SbdkXKTHn~4m9Yq6lgwlFvK1mRGe~tSQKDoAZ0USzVZRu~7um2jGFvoMKhXYLeee-l0OT4XgsGQMdUtceIdjE2KM-qc-Hs-D76SvrM_",
+          "links": []
+        },
+        {
+          "name": " Modul Ma-WP13: Approximation ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3~LzBgRpd0Bb3oFZg415a6j-kG-OQfbSDVnQrey2XBrZZy74J48rJMwI-YbiGoegkyWoTKBwlB6rW6BFQ4zHU178I8Qhe~U5B9Zt9V6t2krnNgH-xc7D60KzhaPNLJY0HZIGUyja8gzfk5SL0EPLSJM0uEwVMS-bFOYUHDepa42J~sO~KqvwoKED8-tjvXBDt5pGZQHbSV0imaA_",
+          "links": [
+            {
+              "name": "65-171 Approximation",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379423155164649,-N379423155187650,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Claus R\u00fcdiger Goetz",
+                  "name": "Approximation",
+                  "short": "WP-Approx-V",
+                  "type": "000000000000022",
+                  "id": "65-171",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "Geom H6"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "Geom H6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-172 \u00dcbungen zu Approximation",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379423155084621,-N379423155098622,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Claus R\u00fcdiger Goetz",
+                  "name": "\u00dcbungen zu Approximation",
+                  "short": "WP-Approx-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-172",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "Geom H6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul Ma-P3: H\u00f6here Analysis ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ATvjEVrclEO9Ba8yGNGrbWI6P8HEEQjUYRt2XA1i5a8bzNPWeDzt7lVFU2DUgvmXzF9LVJIPRxjdSzpJ12G5JP-8efzKREocE-kDEEn-RUOnQXp4JXyp7mMT3wiMbW-vk8IsAhavxPlpEKudh9pBbrdJNOKbhKILdl-O4M~26O4nv7NdNhUh7f0Ef3kX8xqAtdvVi~7tZdEjEZYk_",
+          "links": [
+            {
+              "name": "65-051 H\u00f6here Analysis",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379423151374496,-N379423151355497,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Armin Iske",
+                  "name": "H\u00f6here Analysis",
+                  "short": "P-HAn-V",
+                  "type": "000000000000022",
+                  "id": "65-051",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "Geom H1"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "Geom H2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-052 \u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379423151521590,-N379423151512591,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Lars Poppe",
+                  "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+                  "short": "P-HAn-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-052",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+                  "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 1 - Mo 16-18",
+                  "dozent": "Lars Poppe",
+                  "type": "000000000000021",
+                  "id": "65-052_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+                  "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 2 - Mo 16-18",
+                  "dozent": "Lars Poppe",
+                  "type": "000000000000021",
+                  "id": "65-052_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+                  "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 3 - Mi 10-12",
+                  "dozent": "Lars Poppe",
+                  "type": "000000000000021",
+                  "id": "65-052_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+                  "groupname": "\u00dcbungen zu H\u00f6here Analysis Gruppe 4 - Do 16-18",
+                  "dozent": "Lars Poppe",
+                  "type": "000000000000021",
+                  "id": "65-052_3",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " 6. Wahlpflichtbereich II: Physik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYGgoOeWBtfhJZr1guypOotFTwnE2mVgBf5BW1yNTbjhKMMbFD7vWFU2XKy0mJLib3cucJazVu0yZG7BX7qknJhVuyFCowXOromZWJjQRf~WVYZJl~c~tZEcViuIvyf9sX~~GYBr58hoXLHuIsskwJAFuNjAGNmqJvTMdJb4EDkGP1oFEvfx47RDaXAyp7ST5rciqJLZBQI~m~ac_",
+      "links": [
+        {
+          "name": " Modul PHY-E4: Festk\u00f6rperphysik (Physik IV) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AixK9HOjVF5qxrDMEYw8jToaU6xjR3VyNvgTGrscBCpeDqO27XSLdGPgxHGJbNeYSodpTeVn41DwDE7plmNt4grZyh8dtDVugyK~1QhRL8qIZp7ETBZCjI79heYvf7CD1L4DhbsAxawbO253Fm8IxYlQYPKuujbC~Znx8eC6YhZ1ACkqspbLDTvS2tM7pZaPI4p-0gk80hvpXC6A_",
+          "links": []
+        },
+        {
+          "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AnS0yMGqMHLHHR7JEXpd5Ib8P6W2rC37XB52yJfApisXqR5eJPLjenmwFzvruS5K1KO33pZo3aOjYvfc5n8Z-FZOH7yz372ufyhmEIEly4-nxriTDrHcPUlo7~E7YnkGctZAQqyyinHr5V1-R~O2UMdJk7X0jTZAKxFt2r5TkDxRSQGf5x7gxLdvl9q8io0VLl4PVjkvy5GxvN-k_",
+          "links": [
+            {
+              "name": "66-150 Physik V",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655668536786,-N379655668563787,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "name": "Physik V",
+                  "short": "Physik V",
+                  "type": "000000000000022",
+                  "id": "66-150",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "66-151 \u00dcbungen zur Physik V",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379655668636788,-N379655668638789,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "name": "\u00dcbungen zur Physik V",
+                  "short": "\u00dcbg. Physik V",
+                  "type": "000000000000021",
+                  "id": "66-151",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zur Physik V",
+                  "groupname": "\u00dcbungen zur Physik V - Gruppe A",
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "type": "000000000000021",
+                  "id": "66-151_0",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:30",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik V",
+                  "groupname": "\u00dcbungen zur Physik V - Gruppe B",
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "type": "000000000000021",
+                  "id": "66-151_1",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:30",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik V",
+                  "groupname": "\u00dcbungen zur Physik V - Gruppe C",
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "type": "000000000000021",
+                  "id": "66-151_2",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:30",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik V",
+                  "groupname": "\u00dcbungen zur Physik V - Gruppe D (Englisch)",
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "type": "000000000000021",
+                  "id": "66-151_3",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:30",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik V",
+                  "groupname": "\u00dcbungen zur Physik V - Gruppe E",
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "type": "000000000000021",
+                  "id": "66-151_4",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:30",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik V",
+                  "groupname": "\u00dcbungen zur Physik V - Gruppe F",
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "type": "000000000000021",
+                  "id": "66-151_5",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:30",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zur Physik V",
+                  "groupname": "\u00dcbungen zur Physik V - Gruppe G",
+                  "dozent": "Prof. Dr. Peter Schleper; Prof. Dr. Christian Schwanenberger",
+                  "type": "000000000000021",
+                  "id": "66-151_6",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:30",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul PHY-E6: Atom-, Molek\u00fcl- und Laserphysik (Physik VI) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AvPAUb5SmfxQbLmilVKdJ3e-ibOs-OZ9A~AW79WIIB-lV0j5ykn3CbXhGM677jAF-eCvkbZocXByWtQS2ws5fcK9u68o4t0gigaZB5QjQEcR1SRIyj0cLmP2f080uoAj3SpfOhb24kEkXwSAacwgiaYg9NGDPhdKIjxM~eUoPPwP86-WcSxUxkHycO0HEQsf75XRZdRnbgs5ktDU_",
+          "links": []
+        }
+      ]
+    }
+  ]
+}
