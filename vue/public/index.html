@@ -10,7 +10,7 @@
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-
+    <script async src="https://api.countapi.xyz/hit/rarworld/a6088cb9-69ce-4ffe-bff8-690652d101c4/?callback=callbackName"></script>
 
   </head>
   <body>
@@ -75,10 +75,14 @@
       </section>
     </main>
     <footer class="text-muted py-5">
-      <div class="container mb-3">
-        <div class="float-start mb-1">Stundenplanner Uni HH SS 2022</div>
-        <div class="float-end mb-1">&copy; rarworld 2021</div>
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-3 text-start">Stundenplanner Uni HH SS 2022</div>
+          <div class="col text-center">This page got <span id="visits" class="badge rounded-pill bg-secondary"></span> views.</div>
+          <div class="col-3 text-end">&copy; rarworld 2021-2022</div>
+        </div>
       </div>
     </footer>
+    <script type="text/javascript">function callbackName(response) {document.getElementById('visits').innerText = response.value;}</script>
   </body>
 </html>
