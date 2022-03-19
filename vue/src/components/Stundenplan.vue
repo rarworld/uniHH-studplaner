@@ -100,9 +100,9 @@
         @delModal="delVorlesung"
         @modalCancel="hideModal" />
       
-      <div id="stats">
-        <div class="row" >
-          <div class="col-5" v-for="li in dataInfo" :key="li.name">
+      <div id="stats" class="text-muted py-5">
+        <div class="row" v-for="li in dataInfo" :key="li.name" >
+          <div class="col-5 text-start">
             {{li.name}} data from {{li.parsed}}
           </div>
         </div>
@@ -147,11 +147,7 @@ export default {
     },
     methods: {
         addToTable(element) {
-          console.log("HALLO")
-          console.log(element['time'])
-          console.log("HALLO ENDE")
           if(!element['time'] || element['time'].length == 0){
-          console.log("Test1")
             var tt = {
               'id': element['id'],
               'name': element['name'],
@@ -162,7 +158,6 @@ export default {
             this.timelessTable.push(tt)
           }
           if(element['time'] && element['time'].length > 0){
-            console.log("Test2")
             element["time"].forEach(slotTmp => {
               var slot = slotTmp['slot']
               var tt = {
