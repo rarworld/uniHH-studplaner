@@ -103,7 +103,7 @@
       <div id="stats" class="text-muted py-5">
         <div class="row" v-for="li in dataInfo" :key="li.name" >
           <div class="col-5 text-start">
-            {{li.name}} data from {{li.parsed}}
+            <b>{{li.name}} </b> data from {{li.parsed}}
           </div>
         </div>
       </div>
