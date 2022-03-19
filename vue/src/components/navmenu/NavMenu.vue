@@ -1,8 +1,10 @@
 <template>
-  <navsubmenu v-for="(sub,index) in navListe" :key="'0_'+index" :level="'_0'+index" 
+  <div>
+    <navsubmenu v-for="(sub,index) in navListe" :key="'0_'+index" :level="'_0'+index" 
       :submenu="sub" @navSubMenuInput="$emit('navMenuInput',$event)" :activeVorlesungen="activeVorlesungen">
 
-  </navsubmenu>
+    </navsubmenu>
+  </div>
 </template>
 
 <script>

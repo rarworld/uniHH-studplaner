@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div id="stundenplanerApp">
       <div class="accordion" id="accordionFlushExample">
 
         <div class="accordion-item">
@@ -79,27 +79,35 @@
             </div>
           </div>
         </div>
+
+        <div>
+          <br />
+          <span>Aktive Vorlesungen: {{ activeVorlesungen }}</span>
+        </div>
       </div>
 
-      <div>
-        <br />
-        <span>Aktive Vorlesungen: {{ activeVorlesungen }}</span>
+      <timetable 
+        @box-hoover="onHoover"
+        @box-click="showModal"
+        :studTable="studTable"
+        :hoover="hoover"
+        :selected="selected"
+        :timelessTable="timelessTable" />
+      
+      <delModal 
+        v-show="isDelModalVisible"
+        :vId="delModalVid"
+        @delModal="delVorlesung"
+        @modalCancel="hideModal" />
+      
+      <div id="stats">
+        <div class="row" >
+          <div class="col-5" v-for="li in dataInfo" :key="li.name">
+            {{li.name}} data from {{li.parsed}}
+          </div>
+        </div>
       </div>
     </div>
-
-    <timetable 
-      @box-hoover="onHoover"
-      @box-click="showModal"
-      :studTable="studTable"
-      :hoover="hoover"
-      :selected="selected"
-      :timelessTable="timelessTable" />
-    
-    <delModal 
-      v-show="isDelModalVisible"
-      :vId="delModalVid"
-      @delModal="delVorlesung"
-      @modalCancel="hideModal" />
 </template>
 
 <script>
@@ -130,7 +138,8 @@ export default {
             activeVorlesungen: [],
             timelessTable: [],
             delModalVid: "",
-            isDelModalVisible: false
+            isDelModalVisible: false,
+            dataInfo: usersData['files']
         }
       },
     components: {
@@ -138,16 +147,22 @@ export default {
     },
     methods: {
         addToTable(element) {
+          console.log("HALLO")
+          console.log(element['time'])
+          console.log("HALLO ENDE")
           if(!element['time'] || element['time'].length == 0){
+          console.log("Test1")
             var tt = {
               'id': element['id'],
               'name': element['name'],
               'dozent': element['dozent'],
-              'hs': ""
+              'hs': "",
+              'time': ""
             }
             this.timelessTable.push(tt)
           }
           if(element['time'] && element['time'].length > 0){
+            console.log("Test2")
             element["time"].forEach(slotTmp => {
               var slot = slotTmp['slot']
               var tt = {
