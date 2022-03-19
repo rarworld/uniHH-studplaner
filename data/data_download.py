@@ -111,19 +111,19 @@ def parseOverview(jsonObj):
 
 overviewPhysik = { 
     'file':"linkList_Phy.json",
-    'name': "Physik Overview",
+    'name': "Physik",
     'url': START_URL_PHY,
     'links': []
 }
 overviewCis = { 
     'file':"linkList_Inf.json",
-    'name': "Computing in Science - Physik Overview",
+    'name': "Computing in Science - Physik",
     'url': START_URL_INF,
     'links': []
 }
 overviewTest = { 
     'file':"linkList_Tmp.json",
-    'name': "Computing in Science - Physik Overview",
+    'name': "Computing in Science - Physik",
     'url': "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000650,-N0,-N379633498964364,-N379633498962365,-N0,-N0,-N0",
     'links': []
 }
