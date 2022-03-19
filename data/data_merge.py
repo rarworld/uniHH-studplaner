@@ -1,21 +1,28 @@
 #! /usr/bin/env python3
 
 import json
+import datetime
 
 def loadFileIntoDic(dict, urlPath):
     with open(urlPath) as jsonFile:
-        jsonObject = json.load(jsonFile)
+        json_object = json.load(jsonFile)
         jsonFile.close()
     
-    for vorl in jsonObject:
+    for vorl in json_object['data']:
         dict[vorl['id']] = vorl
+    
+    return {
+        'name': json_object['name'],
+        'parsed': json_object['parsed']
+    }
 
 
 if __name__ == '__main__':
     dict={}
+    imported_files=[]
 
-    loadFileIntoDic(dict, "data"+"Inf"+".json")
-    loadFileIntoDic(dict, "data"+"Phy"+".json")
+    imported_files.append(loadFileIntoDic(dict, "data"+"Inf"+".json"))
+    imported_files.append(loadFileIntoDic(dict, "data"+"Phy"+".json"))
 
     lessonList=[]
     for k in dict:
@@ -26,7 +33,14 @@ if __name__ == '__main__':
     for k in lessonList:
         export.append(dict[k])
 
+    exportDate = datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
+    result = {
+        'exported': exportDate,
+        'files': imported_files,
+        'data': export
+    }
+
     with open("data.json", 'w') as outfile:
-        json.dump( export, outfile, indent=2)
+        json.dump( result, outfile, indent=2)
 
     print(f"total ",len(lessonList))

@@ -92,8 +92,14 @@ def prepareData(fileType):
                 tmp['slot'] = calcSlot(tmp)
             i +=1
 
+    result = {
+        'name': jsonObject['name'],
+        'parsed': jsonObject['date'],
+        'data': lessonList
+    }
+
     with open(f"data{fileType}.json", 'w') as outfile:
-        json.dump( lessonList, outfile, indent=2)
+        json.dump( result, outfile, indent=2)
 
     print(f"Exported ",i)
     print(f"Empty ", empty_count)

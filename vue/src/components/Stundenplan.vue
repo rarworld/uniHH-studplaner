@@ -123,7 +123,7 @@ export default {
     name: "Stundenplanner",
     data: function () {
         return {
-            vorlesungsListe: usersData,
+            vorlesungsListe: usersData['data'],
             studTable: createDataArray(),
             hoover: "",
             selected: "",

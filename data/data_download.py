@@ -2,6 +2,7 @@
 
 import sys
 import requests
+import datetime
 import json
 import re
 from bs4 import BeautifulSoup
@@ -143,7 +144,10 @@ if(len(sys.argv) == 2):
 else:
     exit()
 
+parsingDate = datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
+
 parseOverview(overviewJson)
 
+overviewJson['date'] = parsingDate
 with open(overviewJson['file'], 'w') as outfile:
     json.dump( overviewJson, outfile, indent=2)
