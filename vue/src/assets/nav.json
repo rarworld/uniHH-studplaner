@@ -1,6 +1,6 @@
 [
   {
-    "name": "Physik Overview",
+    "name": "Physik",
     "submenu": [
       {
         "name": " 1. Fachsemester ",
@@ -22,13 +22,8 @@
             "entries": []
           },
           {
-            "name": " Modul PHY-E1: Physik I (Mechanik & W\u00e4rmelehre) ",
+            "name": " Modul PHY-E1: Physik I (Mechanik und W\u00e4rmelehre) ",
             "submenu": [
-              {
-                "name": " Vertiefung zur Theoretischen Physik I ",
-                "submenu": [],
-                "entries": []
-              },
               {
                 "name": "66-100 Physik I",
                 "submenu": [],
@@ -72,6 +67,50 @@
                   {
                     "id": "66-102_3",
                     "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_4",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_5",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_6",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_7",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_8",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_9",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_10",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_11",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_12",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_13",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_14",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
                   }
                 ]
               },
@@ -89,7 +128,109 @@
             "entries": []
           },
           {
-            "name": " Modul PHY-AP I: Physikalisches Praktikum I f\u00fcr Naturwissenschaften ",
+            "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
+            "submenu": [
+              {
+                "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-801",
+                    "name": "Mathematik I f\u00fcr Studierende der Physik"
+                  }
+                ]
+              },
+              {
+                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-802",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_0",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_1",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_2",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_3",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_4",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_5",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_6",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_7",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_8",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_9",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_10",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_11",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  }
+                ]
+              },
+              {
+                "name": "65-804 Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-804",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_0",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_1",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  }
+                ]
+              },
+              {
+                "name": "65-806 Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-806",
+                    "name": "Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul PHY-AP I: Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften ",
             "submenu": [
               {
                 "name": "66-120 Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
@@ -108,32 +249,6 @@
                   {
                     "id": "66-121",
                     "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul PHY-AP II: Physikalisches Praktikum II f\u00fcr Naturwissenschaften ",
-            "submenu": [
-              {
-                "name": "66-122 Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-122",
-                    "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)"
-                  }
-                ]
-              },
-              {
-                "name": "66-123 Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-123",
-                    "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)"
                   }
                 ]
               }
@@ -192,50 +307,6 @@
                   {
                     "id": "66-112_3",
                     "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_4",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_5",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_6",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_7",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_8",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_9",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_10",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_11",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_12",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_13",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_14",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
                   }
                 ]
               },
@@ -253,7 +324,109 @@
             "entries": []
           },
           {
-            "name": " Modul PHY-AP II: Physikalisches Praktikum II f\u00fcr Naturwissenschaften ",
+            "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
+            "submenu": [
+              {
+                "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-801",
+                    "name": "Mathematik I f\u00fcr Studierende der Physik"
+                  }
+                ]
+              },
+              {
+                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-802",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_0",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_1",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_2",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_3",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_4",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_5",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_6",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_7",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_8",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_9",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_10",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  },
+                  {
+                    "id": "65-802_11",
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
+                  }
+                ]
+              },
+              {
+                "name": "65-804 Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-804",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_0",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_1",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  }
+                ]
+              },
+              {
+                "name": "65-806 Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-806",
+                    "name": "Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul PHY-AP II: Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften ",
             "submenu": [
               {
                 "name": "66-122 Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
@@ -272,108 +445,6 @@
                   {
                     "id": "66-123",
                     "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul MATH2: Mathematik II f\u00fcr Studierende der Physik ",
-            "submenu": [
-              {
-                "name": "65-801 Mathematik II f\u00fcr Studierende der Physik",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-801",
-                    "name": "Mathematik II f\u00fcr Studierende der Physik"
-                  }
-                ]
-              },
-              {
-                "name": "65-802 \u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-802",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_0",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_1",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_2",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_3",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_4",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_5",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_6",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_7",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_8",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_9",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_10",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_11",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  }
-                ]
-              },
-              {
-                "name": "65-804 Tutorium zu Mathematik II f\u00fcr Studierende der Physik (2 Gruppen)",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-804",
-                    "name": "Tutorium zu Mathematik II f\u00fcr Studierende der Physik (2 Gruppen)"
-                  }
-                ]
-              },
-              {
-                "name": "65-806 Anleitung zu den \u00dcbungen Mathematik II f\u00fcr Studierende der Physik",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-806",
-                    "name": "Anleitung zu den \u00dcbungen Mathematik II f\u00fcr Studierende der Physik"
-                  },
-                  {
-                    "id": "65-806_0",
-                    "name": "Anleitung zu den \u00dcbungen Mathematik II f\u00fcr Studierende der Physik"
-                  },
-                  {
-                    "id": "65-806_1",
-                    "name": "Anleitung zu den \u00dcbungen Mathematik II f\u00fcr Studierende der Physik"
                   }
                 ]
               }
@@ -418,6 +489,18 @@
                   {
                     "id": "66-131_2",
                     "name": "\u00dcbungen zur Physik III"
+                  },
+                  {
+                    "id": "66-131_3",
+                    "name": "\u00dcbungen zur Physik III"
+                  },
+                  {
+                    "id": "66-131_4",
+                    "name": "\u00dcbungen zur Physik III"
+                  },
+                  {
+                    "id": "66-131_5",
+                    "name": "\u00dcbungen zur Physik III"
                   }
                 ]
               },
@@ -435,61 +518,67 @@
             "entries": []
           },
           {
-            "name": " Modul PHY-T2: Quantenmechanik I (Theoretische Physik II) ",
+            "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
             "submenu": [
               {
-                "name": "66-180 Theoretische Physik II",
+                "name": "66-170 Theoretische Physik I",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-180",
-                    "name": "Theoretische Physik II"
+                    "id": "66-170",
+                    "name": "Theoretische Physik I"
                   }
                 ]
               },
               {
-                "name": "66-181 \u00dcbungen zur Theoretischen Physik II",
+                "name": "66-171 \u00dcbungen zur Theoretischen Physik I",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-181",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_0",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171_0",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_1",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171_1",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_2",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171_2",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_3",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171_3",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_4",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171_4",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_5",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171_5",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_6",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-171_6",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-181_7",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
+                    "id": "66-171_7",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
+                  }
+                ]
+              },
+              {
+                "name": "66-173 Tutorium zur Theoretischen Physik I",
+                "submenu": [],
+                "entries": [
                   {
-                    "id": "66-181_8",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
+                    "id": "66-173",
+                    "name": "Tutorium zur Theoretischen Physik I"
                   }
                 ]
               }
@@ -497,83 +586,85 @@
             "entries": []
           },
           {
-            "name": " Modul MATH2: Mathematik II f\u00fcr Studierende der Physik ",
+            "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
             "submenu": [
               {
-                "name": "65-801 Mathematik II f\u00fcr Studierende der Physik",
+                "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-801",
-                    "name": "Mathematik II f\u00fcr Studierende der Physik"
+                    "id": "65-811",
+                    "name": "Mathematik III f\u00fcr Studierende der Physik"
                   }
                 ]
               },
               {
-                "name": "65-802 \u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
+                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-802",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_0",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_0",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_1",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_1",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_2",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_2",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_3",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_3",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_4",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_4",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_5",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_5",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_6",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_6",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
-                    "id": "65-802_7",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_8",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_9",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_10",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
-                  },
-                  {
-                    "id": "65-802_11",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "id": "65-812_7",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   }
                 ]
               },
               {
-                "name": "65-804 Tutorium zu Mathematik II f\u00fcr Studierende der Physik (2 Gruppen)",
+                "name": "65-814 Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-804",
-                    "name": "Tutorium zu Mathematik II f\u00fcr Studierende der Physik (2 Gruppen)"
+                    "id": "65-814",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_0",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_1",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  }
+                ]
+              },
+              {
+                "name": "65-816 Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-816",
+                    "name": "Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik"
                   }
                 ]
               }
@@ -587,57 +678,53 @@
         "name": " 4. Fachsemester ",
         "submenu": [
           {
-            "name": " Modul PHY-E4: Festk\u00f6rperphysik (Physik IV) ",
+            "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
             "submenu": [
               {
-                "name": "66-140 Physik IV",
+                "name": "66-150 Physik V",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-140",
-                    "name": "Physik IV"
+                    "id": "66-150",
+                    "name": "Physik V"
                   }
                 ]
               },
               {
-                "name": "66-141 \u00dcbungen zu Physik IV",
+                "name": "66-151 \u00dcbungen zur Physik V",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-141",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-141_0",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151_0",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-141_1",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151_1",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-141_2",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151_2",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-141_3",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151_3",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-141_4",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151_4",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-141_5",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151_5",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-141_6",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_7",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-151_6",
+                    "name": "\u00dcbungen zur Physik V"
                   }
                 ]
               }
@@ -645,57 +732,67 @@
             "entries": []
           },
           {
-            "name": " Modul PHY-E6: Atom-, Molek\u00fcl- und Laserphysik (Physik VI) ",
+            "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
             "submenu": [
               {
-                "name": "66-160 Physik VI",
+                "name": "66-170 Theoretische Physik I",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-160",
-                    "name": "Physik VI"
+                    "id": "66-170",
+                    "name": "Theoretische Physik I"
                   }
                 ]
               },
               {
-                "name": "66-161 \u00dcbungen zur Physik VI",
+                "name": "66-171 \u00dcbungen zur Theoretischen Physik I",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-161",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_0",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_0",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_1",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_1",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_2",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_2",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_3",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_3",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_4",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_4",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_5",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_5",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_6",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_6",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
                   },
                   {
-                    "id": "66-161_7",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-171_7",
+                    "name": "\u00dcbungen zur Theoretischen Physik I"
+                  }
+                ]
+              },
+              {
+                "name": "66-173 Tutorium zur Theoretischen Physik I",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-173",
+                    "name": "Tutorium zur Theoretischen Physik I"
                   }
                 ]
               }
@@ -703,263 +800,85 @@
             "entries": []
           },
           {
-            "name": " Modul PHY-T2: Quantenmechanik I (Theoretische Physik II) ",
+            "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
             "submenu": [
               {
-                "name": "66-180 Theoretische Physik II",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-180",
-                    "name": "Theoretische Physik II"
-                  }
-                ]
-              },
-              {
-                "name": "66-181 \u00dcbungen zur Theoretischen Physik II",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-181",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_0",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_1",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_2",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_3",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_4",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_5",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_6",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_7",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_8",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul MATH4: Mathematik IV f\u00fcr Studierende der Physik ",
-            "submenu": [
-              {
-                "name": "65-811 Mathematik IV f\u00fcr Studierende der Physik",
+                "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
                 "submenu": [],
                 "entries": [
                   {
                     "id": "65-811",
-                    "name": "Mathematik IV f\u00fcr Studierende der Physik"
+                    "name": "Mathematik III f\u00fcr Studierende der Physik"
                   }
                 ]
               },
               {
-                "name": "65-812 \u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
+                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
                     "id": "65-812",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_0",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_1",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_2",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_3",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_4",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_5",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_6",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   },
                   {
                     "id": "65-812_7",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
                   }
                 ]
               },
               {
-                "name": "65-814 Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)",
+                "name": "65-814 Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
                     "id": "65-814",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
                   },
                   {
                     "id": "65-814_0",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
                   },
                   {
                     "id": "65-814_1",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
-                  },
-                  {
-                    "id": "65-814_2",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          }
-        ],
-        "entries": []
-      },
-      {
-        "name": " 5. Fachsemester ",
-        "submenu": [
-          {
-            "name": " Modul PHY-E4: Festk\u00f6rperphysik (Physik IV) ",
-            "submenu": [
-              {
-                "name": "66-140 Physik IV",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-140",
-                    "name": "Physik IV"
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
               },
               {
-                "name": "66-141 \u00dcbungen zu Physik IV",
+                "name": "65-816 Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-141",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_0",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_1",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_2",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_3",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_4",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_5",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_6",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_7",
-                    "name": "\u00dcbungen zu Physik IV"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul PHY-E6: Atom-, Molek\u00fcl- und Laserphysik (Physik VI) ",
-            "submenu": [
-              {
-                "name": "66-160 Physik VI",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-160",
-                    "name": "Physik VI"
-                  }
-                ]
-              },
-              {
-                "name": "66-161 \u00dcbungen zur Physik VI",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-161",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_0",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_1",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_2",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_3",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_4",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_5",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_6",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_7",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "65-816",
+                    "name": "Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik"
                   }
                 ]
               }
@@ -991,81 +910,141 @@
               }
             ],
             "entries": []
-          },
+          }
+        ],
+        "entries": []
+      },
+      {
+        "name": " 5. Fachsemester ",
+        "submenu": [
           {
-            "name": " Modul MATH4: Mathematik IV f\u00fcr Studierende der Physik ",
+            "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
             "submenu": [
               {
-                "name": "65-811 Mathematik IV f\u00fcr Studierende der Physik",
+                "name": "66-150 Physik V",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-811",
-                    "name": "Mathematik IV f\u00fcr Studierende der Physik"
+                    "id": "66-150",
+                    "name": "Physik V"
                   }
                 ]
               },
               {
-                "name": "65-812 \u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
+                "name": "66-151 \u00dcbungen zur Physik V",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-812",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-151",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "65-812_0",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-151_0",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "65-812_1",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-151_1",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "65-812_2",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-151_2",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "65-812_3",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-151_3",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "65-812_4",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-151_4",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "65-812_5",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-151_5",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "65-812_6",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
+                    "id": "66-151_6",
+                    "name": "\u00dcbungen zur Physik V"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
+            "submenu": [
+              {
+                "name": "66-190 Theoretische Physik III",
+                "submenu": [],
+                "entries": [
                   {
-                    "id": "65-812_7",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
+                    "id": "66-190",
+                    "name": "Theoretische Physik III"
                   }
                 ]
               },
               {
-                "name": "65-814 Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)",
+                "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-814",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
+                    "id": "66-191",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "65-814_0",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
+                    "id": "66-191_0",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "65-814_1",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
+                    "id": "66-191_1",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "65-814_2",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
+                    "id": "66-191_2",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_3",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_4",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_5",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_6",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul PHY-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
+            "submenu": [
+              {
+                "name": "66-455 Physikalisches Praktikum f\u00fcr Fortgeschrittene",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-455",
+                    "name": "Physikalisches Praktikum f\u00fcr Fortgeschrittene"
+                  }
+                ]
+              },
+              {
+                "name": "66-456 Begleitseminar zum Physikalischen Praktikum f\u00fcr Fortgeschrittene",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-456",
+                    "name": "Begleitseminar zum Physikalischen Praktikum f\u00fcr Fortgeschrittene"
                   }
                 ]
               }
@@ -1079,115 +1058,53 @@
         "name": " 6. Fachsemester ",
         "submenu": [
           {
-            "name": " Modul PHY-E4: Festk\u00f6rperphysik (Physik IV) ",
+            "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
             "submenu": [
               {
-                "name": "66-140 Physik IV",
+                "name": "66-190 Theoretische Physik III",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-140",
-                    "name": "Physik IV"
+                    "id": "66-190",
+                    "name": "Theoretische Physik III"
                   }
                 ]
               },
               {
-                "name": "66-141 \u00dcbungen zu Physik IV",
+                "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-141",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-191",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "66-141_0",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-191_0",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "66-141_1",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-191_1",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "66-141_2",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-191_2",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "66-141_3",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-191_3",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "66-141_4",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-191_4",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "66-141_5",
-                    "name": "\u00dcbungen zu Physik IV"
+                    "id": "66-191_5",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   },
                   {
-                    "id": "66-141_6",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_7",
-                    "name": "\u00dcbungen zu Physik IV"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul PHY-E6: Atom-, Molek\u00fcl- und Laserphysik (Physik VI) ",
-            "submenu": [
-              {
-                "name": "66-160 Physik VI",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-160",
-                    "name": "Physik VI"
-                  }
-                ]
-              },
-              {
-                "name": "66-161 \u00dcbungen zur Physik VI",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-161",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_0",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_1",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_2",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_3",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_4",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_5",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_6",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_7",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-191_6",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
                   }
                 ]
               }
@@ -1201,32 +1118,12 @@
         "name": " ABK-Module f\u00fcr Physik (B.Sc.) ",
         "submenu": [
           {
-            "name": "66-855 How to read, understand and assess the quality of (experimental) publications",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-855",
-                "name": "How to read, understand and assess the quality of (experimental) publications"
-              }
-            ]
-          },
-          {
             "name": "66-860 Arbeiten mit Gruppen II - Leitung einer Fachtutoriumsgruppe",
             "submenu": [],
             "entries": [
               {
                 "id": "66-860",
                 "name": "Arbeiten mit Gruppen II - Leitung einer Fachtutoriumsgruppe"
-              }
-            ]
-          },
-          {
-            "name": "66-870 Wissenschaftliches Rechnen",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-870",
-                "name": "Wissenschaftliches Rechnen"
               }
             ]
           },
@@ -1247,36 +1144,6 @@
                 "name": "Darstellung wissenschaftlicher Ergebnisse"
               }
             ]
-          },
-          {
-            "name": "66-875 Machine learning and deep learning",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-875",
-                "name": "Machine learning and deep learning"
-              }
-            ]
-          },
-          {
-            "name": "66-876 Algorithmen zur Datenanalyse in C++",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-876",
-                "name": "Algorithmen zur Datenanalyse in C++"
-              }
-            ]
-          },
-          {
-            "name": "66-879 Open Source Software Development mit Python",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-879",
-                "name": "Open Source Software Development mit Python"
-              }
-            ]
           }
         ],
         "entries": []
@@ -1295,12 +1162,12 @@
             ]
           },
           {
-            "name": "66-505 Proseminar: Einf\u00fchrung in die Laser-Plasma-Beschleunigung",
+            "name": "66-504 Proseminar: Theorie und Praxis moderner Beschleuniger",
             "submenu": [],
             "entries": [
               {
-                "id": "66-505",
-                "name": "Proseminar: Einf\u00fchrung in die Laser-Plasma-Beschleunigung"
+                "id": "66-504",
+                "name": "Proseminar: Theorie und Praxis moderner Beschleuniger"
               }
             ]
           },
@@ -1315,42 +1182,32 @@
             ]
           },
           {
-            "name": "66-508 Proseminar: R\u00f6ntgenphysik und Photon Science",
+            "name": "66-508 Proseminar: R\u00f6ntgenphysik und Photon Science: Synchrotrons, FELs und Laser",
             "submenu": [],
             "entries": [
               {
                 "id": "66-508",
-                "name": "Proseminar: R\u00f6ntgenphysik und Photon Science"
+                "name": "Proseminar: R\u00f6ntgenphysik und Photon Science: Synchrotrons, FELs und Laser"
               }
             ]
           },
           {
-            "name": "66-509 Proseminar: Astroteilchenphysik und \u00dcberpr\u00fcfung der nuklearen Abr\u00fcstung",
+            "name": "66-510 Proseminar: Grundlagen nanostrukturierter Festk\u00f6rper",
             "submenu": [],
             "entries": [
               {
-                "id": "66-509",
-                "name": "Proseminar: Astroteilchenphysik und \u00dcberpr\u00fcfung der nuklearen Abr\u00fcstung"
-              }
-            ]
-          },
-          {
-            "name": "66-511 Proseminar: Topologische Materialien als Basis neuer Quantentechnologien",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-511",
-                "name": "Proseminar: Topologische Materialien als Basis neuer Quantentechnologien"
-              }
-            ]
-          },
-          {
-            "name": "66-512 Proseminar: Grundlagen nanostrukturierter Festk\u00f6rper",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-512",
+                "id": "66-510",
                 "name": "Proseminar: Grundlagen nanostrukturierter Festk\u00f6rper"
+              }
+            ]
+          },
+          {
+            "name": "66-516 Proseminar: Visionen der Festk\u00f6rperforschung",
+            "submenu": [],
+            "entries": [
+              {
+                "id": "66-516",
+                "name": "Proseminar: Visionen der Festk\u00f6rperforschung"
               }
             ]
           },
@@ -1365,12 +1222,32 @@
             ]
           },
           {
-            "name": "66-525 Proseminar: Gravitationswellenastronomie",
+            "name": "66-524 Proseminar: Molek\u00fclphysik",
             "submenu": [],
             "entries": [
               {
-                "id": "66-525",
-                "name": "Proseminar: Gravitationswellenastronomie"
+                "id": "66-524",
+                "name": "Proseminar: Molek\u00fclphysik"
+              }
+            ]
+          },
+          {
+            "name": "66-526 Proseminar: Kryptographie und Quantenschl\u00fcsselverteilung",
+            "submenu": [],
+            "entries": [
+              {
+                "id": "66-526",
+                "name": "Proseminar: Kryptographie und Quantenschl\u00fcsselverteilung"
+              }
+            ]
+          },
+          {
+            "name": "66-529 Proseminar: Photonen",
+            "submenu": [],
+            "entries": [
+              {
+                "id": "66-529",
+                "name": "Proseminar: Photonen"
               }
             ]
           },
@@ -1385,7 +1262,7 @@
             ]
           },
           {
-            "name": "66-532 Proseminar: Moderne Fragen der Stellarastrophysik\t",
+            "name": "66-532 Proseminar: Moderne Fragen der Stellarastrophysik",
             "submenu": [],
             "entries": [
               {
@@ -1395,72 +1272,42 @@
             ]
           },
           {
-            "name": "66-535 Proseminar: Physics of dark matter",
+            "name": "66-534 Proseminar: Energiewende, physikalische und \u00f6konomische Grundlagen",
             "submenu": [],
             "entries": [
               {
-                "id": "66-535",
-                "name": "Proseminar: Physics of dark matter"
+                "id": "66-534",
+                "name": "Proseminar: Energiewende, physikalische und \u00f6konomische Grundlagen"
               }
             ]
           },
           {
-            "name": "66-540 Proseminar: Pfadintegrale in der Quantenmechanik",
+            "name": "66-537 Proseminar: Spezielle Probleme in der Quantenmechanik",
             "submenu": [],
             "entries": [
               {
-                "id": "66-540",
-                "name": "Proseminar: Pfadintegrale in der Quantenmechanik"
+                "id": "66-537",
+                "name": "Proseminar: Spezielle Probleme in der Quantenmechanik"
               }
             ]
           },
           {
-            "name": "66-542 Proseminar: Festk\u00f6rperphysik und kalte Atome",
+            "name": "66-538 Proseminar: Quantencomputer: Von der Hardware zu Algorithmen",
             "submenu": [],
             "entries": [
               {
-                "id": "66-542",
-                "name": "Proseminar: Festk\u00f6rperphysik und kalte Atome"
+                "id": "66-538",
+                "name": "Proseminar: Quantencomputer: Von der Hardware zu Algorithmen"
               }
             ]
           },
           {
-            "name": "66-544 Proseminar: Chaos, Selbstorganisation und Musterbildung",
+            "name": "66-547 Proseminar: Recherchieren, Pr\u00e4sentieren und Diskutieren radioonkologischer Themen",
             "submenu": [],
             "entries": [
               {
-                "id": "66-544",
-                "name": "Proseminar: Chaos, Selbstorganisation und Musterbildung"
-              }
-            ]
-          },
-          {
-            "name": "66-545 Proseminar: Quantum computing",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-545",
-                "name": "Proseminar: Quantum computing"
-              }
-            ]
-          },
-          {
-            "name": "66-546 Proseminar: Computational physics",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-546",
-                "name": "Proseminar: Computational physics"
-              }
-            ]
-          },
-          {
-            "name": "66-548 Proseminar: Schl\u00fcsselentdeckungen der Astrophysik",
-            "submenu": [],
-            "entries": [
-              {
-                "id": "66-548",
-                "name": "Proseminar: Schl\u00fcsselentdeckungen der Astrophysik"
+                "id": "66-547",
+                "name": "Proseminar: Recherchieren, Pr\u00e4sentieren und Diskutieren radioonkologischer Themen"
               }
             ]
           }
@@ -1471,7 +1318,7 @@
         "name": " Wahlbereich f\u00fcr Physik (B.Sc.) ",
         "submenu": [
           {
-            "name": " Astronomie & Astrophysik ",
+            "name": " Astronomie und Astrophysik ",
             "submenu": [
               {
                 "name": " Modul PHY-Astro I: Astronomie und Astrophysik I ",
@@ -1543,6 +1390,10 @@
                       {
                         "id": "66-904_1",
                         "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II"
+                      },
+                      {
+                        "id": "66-904_2",
+                        "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II"
                       }
                     ]
                   }
@@ -1556,15 +1407,31 @@
             "name": " Introduction to biomedical physics ",
             "submenu": [
               {
-                "name": " Modul PHY-NF-BS01: Introduction to biomedical physics I (3 LP) ",
+                "name": " Modul PHY-NF-BS02: Introduction to biomedical physics II ",
                 "submenu": [
                   {
-                    "name": "66-675 Introduction to biomedical physics I",
+                    "name": "66-675 Introduction to biomedical physics II",
                     "submenu": [],
                     "entries": [
                       {
                         "id": "66-675",
-                        "name": "Introduction to biomedical physics I"
+                        "name": "Introduction to biomedical physics II"
+                      }
+                    ]
+                  }
+                ],
+                "entries": []
+              },
+              {
+                "name": " Modul PHY-NF-BS-P: Introduction to biomedical physics - laboratory ",
+                "submenu": [
+                  {
+                    "name": "66-677 Introduction to biomedical physics - laboratory",
+                    "submenu": [],
+                    "entries": [
+                      {
+                        "id": "66-677",
+                        "name": "Introduction to biomedical physics - laboratory"
                       }
                     ]
                   }
@@ -1575,7 +1442,7 @@
             "entries": []
           },
           {
-            "name": " Zentrum f\u00fcr Naturwissenschaft und Friedensfoschung ",
+            "name": " Zentrum f\u00fcr Naturwissenschaft und Friedensforschung ",
             "submenu": [],
             "entries": []
           },
@@ -1596,234 +1463,270 @@
     "entries": []
   },
   {
-    "name": "Computing in Science - Physik Overview",
+    "name": "Computing in Science - Physik",
     "submenu": [
       {
         "name": " 1. Pflichtmodule Informatik ",
         "submenu": [
           {
             "name": " Modul InfB-PfN1: Programmierung f\u00fcr Naturwissenschaften I ",
-            "submenu": [],
+            "submenu": [
+              {
+                "name": "67-100 Vorlesung Programmierung f\u00fcr Naturwissenschaften I",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "67-100",
+                    "name": "Vorlesung Programmierung f\u00fcr Naturwissenschaften I"
+                  }
+                ]
+              },
+              {
+                "name": "67-101 \u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "67-101",
+                    "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I"
+                  },
+                  {
+                    "id": "67-101_0",
+                    "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I"
+                  },
+                  {
+                    "id": "67-101_1",
+                    "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I"
+                  },
+                  {
+                    "id": "67-101_2",
+                    "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I"
+                  }
+                ]
+              }
+            ],
             "entries": []
           },
           {
             "name": " Modul InfB-PfN2: Programmierung f\u00fcr Naturwissenschaften II ",
-            "submenu": [
-              {
-                "name": "67-102 Vorlesung Programmierung f\u00fcr Naturwissenschaften II",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "67-102",
-                    "name": "Vorlesung Programmierung f\u00fcr Naturwissenschaften II"
-                  }
-                ]
-              },
-              {
-                "name": "67-103 \u00dcbung Programmierung f\u00fcr Naturwissenschaften II",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "67-103",
-                    "name": "\u00dcbung Programmierung f\u00fcr Naturwissenschaften II"
-                  },
-                  {
-                    "id": "67-103_0",
-                    "name": "\u00dcbung Programmierung f\u00fcr Naturwissenschaften II"
-                  },
-                  {
-                    "id": "67-103_1",
-                    "name": "\u00dcbung Programmierung f\u00fcr Naturwissenschaften II"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
             "name": " Modul InfB-ETI: Einf\u00fchrung in die Theoretische Informatik ",
-            "submenu": [
-              {
-                "name": "64-055 Vorlesung Einf\u00fchrung in die Theoretische Informatik",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-055",
-                    "name": "Vorlesung Einf\u00fchrung in die Theoretische Informatik"
-                  }
-                ]
-              },
-              {
-                "name": "64-056 \u00dcbungen Einf\u00fchrung in die Theoretische Informatik",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-056",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_0",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_1",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_2",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_3",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_4",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_5",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_6",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_7",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_8",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_9",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_10",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_11",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_12",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_13",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_14",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_15",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_16",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_17",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_18",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_19",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_20",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_21",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  },
-                  {
-                    "id": "64-056_22",
-                    "name": "\u00dcbungen Einf\u00fchrung in die Theoretische Informatik"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
             "name": " Modul InfB-AD: Algorithmen und Datenstrukturen ",
-            "submenu": [],
-            "entries": []
-          },
-          {
-            "name": " Modul InfB-GDB: Grundlagen von Datenbanken ",
-            "submenu": [],
-            "entries": []
-          },
-          {
-            "name": " Modul InfB-SWT: Softwaretechnik ",
             "submenu": [
               {
-                "name": "64-250 Vorlesung Softwaretechnik",
+                "name": "64-070 Vorlesung Algorithmen und Datenstrukturen",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "64-250",
-                    "name": "Vorlesung Softwaretechnik"
+                    "id": "64-070",
+                    "name": "Vorlesung Algorithmen und Datenstrukturen"
                   }
                 ]
               },
               {
-                "name": "64-251 \u00dcbungen zu Softwaretechnik",
+                "name": "64-071 \u00dcbungen Algorithmen und Datenstrukturen",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "64-251",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_0",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_0",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_1",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_1",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_2",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_2",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_3",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_3",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_4",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_4",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_5",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_5",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_6",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_6",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   },
                   {
-                    "id": "64-251_7",
-                    "name": "\u00dcbungen zu Softwaretechnik"
+                    "id": "64-071_7",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_8",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_9",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_10",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_11",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_12",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_13",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_14",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_15",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_16",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_17",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_18",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_19",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_20",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_21",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
+                  },
+                  {
+                    "id": "64-071_22",
+                    "name": "\u00dcbungen Algorithmen und Datenstrukturen"
                   }
                 ]
               }
             ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfB-GDB: Grundlagen von Datenbanken ",
+            "submenu": [
+              {
+                "name": "64-080 Vorlesung Grundlagen von Datenbanken",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-080",
+                    "name": "Vorlesung Grundlagen von Datenbanken"
+                  }
+                ]
+              },
+              {
+                "name": "64-081 \u00dcbungen Grundlagen von Datenbanken",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-081",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_0",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_1",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_2",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_3",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_4",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_5",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_6",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_7",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_8",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_9",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_10",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_11",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_12",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_13",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_14",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  },
+                  {
+                    "id": "64-081_15",
+                    "name": "\u00dcbungen Grundlagen von Datenbanken"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfB-SWT: Softwaretechnik ",
+            "submenu": [],
             "entries": []
           }
         ],
@@ -1834,146 +1737,160 @@
         "submenu": [
           {
             "name": " Modul MATH1-CiS: Mathematik I f\u00fcr Studierende Computing in Science ",
-            "submenu": [],
-            "entries": []
-          },
-          {
-            "name": " Modul MATH2-CiS: Mathematik II f\u00fcr Studierende Computing in Science ",
             "submenu": [
               {
-                "name": "65-801 Mathematik II f\u00fcr Studierende der Physik",
+                "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
                 "submenu": [],
                 "entries": [
                   {
                     "id": "65-801",
-                    "name": "Mathematik II f\u00fcr Studierende der Physik"
+                    "name": "Mathematik I f\u00fcr Studierende der Physik"
                   }
                 ]
               },
               {
-                "name": "65-802 \u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
+                "name": "65-802 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
                     "id": "65-802",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_0",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_1",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_2",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_3",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_4",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_5",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_6",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_7",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_8",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_9",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_10",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   },
                   {
                     "id": "65-802_11",
-                    "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)"
+                    "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)"
                   }
                 ]
               },
               {
-                "name": "65-804 Tutorium zu Mathematik II f\u00fcr Studierende der Physik (2 Gruppen)",
+                "name": "65-804 Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
                 "submenu": [],
                 "entries": [
                   {
                     "id": "65-804",
-                    "name": "Tutorium zu Mathematik II f\u00fcr Studierende der Physik (2 Gruppen)"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul Ma-P4: Numerische Mathematik ",
-            "submenu": [],
-            "entries": []
-          },
-          {
-            "name": " Modul MATH-Inf/STO1: Stochastik 1 f\u00fcr Studierende der Informatik ",
-            "submenu": [
-              {
-                "name": "65-831 Stochastik 1 f\u00fcr Studierende der Informatik",
-                "submenu": [],
-                "entries": [
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
                   {
-                    "id": "65-831",
-                    "name": "Stochastik 1 f\u00fcr Studierende der Informatik"
+                    "id": "65-804_0",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-804_1",
+                    "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)"
                   }
                 ]
               },
               {
-                "name": "65-832 \u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)",
+                "name": "65-806 Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-832",
-                    "name": "\u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)"
-                  },
-                  {
-                    "id": "65-832_0",
-                    "name": "\u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)"
-                  },
-                  {
-                    "id": "65-832_1",
-                    "name": "\u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)"
-                  },
-                  {
-                    "id": "65-832_2",
-                    "name": "\u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)"
-                  },
-                  {
-                    "id": "65-832_3",
-                    "name": "\u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)"
-                  },
-                  {
-                    "id": "65-832_4",
-                    "name": "\u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)"
-                  },
-                  {
-                    "id": "65-832_5",
-                    "name": "\u00dcbungen zu Stochastik 1 f\u00fcr Studierende der Informatik (6 Gruppen)"
+                    "id": "65-806",
+                    "name": "Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik"
                   }
                 ]
               }
             ],
+            "entries": []
+          },
+          {
+            "name": " Modul MATH2-CiS: Mathematik II f\u00fcr Studierende Computing in Science ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul Ma-P4: Numerische Mathematik ",
+            "submenu": [
+              {
+                "name": "65-071 Numerische Mathematik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-071",
+                    "name": "Numerische Mathematik"
+                  }
+                ]
+              },
+              {
+                "name": "65-072 \u00dcbungen zu Numerische Mathematik (5 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-072",
+                    "name": "\u00dcbungen zu Numerische Mathematik (5 Gruppen)"
+                  },
+                  {
+                    "id": "65-072_0",
+                    "name": "\u00dcbungen zu Numerische Mathematik (5 Gruppen)"
+                  },
+                  {
+                    "id": "65-072_1",
+                    "name": "\u00dcbungen zu Numerische Mathematik (5 Gruppen)"
+                  },
+                  {
+                    "id": "65-072_2",
+                    "name": "\u00dcbungen zu Numerische Mathematik (5 Gruppen)"
+                  },
+                  {
+                    "id": "65-072_3",
+                    "name": "\u00dcbungen zu Numerische Mathematik (5 Gruppen)"
+                  },
+                  {
+                    "id": "65-072_4",
+                    "name": "\u00dcbungen zu Numerische Mathematik (5 Gruppen)"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul MATH-Inf/STO1: Stochastik 1 f\u00fcr Studierende der Informatik ",
+            "submenu": [],
             "entries": []
           }
         ],
@@ -1984,12 +1901,34 @@
         "submenu": [
           {
             "name": " Modul PHY-CiS-PS: Proseminar CiS Physik (ABK-Modul) ",
-            "submenu": [],
+            "submenu": [
+              {
+                "name": "66-780 Proseminar \u201eComputing in Science\u201c (CiS Physik)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-780",
+                    "name": "Proseminar \u201eComputing in Science\u201c (CiS Physik)"
+                  }
+                ]
+              }
+            ],
             "entries": []
           },
           {
-            "name": " Modul PHY-CiS-Projekt: Projekt CiS Physik ",
-            "submenu": [],
+            "name": " Modul PHY-CiS-Pro: Projekt CiS Physik ",
+            "submenu": [
+              {
+                "name": "66-784 Projekt CiS-Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-784",
+                    "name": "Projekt CiS-Physik"
+                  }
+                ]
+              }
+            ],
             "entries": []
           },
           {
@@ -1999,7 +1938,28 @@
           },
           {
             "name": " Modul PHY-CiS-CP: Computational Physics ",
-            "submenu": [],
+            "submenu": [
+              {
+                "name": "66-782 Computational physics",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-782",
+                    "name": "Computational physics"
+                  }
+                ]
+              },
+              {
+                "name": "66-783 Exercises in computational physics",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-783",
+                    "name": "Exercises in computational physics"
+                  }
+                ]
+              }
+            ],
             "entries": []
           }
         ],
@@ -2053,6 +2013,50 @@
                   },
                   {
                     "id": "66-102_3",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_4",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_5",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_6",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_7",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_8",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_9",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_10",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_11",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_12",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_13",
+                    "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
+                  },
+                  {
+                    "id": "66-102_14",
                     "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I"
                   }
                 ]
@@ -2116,50 +2120,6 @@
                   {
                     "id": "66-112_3",
                     "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_4",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_5",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_6",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_7",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_8",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_9",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_10",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_11",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_12",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_13",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
-                  },
-                  {
-                    "id": "66-112_14",
-                    "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II"
                   }
                 ]
               },
@@ -2177,89 +2137,8 @@
             "entries": []
           },
           {
-            "name": " Modul PHY-WM: Seminar zu wissenschaftliche Methoden zur Physik ",
-            "submenu": [
-              {
-                "name": "66-874 Darstellung wissenschaftlicher Ergebnisse",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-874",
-                    "name": "Darstellung wissenschaftlicher Ergebnisse"
-                  },
-                  {
-                    "id": "66-874_0",
-                    "name": "Darstellung wissenschaftlicher Ergebnisse"
-                  },
-                  {
-                    "id": "66-874_1",
-                    "name": "Darstellung wissenschaftlicher Ergebnisse"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
             "name": " Modul: PHY-T2 Theoretische Physik II ",
-            "submenu": [
-              {
-                "name": "66-180 Theoretische Physik II",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-180",
-                    "name": "Theoretische Physik II"
-                  }
-                ]
-              },
-              {
-                "name": "66-181 \u00dcbungen zur Theoretischen Physik II",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-181",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_0",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_1",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_2",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_3",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_4",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_5",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_6",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_7",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  },
-                  {
-                    "id": "66-181_8",
-                    "name": "\u00dcbungen zur Theoretischen Physik II"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
@@ -2296,7 +2175,88 @@
         "submenu": [
           {
             "name": " Modul MATH3-CiS: Mathematik III f\u00fcr Studierende Computing in Science ",
-            "submenu": [],
+            "submenu": [
+              {
+                "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-811",
+                    "name": "Mathematik III f\u00fcr Studierende der Physik"
+                  }
+                ]
+              },
+              {
+                "name": "65-812 \u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-812",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_0",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_1",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_2",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_3",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_4",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_5",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_6",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  },
+                  {
+                    "id": "65-812_7",
+                    "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)"
+                  }
+                ]
+              },
+              {
+                "name": "65-814 Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-814",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_0",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  },
+                  {
+                    "id": "65-814_1",
+                    "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)"
+                  }
+                ]
+              },
+              {
+                "name": "65-816 Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-816",
+                    "name": "Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik"
+                  }
+                ]
+              }
+            ],
             "entries": []
           },
           {
@@ -2317,7 +2277,56 @@
           },
           {
             "name": " Modul PHY-T3: Theoretische Physik III ",
-            "submenu": [],
+            "submenu": [
+              {
+                "name": "66-190 Theoretische Physik III",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-190",
+                    "name": "Theoretische Physik III"
+                  }
+                ]
+              },
+              {
+                "name": "66-191 \u00dcbungen zur Theoretischen Physik III",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "66-191",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_0",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_1",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_2",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_3",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_4",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_5",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  },
+                  {
+                    "id": "66-191_6",
+                    "name": "\u00dcbungen zur Theoretischen Physik III"
+                  }
+                ]
+              }
+            ],
             "entries": []
           },
           {
@@ -2337,74 +2346,12 @@
           },
           {
             "name": " Modul InfB-DMSV: Digitale Mediensignalverarbeitung ",
-            "submenu": [
-              {
-                "name": "64-236 Vorlesung Digitale Mediensignalverarbeitung",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-236",
-                    "name": "Vorlesung Digitale Mediensignalverarbeitung"
-                  }
-                ]
-              },
-              {
-                "name": "64-237 \u00dcbung Digitale Mediensignalverarbeitung",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-237",
-                    "name": "\u00dcbung Digitale Mediensignalverarbeitung"
-                  },
-                  {
-                    "id": "64-237_0",
-                    "name": "\u00dcbung Digitale Mediensignalverarbeitung"
-                  },
-                  {
-                    "id": "64-237_1",
-                    "name": "\u00dcbung Digitale Mediensignalverarbeitung"
-                  },
-                  {
-                    "id": "64-237_2",
-                    "name": "\u00dcbung Digitale Mediensignalverarbeitung"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
             "name": " Modul InfB-DV: Datenvisualisierung und GPU-Computing ",
-            "submenu": [
-              {
-                "name": "64-213 Vorlesung Datenvisualisierung und GPU-Computing",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-213",
-                    "name": "Vorlesung Datenvisualisierung und GPU-Computing"
-                  }
-                ]
-              },
-              {
-                "name": "64-214 \u00dcbungen Datenvisualisierung und GPU-Computing",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-214",
-                    "name": "\u00dcbungen Datenvisualisierung und GPU-Computing"
-                  },
-                  {
-                    "id": "64-214_0",
-                    "name": "\u00dcbungen Datenvisualisierung und GPU-Computing"
-                  },
-                  {
-                    "id": "64-214_1",
-                    "name": "\u00dcbungen Datenvisualisierung und GPU-Computing"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
@@ -2414,139 +2361,94 @@
                 "name": " Modul InfB-BKA: Berechenbarkeit, Komplexit\u00e4t und Approximation ",
                 "submenu": [],
                 "entries": []
-              },
-              {
-                "name": "64-210 Vorlesung Eingebettete Systeme",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-210",
-                    "name": "Vorlesung Eingebettete Systeme"
-                  }
-                ]
-              },
-              {
-                "name": "64-211 \u00dcbung Eingebettete Systeme",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-211",
-                    "name": "\u00dcbung Eingebettete Systeme"
-                  },
-                  {
-                    "id": "64-211_0",
-                    "name": "\u00dcbung Eingebettete Systeme"
-                  },
-                  {
-                    "id": "64-211_1",
-                    "name": "\u00dcbung Eingebettete Systeme"
-                  },
-                  {
-                    "id": "64-211_2",
-                    "name": "\u00dcbung Eingebettete Systeme"
-                  },
-                  {
-                    "id": "64-211_3",
-                    "name": "\u00dcbung Eingebettete Systeme"
-                  }
-                ]
               }
             ],
             "entries": []
           },
           {
-            "name": " Modul InfM-ESM: Einf\u00fchrung in die System-Medizin ",
-            "submenu": [
-              {
-                "name": "64-246 Vorlesung Einf\u00fchrung in die System-Medizin - Mit Big Data gegen Krebs und Volkskrankheiten",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-246",
-                    "name": "Vorlesung Einf\u00fchrung in die System-Medizin - Mit Big Data gegen Krebs und Volkskrankheiten"
-                  }
-                ]
-              },
-              {
-                "name": "64-247 \u00dcbungen zu Einf\u00fchrung in die System-Medizin - Mit Big Data gegen Krebs und Volkskranheiten",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-247",
-                    "name": "\u00dcbungen zu Einf\u00fchrung in die System-Medizin - Mit Big Data gegen Krebs und Volkskranheiten"
-                  },
-                  {
-                    "id": "64-247_0",
-                    "name": "\u00dcbungen zu Einf\u00fchrung in die System-Medizin - Mit Big Data gegen Krebs und Volkskranheiten"
-                  },
-                  {
-                    "id": "64-247_1",
-                    "name": "\u00dcbungen zu Einf\u00fchrung in die System-Medizin - Mit Big Data gegen Krebs und Volkskranheiten"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul InfB-HLR: Hochleistungsrechnen ",
+            "name": " Modul InfB-ESM: Einf\u00fchrung in die System-Medizin ",
             "submenu": [],
             "entries": []
           },
           {
-            "name": " Modul InfB-IGMO: Informatikgest\u00fctzte Gestaltung und Modellierung von Organisationen ",
+            "name": " Modul InfB-HLR: Hochleistungsrechnen ",
             "submenu": [
               {
-                "name": "64-220 Vorlesung Integrierte Software- und Organisationsentwicklung",
+                "name": "64-253 Vorlesung Hochleistungsrechnen",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "64-220",
-                    "name": "Vorlesung Integrierte Software- und Organisationsentwicklung"
+                    "id": "64-253",
+                    "name": "Vorlesung Hochleistungsrechnen"
                   }
                 ]
               },
               {
-                "name": "64-221 Vorlesung/\u00dcbung Modellierung und Simulation organisatorischer Systeme",
+                "name": "64-254 \u00dcbungen Hochleistungsrechnen",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "64-221",
-                    "name": "Vorlesung/\u00dcbung Modellierung und Simulation organisatorischer Systeme"
+                    "id": "64-254",
+                    "name": "\u00dcbungen Hochleistungsrechnen"
+                  },
+                  {
+                    "id": "64-254_0",
+                    "name": "\u00dcbungen Hochleistungsrechnen"
+                  },
+                  {
+                    "id": "64-254_1",
+                    "name": "\u00dcbungen Hochleistungsrechnen"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfB-IGMO: Informatikgest\u00fctzte Gestaltung und Modellierung von Organisationen ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfB-MAKS: Modellierung und Analyse komplexer Systeme ",
+            "submenu": [
+              {
+                "name": "64-256 Vorlesung Modellierung und Analyse komplexer Systeme",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-256",
+                    "name": "Vorlesung Modellierung und Analyse komplexer Systeme"
                   }
                 ]
               },
               {
-                "name": "64-222 \u00dcbungen zu Integrierte Software- und Organisationsentwicklung",
+                "name": "64-257 \u00dcbungen Modellierung und Analyse komplexer Systeme",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "64-222",
-                    "name": "\u00dcbungen zu Integrierte Software- und Organisationsentwicklung"
+                    "id": "64-257",
+                    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
                   },
                   {
-                    "id": "64-222_0",
-                    "name": "\u00dcbungen zu Integrierte Software- und Organisationsentwicklung"
+                    "id": "64-257_0",
+                    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
                   },
                   {
-                    "id": "64-222_1",
-                    "name": "\u00dcbungen zu Integrierte Software- und Organisationsentwicklung"
+                    "id": "64-257_1",
+                    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
                   },
                   {
-                    "id": "64-222_2",
-                    "name": "\u00dcbungen zu Integrierte Software- und Organisationsentwicklung"
+                    "id": "64-257_2",
+                    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
                   },
                   {
-                    "id": "64-222_3",
-                    "name": "\u00dcbungen zu Integrierte Software- und Organisationsentwicklung"
+                    "id": "64-257_3",
+                    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
                   },
                   {
-                    "id": "64-222_4",
-                    "name": "\u00dcbungen zu Integrierte Software- und Organisationsentwicklung"
-                  },
-                  {
-                    "id": "64-222_5",
-                    "name": "\u00dcbungen zu Integrierte Software- und Organisationsentwicklung"
+                    "id": "64-257_4",
+                    "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme"
                   }
                 ]
               }
@@ -2555,228 +2457,243 @@
           },
           {
             "name": " Modul InfB-PGIT: Philosophie, Gesellschaft und IT ",
-            "submenu": [
-              {
-                "name": "64-207 Vorlesung Philosophie, Gesellschaft und IT",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-207",
-                    "name": "Vorlesung Philosophie, Gesellschaft und IT"
-                  }
-                ]
-              },
-              {
-                "name": "64-208 Seminar Philosophie, Gesellschaft und IT",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "64-208",
-                    "name": "Seminar Philosophie, Gesellschaft und IT"
-                  },
-                  {
-                    "id": "64-208_0",
-                    "name": "Seminar Philosophie, Gesellschaft und IT"
-                  },
-                  {
-                    "id": "64-208_1",
-                    "name": "Seminar Philosophie, Gesellschaft und IT"
-                  },
-                  {
-                    "id": "64-208_2",
-                    "name": "Seminar Philosophie, Gesellschaft und IT"
-                  },
-                  {
-                    "id": "64-208_3",
-                    "name": "Seminar Philosophie, Gesellschaft und IT"
-                  },
-                  {
-                    "id": "64-208_4",
-                    "name": "Seminar Philosophie, Gesellschaft und IT"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
             "name": " Modul InfB-RSB: Rechnerstrukturen und Betriebssysteme ",
-            "submenu": [],
+            "submenu": [
+              {
+                "name": "64-040 Vorlesung Rechnerstrukturen und Betriebssysteme",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-040",
+                    "name": "Vorlesung Rechnerstrukturen und Betriebssysteme"
+                  }
+                ]
+              },
+              {
+                "name": "64-041 \u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-041",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_0",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_1",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_2",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_3",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_4",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_5",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_6",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_7",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_8",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_9",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_10",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_11",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_12",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_13",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_14",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_15",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-041_16",
+                    "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme"
+                  }
+                ]
+              },
+              {
+                "name": "64-042 Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-042",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_0",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_1",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_2",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_3",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_4",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_5",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_6",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_7",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_8",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_9",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_10",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_11",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_12",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_13",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_14",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  },
+                  {
+                    "id": "64-042_15",
+                    "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme"
+                  }
+                ]
+              }
+            ],
             "entries": []
           },
           {
             "name": " Modul MATH4: Mathematik IV f\u00fcr Studierende der Physik ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul MATH-Inf/STO2: Stochastik 2 f\u00fcr Studierende der Informatik ",
             "submenu": [
               {
-                "name": "65-811 Mathematik IV f\u00fcr Studierende der Physik",
+                "name": "65-833 Stochastik 2 f\u00fcr Studierende der Informatik",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-811",
-                    "name": "Mathematik IV f\u00fcr Studierende der Physik"
+                    "id": "65-833",
+                    "name": "Stochastik 2 f\u00fcr Studierende der Informatik"
                   }
                 ]
               },
               {
-                "name": "65-812 \u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
+                "name": "65-834 \u00dcbungen zu Stochastik 2 f\u00fcr Studierende der Informatik",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-812",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_0",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_1",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_2",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_3",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_4",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_5",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_6",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  },
-                  {
-                    "id": "65-812_7",
-                    "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)"
-                  }
-                ]
-              },
-              {
-                "name": "65-814 Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-814",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
-                  },
-                  {
-                    "id": "65-814_0",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
-                  },
-                  {
-                    "id": "65-814_1",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
-                  },
-                  {
-                    "id": "65-814_2",
-                    "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)"
+                    "id": "65-834",
+                    "name": "\u00dcbungen zu Stochastik 2 f\u00fcr Studierende der Informatik"
                   }
                 ]
               }
             ],
-            "entries": []
-          },
-          {
-            "name": " Modul Math-Inf/STO2: Stochastik 2 f\u00fcr Studierende der Informatik ",
-            "submenu": [],
             "entries": []
           },
           {
             "name": " Modul Ma-WP12: Einf\u00fchrung in die Mathematische Modellierung ",
-            "submenu": [
-              {
-                "name": "65-075 Einf\u00fchrung in die Mathematische Modellierung",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-075",
-                    "name": "Einf\u00fchrung in die Mathematische Modellierung"
-                  }
-                ]
-              },
-              {
-                "name": "65-076 \u00dcbungen zu Einf\u00fchrung in die Mathematische Modellierung (2 Gruppen)",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-076",
-                    "name": "\u00dcbungen zu Einf\u00fchrung in die Mathematische Modellierung (2 Gruppen)"
-                  },
-                  {
-                    "id": "65-076_0",
-                    "name": "\u00dcbungen zu Einf\u00fchrung in die Mathematische Modellierung (2 Gruppen)"
-                  },
-                  {
-                    "id": "65-076_1",
-                    "name": "\u00dcbungen zu Einf\u00fchrung in die Mathematische Modellierung (2 Gruppen)"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
             "name": " Modul Ma-WP11: Gew\u00f6hnliche Differentialgleichungen und Dynamische Systeme ",
-            "submenu": [
-              {
-                "name": "65-071 Gew\u00f6hnliche Differentialgleichungen und Dynamische Systeme",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-071",
-                    "name": "Gew\u00f6hnliche Differentialgleichungen und Dynamische Systeme"
-                  }
-                ]
-              },
-              {
-                "name": "65-072 \u00dcbungen zu Gew\u00f6hnliche Differentialgleichungen und Dynamische Systeme",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "65-072",
-                    "name": "\u00dcbungen zu Gew\u00f6hnliche Differentialgleichungen und Dynamische Systeme"
-                  }
-                ]
-              }
-            ],
+            "submenu": [],
             "entries": []
           },
           {
             "name": " Modul Ma-WP14: Optimierung ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul Ma-WP13: Approximation ",
             "submenu": [
               {
-                "name": "65-073 Optimierung",
+                "name": "65-171 Approximation",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-073",
-                    "name": "Optimierung"
+                    "id": "65-171",
+                    "name": "Approximation"
                   }
                 ]
               },
               {
-                "name": "65-074 \u00dcbungen zu Optimierung",
+                "name": "65-172 \u00dcbungen zu Approximation",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "65-074",
-                    "name": "\u00dcbungen zu Optimierung"
-                  },
-                  {
-                    "id": "65-074_0",
-                    "name": "\u00dcbungen zu Optimierung"
-                  },
-                  {
-                    "id": "65-074_1",
-                    "name": "\u00dcbungen zu Optimierung"
+                    "id": "65-172",
+                    "name": "\u00dcbungen zu Approximation"
                   }
                 ]
               }
@@ -2784,13 +2701,45 @@
             "entries": []
           },
           {
-            "name": " Modul Ma-WP13: Approximation ",
-            "submenu": [],
-            "entries": []
-          },
-          {
             "name": " Modul Ma-P3: H\u00f6here Analysis ",
-            "submenu": [],
+            "submenu": [
+              {
+                "name": "65-051 H\u00f6here Analysis",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-051",
+                    "name": "H\u00f6here Analysis"
+                  }
+                ]
+              },
+              {
+                "name": "65-052 \u00dcbungen zu H\u00f6here Analysis (4 Gruppen)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "65-052",
+                    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)"
+                  },
+                  {
+                    "id": "65-052_0",
+                    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)"
+                  },
+                  {
+                    "id": "65-052_1",
+                    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)"
+                  },
+                  {
+                    "id": "65-052_2",
+                    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)"
+                  },
+                  {
+                    "id": "65-052_3",
+                    "name": "\u00dcbungen zu H\u00f6here Analysis (4 Gruppen)"
+                  }
+                ]
+              }
+            ],
             "entries": []
           }
         ],
@@ -2801,123 +2750,66 @@
         "submenu": [
           {
             "name": " Modul PHY-E4: Festk\u00f6rperphysik (Physik IV) ",
-            "submenu": [
-              {
-                "name": "66-140 Physik IV",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-140",
-                    "name": "Physik IV"
-                  }
-                ]
-              },
-              {
-                "name": "66-141 \u00dcbungen zu Physik IV",
-                "submenu": [],
-                "entries": [
-                  {
-                    "id": "66-141",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_0",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_1",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_2",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_3",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_4",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_5",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_6",
-                    "name": "\u00dcbungen zu Physik IV"
-                  },
-                  {
-                    "id": "66-141_7",
-                    "name": "\u00dcbungen zu Physik IV"
-                  }
-                ]
-              }
-            ],
-            "entries": []
-          },
-          {
-            "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
             "submenu": [],
             "entries": []
           },
           {
-            "name": " Modul PHY-E6: Atom-, Molek\u00fcl- und Laserphysik (Physik VI) ",
+            "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
             "submenu": [
               {
-                "name": "66-160 Physik VI",
+                "name": "66-150 Physik V",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-160",
-                    "name": "Physik VI"
+                    "id": "66-150",
+                    "name": "Physik V"
                   }
                 ]
               },
               {
-                "name": "66-161 \u00dcbungen zur Physik VI",
+                "name": "66-151 \u00dcbungen zur Physik V",
                 "submenu": [],
                 "entries": [
                   {
-                    "id": "66-161",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-161_0",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151_0",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-161_1",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151_1",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-161_2",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151_2",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-161_3",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151_3",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-161_4",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151_4",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-161_5",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151_5",
+                    "name": "\u00dcbungen zur Physik V"
                   },
                   {
-                    "id": "66-161_6",
-                    "name": "\u00dcbungen zur Physik VI"
-                  },
-                  {
-                    "id": "66-161_7",
-                    "name": "\u00dcbungen zur Physik VI"
+                    "id": "66-151_6",
+                    "name": "\u00dcbungen zur Physik V"
                   }
                 ]
               }
             ],
+            "entries": []
+          },
+          {
+            "name": " Modul PHY-E6: Atom-, Molek\u00fcl- und Laserphysik (Physik VI) ",
+            "submenu": [],
             "entries": []
           }
         ],

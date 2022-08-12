@@ -1,6 +1,6 @@
 {
-  "name": "Physik Overview",
-  "parsed": "03/19/2022, 16:51:45",
+  "name": "Physik",
+  "parsed": "08/12/2022, 22:30:27",
   "data": [
     {
       "dozent": "N.N.",
@@ -12,7 +12,7 @@
       "time": []
     },
     {
-      "dozent": "Prof. Dr. Dieter Horns; Prof. Dr. Gregor Kasieczka",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka",
       "name": "Physik I",
       "short": "Physik I",
       "type": "000000000000022",
@@ -20,18 +20,18 @@
       "time": [
         {
           "day": "Di",
-          "start": "14:00",
+          "start": "13:45",
           "end": "15:30 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": [
-            3,
+            2,
             1
           ]
         },
         {
           "day": "Do",
           "start": "09:00",
-          "end": "10:30 ",
+          "end": "10:45 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": [
             0,
@@ -41,16 +41,16 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Bernd Kniehl",
+      "dozent": "Prof. Dr. Tim Oliver Wehling",
       "name": "Einf\u00fchrung in die Theoretische Physik I",
       "short": "Einf. Theo. Physik I",
-      "type": "000000000000022",
+      "type": "000000000000001",
       "id": "66-101",
       "time": [
         {
           "day": "Di",
           "start": "15:45",
-          "end": "16:45 ",
+          "end": "17:15 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": [
             3,
@@ -59,7 +59,7 @@
         },
         {
           "day": "Do",
-          "start": "10:45",
+          "start": "11:00",
           "end": "12:00 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Dieter Horns; Prof. Dr. Gregor Kasieczka; Prof. Dr. Bernd Kniehl",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
       "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
       "short": "\u00dcbg. Physik I",
       "type": "000000000000021",
@@ -81,18 +81,18 @@
     {
       "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
       "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe A",
-      "dozent": "Prof. Dr. Bernd Kniehl",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
       "type": "000000000000021",
       "id": "66-102_0",
       "time": [
         {
-          "day": "Di",
-          "start": "11:15",
-          "end": "13:30",
+          "day": "Do",
+          "start": "13:00",
+          "end": "15:15",
           "hs": "",
           "slot": [
-            1,
-            1
+            2,
+            3
           ]
         }
       ]
@@ -100,18 +100,18 @@
     {
       "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
       "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe B",
-      "dozent": "Prof. Dr. Bernd Kniehl",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
       "type": "000000000000021",
       "id": "66-102_1",
       "time": [
         {
-          "day": "Mi",
-          "start": "09:00",
-          "end": "11:15",
+          "day": "Do",
+          "start": "13:00",
+          "end": "15:15",
           "hs": "",
           "slot": [
-            0,
-            2
+            2,
+            3
           ]
         }
       ]
@@ -119,18 +119,18 @@
     {
       "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
       "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe C",
-      "dozent": "Prof. Dr. Dieter Horns",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
       "type": "000000000000021",
       "id": "66-102_2",
       "time": [
         {
-          "day": "Mi",
-          "start": "11:30",
-          "end": "13:45",
+          "day": "Do",
+          "start": "13:00",
+          "end": "15:15",
           "hs": "",
           "slot": [
-            1,
-            2
+            2,
+            3
           ]
         }
       ]
@@ -138,24 +138,233 @@
     {
       "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
       "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe D",
-      "dozent": "Prof. Dr. Gregor Kasieczka",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
       "type": "000000000000021",
       "id": "66-102_3",
       "time": [
         {
-          "day": "Mi",
-          "start": "11:30",
-          "end": "13:45",
+          "day": "Do",
+          "start": "13:00",
+          "end": "15:15",
           "hs": "",
           "slot": [
-            1,
-            2
+            2,
+            3
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Dieter Horns; Prof. Dr. Gregor Kasieczka; Prof. Dr. Bernd Kniehl",
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe E",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_4",
+      "time": [
+        {
+          "day": "Do",
+          "start": "13:00",
+          "end": "15:15",
+          "hs": "",
+          "slot": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe F",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_5",
+      "time": [
+        {
+          "day": "Do",
+          "start": "15:30",
+          "end": "17:45",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe G",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_6",
+      "time": [
+        {
+          "day": "Do",
+          "start": "15:30",
+          "end": "17:45",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe H",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_7",
+      "time": [
+        {
+          "day": "Do",
+          "start": "15:30",
+          "end": "17:45",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe I",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_8",
+      "time": [
+        {
+          "day": "Do",
+          "start": "15:30",
+          "end": "17:45",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe J",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_9",
+      "time": [
+        {
+          "day": "Do",
+          "start": "15:30",
+          "end": "17:45",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe K",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_10",
+      "time": [
+        {
+          "day": "Do",
+          "start": "18:00",
+          "end": "20:15",
+          "hs": "",
+          "slot": [
+            5,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe L",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_11",
+      "time": [
+        {
+          "day": "Do",
+          "start": "18:00",
+          "end": "20:15",
+          "hs": "",
+          "slot": [
+            5,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe M",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_12",
+      "time": [
+        {
+          "day": "Do",
+          "start": "18:00",
+          "end": "20:15",
+          "hs": "",
+          "slot": [
+            5,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe N",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_13",
+      "time": [
+        {
+          "day": "Do",
+          "start": "18:00",
+          "end": "20:15",
+          "hs": "",
+          "slot": [
+            5,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
+      "groupname": "\u00dcbungen zur Physik I und Einf\u00fchrung in die Theoretische Physik I - Gruppe O",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
+      "type": "000000000000021",
+      "id": "66-102_14",
+      "time": [
+        {
+          "day": "Do",
+          "start": "18:00",
+          "end": "20:15",
+          "hs": "",
+          "slot": [
+            5,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Gregor Kasieczka; Prof. Dr. Tim Oliver Wehling",
       "name": "Tutorium zur Physik I und Einf\u00fchrung in die Theoretische Physik I",
       "short": "Tutorium Physik I",
       "type": "000000000000016",
@@ -164,406 +373,9 @@
       "time": []
     },
     {
-      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape; Prof. Dr. Klaus Sengstock",
-      "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
-      "short": "Prakt. I NatWiss",
-      "type": "000000000000023",
-      "id": "66-120",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
-      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape; Prof. Dr. Klaus Sengstock",
-      "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
-      "short": "Prakt. I NatWiss",
-      "type": "000000000000023",
-      "id": "66-121",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
-      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape; Prof. Dr. Klaus Sengstock",
-      "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
-      "short": "Prakt. II NatWiss",
-      "type": "000000000000023",
-      "id": "66-122",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
-      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape; Prof. Dr. Klaus Sengstock",
-      "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
-      "short": "Prakt. II NatWiss",
-      "type": "000000000000023",
-      "id": "66-123",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
-      "dozent": "Prof. Dr. Wolfgang Hillert; Prof. Dr. Franz K\u00e4rtner",
-      "name": "Physik II",
-      "short": "Physik II",
-      "type": "000000000000022",
-      "id": "66-110",
-      "time": [
-        {
-          "day": "Di",
-          "start": "14:00",
-          "end": "15:30 ",
-          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            3,
-            1
-          ]
-        },
-        {
-          "day": "Do",
-          "start": "09:00",
-          "end": "10:30 ",
-          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            0,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Daniela Pfannkuche",
-      "name": "Einf\u00fchrung in die Theoretische Physik II",
-      "short": "Einf.Theo. Physik II",
-      "type": "000000000000022",
-      "id": "66-111",
-      "time": [
-        {
-          "day": "Di",
-          "start": "15:45",
-          "end": "16:45 ",
-          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            3,
-            1
-          ]
-        },
-        {
-          "day": "Do",
-          "start": "10:45",
-          "end": "12:00 ",
-          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            1,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Markus Drescher; Prof. Dr. Erika Garutti; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche; Prof. Dr. Michael Potthoff; Prof. Dr. Nina Rohringer",
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "short": "\u00dcbg. Physik II",
-      "type": "000000000000021",
-      "id": "66-112",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe A",
-      "dozent": "Prof. Dr. Erika Garutti",
-      "type": "000000000000021",
-      "id": "66-112_0",
-      "time": [
-        {
-          "day": "Do",
-          "start": "13:00",
-          "end": "15:15",
-          "hs": "",
-          "slot": [
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe B",
-      "dozent": "N.N.",
-      "type": "000000000000021",
-      "id": "66-112_1",
-      "time": [
-        {
-          "day": "Do",
-          "start": "13:00",
-          "end": "15:15",
-          "hs": "",
-          "slot": [
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe C",
-      "dozent": "Prof. Dr. Daniela Pfannkuche",
-      "type": "000000000000021",
-      "id": "66-112_2",
-      "time": [
-        {
-          "day": "Do",
-          "start": "13:00",
-          "end": "15:15",
-          "hs": "",
-          "slot": [
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe D",
-      "dozent": "Prof. Dr. Markus Drescher",
-      "type": "000000000000021",
-      "id": "66-112_3",
-      "time": [
-        {
-          "day": "Do",
-          "start": "13:00",
-          "end": "15:15",
-          "hs": "",
-          "slot": [
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe E",
-      "dozent": "Prof. Dr. Michael Potthoff",
-      "type": "000000000000021",
-      "id": "66-112_4",
-      "time": [
-        {
-          "day": "Do",
-          "start": "13:00",
-          "end": "15:15",
-          "hs": "",
-          "slot": [
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe F",
-      "dozent": "Prof. Dr. Dieter Jaksch",
-      "type": "000000000000021",
-      "id": "66-112_5",
-      "time": [
-        {
-          "day": "Do",
-          "start": "13:00",
-          "end": "15:15",
-          "hs": "",
-          "slot": [
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe G",
-      "dozent": "Oliver Schmutzler",
-      "type": "000000000000021",
-      "id": "66-112_6",
-      "time": [
-        {
-          "day": "Do",
-          "start": "15:30",
-          "end": "17:45",
-          "hs": "",
-          "slot": [
-            3,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe H",
-      "dozent": "Niklas Witt",
-      "type": "000000000000021",
-      "id": "66-112_7",
-      "time": [
-        {
-          "day": "Do",
-          "start": "15:30",
-          "end": "17:45",
-          "hs": "",
-          "slot": [
-            3,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe I",
-      "dozent": "Prof. Dr. Michael Potthoff",
-      "type": "000000000000021",
-      "id": "66-112_8",
-      "time": [
-        {
-          "day": "Do",
-          "start": "15:30",
-          "end": "17:45",
-          "hs": "",
-          "slot": [
-            3,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe J",
-      "dozent": "Prof. Dr. Nina Rohringer",
-      "type": "000000000000021",
-      "id": "66-112_9",
-      "time": [
-        {
-          "day": "Do",
-          "start": "15:30",
-          "end": "17:45",
-          "hs": "",
-          "slot": [
-            3,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe K (Online)",
-      "dozent": "Florian Ziegler",
-      "type": "000000000000021",
-      "id": "66-112_10",
-      "time": [
-        {
-          "day": "Do",
-          "start": "15:30",
-          "end": "17:45",
-          "hs": "",
-          "slot": [
-            3,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe L (Online)",
-      "dozent": "David Alan Kr\u00fcger",
-      "type": "000000000000021",
-      "id": "66-112_11",
-      "time": [
-        {
-          "day": "Do",
-          "start": "15:30",
-          "end": "17:45",
-          "hs": "",
-          "slot": [
-            3,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe M",
-      "dozent": "Dapeng Li",
-      "type": "000000000000021",
-      "id": "66-112_12",
-      "time": [
-        {
-          "day": "Do",
-          "start": "18:00",
-          "end": "20:15",
-          "hs": "",
-          "slot": [
-            5,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe N",
-      "dozent": "Prof. Dr. Wolfgang Hillert",
-      "type": "000000000000021",
-      "id": "66-112_13",
-      "time": [
-        {
-          "day": "Do",
-          "start": "18:00",
-          "end": "20:15",
-          "hs": "",
-          "slot": [
-            5,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe O (Online)",
-      "dozent": "Anatoli Ulmer",
-      "type": "000000000000021",
-      "id": "66-112_14",
-      "time": [
-        {
-          "day": "Do",
-          "start": "18:00",
-          "end": "20:15",
-          "hs": "",
-          "slot": [
-            5,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Taisia Gorkhover; Prof. Dr. Wolfgang Hillert; Prof. Dr. Daniela Pfannkuche",
-      "name": "Tutorium zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
-      "short": "Tutorium Physik II",
-      "type": "000000000000016",
-      "id": "66-113",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
-      "dozent": "PD Dr. Ralf Holtkamp",
-      "name": "Mathematik II f\u00fcr Studierende der Physik",
-      "short": "Mathe II_Phys-V",
+      "dozent": "Prof. Dr. J\u00f6rg Alexander Teschner",
+      "name": "Mathematik I f\u00fcr Studierende der Physik",
+      "short": "Mathe I_Phys-V",
       "type": "000000000000022",
       "id": "65-801",
       "time": [
@@ -591,16 +403,16 @@
     },
     {
       "dozent": "PD Dr. Ralf Holtkamp",
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "short": "Math II_Phys-\u00dc",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "short": "Mathe I_Phys-\u00dc",
       "type": "000000000000021",
       "id": "65-802",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. A1 Mi 10-12",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A1",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_0",
@@ -618,8 +430,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. A2 Mi 10-12",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A2",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_1",
@@ -637,8 +449,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. A3 Mi 10-12 !nur f\u00fcr CiS!",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 10-12 Gr. A3 (nur f\u00fcr CiS)",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_2",
@@ -656,8 +468,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. B1 Mi 12-14",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B1",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_3",
@@ -675,8 +487,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. B2 Mi 12-14",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B2",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_4",
@@ -694,8 +506,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. B3 Mi 12-14",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 12-14 Gr. B3(nur f\u00fcr Erdsystemwissenschaften)",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_5",
@@ -713,27 +525,27 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. B4 Mi 12-14 !nur f\u00fcr Erdsystemwissenschaften!",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C1",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_6",
       "time": [
         {
           "day": "Mi",
-          "start": "12:00",
-          "end": "14:00",
+          "start": "14:00",
+          "end": "16:00",
           "hs": "",
           "slot": [
-            2,
+            3,
             2
           ]
         }
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. C1 Mi 14-16",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C2",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_7",
@@ -751,8 +563,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. C2 Mi 14-16",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 14-16 Gr. C3 (nur f\u00fcr Erdsystemwissenschaften)",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_8",
@@ -770,46 +582,46 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. C3 Mi 14-16",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D1",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_9",
       "time": [
         {
           "day": "Mi",
-          "start": "14:00",
-          "end": "16:00",
+          "start": "16:00",
+          "end": "18:00",
           "hs": "",
           "slot": [
-            3,
+            4,
             2
           ]
         }
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. C4 Mi 14-16!nur f\u00fcr Erdsystemwissenschaften!",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D2",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_10",
       "time": [
         {
           "day": "Mi",
-          "start": "14:00",
-          "end": "16:00",
+          "start": "16:00",
+          "end": "18:00",
           "hs": "",
           "slot": [
-            3,
+            4,
             2
           ]
         }
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik II f\u00fcr Studierende der Physik (12 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik II - Gr. D1 Mi 16-18",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Physik (12 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Physik - Mi 16-18 Gr. D3 (nur f\u00fcr Erdsystemwissenschaften)",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-802_11",
@@ -828,38 +640,226 @@
     },
     {
       "dozent": "N.N.",
-      "name": "Tutorium zu Mathematik II f\u00fcr Studierende der Physik (2 Gruppen)",
-      "short": "Mathe II_Phys-T",
+      "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+      "short": "Mathe I_Phys-T",
       "type": "000000000000016",
       "id": "65-804",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
+      "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+      "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 1",
       "dozent": "N.N.",
-      "name": "Anleitung zu den \u00dcbungen Mathematik II f\u00fcr Studierende der Physik",
-      "short": "Mathe II_Phys-A\u00dc",
+      "type": "000000000000016",
+      "id": "65-804_0"
+    },
+    {
+      "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik (2 Gruppen)",
+      "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Physik Gr. 2",
+      "dozent": "N.N.",
+      "type": "000000000000016",
+      "id": "65-804_1"
+    },
+    {
+      "dozent": "PD Dr. Ralf Holtkamp",
+      "name": "Anleitung zu den \u00dcbungen Mathematik I f\u00fcr Studierende der Physik",
+      "short": "Mathe I_Phys-A\u00dc",
       "type": "000000000000077",
       "id": "65-806",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
-      "name": "Anleitung zu den \u00dcbungen Mathematik II f\u00fcr Studierende der Physik",
-      "groupname": "Anleitung zu den \u00dcbungen Mathematik II - Gr. A",
-      "dozent": "N.N.",
-      "type": "000000000000077",
-      "id": "65-806_0"
+      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+      "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+      "short": "Prakt. I NatWiss",
+      "type": "000000000000023",
+      "id": "66-120",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
     },
     {
-      "name": "Anleitung zu den \u00dcbungen Mathematik II f\u00fcr Studierende der Physik",
-      "groupname": "Anleitung zu den \u00dcbungen Mathematik II - Gr. B",
-      "dozent": "N.N.",
-      "type": "000000000000077",
-      "id": "65-806_1"
+      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+      "name": "Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+      "short": "Prakt. I NatWiss",
+      "type": "000000000000023",
+      "id": "66-121",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
     },
     {
-      "dozent": "Prof. Dr. Andreas Hemmerich; Prof. Dr. Henning Moritz",
+      "dozent": "Prof. Dr. Markus Drescher; Prof. Dr. Oliver Gerberding",
+      "name": "Physik II",
+      "short": "Physik II",
+      "type": "000000000000022",
+      "id": "66-110",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:00",
+          "end": "15:30 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
+          "slot": [
+            3,
+            0
+          ]
+        },
+        {
+          "day": "Mi",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
+          "slot": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Bernd Kniehl",
+      "name": "Einf\u00fchrung in die Theoretische Physik II",
+      "short": "Einf.Theo. Physik II",
+      "type": "000000000000001",
+      "id": "66-111",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "15:45",
+          "end": "16:45 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
+          "slot": [
+            3,
+            0
+          ]
+        },
+        {
+          "day": "Mi",
+          "start": "12:00",
+          "end": "13:15 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
+          "slot": [
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Markus Drescher; Prof. Dr. Oliver Gerberding; Prof. Dr. Bernd Kniehl",
+      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+      "short": "\u00dcbg. Physik II",
+      "type": "000000000000021",
+      "id": "66-112",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II -  Gruppe D",
+      "dozent": "Prof. Dr. Markus Drescher; Prof. Dr. Oliver Gerberding; Prof. Dr. Bernd Kniehl",
+      "type": "000000000000021",
+      "id": "66-112_0",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "12:30",
+          "hs": "",
+          "slot": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe A",
+      "dozent": "Prof. Dr. Markus Drescher",
+      "type": "000000000000021",
+      "id": "66-112_1",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "11:15",
+          "end": "13:30",
+          "hs": "",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe B",
+      "dozent": "Prof. Dr. Markus Drescher; Prof. Dr. Oliver Gerberding; Prof. Dr. Bernd Kniehl",
+      "type": "000000000000021",
+      "id": "66-112_2",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "12:30",
+          "hs": "",
+          "slot": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+      "groupname": "\u00dcbungen zur Physik II und Einf\u00fchrung in die Theoretische Physik II - Gruppe C",
+      "dozent": "Prof. Dr. Markus Drescher; Prof. Dr. Oliver Gerberding; Prof. Dr. Bernd Kniehl",
+      "type": "000000000000021",
+      "id": "66-112_3",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "12:30",
+          "hs": "",
+          "slot": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Markus Drescher; Prof. Dr. Oliver Gerberding; Prof. Dr. Bernd Kniehl",
+      "name": "Tutorium zur Physik II und Einf\u00fchrung in die Theoretische Physik II",
+      "short": "Tutorium Physik II",
+      "type": "000000000000016",
+      "id": "66-113",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+      "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
+      "short": "Prakt. II NatWiss",
+      "type": "000000000000023",
+      "id": "66-122",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Andreas Hemmerich; Frank Holweg; Uwe Pape",
+      "name": "Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Blockveranstaltung in der vorlesungsfreien Zeit)",
+      "short": "Prakt. II NatWiss",
+      "type": "000000000000023",
+      "id": "66-123",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Andreas Hemmerich",
       "name": "Physik III",
       "short": "Physik III",
       "type": "000000000000022",
@@ -888,7 +888,7 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Andreas Hemmerich; Prof. Dr. Henning Moritz",
+      "dozent": "Prof. Dr. Andreas Hemmerich",
       "name": "\u00dcbungen zur Physik III",
       "short": "\u00dcbg. Physik III",
       "type": "000000000000021",
@@ -899,18 +899,18 @@
     {
       "name": "\u00dcbungen zur Physik III",
       "groupname": "\u00dcbungen zur Physik III - Gruppe A",
-      "dozent": "Hauke Biss",
+      "dozent": "Prof. Dr. Andreas Hemmerich",
       "type": "000000000000021",
       "id": "66-131_0",
       "time": [
         {
-          "day": "Mi",
-          "start": "12:15",
-          "end": "13:45",
+          "day": "Mo",
+          "start": "16:15",
+          "end": "17:45",
           "hs": "",
           "slot": [
-            2,
-            2
+            4,
+            0
           ]
         }
       ]
@@ -918,18 +918,18 @@
     {
       "name": "\u00dcbungen zur Physik III",
       "groupname": "\u00dcbungen zur Physik III - Gruppe B",
-      "dozent": "Martin Schlederer",
+      "dozent": "Prof. Dr. Andreas Hemmerich",
       "type": "000000000000021",
       "id": "66-131_1",
       "time": [
         {
-          "day": "Fr",
-          "start": "10:30",
-          "end": "12:00",
+          "day": "Mo",
+          "start": "16:15",
+          "end": "17:45",
           "hs": "",
           "slot": [
-            1,
-            4
+            4,
+            0
           ]
         }
       ]
@@ -937,47 +937,94 @@
     {
       "name": "\u00dcbungen zur Physik III",
       "groupname": "\u00dcbungen zur Physik III - Gruppe C",
-      "dozent": "Martin Schlederer",
+      "dozent": "Prof. Dr. Andreas Hemmerich",
       "type": "000000000000021",
       "id": "66-131_2",
       "time": [
         {
-          "day": "Fr",
-          "start": "12:30",
-          "end": "14:00",
+          "day": "Mo",
+          "start": "16:15",
+          "end": "17:45",
           "hs": "",
           "slot": [
-            2,
-            4
+            4,
+            0
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Andreas Hemmerich; Prof. Dr. Henning Moritz",
+      "name": "\u00dcbungen zur Physik III",
+      "groupname": "\u00dcbungen zur Physik III - Gruppe D",
+      "dozent": "Prof. Dr. Andreas Hemmerich",
+      "type": "000000000000021",
+      "id": "66-131_3",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "08:30",
+          "end": "10:00",
+          "hs": "",
+          "slot": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik III",
+      "groupname": "\u00dcbungen zur Physik III - Gruppe E",
+      "dozent": "Prof. Dr. Andreas Hemmerich",
+      "type": "000000000000021",
+      "id": "66-131_4",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "08:30",
+          "end": "10:00",
+          "hs": "",
+          "slot": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik III",
+      "groupname": "\u00dcbungen zur Physik III - Gruppe F",
+      "dozent": "Prof. Dr. Andreas Hemmerich",
+      "type": "000000000000021",
+      "id": "66-131_5",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "08:30",
+          "end": "10:00",
+          "hs": "",
+          "slot": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Andreas Hemmerich",
       "name": "Tutorium zur Physik III",
       "short": "Tutorium Physik III",
       "type": "000000000000016",
       "id": "66-132",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "16:15",
-          "end": "17:45 ",
-          "hs": "SemRm 2",
-          "slot": [
-            4,
-            4
-          ]
-        }
-      ]
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
     },
     {
-      "dozent": "Prof. Dr. Sven-Olaf Moch",
-      "name": "Theoretische Physik II",
-      "short": "Theor. Physik II",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
+      "name": "Theoretische Physik I",
+      "short": "Theor. Physik I",
       "type": "000000000000022",
-      "id": "66-180",
+      "id": "66-170",
       "time": [
         {
           "day": "Mo",
@@ -990,32 +1037,32 @@
           ]
         },
         {
-          "day": "Mi",
-          "start": "12:15",
-          "end": "13:45 ",
+          "day": "Do",
+          "start": "12:30",
+          "end": "14:00 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": [
             2,
-            2
+            3
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Sven-Olaf Moch",
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "short": "\u00dcbg Theor. Physik II",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "short": "\u00dcbg. Theor. Physik I",
       "type": "000000000000021",
-      "id": "66-181",
+      "id": "66-171",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe A",
-      "dozent": "Prof. Dr. Sven-Olaf Moch",
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe A",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
       "type": "000000000000021",
-      "id": "66-181_0",
+      "id": "66-171_0",
       "time": [
         {
           "day": "Mo",
@@ -1030,11 +1077,11 @@
       ]
     },
     {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe B",
-      "dozent": "Cesar Fierro Cota",
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe B",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
       "type": "000000000000021",
-      "id": "66-181_1",
+      "id": "66-171_1",
       "time": [
         {
           "day": "Mo",
@@ -1049,35 +1096,16 @@
       ]
     },
     {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe C",
-      "dozent": "Michael Winter",
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe C",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
       "type": "000000000000021",
-      "id": "66-181_2",
+      "id": "66-171_2",
       "time": [
         {
           "day": "Mo",
-          "start": "10:15",
-          "end": "11:45",
-          "hs": "",
-          "slot": [
-            1,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe D",
-      "dozent": "Bakar Chargeishvili",
-      "type": "000000000000021",
-      "id": "66-181_3",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "12:15",
-          "end": "13:45",
+          "start": "12:00",
+          "end": "13:30",
           "hs": "",
           "slot": [
             2,
@@ -1087,16 +1115,16 @@
       ]
     },
     {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe E",
-      "dozent": "Cesar Fierro Cota",
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe D",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
       "type": "000000000000021",
-      "id": "66-181_4",
+      "id": "66-171_3",
       "time": [
         {
           "day": "Mo",
-          "start": "12:15",
-          "end": "13:45",
+          "start": "12:00",
+          "end": "13:30",
           "hs": "",
           "slot": [
             2,
@@ -1106,103 +1134,36 @@
       ]
     },
     {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe F",
-      "dozent": "Sam van Thurenhout",
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe E",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
       "type": "000000000000021",
-      "id": "66-181_5",
+      "id": "66-171_4",
       "time": [
-        {
-          "day": "Mi",
-          "start": "08:30",
-          "end": "10:00",
-          "hs": "",
-          "slot": [
-            0,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe G",
-      "dozent": "Prof. Dr. Sven-Olaf Moch",
-      "type": "000000000000021",
-      "id": "66-181_6",
-      "time": [
-        {
-          "day": "Mi",
-          "start": "08:30",
-          "end": "10:00",
-          "hs": "",
-          "slot": [
-            0,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II - Gruppe H",
-      "dozent": "Alejandro Romero Ros",
-      "type": "000000000000021",
-      "id": "66-181_7",
-      "time": [
-        {
-          "day": "Mi",
-          "start": "14:15",
-          "end": "15:45",
-          "hs": "",
-          "slot": [
-            3,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Theoretischen Physik II",
-      "groupname": "\u00dcbungen zur Theoretischen Physik II- Gruppe K",
-      "dozent": "Prof. Dr. Sven-Olaf Moch",
-      "type": "000000000000021",
-      "id": "66-181_8",
-      "time": [
-        {
-          "day": "Mi",
-          "start": "16:00",
-          "end": "17:30",
-          "hs": "",
-          "slot": [
-            4,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Nils Huse; Prof. Dr. Dorota Koziej",
-      "name": "Physik IV",
-      "short": "Physik IV",
-      "type": "000000000000022",
-      "id": "66-140",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "10:15",
-          "end": "11:45 ",
-          "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            1,
-            0
-          ]
-        },
         {
           "day": "Do",
-          "start": "10:15",
-          "end": "11:45 ",
-          "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
+          "start": "09:00",
+          "end": "10:30",
+          "hs": "",
+          "slot": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe F",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
+      "type": "000000000000021",
+      "id": "66-171_5",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:45",
+          "end": "12:15",
+          "hs": "",
           "slot": [
             1,
             3
@@ -1211,360 +1172,56 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Nils Huse; Prof. Dr. Dorota Koziej",
-      "name": "\u00dcbungen zu Physik IV",
-      "short": "\u00dcbg. Physik IV",
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe G",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
       "type": "000000000000021",
-      "id": "66-141",
+      "id": "66-171_6",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:45",
+          "end": "12:15",
+          "hs": "",
+          "slot": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik I",
+      "groupname": "\u00dcbungen zur Theoretischen Physik I - Gruppe H",
+      "dozent": "Prof. Dr. Gleb Arutyunov",
+      "type": "000000000000021",
+      "id": "66-171_7",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:45",
+          "end": "12:15",
+          "hs": "",
+          "slot": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Gleb Arutyunov",
+      "name": "Tutorium zur Theoretischen Physik I",
+      "short": "Tut. Theor. Physik I",
+      "type": "000000000000016",
+      "id": "66-173",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe A",
-      "dozent": "Prof. Dr. Nils Huse",
-      "type": "000000000000021",
-      "id": "66-141_0",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "10:30",
-          "end": "12:00",
-          "hs": "",
-          "slot": [
-            1,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe B",
-      "dozent": "Prof. Dr. Dorota Koziej",
-      "type": "000000000000021",
-      "id": "66-141_1",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "10:30",
-          "end": "12:00",
-          "hs": "",
-          "slot": [
-            1,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe C",
-      "dozent": "Dr. Stefan Krause",
-      "type": "000000000000021",
-      "id": "66-141_2",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "10:30",
-          "end": "12:00",
-          "hs": "",
-          "slot": [
-            1,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe D",
-      "dozent": "Dr. Alexander Schwarz",
-      "type": "000000000000021",
-      "id": "66-141_3",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "13:00",
-          "end": "14:30",
-          "hs": "",
-          "slot": [
-            2,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe E",
-      "dozent": "Sani Harouna-Mayer; Prof. Dr. Dorota Koziej",
-      "type": "000000000000021",
-      "id": "66-141_4",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "13:00",
-          "end": "14:30",
-          "hs": "",
-          "slot": [
-            2,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe F",
-      "dozent": "Marcus Creutzburg",
-      "type": "000000000000021",
-      "id": "66-141_5",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "13:00",
-          "end": "14:30",
-          "hs": "",
-          "slot": [
-            2,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe G",
-      "dozent": "Reiner Br\u00fcning",
-      "type": "000000000000021",
-      "id": "66-141_6",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "14:45",
-          "end": "16:15",
-          "hs": "",
-          "slot": [
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zu Physik IV",
-      "groupname": "\u00dcbungen zu Physik IV - Gruppe H",
-      "dozent": "Prof. Dr. Nils Huse; Prof. Dr. Dorota Koziej",
-      "type": "000000000000021",
-      "id": "66-141_7",
-      "time": [
-        {
-          "day": "Fr",
-          "start": "14:45",
-          "end": "16:15",
-          "hs": "",
-          "slot": [
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Roman Schnabel; Prof. Dr. Klaus Sengstock",
-      "name": "Physik VI",
-      "short": "Physik VI",
-      "type": "000000000000022",
-      "id": "66-160",
-      "time": [
-        {
-          "day": "Di",
-          "start": "10:15",
-          "end": "11:45 ",
-          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            1,
-            1
-          ]
-        },
-        {
-          "day": "Fr",
-          "start": "10:15",
-          "end": "11:45 ",
-          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            1,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Roman Schnabel; Prof. Dr. Klaus Sengstock",
-      "name": "\u00dcbungen zur Physik VI",
-      "short": "\u00dcbg. Physik VI",
-      "type": "000000000000021",
-      "id": "66-161",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe A",
-      "dozent": "Stephan Alexander Grebien; Dr. Christof Weitenberg",
-      "type": "000000000000021",
-      "id": "66-161_0",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "12:15",
-          "end": "13:45",
-          "hs": "",
-          "slot": [
-            2,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe B",
-      "dozent": "Malte R\u00f6ntgen; Dr. Juliette Helene Marguerite Simonet",
-      "type": "000000000000021",
-      "id": "66-161_1",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "12:15",
-          "end": "13:45",
-          "hs": "",
-          "slot": [
-            2,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe C",
-      "dozent": "Stephan Alexander Grebien; Dr. Christof Weitenberg",
-      "type": "000000000000021",
-      "id": "66-161_2",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "14:15",
-          "end": "15:45",
-          "hs": "",
-          "slot": [
-            3,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe D",
-      "dozent": "Malte R\u00f6ntgen; Dr. Juliette Helene Marguerite Simonet",
-      "type": "000000000000021",
-      "id": "66-161_3",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "14:15",
-          "end": "15:45",
-          "hs": "",
-          "slot": [
-            3,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe E",
-      "dozent": "Dr. Christoph Becker; Dr. Mikhail Korobko",
-      "type": "000000000000021",
-      "id": "66-161_4",
-      "time": [
-        {
-          "day": "Di",
-          "start": "12:15",
-          "end": "13:45",
-          "hs": "",
-          "slot": [
-            2,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe F",
-      "dozent": "Jonas Rittmeyer; Dr. Philipp Wessels",
-      "type": "000000000000021",
-      "id": "66-161_5",
-      "time": [
-        {
-          "day": "Di",
-          "start": "12:15",
-          "end": "13:45",
-          "hs": "",
-          "slot": [
-            2,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe G",
-      "dozent": "Dr. Christoph Becker; Dr. Mikhail Korobko",
-      "type": "000000000000021",
-      "id": "66-161_6",
-      "time": [
-        {
-          "day": "Di",
-          "start": "15:45",
-          "end": "17:15",
-          "hs": "",
-          "slot": [
-            3,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "name": "\u00dcbungen zur Physik VI",
-      "groupname": "\u00dcbungen zur Physik VI - Gruppe H",
-      "dozent": "Jonas Rittmeyer; Dr. Philipp Wessels",
-      "type": "000000000000021",
-      "id": "66-161_7",
-      "time": [
-        {
-          "day": "Di",
-          "start": "15:45",
-          "end": "17:15",
-          "hs": "",
-          "slot": [
-            3,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. J\u00f6rg Alexander Teschner",
-      "name": "Mathematik IV f\u00fcr Studierende der Physik",
-      "short": "Math IV_Phys-V",
+      "dozent": "PD Dr. Ralf Holtkamp",
+      "name": "Mathematik III f\u00fcr Studierende der Physik",
+      "short": "Mathe III_Phys-V",
       "type": "000000000000022",
       "id": "65-811",
       "time": [
@@ -1592,17 +1249,17 @@
     },
     {
       "dozent": "PD Dr. Ralf Holtkamp",
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "short": "Math IV_Phys-\u00dc",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "short": "Mathe III_Phys-\u00dc",
       "type": "000000000000021",
       "id": "65-812",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. A1 Di 10-12",
-      "dozent": "N.N.",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A1",
+      "dozent": "PD Dr. Ralf Holtkamp",
       "type": "000000000000021",
       "id": "65-812_0",
       "time": [
@@ -1619,8 +1276,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. A2 Di 10-12",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 10-12 Gr. A2",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-812_1",
@@ -1638,9 +1295,9 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. B1 Di 12-14",
-      "dozent": "N.N.",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B1",
+      "dozent": "PD Dr. Ralf Holtkamp",
       "type": "000000000000021",
       "id": "65-812_2",
       "time": [
@@ -1657,8 +1314,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. B2 Di 12-14",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 12-14 Gr. B2",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-812_3",
@@ -1676,8 +1333,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. C1 Di 14-16",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C1",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-812_4",
@@ -1695,8 +1352,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. C2 Di 14-16",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 14-16 Gr. C2",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-812_5",
@@ -1714,8 +1371,8 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. D1 Di 16-18",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D1",
       "dozent": "N.N.",
       "type": "000000000000021",
       "id": "65-812_6",
@@ -1733,9 +1390,9 @@
       ]
     },
     {
-      "name": "\u00dcbungen zu Mathematik IV f\u00fcr Studierende der Physik (8 Gruppen)",
-      "groupname": "\u00dcbungen zu Mathematik IV - Gr. D2 Di 16-18",
-      "dozent": "N.N.",
+      "name": "\u00dcbungen zu Mathematik III f\u00fcr Studierende der Physik (8 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe 3 f\u00fcr Studierende der Physik - Di 16-18 Gr. D2",
+      "dozent": "PD Dr. Ralf Holtkamp",
       "type": "000000000000021",
       "id": "65-812_7",
       "time": [
@@ -1753,33 +1410,206 @@
     },
     {
       "dozent": "N.N.",
-      "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)",
-      "short": "Mathe IV_Phys-T",
+      "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+      "short": "Mathe III_Phys-T",
       "type": "000000000000016",
       "id": "65-814",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
-      "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)",
-      "groupname": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik - Gr. 1",
+      "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+      "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 1",
       "dozent": "N.N.",
       "type": "000000000000016",
       "id": "65-814_0"
     },
     {
-      "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)",
-      "groupname": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik - Gr. 2",
+      "name": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik (2 Gruppen)",
+      "groupname": "Tutorium zu Mathematik III f\u00fcr Studierende der Physik Gr. 2",
       "dozent": "N.N.",
       "type": "000000000000016",
       "id": "65-814_1"
     },
     {
-      "name": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik (3 Gruppen)",
-      "groupname": "Tutorium zu Mathematik IV f\u00fcr Studierende der Physik - Gr. 3",
-      "dozent": "N.N.",
-      "type": "000000000000016",
-      "id": "65-814_2"
+      "dozent": "Pavel H\u00e1jek",
+      "name": "Anleitung zu den \u00dcbungen Mathematik III f\u00fcr Studierende der Physik",
+      "short": "Mathe III_Phys-A\u00dc",
+      "type": "000000000000077",
+      "id": "65-816",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "name": "Physik V",
+      "short": "Physik V",
+      "type": "000000000000022",
+      "id": "66-150",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
+          "slot": [
+            1,
+            1
+          ]
+        },
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
+          "slot": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "name": "\u00dcbungen zur Physik V",
+      "short": "\u00dcbg. Physik V",
+      "type": "000000000000021",
+      "id": "66-151",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "name": "\u00dcbungen zur Physik V",
+      "groupname": "\u00dcbungen zur Physik V - Gruppe A",
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "type": "000000000000021",
+      "id": "66-151_0",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:30",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik V",
+      "groupname": "\u00dcbungen zur Physik V - Gruppe B",
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "type": "000000000000021",
+      "id": "66-151_1",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:30",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik V",
+      "groupname": "\u00dcbungen zur Physik V - Gruppe C",
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "type": "000000000000021",
+      "id": "66-151_2",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:30",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik V",
+      "groupname": "\u00dcbungen zur Physik V - Gruppe D",
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "type": "000000000000021",
+      "id": "66-151_3",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:30",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik V",
+      "groupname": "\u00dcbungen zur Physik V - Gruppe E",
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "type": "000000000000021",
+      "id": "66-151_4",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:30",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik V",
+      "groupname": "\u00dcbungen zur Physik V - Gruppe F",
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "type": "000000000000021",
+      "id": "66-151_5",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:30",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Physik V",
+      "groupname": "\u00dcbungen zur Physik V - Gruppe G",
+      "dozent": "Prof. Dr. Caren Hagner; Dr. Andreas Hinzmann",
+      "type": "000000000000021",
+      "id": "66-151_6",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:30",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "dozent": "Prof. Dr. Erika Garutti; Prof. Dr. Dorota Koziej",
@@ -1800,20 +1630,172 @@
       "time": []
     },
     {
-      "dozent": "Prof. Dr. Christian Bressler",
-      "name": "How to read, understand and assess the quality of (experimental) publications",
-      "short": "ABK: read&understand",
-      "type": "000000000000047",
-      "id": "66-855",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "name": "Theoretische Physik III",
+      "short": "Theor. Physik III",
+      "type": "000000000000022",
+      "id": "66-190",
       "time": [
         {
-          "day": "Mi",
-          "start": "16:15",
-          "end": "17:45 ",
-          "hs": "CFEL, SemRm V, Campus Bahrenfeld",
+          "day": "Mo",
+          "start": "08:30",
+          "end": "10:00 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": [
-            4,
-            2
+            0,
+            0
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "08:30",
+          "end": "10:00 ",
+          "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
+          "slot": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "short": "\u00dcbg. Th. Physik III",
+      "type": "000000000000021",
+      "id": "66-191",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe A",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "type": "000000000000021",
+      "id": "66-191_0",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:15",
+          "end": "11:45",
+          "hs": "",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe B",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "type": "000000000000021",
+      "id": "66-191_1",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:15",
+          "end": "11:45",
+          "hs": "",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe C",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "type": "000000000000021",
+      "id": "66-191_2",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "12:00",
+          "end": "13:30",
+          "hs": "",
+          "slot": [
+            2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe D",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "type": "000000000000021",
+      "id": "66-191_3",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "12:00",
+          "end": "13:30",
+          "hs": "",
+          "slot": [
+            2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe E",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "type": "000000000000021",
+      "id": "66-191_4",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:30",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe F",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "type": "000000000000021",
+      "id": "66-191_5",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:30",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u00dcbungen zur Theoretischen Physik III",
+      "groupname": "\u00dcbungen zur Theoretischen Physik III - Gruppe G",
+      "dozent": "Prof. Dr. Michael Potthoff",
+      "type": "000000000000021",
+      "id": "66-191_6",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:30",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            0
           ]
         }
       ]
@@ -1826,25 +1808,6 @@
       "id": "66-860",
       "blub": "Es liegen keine Termine vor.",
       "time": []
-    },
-    {
-      "dozent": "Bodo Krause-Kyora Dipl.-Phys.; Michael Richter Dipl.-Chem.; Martin Stieben",
-      "name": "Wissenschaftliches Rechnen",
-      "short": "Wiss. Rechnen",
-      "type": "000000000000047",
-      "id": "66-870",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "12:30",
-          "end": "14:00 ",
-          "hs": "Poolraum 3",
-          "slot": [
-            2,
-            0
-          ]
-        }
-      ]
     },
     {
       "dozent": "Bodo Krause-Kyora Dipl.-Phys.; Michael Richter Dipl.-Chem.; Martin Stieben",
@@ -1864,11 +1827,11 @@
       "time": [
         {
           "day": "Mo",
-          "start": "14:00",
-          "end": "15:30",
+          "start": "10:00",
+          "end": "11:30",
           "hs": "",
           "slot": [
-            3,
+            1,
             0
           ]
         }
@@ -1883,85 +1846,18 @@
       "time": [
         {
           "day": "Mo",
-          "start": "15:30",
-          "end": "17:00",
+          "start": "12:00",
+          "end": "13:30",
           "hs": "",
           "slot": [
-            3,
+            2,
             0
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Gregor Kasieczka",
-      "name": "Machine learning and deep learning",
-      "short": "ABK: Machine learn.",
-      "type": "000000000000047",
-      "id": "66-875",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "17:00",
-          "end": "18:30 ",
-          "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
-          "slot": [
-            4,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Dr. Hartmut Stadie",
-      "name": "Algorithmen zur Datenanalyse in C++",
-      "short": "Datenanalyse in C++",
-      "type": "000000000000047",
-      "id": "66-876",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "16:00",
-          "end": "16:45 ",
-          "hs": "H\u00f6rsaal III (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            4,
-            0
-          ]
-        },
-        {
-          "day": "Mo",
-          "start": "16:45",
-          "end": "17:30 ",
-          "hs": "Poolraum 1\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    Poolraum 2",
-          "slot": [
-            4,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Dr. Stephan Kuschel",
-      "name": "Open Source Software Development mit Python",
-      "short": "Python",
-      "type": "000000000000024",
-      "id": "66-879",
-      "time": [
-        {
-          "day": "Mi",
-          "start": "16:00",
-          "end": "17:30 ",
-          "hs": "Poolraum 3",
-          "slot": [
-            4,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Freya Blekman; Dr. Andreas Hinzmann",
+      "dozent": "Prof. Dr. Freya Blekman; Prof. Dr. Elisabetta Gallo; Dr. Krisztian Peters",
       "name": "Proseminar: Teilchen- und Astroteilchenphysik",
       "short": "PS: Astro/Teilchenph",
       "type": "000000000000003",
@@ -1969,30 +1865,30 @@
       "time": [
         {
           "day": "Di",
-          "start": "12:00",
-          "end": "13:30 ",
-          "hs": "SemRm 2",
+          "start": "08:30",
+          "end": "10:00 ",
+          "hs": "Ju 11, A203",
           "slot": [
-            2,
+            0,
             1
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Florian Gr\u00fcner; Dr. Theresa Staufer",
-      "name": "Proseminar: Einf\u00fchrung in die Laser-Plasma-Beschleunigung",
-      "short": "PS: Laser-Plasma-Be",
+      "dozent": "Prof. Dr. Wolfgang Hillert; Dr. Velizar Miltchev",
+      "name": "Proseminar: Theorie und Praxis moderner Beschleuniger",
+      "short": "PS: Beschleuniger",
       "type": "000000000000003",
-      "id": "66-505",
+      "id": "66-504",
       "time": [
         {
           "day": "Mi",
-          "start": "10:15",
-          "end": "11:45 ",
-          "hs": "SemRm 2",
+          "start": "09:15",
+          "end": "10:45 ",
+          "hs": "Bibliothek INF",
           "slot": [
-            1,
+            0,
             2
           ]
         }
@@ -2001,15 +1897,15 @@
     {
       "dozent": "Prof. Dr. Florian Gr\u00fcner",
       "name": "Proseminar: Einf\u00fchrung in die biomedizinische Physik",
-      "short": "Einf. biomediz. Phy",
+      "short": "PS. biomed. Phy",
       "type": "000000000000003",
       "id": "66-507",
       "time": [
         {
           "day": "Mi",
-          "start": "14:00",
-          "end": "15:30 ",
-          "hs": "SemRm 4",
+          "start": "14:30",
+          "end": "16:00 ",
+          "hs": "Bibliothek INF",
           "slot": [
             3,
             2
@@ -2019,16 +1915,16 @@
     },
     {
       "dozent": "Prof. Dr. Francesca Calegari; Prof. Dr. Taisia Gorkhover; Prof. Dr. Gerhard Gr\u00fcbel; PD Dr. Michael Martins",
-      "name": "Proseminar: R\u00f6ntgenphysik und Photon Science",
+      "name": "Proseminar: R\u00f6ntgenphysik und Photon Science: Synchrotrons, FELs und Laser",
       "short": "PS: R\u00f6ntgenphysik",
       "type": "000000000000003",
       "id": "66-508",
       "time": [
         {
           "day": "Di",
-          "start": "16:15",
-          "end": "17:45 ",
-          "hs": "Jungius 11, A205",
+          "start": "16:00",
+          "end": "17:30 ",
+          "hs": "Bibliothek INF",
           "slot": [
             4,
             1
@@ -2037,17 +1933,26 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Dieter Horns; Dr. Moritz K\u00fctt",
-      "name": "Proseminar: Astroteilchenphysik und \u00dcberpr\u00fcfung der nuklearen Abr\u00fcstung",
-      "short": "ProSem: Astro.Abr\u00fcst",
+      "dozent": "Dr. Peter Gaal; Dr. Christian Heyn; PD Dr. Guido Meier; Dr. Lars Tiemann",
+      "name": "Proseminar: Grundlagen nanostrukturierter Festk\u00f6rper",
+      "short": "PS: nanostruktur. FK",
       "type": "000000000000003",
-      "id": "66-509",
+      "id": "66-510",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Roland Wiesendanger",
+      "name": "Proseminar: Visionen der Festk\u00f6rperforschung",
+      "short": "PS: Fk-Forschung",
+      "type": "000000000000003",
+      "id": "66-516",
       "time": [
         {
           "day": "Do",
-          "start": "10:45",
-          "end": "12:15 ",
-          "hs": "SemRm 2",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "Bibliothek INF",
           "slot": [
             1,
             3
@@ -2056,37 +1961,9 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Roland Wiesendanger",
-      "name": "Proseminar: Topologische Materialien als Basis neuer Quantentechnologien",
-      "short": "ProSem: Topolog. Mat",
-      "type": "000000000000003",
-      "id": "66-511",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "14:15",
-          "end": "15:45 ",
-          "hs": "Jungius 11a, A205",
-          "slot": [
-            3,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Dr. Peter Gaal; Dr. Christian Heyn; PD Dr. Guido Meier; Dr. Lars Tiemann",
-      "name": "Proseminar: Grundlagen nanostrukturierter Festk\u00f6rper",
-      "short": "PS: Nanostrukt. Fk",
-      "type": "000000000000003",
-      "id": "66-512",
-      "blub": "Es liegen keine Termine vor.",
-      "time": []
-    },
-    {
       "dozent": "Prof. Dr. Robert H. Blick",
       "name": "Proseminar: Nano-Bio-Elektronik",
-      "short": "Prosem. Nanobioelek",
+      "short": "PS. Nano-Bio-Elektro",
       "type": "000000000000003",
       "id": "66-518",
       "time": [
@@ -2094,7 +1971,7 @@
           "day": "Di",
           "start": "13:00",
           "end": "14:30 ",
-          "hs": "CHyN, Raum 3.01, Campus Bahrenfeld",
+          "hs": "Ju 11, A208",
           "slot": [
             2,
             1
@@ -2103,20 +1980,48 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Oliver Gerberding; Prof. Dr. Roman Schnabel",
-      "name": "Proseminar: Gravitationswellenastronomie",
-      "short": "Grav.wellenastro",
+      "dozent": "Prof. Dr. Jochen K\u00fcpper; Dr. Sebastian Trippel; Dr. Andrey Yachmenev",
+      "name": "Proseminar: Molek\u00fclphysik",
+      "short": "PS: Molek\u00fclphysik",
       "type": "000000000000003",
-      "id": "66-525",
+      "id": "66-524",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Ralf Riedinger; Prof. Dr. Roman Schnabel",
+      "name": "Proseminar: Kryptographie und Quantenschl\u00fcsselverteilung",
+      "short": "PS: Kry. Quan.Vert.",
+      "type": "000000000000003",
+      "id": "66-526",
       "time": [
         {
           "day": "Mi",
           "start": "13:30",
           "end": "15:00 ",
-          "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
+          "hs": "SemRm 1 (Ju 9, 103)",
           "slot": [
             2,
             2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Ludwig Mathey",
+      "name": "Proseminar: Photonen",
+      "short": "PS Photon",
+      "type": "000000000000003",
+      "id": "66-529",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:00",
+          "end": "15:30 ",
+          "hs": "Bahrenfeld, Geb. 69, SemRm 052",
+          "slot": [
+            3,
+            0
           ]
         }
       ]
@@ -2133,100 +2038,62 @@
     {
       "dozent": "Prof. Dr. Peter Hauschildt",
       "name": "Proseminar: Moderne Fragen der Stellarastrophysik",
-      "short": "ProSem: Stellarastro",
+      "short": "PS. Stellarastro",
       "type": "000000000000003",
       "id": "66-532",
       "blub": "Es liegen keine Termine vor.",
       "time": []
     },
     {
-      "dozent": "Prof. Dr. Geraldine Chantal Servant",
-      "name": "Proseminar: Physics of dark matter",
-      "short": "Prosem: Phy dark mat",
+      "dozent": "Prof. Dr. Stefan Robi Banerjee; Dr. Dieter Engels; Prof. Dr. Hartwig Spitzer",
+      "name": "Proseminar: Energiewende, physikalische und \u00f6konomische Grundlagen",
+      "short": "PS. Energiewende",
       "type": "000000000000003",
-      "id": "66-535",
+      "id": "66-534",
       "time": [
         {
           "day": "Di",
-          "start": "14:00",
-          "end": "15:30 ",
-          "hs": "Jungius 11A, A205",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
           "slot": [
-            3,
+            4,
             1
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Michael Thorwart",
-      "name": "Proseminar: Pfadintegrale in der Quantenmechanik",
-      "short": "Pros. Quan. Pfadint.",
+      "dozent": "Prof. Dr. Sven-Olaf Moch",
+      "name": "Proseminar: Spezielle Probleme in der Quantenmechanik",
+      "short": "PS. QM",
       "type": "000000000000003",
-      "id": "66-540",
+      "id": "66-537",
       "time": [
         {
-          "day": "Mo",
-          "start": "08:30",
-          "end": "10:00 ",
-          "hs": "SemRm 1",
+          "day": "Fr",
+          "start": "09:00",
+          "end": "10:30 ",
+          "hs": "Ju 11, A208",
           "slot": [
             0,
-            0
+            4
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Ludwig Mathey",
-      "name": "Proseminar: Festk\u00f6rperphysik und kalte Atome",
-      "short": "PS: Festk\u00f6rperphysik",
+      "dozent": "Prof. Dr. Dieter Jaksch; Prof. Dr. Henning Moritz; Prof. Dr. Klaus Sengstock",
+      "name": "Proseminar: Quantencomputer: Von der Hardware zu Algorithmen",
+      "short": "PS. Quantencomp",
       "type": "000000000000003",
-      "id": "66-542",
+      "id": "66-538",
       "time": [
         {
           "day": "Mo",
-          "start": "14:00",
-          "end": "15:30 ",
-          "hs": "ZOQ, Seminarraum, Campus Bahrenfeld",
-          "slot": [
-            3,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Peter Schmelcher",
-      "name": "Proseminar: Chaos, Selbstorganisation und Musterbildung",
-      "short": "PS: Chaos",
-      "type": "000000000000003",
-      "id": "66-544",
-      "time": [
-        {
-          "day": "Do",
-          "start": "11:00",
-          "end": "12:30 ",
-          "hs": "Jungius 11a, A209",
-          "slot": [
-            1,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Dr. Thore Hagen Po\u00dfke",
-      "name": "Proseminar: Quantum computing",
-      "short": "Prosem: Quant comput",
-      "type": "000000000000003",
-      "id": "66-545",
-      "time": [
-        {
-          "day": "Mo",
-          "start": "12:15",
-          "end": "13:45 ",
-          "hs": "Jungius 11A, A209",
+          "start": "12:30",
+          "end": "14:00 ",
+          "hs": "Bibliothek INF",
           "slot": [
             2,
             0
@@ -2235,35 +2102,35 @@
       ]
     },
     {
-      "dozent": "Dr. Tim Oliver Wehling",
-      "name": "Proseminar: Computational physics",
-      "short": "Prosem: Comput. phy",
+      "dozent": "PD Dr. Annette Raabe; Dr. Thorsten Rieckmann; Prof. Dr. Kai Rothkamm",
+      "name": "Proseminar: Recherchieren, Pr\u00e4sentieren und Diskutieren radioonkologischer Themen",
+      "short": "PS. Radioonkologie",
       "type": "000000000000003",
-      "id": "66-546",
+      "id": "66-547",
       "time": [
         {
-          "day": "Di",
-          "start": "10:00",
-          "end": "11:30 ",
-          "hs": "SemRm 2",
+          "day": "Mi",
+          "start": "15:00",
+          "end": "16:30 ",
+          "hs": "UKE, Geb. N55, Raum 210/211",
           "slot": [
-            1,
-            1
+            3,
+            2
           ]
         }
       ]
     },
     {
-      "dozent": "Dr. Andreas Schweitzer",
-      "name": "Proseminar: Schl\u00fcsselentdeckungen der Astrophysik",
-      "short": "ProSem: Entdeck.Astr",
-      "type": "000000000000003",
-      "id": "66-548",
+      "dozent": "Prof. Dr. Jochen Liske",
+      "name": "Einf\u00fchrung in die Astronomie und Astrophysik I",
+      "short": "Astrophysik I",
+      "type": "000000000000022",
+      "id": "66-901",
       "time": [
         {
           "day": "Do",
-          "start": "15:30",
-          "end": "17:00 ",
+          "start": "14:15",
+          "end": "15:45 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": [
             3,
@@ -2273,26 +2140,7 @@
       ]
     },
     {
-      "dozent": "Prof. Dr. Marcus Br\u00fcggen",
-      "name": "Einf\u00fchrung in die Astronomie und Astrophysik I",
-      "short": "Astrophysik I",
-      "type": "000000000000022",
-      "id": "66-901",
-      "time": [
-        {
-          "day": "Di",
-          "start": "08:15",
-          "end": "09:45 ",
-          "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
-          "slot": [
-            0,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "dozent": "Prof. Dr. Marcus Br\u00fcggen",
+      "dozent": "Prof. Dr. Jochen Liske",
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
       "short": "\u00dcbg. Astrophysik I",
       "type": "000000000000021",
@@ -2303,17 +2151,17 @@
     {
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
       "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I - Gruppe A",
-      "dozent": "Prof. Dr. Marcus Br\u00fcggen",
+      "dozent": "Prof. Dr. Jochen Liske",
       "type": "000000000000021",
       "id": "66-902_0",
       "time": [
         {
           "day": "Do",
-          "start": "15:45",
-          "end": "17:15",
+          "start": "16:00",
+          "end": "17:30",
           "hs": "",
           "slot": [
-            3,
+            4,
             3
           ]
         }
@@ -2322,17 +2170,17 @@
     {
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
       "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I - Gruppe B",
-      "dozent": "Prof. Dr. Marcus Br\u00fcggen; Dr. Andreas Schweitzer",
+      "dozent": "Prof. Dr. Jochen Liske",
       "type": "000000000000021",
       "id": "66-902_1",
       "time": [
         {
           "day": "Do",
-          "start": "15:45",
-          "end": "17:15",
+          "start": "16:00",
+          "end": "17:30",
           "hs": "",
           "slot": [
-            3,
+            4,
             3
           ]
         }
@@ -2341,17 +2189,17 @@
     {
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
       "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I - Gruppe C",
-      "dozent": "Prof. Dr. Marcus Br\u00fcggen",
+      "dozent": "Prof. Dr. Jochen Liske",
       "type": "000000000000021",
       "id": "66-902_2",
       "time": [
         {
           "day": "Do",
-          "start": "15:45",
-          "end": "17:15",
+          "start": "16:00",
+          "end": "17:30",
           "hs": "",
           "slot": [
-            3,
+            4,
             3
           ]
         }
@@ -2360,24 +2208,24 @@
     {
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I",
       "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik I - Gruppe D",
-      "dozent": "Prof. Dr. Marcus Br\u00fcggen",
+      "dozent": "Prof. Dr. Jochen Liske",
       "type": "000000000000021",
       "id": "66-902_3",
       "time": [
         {
           "day": "Do",
-          "start": "15:45",
-          "end": "17:15",
+          "start": "17:45",
+          "end": "19:15",
           "hs": "",
           "slot": [
-            3,
+            4,
             3
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Peter Hauschildt",
+      "dozent": "Prof. Dr. Marcus Br\u00fcggen",
       "name": "Einf\u00fchrung in die Astronomie und Astrophysik II",
       "short": "Astrophysik II",
       "type": "000000000000022",
@@ -2385,18 +2233,18 @@
       "time": [
         {
           "day": "Di",
-          "start": "14:00",
-          "end": "15:30 ",
-          "hs": "Digital",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
           "slot": [
-            3,
+            1,
             1
           ]
         }
       ]
     },
     {
-      "dozent": "Prof. Dr. Peter Hauschildt",
+      "dozent": "Prof. Dr. Marcus Br\u00fcggen; Dr. Andreas Schweitzer",
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
       "short": "\u00dcbg. Astro II",
       "type": "000000000000021",
@@ -2407,7 +2255,7 @@
     {
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
       "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II - Gruppe A",
-      "dozent": "Prof. Dr. Peter Hauschildt",
+      "dozent": "Prof. Dr. Marcus Br\u00fcggen; Dr. Andreas Schweitzer",
       "type": "000000000000021",
       "id": "66-904_0",
       "time": [
@@ -2426,7 +2274,7 @@
     {
       "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
       "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II - Gruppe B",
-      "dozent": "Prof. Dr. Peter Hauschildt",
+      "dozent": "Prof. Dr. Marcus Br\u00fcggen; Dr. Andreas Schweitzer",
       "type": "000000000000021",
       "id": "66-904_1",
       "time": [
@@ -2443,9 +2291,28 @@
       ]
     },
     {
+      "name": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II",
+      "groupname": "\u00dcbungen zur Einf\u00fchrung in die Astronomie und Astrophysik II - Gruppe C",
+      "dozent": "Prof. Dr. Marcus Br\u00fcggen; Dr. Andreas Schweitzer",
+      "type": "000000000000021",
+      "id": "66-904_2",
+      "time": [
+        {
+          "day": "Di",
+          "start": "16:00",
+          "end": "17:30",
+          "hs": "",
+          "slot": [
+            4,
+            1
+          ]
+        }
+      ]
+    },
+    {
       "dozent": "PD Dr. Annette Raabe; Prof. Dr. Kai Rothkamm",
-      "name": "Introduction to biomedical physics I",
-      "short": "Intro biom. phy. I",
+      "name": "Introduction to biomedical physics II",
+      "short": "Intro. biom. phy II",
       "type": "000000000000022",
       "id": "66-675",
       "time": [
@@ -2453,7 +2320,7 @@
           "day": "Mo",
           "start": "14:15",
           "end": "15:45 ",
-          "hs": "UKE, Geb. O45, H\u00f6rsaal der Kinderklinik",
+          "hs": "H\u00f6rsaal der Kinderklinik,045, UKE, Martinistra\u00dfe 52",
           "slot": [
             3,
             0
@@ -2462,9 +2329,18 @@
       ]
     },
     {
-      "dozent": "Niklas K\u00e4ming; Martin Stieben",
+      "dozent": "Dr. Elisabetta Gargioni; PD Dr. Annette Raabe; Dr. Thorsten Rieckmann; Prof. Dr. Kai Rothkamm",
+      "name": "Introduction to biomedical physics - laboratory",
+      "short": "Biom. phy. lab.",
+      "type": "000000000000023",
+      "id": "66-677",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Klaus Sengstock; Martin Stieben",
       "name": "Hochleistungsrechnen in der Physik: Grundlagen der Entwicklung paralleler Anwendungen",
-      "short": "PHY-HLR-V",
+      "short": "HLR",
       "type": "000000000000022",
       "id": "66-878",
       "time": [
@@ -2480,8 +2356,8 @@
         },
         {
           "day": "Fr",
-          "start": "10:30",
-          "end": "12:00 ",
+          "start": "10:15",
+          "end": "11:45 ",
           "hs": "SemRm 1083",
           "slot": [
             1,
