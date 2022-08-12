@@ -2,7 +2,7 @@ all: clean download prepare copy build
 
 clean:
 	rm -f data/linkList*.json data/data*.json
-	rm -r vue/dist
+	rm -rf vue/dist
 
 
 download:
