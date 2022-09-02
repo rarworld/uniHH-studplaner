@@ -1,13 +1,13 @@
 {
-  "exported": "08/12/2022, 22:49:40",
+  "exported": "09/02/2022, 23:24:25",
   "files": [
     {
       "name": "Computing in Science - Physik",
-      "parsed": "08/12/2022, 22:48:39"
+      "parsed": "09/02/2022, 23:23:21"
     },
     {
       "name": "Physik",
-      "parsed": "08/12/2022, 22:47:13"
+      "parsed": "09/02/2022, 23:22:03"
     }
   ],
   "data": [
@@ -1957,7 +1957,7 @@
           "day": "Mo",
           "start": "10:15",
           "end": "11:45 ",
-          "hs": "",
+          "hs": "Sed 19, 215",
           "slot": [
             1,
             0
@@ -4028,7 +4028,7 @@
         {
           "day": "Di",
           "start": "16:15",
-          "end": "17:45 ",
+          "end": "19:15 ",
           "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
           "slot": [
             4,
@@ -4087,6 +4087,25 @@
           "start": "15:00",
           "end": "16:30 ",
           "hs": "UKE, Geb. N55, Raum 210/211",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Arwen Ruth Pearson; Dr. Andrea Thorn",
+      "name": "Anthropogene Unf\u00e4lle in der Physik",
+      "short": "Unf\u00e4lle Physik",
+      "type": "000000000000020",
+      "id": "66-674",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "15:30",
+          "end": "17:00 ",
+          "hs": "HARBOR (Geb. 610), Campus Bahrenfeld",
           "slot": [
             3,
             2
@@ -4501,7 +4520,7 @@
       ]
     },
     {
-      "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+      "dozent": "Prof. Dr. Stefan Kurtz; Jeanine Liebold",
       "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
       "short": "PfN1_\u00dcb",
       "type": "000000000000021",
@@ -4512,7 +4531,7 @@
     {
       "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
       "groupname": "\u00dcbungen PfN I - Gruppe 1 (Mi. 14-16 Uhr)",
-      "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+      "dozent": "Prof. Dr. Stefan Kurtz; Jeanine Liebold",
       "type": "000000000000021",
       "id": "67-101_0",
       "time": [
@@ -4531,7 +4550,7 @@
     {
       "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
       "groupname": "\u00dcbungen PfN I - Gruppe 2 (Mi. 14-16 Uhr)",
-      "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+      "dozent": "Prof. Dr. Stefan Kurtz; Jeanine Liebold",
       "type": "000000000000021",
       "id": "67-101_1",
       "time": [
@@ -4550,7 +4569,7 @@
     {
       "name": "\u00dcbungen Programmierung f\u00fcr Naturwissenschaften I",
       "groupname": "\u00dcbungen PfN I - Gruppe 3 (Mi. 16-18 Uhr)",
-      "dozent": "Lena Hackl; Michael Hartung; Prof. Dr. Stefan Kurtz",
+      "dozent": "Prof. Dr. Stefan Kurtz; Jeanine Liebold",
       "type": "000000000000021",
       "id": "67-101_2",
       "time": [

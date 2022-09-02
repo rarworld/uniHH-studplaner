@@ -1,6 +1,6 @@
 {
   "name": "Physik",
-  "parsed": "08/12/2022, 22:47:13",
+  "parsed": "09/02/2022, 23:22:03",
   "data": [
     {
       "dozent": "N.N.",
@@ -2054,7 +2054,7 @@
         {
           "day": "Di",
           "start": "16:15",
-          "end": "17:45 ",
+          "end": "19:15 ",
           "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
           "slot": [
             4,
@@ -2336,6 +2336,25 @@
       "id": "66-677",
       "blub": "Es liegen keine Termine vor.",
       "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Arwen Ruth Pearson; Dr. Andrea Thorn",
+      "name": "Anthropogene Unf\u00e4lle in der Physik",
+      "short": "Unf\u00e4lle Physik",
+      "type": "000000000000020",
+      "id": "66-674",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "15:30",
+          "end": "17:00 ",
+          "hs": "HARBOR (Geb. 610), Campus Bahrenfeld",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
     },
     {
       "dozent": "Prof. Dr. Klaus Sengstock; Martin Stieben",

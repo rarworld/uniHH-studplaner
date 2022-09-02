@@ -1447,6 +1447,16 @@
             "entries": []
           },
           {
+            "name": "66-674 Anthropogene Unf\u00e4lle in der Physik",
+            "submenu": [],
+            "entries": [
+              {
+                "id": "66-674",
+                "name": "Anthropogene Unf\u00e4lle in der Physik"
+              }
+            ]
+          },
+          {
             "name": "66-878 Hochleistungsrechnen in der Physik: Grundlagen der Entwicklung paralleler Anwendungen",
             "submenu": [],
             "entries": [
