@@ -174,7 +174,7 @@ export default {
           }
         },
         addVorlesung(vId){
-          var res = undefined;
+          let res = undefined;
           this.vorlesungsListe.forEach(vorl => {if(vorl.id == vId) res=vorl })
           if(res){
             this.addToTable(res)

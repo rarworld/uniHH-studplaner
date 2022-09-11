@@ -43,7 +43,7 @@ VL_TYPE = {
 }
 
 
-def calcSlot(timeJson):
+def calc_slot(timeJson):
     day = timeJson['day']
     startTime = datetime.strptime(timeJson['start'], FMT)
     res=-1
@@ -53,7 +53,7 @@ def calcSlot(timeJson):
     
     return (res, DAY_TO_NUMBER[day])
 
-def flatList(linksList, lessonList, lessonIds):
+def flat_list(linksList, lessonList, lessonIds):
     # print(linksList['name'])
     if(len(linksList['links'])==0):
         if 'vorlesung' in linksList:
@@ -64,10 +64,10 @@ def flatList(linksList, lessonList, lessonIds):
                     lessonList.append(tmp)
     else:
         for links in linksList['links']:
-            flatList(links, lessonList, lessonIds)
+            flat_list(links, lessonList, lessonIds)
 
 
-def prepareData(fileType):
+def prepare_data(fileType):
     with open("linkList_"+fileType+".json") as jsonFile:
         jsonObject = json.load(jsonFile)
         jsonFile.close()
@@ -75,7 +75,7 @@ def prepareData(fileType):
     lessonList=[]
     lessonIds=[]
 
-    flatList(jsonObject, lessonList, lessonIds)
+    flat_list(jsonObject, lessonList, lessonIds)
     print(f"{len(lessonList)} verschiedene Vorlesungen geflatted")
 
     i=0
@@ -89,7 +89,7 @@ def prepareData(fileType):
                 empty_count += 1
         else:
             for tmp in lesson['time']:
-                tmp['slot'] = calcSlot(tmp)
+                tmp['slot'] = calc_slot(tmp)
             i +=1
 
     result = {
@@ -107,18 +107,18 @@ def prepareData(fileType):
 
 
 if __name__ == '__main__':
-    prepareData('Phy')
-    prepareData('Inf')
-    #prepareData('Tmp')
+    prepare_data('Phy')
+    prepare_data('Inf')
+    #prepare_data('Tmp')
 
 
-# prepareData('Phy')
+# prepare_data('Phy')
 #  - 142 verschiedene Vorlesungen geflatted
 #  - Exported  106
 #  - Empty  34
 #  - Missing  2
 #
-# prepareData('Inf')
+# prepare_data('Inf')
 #  - 204 verschiedene Vorlesungen geflatted
 #  - Exported  176
 #  - Empty  25

@@ -3,7 +3,7 @@
 import json
 import datetime
 
-def loadFileIntoDic(dict, urlPath):
+def load_file_into_dic(dict, urlPath):
     with open(urlPath) as jsonFile:
         json_object = json.load(jsonFile)
         jsonFile.close()
@@ -21,8 +21,8 @@ if __name__ == '__main__':
     dict={}
     imported_files=[]
 
-    imported_files.append(loadFileIntoDic(dict, "data"+"Inf"+".json"))
-    imported_files.append(loadFileIntoDic(dict, "data"+"Phy"+".json"))
+    imported_files.append(load_file_into_dic(dict, "data"+"Inf"+".json"))
+    imported_files.append(load_file_into_dic(dict, "data"+"Phy"+".json"))
 
     lessonList=[]
     for k in dict:
