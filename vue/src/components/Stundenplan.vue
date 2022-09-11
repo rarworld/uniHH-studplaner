@@ -148,8 +148,9 @@ export default {
     methods: {
         addToTable(element) {
           if(!element['time'] || element['time'].length == 0){
-            var tt = {
+            let tt = {
               'id': element['id'],
+              'base': element['base'],
               'name': element['name'],
               'dozent': element['dozent'],
               'hs': "",
@@ -159,9 +160,10 @@ export default {
           }
           if(element['time'] && element['time'].length > 0){
             element["time"].forEach(slotTmp => {
-              var slot = slotTmp['slot']
-              var tt = {
+              let slot = slotTmp['slot']
+              let tt = {
                 'id': element['id'],
+                'base': element['base'],
                 'name': element['name'],
                 'dozent': element['dozent'],
                 'hs': slotTmp['hs'],
@@ -227,7 +229,7 @@ export default {
     },
     created: function(){
       if( window.location.search != ""){
-        var searchParams = decodeURIComponent(window.location.search.substr(1).split('=')[1])
+        let searchParams = decodeURIComponent(window.location.search.substr(1).split('=')[1])
         this.activeVorlesungen=searchParams.split(',')
         this.activeVorlesungen.forEach(vID => this.addVorlesung(vID))
         this.hoover=""

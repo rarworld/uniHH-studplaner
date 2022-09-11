@@ -1,5 +1,5 @@
 <template>
-    <div :class="['smallText', 'card','vorl_'+data.id, {'border-primary': isHoover}, {'text-primary': isHoover}]" 
+    <div :class="['smallText', 'card','vorl_'+data.id, {'border-primary': isHoover}, {'text-primary': isHoover},{'border-info': isSubHoover}, {'text-info': isSubHoover}]" 
             @mouseover="$emit('box-hoover',data.id)" @mouseleave="$emit('box-hoover','')" @dblclick="test(data.id)">
         <div class="card-body">
             <div class="card-title"><strong>{{ data.name }}</strong></div>
@@ -18,12 +18,14 @@ export default {
     emits: ['box-hoover','box-click'],
     data() {
         return {
-            isHoover: this.hover == this.data.id
+            isHoover: this.hover == this.data.id,
+            isSubHoover: this.hover == this.data.base
         }
     },
     watch: {
         hover(val){
            this.isHoover= val == this.data.id 
+           this.isSubHoover= !this.isHoover && val == this.data.base
         }
     },
     methods:{
