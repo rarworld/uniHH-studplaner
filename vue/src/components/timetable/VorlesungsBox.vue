@@ -4,7 +4,6 @@
         <div class="card-body">
             <div class="card-title"><strong>{{ data.name }}</strong></div>
             <div class="card-subtitle mb-2 text-muted">{{ data.id}}</div>
-            <div class="card-subtitle mb-2 text-muted">{{ data.base}}</div>
             <div v-if="data.dozent.length > 0" class="text-truncate"><strong>Dozent:</strong> {{ data.dozent }}</div>
             <div v-if="data.hs.length > 0"><strong>HS:</strong> {{ data.hs }}</div>
             <div v-if="data.time.length > 0"><strong>Zeit:</strong> {{ data.time }}</div>
