@@ -1,13 +1,13 @@
 {
-  "exported": "09/11/2022, 19:06:13",
+  "exported": "09/16/2022, 23:39:20",
   "files": [
     {
       "name": "Computing in Science - Physik",
-      "parsed": "09/11/2022, 19:05:07"
+      "parsed": "09/16/2022, 23:38:06"
     },
     {
       "name": "Physik",
-      "parsed": "09/11/2022, 19:03:46"
+      "parsed": "09/16/2022, 23:36:32"
     }
   ],
   "data": [
@@ -2063,7 +2063,7 @@
           "day": "Do",
           "start": "12:15",
           "end": "13:45 ",
-          "hs": "Sed 19, 221",
+          "hs": "Geom 434",
           "slot": [
             2,
             3
@@ -2647,7 +2647,7 @@
       "base": "65-834"
     },
     {
-      "dozent": "N.N.",
+      "dozent": "Dr. Andrej Depperschmidt",
       "name": "\u00dcbungen zu Stochastik 2 f\u00fcr Studierende der Informatik",
       "short": "Stoch 2_Inf-\u00dc",
       "type": "000000000000021",

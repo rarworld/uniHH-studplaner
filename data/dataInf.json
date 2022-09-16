@@ -1,6 +1,6 @@
 {
   "name": "Computing in Science - Physik",
-  "parsed": "09/11/2022, 19:05:07",
+  "parsed": "09/16/2022, 23:38:06",
   "data": [
     {
       "dozent": "Prof. Dr. Stefan Kurtz",
@@ -3225,7 +3225,7 @@
       ]
     },
     {
-      "dozent": "N.N.",
+      "dozent": "Dr. Andrej Depperschmidt",
       "name": "\u00dcbungen zu Stochastik 2 f\u00fcr Studierende der Informatik",
       "short": "Stoch 2_Inf-\u00dc",
       "type": "000000000000021",
@@ -3293,7 +3293,7 @@
           "day": "Do",
           "start": "12:15",
           "end": "13:45 ",
-          "hs": "Sed 19, 221",
+          "hs": "Geom 434",
           "slot": [
             2,
             3
