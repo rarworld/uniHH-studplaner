@@ -1,0 +1,3844 @@
+{
+  "file": "data/linkList_Inf.json",
+  "name": "Informatik",
+  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2K~JNwigDxn2Zz4kc2GNnIW2gGjlxas4SbyvsOUucs29CmqMY4-f8YQiFpxXqNci9rdWIBSrBQ~lKFVgK5l-nyt~Cmge~TiPM03YELQGSkvMaOUsOeYu6sLFS3nqSLAXboqteO1IQ-PeHXBLCFbsqyumQIiJtell1qHs7Bgjy1s-doivd0j5sHJx-ES2Oj5UeM-Y0qOuU2QUrrk_",
+  "date": "09/17/2022, 02:07:09",
+  "links": [
+    {
+      "name": " 1. Pflicht Informatik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJlLucS-DSSxXTrkN5j44E3M7bPF4x9S-DJvgXf4jUz5gPfdIAbTblEsvb1vQFUKlcY32y2BHYfcVk-WVDquFe4YVLLv3r5R824yGyXK5JnYigz6JDvdyDD5RY93Gh5QohBaSIa8~pxRMm9wYCGMrn9fUysvin2nO1c05bPBeQdYYUVXgxq60zFEQW7vvuOq9pa4IneQ4VJBz0ic_",
+      "links": [
+        {
+          "name": " Modul InfB-AD: Algorithmen und Datenstrukturen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AAF0UdnJDTnValx3uwn1AUesJILsGf4~aK5MhcVxXsjyEis1h-bly79QT5EugO2Xb57-HeBR9aVlikLTfRlbwZ3Wm2Uvw0RjPHW9OpLxL3ZYxdg0vqYMb~uON0Cd30hoRpUVtBTBD1ZOMdDNAv8nXxKIpuc~tJ6VJbtNWq2BeM9YtpeMBsHFO53jrqV4FmLytMa2c4SBeHBokE04_",
+          "links": [
+            {
+              "name": "64-070 Vorlesung Algorithmen und Datenstrukturen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403916077564,-N383403916060565,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Peter Kling",
+                  "name": "Vorlesung Algorithmen und Datenstrukturen",
+                  "short": "AD - VL",
+                  "type": "000000000000022",
+                  "id": "64-070",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:15",
+                      "end": "11:45 ",
+                      "hs": "H\u00f6rsaal A Chemie"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-071 \u00dcbungen Algorithmen und Datenstrukturen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403916031566,-N383403916056567,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "short": "AD - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-071",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 01 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 02 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_1",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 03 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 04  (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_3",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 05 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_4",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 06 (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_5",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 07  (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_6",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 08 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_7",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 09 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_8",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 10 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_9",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 11 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_10",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 12 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_11",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 13 (Do. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_12",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 14 (Do. 14-16 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_13",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 15 (Fr. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_14",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 16 (Fr. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_15",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 17 (Fr. 08-10 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_16",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 18 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_17",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 19 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_18",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 20 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_19",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 21 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_20",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 22 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_21",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmen und Datenstrukturen",
+                  "groupname": "\u00dcbung Gr. 23 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Biermeier; Christoph Damerius; Tim Christopher Hahn; Prof. Dr. Peter Kling; Bunlong Lay; Tim Rolff; Florian Schneider",
+                  "type": "000000000000021",
+                  "id": "64-071_22",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-BKA: Berechenbarkeit, Komplexit\u00e4t und Approximation (Studienstart ab WS 2019/20) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AZvIx0-6Dx02xycdcrG5wfmVQ7RapYKhJaEeQVdk7WtCoppcfjgQN-UFay5Z23LW2IlWMlgK8L~J1tx7U2w~VV2~drqA26ideOc8TmwOfiFvkrdXTE066x6gz7hTH4RmBKocaKbsJt9TkFBSsxSUwEaRJ4USnB5qc7ZL~IVcRs3hu8LOO1vhMm6erYCN3phCgXocnB34MD9sUJJE_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-ETI: Einf\u00fchrung in die Theoretische Informatik (Studienstar ab WS 2019/20) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AaGf1OhGHUWI5hq0N~kvDs4mHB2s0klrMiMDRwfA1tNx9oI~JILc5s6nTO9sliAe3js8MiW7yD2ANWIMQuql1bx1VphEepdh3hmIKqy92Em~h6IQS204BSkBn8UBzpi~6PKT8RGqW0McIy2f1ctimteNIhDyM0wBPTL4k6USGJgCO1-Qkr2kMEBtwTn8ygghO~CoBSLXkY99I3yE_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-FGI 1: Formale Grundlagen der Informatik I (Studienstart bis WS 2018/19) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A0h1OKSC-~WxRv~0fovODm5BbrpLmjC8QRzE8a2bcz95Tl5zGPTRLwJH2uBAXOtoVLB7yLaVxU~CDDknoSGh-I5fHr8W27kS371TFG9Nw899Sfx5ED6KEw4S3ejsuQjA3x9O7Ft4sfXAEpKrCzr4lwa3iaxdHrqPQfOQs9fkAkU1d0c5JNWKQwQlKQPGgtJcTnGXDbXU84s~lbIA_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-IKON: Informatik im Kontext ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AdgoSqTih70RAF0g~IczL6G36LfYNShwcxFm9xcUhqYsLEUCRAeycFfX2yL93m7Jl46FDTGNNbcGno42wDYUtiti7PtFAHnILk~LOaccnRpA7ocBjncXWTNjx1inxgRMtRYkGyqkGxnwjqqGYKi4JDFCeDK-zeDq5TI53idNjvLuFzsyje7q-GU~RC6QTEDCnF7NFJ4Iq-Pm1de4_",
+          "links": [
+            {
+              "name": "64-030 Vorlesung Informatik im Kontext",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403915081497,-N383403915068498,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Tilo B\u00f6hmann; Prof. Dr. Judith Simon; Prof. Dr. Frank Steinicke",
+                  "name": "Vorlesung Informatik im Kontext",
+                  "short": "IKON - VL",
+                  "type": "000000000000022",
+                  "id": "64-030",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "17:15",
+                      "end": "18:45 ",
+                      "hs": "ESA A"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45 ",
+                      "hs": "ESA A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-MK: Methodenkompetenz ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7MtqD4hmsdTrATUtIx89rCDs9wMwq3pacR0MGis9D4HCkFcnD8zAUhXt9slaA-4tYKLiHaO4NOUxLmz91~9bKGmwFd6koE5~bG5UOYtPq2HG1R8Dtsoy-C-COBHkfV90FyqO76WGP5chr~~XUS01jxDYRvQzGvq59gAiVOlD35mf94TCxwmuIwGbB2ASCRQGuvY36~QgsO1UVo4_",
+          "links": [
+            {
+              "name": "64-111a Wissenschaftstheorie und Forschungs-/Datenethik in der Informatik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413873538828,-N383413873567829,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Laura Vanessa Eva Fichtner",
+                  "name": "Wissenschaftstheorie und Forschungs-/Datenethik in der Informatik",
+                  "short": "MK - wiss. Schreiben",
+                  "type": "000000000000047",
+                  "id": "64-111a",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "08:15",
+                      "end": "09:45 ",
+                      "hs": "D-125/129"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "12:00",
+                      "end": "16:00 ",
+                      "hs": "D-125/129"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "18:00 ",
+                      "hs": "D-125/129"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-111b Wissenschaftstheorie und Forschungs-/Datenethik in der Informatik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413878719830,-N383413878709831,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Laura Vanessa Eva Fichtner",
+                  "name": "Wissenschaftstheorie und Forschungs-/Datenethik in der Informatik",
+                  "short": "MK - wiss. Schreiben",
+                  "type": "000000000000047",
+                  "id": "64-111b",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "D-220"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "12:00",
+                      "end": "16:00 ",
+                      "hs": "D-125/129"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "18:00 ",
+                      "hs": "D-125/129"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-112 Pr\u00e4sentationstechniken",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413883418832,-N383413883457833,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Jakob Immer",
+                  "name": "Pr\u00e4sentationstechniken",
+                  "short": "MK Pr\u00e4sent.techn",
+                  "type": "000000000000047",
+                  "id": "64-112",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "13:45 ",
+                      "hs": "F-132"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-114a Ethics Workshop: Doing Ethics Assessment in Informatics",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413886326834,-N383413886321835,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Jason Branford",
+                  "name": "Ethics Workshop: Doing Ethics Assessment in Informatics",
+                  "short": "MK Ethics Workshop",
+                  "type": "000000000000047",
+                  "id": "64-114a",
+                  "time": [
+                    {
+                      "day": "Sa",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "G-021/022"
+                    },
+                    {
+                      "day": "So",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "G-021/022"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-114b Ethics Workshop: Doing Ethics Assessment in Informatics",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413887338836,-N383413887317837,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Jason Branford",
+                  "name": "Ethics Workshop: Doing Ethics Assessment in Informatics",
+                  "short": "MK Ethics Workshop",
+                  "type": "000000000000047",
+                  "id": "64-114b",
+                  "time": [
+                    {
+                      "day": "Sa",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "G-021/022"
+                    },
+                    {
+                      "day": "So",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "G-021/022"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-116 Selbst forschen? - Erarbeitung von Kompetenzen wissenschaftlichen Arbeitens",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413890706838,-N383413890712839,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Lothar Hotz",
+                  "name": "Selbst forschen? - Erarbeitung von Kompetenzen wissenschaftlichen Arbeitens",
+                  "short": "MK - Selbst forschen",
+                  "type": "000000000000047",
+                  "id": "64-116",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-Prak: Praktikum ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHUeMQKhkrFMeC-pTvDoOa88daM1JvmtT7q47oHaTtvkutVJduEH8RGidchYqliG2Zb8CtSiuqSaPR7-nw2Al4q1a4kbxLqsnRoyhm3pwh1zKe53F0tSKRRCWau3HMekZvUILntl0V50jjLBPJekQEYAZ-WF4M~Z5I5JfWxmZnTSYX6eavxmpgdRB68qq6QzTid3KysM4HbhLt5A_",
+          "links": [
+            {
+              "name": "64-148 Praktikum Audiosignalverarbeitung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414009103286,-N383414009181287,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Kristina Tesch",
+                  "name": "Praktikum Audiosignalverarbeitung",
+                  "short": "Prak Audiosignal",
+                  "type": "000000000000023",
+                  "id": "64-148",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "18:00 ",
+                      "hs": "D-017"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-156 Praktikum Mobile Roboter",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413968586850,-N383413968552851,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Niklas Fiedler",
+                  "name": "Praktikum Mobile Roboter",
+                  "short": "Prak Mob.Roboter",
+                  "type": "000000000000023",
+                  "id": "64-156",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "18:00 ",
+                      "hs": "F-334"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-157 Praktikum Computer Vision",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413968556854,-N383413968500855,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Christian Wilms",
+                  "name": "Praktikum Computer Vision",
+                  "short": "Prak Computer Vision",
+                  "type": "000000000000023",
+                  "id": "64-157",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "18:00 ",
+                      "hs": "D-118/119"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-158 Praktikum Entwicklung von Kontextsensitiven Anwendungen f\u00fcr mobile Ger\u00e4te",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413968593852,-N383413968589853,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Philipp Kisters",
+                  "name": "Praktikum Entwicklung von Kontextsensitiven Anwendungen f\u00fcr mobile Ger\u00e4te",
+                  "short": "Prak Distributed OS",
+                  "type": "000000000000023",
+                  "id": "64-158",
+                  "time": [
+                    {
+                      "day": "Sa",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "D-125/129"
+                    },
+                    {
+                      "day": "So",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "D-125/129"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-Proj: Projekt ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A9wbcbzPZ7raoaVakSpGCK4qy-07c-XmTUZpqO7hE5x6QwvT~qNbyyzoxXWM5tFvSBLbkV2rl6LAy2aSX40H1MB71POO7iWf9T3Lh8-51DgjmiznewkP0j4oArOnUr4a28yidDA9Ub2ew9GRtMMifDyKRUbpGAq8LEi9zOjrkqvW46qqMfzhrMsofA1SXF4jJ0ZiMYHqZPFp86y8_",
+          "links": [
+            {
+              "name": "64-181 Projekt base.camp",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082836890,-N383414082838891,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Wolf Dietmar Posdorfer",
+                  "name": "Projekt base.camp",
+                  "short": "PJ base.camp",
+                  "type": "000000000000024",
+                  "id": "64-181",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "18:00 ",
+                      "hs": "F-534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-183 Projekt Softwareentwicklung f\u00fcr die Digitale Stadt",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082803878,-N383414082856879,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Guido Gryczan; Prof. Dr. Eva Alice Christiane Bittner",
+                  "name": "Projekt Softwareentwicklung f\u00fcr die Digitale Stadt",
+                  "short": "PJ Digitale Stadt",
+                  "type": "000000000000024",
+                  "id": "64-183",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "16:00 ",
+                      "hs": "D-114"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "C-221"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-184 Projekt Kollaborative verteilte Software-Entwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082824880,-N383414082893881,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Projekt Kollaborative verteilte Software-Entwicklung",
+                  "short": "Pj Softw.Entwicklung",
+                  "type": "000000000000024",
+                  "id": "64-184",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:00",
+                      "end": "16:00 ",
+                      "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-186 Projekt M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082767876,-N383414082744877,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Walid Maalej; Lloyd Montgomery",
+                  "name": "Projekt M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+                  "short": "Pj:Mobis Lab",
+                  "type": "000000000000024",
+                  "id": "64-186",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "18:30 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-187 Projekt Anwendungen der k\u00fcnstlichen Intelligenz",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383484711178850,-N383484711112851,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Seid Muhie Yimam; Dr. Abhik Jana",
+                  "name": "Projekt Anwendungen der k\u00fcnstlichen Intelligenz",
+                  "short": "Proj KI",
+                  "type": "000000000000024",
+                  "id": "64-187",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "09:00",
+                      "end": "12:00 ",
+                      "hs": "D-010"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "D-010"
+                    },
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "D-010"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "D-010"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "D-010"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "09:00",
+                      "end": "17:00 ",
+                      "hs": "D-010"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-188 Projekt Mensch-Computer-Interaktion",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082873884,-N383414082830885,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "Projekt Mensch-Computer-Interaktion",
+                  "short": "PJ MCI",
+                  "type": "000000000000024",
+                  "id": "64-188",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "20:00 ",
+                      "hs": "HCI Labor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-189 Projekt Entwurf, Realisierung und Programmierung eines Mikrorechners",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082888882,-N383414082856883,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Andreas M\u00e4der; Bernd Sch\u00fctz",
+                  "name": "Projekt Entwurf, Realisierung und Programmierung eines Mikrorechners",
+                  "short": "PJ Mikrorechner",
+                  "type": "000000000000024",
+                  "id": "64-189",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "18:30 ",
+                      "hs": "F-304"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-191 Projekt Generierung von realistischen Trainings- und Testdaten f\u00fcr Datenintegrationsalgorithmen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383633956737444,-N383633956742445,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Fabian Panse",
+                  "name": "Projekt Generierung von realistischen Trainings- und Testdaten f\u00fcr Datenintegrationsalgorithmen",
+                  "short": "PJ  Datenintegr.",
+                  "type": "000000000000024",
+                  "id": "64-191",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "19:00 ",
+                      "hs": "G-102"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-194 Projekt Parallele Systeme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082866888,-N383414082891889,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Jannek Squar; Anna Fuchs",
+                  "name": "Projekt Parallele Systeme",
+                  "short": "PJ Parallele Systeme",
+                  "type": "000000000000024",
+                  "id": "64-194",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "DKRZ, Rm 034"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-195 Projekt RoboCup - Mit humanoiden Robotern Fu\u00dfball spielen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082735874,-N383414082738875,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "Projekt RoboCup - Mit humanoiden Robotern Fu\u00dfball spielen",
+                  "short": "PJ RoboCup",
+                  "type": "000000000000024",
+                  "id": "64-195",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "18:30 ",
+                      "hs": "D-010\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    F-009"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-197 Projekt Deep Learning for Audio Processing",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414082853886,-N383414082894887,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Danilo De Oliveira Ribeiro e Silva; Bunlong Lay",
+                  "name": "Projekt Deep Learning for Audio Processing",
+                  "short": "PJ Audio Processing",
+                  "type": "000000000000024",
+                  "id": "64-197",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:00",
+                      "end": "18:30 ",
+                      "hs": "R-133"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "88-813 Projekt Wirtschaftsinformatik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383834046649946,-N383834046661947,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Marc Frerichs; Prof. Dr. Markus N\u00fcttgens; Heiko Stein; Stephan Tammen",
+                  "name": "Projekt Wirtschaftsinformatik",
+                  "short": "WiInf-BAProjekt",
+                  "type": "000000000000020",
+                  "id": "88-813",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:00",
+                      "end": "20:00 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-Pros: Proseminar ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3F3fK~UfZ7pEOxlq~Iimg7R8fSroC~Qcd81V4VMiIzpc6E-TD4e2RUHFeGIAwwwy6QfoWGHv~fGXnIeH3SLEThaPnT6Mo23T6Ypyn-8kNc6Xa9ThonWUTAMdX4VrDNPXXCisgqmolrNR5OgfC-V5wU2Z2kg5-j34rLi6buI5osw7rCr8QjgRBuvoWNkO39aaiShHLP4J41Zxfo4_",
+          "links": [
+            {
+              "name": "64-121 Proseminar Grundlagen der IT-Sicherheit",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413902973842,-N383413902929843,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anne Kunstmann",
+                  "name": "Proseminar Grundlagen der IT-Sicherheit",
+                  "short": "PS IT-Sicherheit",
+                  "type": "000000000000003",
+                  "id": "64-121",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-635"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-123 Proseminar Knowledge Graphs and NLP",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413903050846,-N383413903014847,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Ricardo Usbeck",
+                  "name": "Proseminar Knowledge Graphs and NLP",
+                  "short": "Pros Knowledge Graph",
+                  "type": "000000000000003",
+                  "id": "64-123",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "G-021/022"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-127a Proseminar Mensch-Computer-Interaktion",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413902972840,-N383413902927841,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Frank Steinicke",
+                  "name": "Proseminar Mensch-Computer-Interaktion",
+                  "short": "Pros HCI",
+                  "type": "000000000000003",
+                  "id": "64-127a",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-334"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-127b Proseminar Mensch-Computer-Interaktion",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413902928844,-N383413902899845,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Michael Heinecke",
+                  "name": "Proseminar Mensch-Computer-Interaktion",
+                  "short": "Pros HCI",
+                  "type": "000000000000003",
+                  "id": "64-127b",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-137 Proseminar Digitale Verantwortung: Ethik und Nachhaltigkeit im datengetriebenen Zeitalter",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383475893586769,-N383475893502770,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Michaela Regneri",
+                  "name": "Proseminar Digitale Verantwortung: Ethik und Nachhaltigkeit im datengetriebenen Zeitalter",
+                  "short": "Pros Digit. Verantw.",
+                  "type": "000000000000003",
+                  "id": "64-137",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-139 Proseminar Design Science Research: Towards the Design and Development of Software Artifacts",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383413910201848,-N383413910277849,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Navid Tavanapour",
+                  "name": "Proseminar Design Science Research: Towards the Design and Development of Software Artifacts",
+                  "short": "Pros Design Science",
+                  "type": "000000000000003",
+                  "id": "64-139",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-RSB: Rechnerstrukturen und Betriebssysteme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Asw5zKg5m2b53c8ZKlZi3J-zILEszTZa-6ECXRaTeIsTUS2NNus8VEcJHqAKMRcm31zCTPbqTSHRxR0Pq9xrizzb6KwbfDVsCBcb6F-8UUlz6p09UBGArvmaTczwqDekOkfoMHNpDiimO7nMi9Lhw2v182Hclhn6ocaXqI9erDEqmRKzsSnad7n6F1XsfDiy0uzpdlki22H7JfeQ_",
+          "links": [
+            {
+              "name": "64-040 Vorlesung Rechnerstrukturen und Betriebssysteme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403915581529,-N383403915543530,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Andreas M\u00e4der; Prof. Dr. Jianwei Zhang",
+                  "name": "Vorlesung Rechnerstrukturen und Betriebssysteme",
+                  "short": "RSB - VL",
+                  "type": "000000000000022",
+                  "id": "64-040",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "ESA A"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "ESA A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-041 \u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403915750541,-N383403915764542,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Navid Tavanapour",
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "short": "RSB - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-041",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 01 (Mo. 12-13 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 02 (Mo. 12-13 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 03 (Mo. 12-13 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_2",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 04 (Mo. 13-14 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_3",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 05 (Mo. 13-14 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_4",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 06 (Mo. 13-14 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_5",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 07 (Mo. 14-15 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_6",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "15:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 08 (Mo. 14-15 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_7",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "15:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 09 (Mo. 15-16 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_8",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "15:15",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 10 (Mo. 15-16 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_9",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "15:15",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 11 (Di. 10-11 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_10",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 12 (Di. 11-12 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_11",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "11:15",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 13 (Di. 12-13 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_12",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 14 (Di. 13-14 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_13",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:15",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 15 (Mi. 08-09 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_14",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "08:15",
+                      "end": "09:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 16 (Mi. 09-10 Uhr)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_15",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:15",
+                      "end": "10:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "\u00dcbung Gr. 17 (Blockveranstaltung)",
+                  "dozent": "Dr. Navid Tavanapour",
+                  "type": "000000000000021",
+                  "id": "64-041_16"
+                }
+              ]
+            },
+            {
+              "name": "64-042 Praktikum zu Rechnerstrukturen und Betriebssysteme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403915045499,-N383403915079500,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Bernd Sch\u00fctz",
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "short": "RSB - Prak",
+                  "type": "000000000000023",
+                  "id": "64-042",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.01 (Mo. 9-12 Uhr) Nov-Dez",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.02 (Mo. 12:30-15:30 Uhr) Nov-Dez",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:30",
+                      "end": "15:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.03 (Di. 9-12 Uhr) Nov-Dez",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_2",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.04 (Di. 13-16 Uhr) Nov-Dez",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_3",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.05 (Mi. 9-12 Uhr) Nov-Dez",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_4",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.06 (Fr. 8:30-11:30 Uhr) Nov-Dez",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_5",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:30",
+                      "end": "11:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.07 (Mo. 9-12 Uhr) Januar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_6",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.08 (Mo. 12:30-15:30 Uhr) Januar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_7",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:30",
+                      "end": "15:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.09 (Di. 9-12 Uhr) Januar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_8",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.10 (Di. 13-16 Uhr) Januar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_9",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.11 (Mi. 9-12 Uhr) Januar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_10",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.12 (Fr. 8:30-11:30 Uhr) Januar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_11",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:30",
+                      "end": "11:30",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.13 (Blockveranstaltung - 9-12 Uhr) - Februar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_12",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.14 (Blockveranstaltung - 13-16 Uhr) - Februar",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_13",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.15 (Blockveranstaltung - 9-12 Uhr) - M\u00e4rz",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_14",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Praktikum zu Rechnerstrukturen und Betriebssysteme",
+                  "groupname": "Praktikum Gr.16 (Blockveranstaltung - 13-16 Uhr) - M\u00e4rz",
+                  "dozent": "Bernd Sch\u00fctz",
+                  "type": "000000000000023",
+                  "id": "64-042_15",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-SE 1: Softwareentwicklung I ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbKMyJTHJLL2VqwvBivRBoDWmq1AsDI304F1HThRMoMi6Fkb5sq6UW~IhkcKkUr4cSMyVgNBqzjYigbTZeHaGTnTfSNnfisLMP~zsMarMmsJ9LzkC77DxH2wgH~CkFa4ph56Rr~Kv~7fzTaOAso2qBX45b7pMATBp~9fxQSZRzMb8L8qjZIjlfnZ4ZuhmQETnVyziv2DJ6oZK3Us_",
+          "links": [
+            {
+              "name": "64-000 Vorlesung Softwareentwicklung I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403915405527,-N383403915460528,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Walid Maalej",
+                  "name": "Vorlesung Softwareentwicklung I",
+                  "short": "SE 1 - VL",
+                  "type": "000000000000022",
+                  "id": "64-000",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "H\u00f6rsaal A Chemie"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-001 \u00dcbung zu Softwareentwicklung I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403915552531,-N383403915567532,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "short": "SE 1 - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-001",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 01 (Mo. 09-12 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 02 (Mo. 13-16 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 03 (Di. 09-12 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_2",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 04 (Di. 14-17 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_3",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:00",
+                      "end": "17:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 05 (Mi. 09-12 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_4",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 06 (Do. 09-12 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_5",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 07 (Do. 14-17 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_6",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "17:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbung zu Softwareentwicklung I",
+                  "groupname": "\u00dcbung Gr. 08 (Fr. 09-12 Uhr)",
+                  "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+                  "type": "000000000000021",
+                  "id": "64-001_7",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "09:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-SE 2: Softwareentwicklung II ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ACczdb5MkA7oEqlYhOMtjeCS1mUslgFfPsQdbQd8GeCrqjOMflg3BtImsUvIknJXYr3HWgi58hG5Gj8xm97XC5Y3WC3thOPciY-5vVq3yhs6C90v5lpTRivjpVnHn-6hZMIBd6HLkszc9UVJTITdNkSAJAVMq4jLoT31BhGv7nj42CsxddoE0GORu5iCiNq8~XGgEqcDvVMqIdY8_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-Sem: Seminar ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3pXUmNevUscivgbHN1rJca4qb~cejoVSCk6QT6RjNuAiMVrl4k2~t2HWzAVykkiGw~prFtsWAFm3MzN~vYoNtEoJJpx2tyF1kiX9HxVsVexB2jxSB2chtktSW-xF~rcnwIvu9b6Uxocc52ziDroeROpbVoJSPV1dM5wVDtRs612wKmT4C5KCGWkdzEbIqx6UMTuSWeJ6kRGWFGo_",
+          "links": [
+            {
+              "name": "64-160 Seminar Kommunikation, Koordination, Kooperation und Kollaboration in der verteilten Software-Entwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037177862,-N383414037111863,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Seminar Kommunikation, Koordination, Kooperation und Kollaboration in der verteilten Software-Entwicklung",
+                  "short": "Sem vert.Softw.Entw.",
+                  "type": "000000000000020",
+                  "id": "64-160",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    G-228"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-162 Seminar Aktuelle Themen der Audiosignalverarbeitung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037102866,-N383414037180867,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Timo Florian Gerkmann",
+                  "name": "Seminar Aktuelle Themen der Audiosignalverarbeitung",
+                  "short": "Sem Audiosignal",
+                  "type": "000000000000020",
+                  "id": "64-162",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "F-132"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-164 Seminar Database as a Service",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037196864,-N383414037144865,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Felix Kiehn",
+                  "name": "Seminar Database as a Service",
+                  "short": "Sem Database",
+                  "type": "000000000000020",
+                  "id": "64-164",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-334"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "16:00 ",
+                      "hs": "F-334"
+                    },
+                    {
+                      "day": "Di",
+                      "start": "10:00",
+                      "end": "16:00 ",
+                      "hs": "F-334"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-165 Seminar Data science seminar on data curation and model interpretation",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414051222295,-N383414051264296,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Seid Muhie Yimam",
+                  "name": "Seminar Data science seminar on data curation and model interpretation",
+                  "short": "Sem Data science",
+                  "type": "000000000000020",
+                  "id": "64-165",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "F-534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-166 Seminar Computer Vision",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037149860,-N383414037186861,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Simone Frintrop; Andr\u00e9 Kelm",
+                  "name": "Seminar Computer Vision",
+                  "short": "Sem Computer Vision",
+                  "type": "000000000000020",
+                  "id": "64-166",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "R-031"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-170 Seminar Technischer Datenschutz",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037166870,-N383414037141871,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Pascal Wichmann",
+                  "name": "Seminar Technischer Datenschutz",
+                  "short": "Sem Datenschutz",
+                  "type": "000000000000020",
+                  "id": "64-170",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-635"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-174 Seminar Supercomputer: Forschung und Innovation",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037116868,-N383414037180869,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "name": "Seminar Supercomputer: Forschung und Innovation",
+                  "short": "Sem Supercomputer",
+                  "type": "000000000000020",
+                  "id": "64-174",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "DKRZ, Rm 034"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-177 Seminar Aktuelle Themen der Mensch-Computer-Interaktion",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037123872,-N383414037191873,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Frank Steinicke",
+                  "name": "Seminar Aktuelle Themen der Mensch-Computer-Interaktion",
+                  "short": "Sem HCI",
+                  "type": "000000000000020",
+                  "id": "64-177",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "F-635"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-178 Seminar Digitalisierung, Gesellschaft und Politik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383414037133858,-N383414037184859,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Ingrid Schneider",
+                  "name": "Seminar Digitalisierung, Gesellschaft und Politik",
+                  "short": "Sem Digitalis.",
+                  "type": "000000000000020",
+                  "id": "64-178",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "17:45 ",
+                      "hs": "G-102"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-VSS: Verteilte Systeme und Systemsicherheit (Studienstart ab WS 2019/20) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~W9IXqpltUWLEPoj3TxAtjMbujVnn1Mhn9alJhYNdKlG4NXuytvW5kNiD6LP1T7R0SHFdNDOgaM6a42vn5DKsxx4bfqfAkDsWbYiL0Ng2XGo7z9YD-EOutW4HslSknTP-DxaV03HNhX-JKFa0LpPpc4p31qYi6XEgIJt7z-OGNMPJVn2NzfP7UFLYsXle3QTKSKPV3SqyOwzb50_",
+          "links": []
+        }
+      ]
+    },
+    {
+      "name": " 2. Pflicht Mathematik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AAxmxsK4OYLFehMCF8vyzJbOXOmie68Ls45VilAvEo16PGINtlmnDQ70MsckuRSHBsI9myhBXnX3uhynhXOWgCpQQskjX-CsgVx8XZ4gQxR8aXTIx-85FtCVtLUdm2gidKeiifzCmRo12d1uPD1KQuc7~qCFPvwn0nca3qaxMoC7IatAXKA79nfpIbnX-cZE08c60AIKxaRYMphY_",
+      "links": [
+        {
+          "name": " Modul MATH-Inf/DM: Diskrete Mathematik f\u00fcr Studierende der Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AyLkVippvQ74KnHuiARmC3PKg3h53gpFD9saghs1GyEBgNjWYMcjr3eQBnl58LWldMYwazPa4pZNXqNfUs6XEEUBZI8QD6TjgPKWZh-0J3pBowZfFWpu69Zex1~tMGZKVD5pWmH~krTim0sDpq8AY0T64oMziZ2vy4iu4M7b7o8IORSxQ7nt4daajJ8yYBGfZQil8XSY4WZhtWwA_",
+          "links": [
+            {
+              "name": "65-821 Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N382854116176229,-N382854116183230,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Nathan James Bowler",
+                  "name": "Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik)",
+                  "short": "Mathe I_Inf-V",
+                  "type": "000000000000022",
+                  "id": "65-821",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:00",
+                      "end": "12:00 ",
+                      "hs": "Audimax 2"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "16:00",
+                      "end": "18:00 ",
+                      "hs": "Erzwiss H"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-822 \u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N382854116274279,-N382854116206280,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "PD Dr. Stefan Geschke",
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "short": "Mathe I_Inf-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-822",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A1 (Do 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_0",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A2 (Do 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A3 (Do 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_2",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A4 (Do 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_3",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A5 (Do 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_4",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A6 (Do 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_5",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. B1 (Fr 12-14)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_6",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. B2 (Fr 12-14)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_7",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. B3 (Fr 12-14)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_8",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C1 (Fr 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_9",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C2 (Fr 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_10",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C3 (Fr 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_11",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C4 (Fr 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_12",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C5 (Fr 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_13",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+                  "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C6 (Fr 14-16)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-822_14",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-824 Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N382854116388307,-N382854116379308,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Steven K\u00f6hler",
+                  "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+                  "short": "Mathe I_Inf-T",
+                  "type": "000000000000016",
+                  "id": "65-824",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+                  "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik Gr. 1",
+                  "dozent": "Steven K\u00f6hler",
+                  "type": "000000000000016",
+                  "id": "65-824_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+                  "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik Gr. 2",
+                  "dozent": "Steven K\u00f6hler",
+                  "type": "000000000000016",
+                  "id": "65-824_1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+                  "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik Gr. 3",
+                  "dozent": "Steven K\u00f6hler",
+                  "type": "000000000000016",
+                  "id": "65-824_2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH-Inf/ALA: Analysis und lineare Algebra f\u00fcr Studierende der Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AuHB3H4Mnhu6Yx5T4kQwQ4aqJe3zvMVBMRSpPdUZTBY7sg8GhnY3IqPq4~ftER~N8vkQhyfeGJl1~9siXZD1hQgrZvosTvx0FieYgeeS-zTtl78gClOBbVv5vqcsKCHeZ-zXNeQMtEjo0j4sgs-xYm0MSTRGwRCmYmgYRUid9het4X8q8esfLL9FmPd5t0mEve6Qr4udKGigh1vs_",
+          "links": []
+        },
+        {
+          "name": " Modul MATH-Inf/STO1: Stochastik 1 f\u00fcr Studierende der Informatik (Studienstart ab WS 2019/20) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-lgLU6we2cd8F86IMwbGu7gb0GaU9C0f6PdPDVfIWzQbGQJq~PaSsskynekyGkJ3dd7x-CxSM8de7ju2VCKmwle20OnkxkjJH4-Yf2YS3n6rDvvYkLLUpDYTq9wSxlUby~eYeFuHZ-hkvl~4TrBjL6PaQCGenjmqIFWv-ehw58IEMhqEVE7mHjKJfYkOpgh83QBO0DSNdTY-5Bk_",
+          "links": []
+        }
+      ]
+    },
+    {
+      "name": " 3. Wahlpflichtmodule ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AzeZzHP3Hrk85NaFNjudC42tQhd4sv-0i4M0KM3s-Nc1WaLqKIcclVQc4oWxYZpSWTGPVG5v9Z8viaUcQMTvrE8VdGDV5415VuvoWaLzMyiDkHNPshgWr3OT4Bm4KA55gCV4IcxOLDjqaq~yN5sYFYQv1rPMrBHZIpNKmMAelngzR3H6LuBfO4FR1RqBEI1~4Khq18BmcryH4qCo_",
+      "links": [
+        {
+          "name": " Modul InfB-BKA: Berechenbarkeit, Komplexit\u00e4t und Approximation (Studienstart bis WS 2018/19) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-giSHmyAsmah0gkoPN-yPQpO6lg8ILBnE4CgZi9ZjWf4J6xTOnaaAw~NT2EHla5Fy4oPRhtCt77FprfwMggUbURolO-XiPGG6N~GnBTAf2CbM3SWGXI~BG0hWvkMXPcZcNoNY1bhmCaBUJSlUF-W8UViuZOMD80YxFbWLLGKxmF7bMh0ScikZEHkVJDHj1kRO-d9dPuUS5axnyY_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-BV: Bildverarbeitung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMVRxaijgiAufa9bkPyI8XkSqJf9s7efEk7VKQVDbQSCgi5zfuntolI49HQR3cg1wFfg6TdqoMETX0h4PQm6RHTvAE8E~TDGQ3m9md6KaLLf4x7M53mIwMX73SC7txdE5xqsdSpvahxh7dnGrY80~2DXZa8WXnNCAjeWyjNRDmi0RQCvHagv0WE01BpkNmjYnVNF3JloTMbs62Co_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-DAIS: Data-driven Intelligent Systems ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AUtRIzcJj5U0ZUnCz1v02~m3XLVRbEsdPvjTk-JBVMY7hQyh5D9RFFK64xZexiOBRUgaP3VvbcbuJmy20tNadNc6iHLSiFtHaW28YwkcNckUqfy4uvhWSt-5yix5v~-7i0kzxq6T4JfLpOX9CCwLN1na0PI~6gFQxnEXZpfLaTEGWoPnTWouEn~ZXi5kmROS4XPP2MAXp2yJt-is_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-DIG: Datenschutz in der Informationsgesellschaft (Studienstart ab WS 2019/20) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aubx6fbnX2gH7vf0~UJOma10Br3nz60~z23QnsO-EWwNhr01Qdxb5pTYtZGpL~NJGrT1Uv2sOwLVQFLFfD3XehrMeGBuafKlI8h3sOMGoa6MNwhn6RHNMfx-oJ1pm6vwwtZzjF~N01lAZVUHaBg~YT55n~-7aiontYHoSMijwTpA1qOCa4ifR1cbGO4gVVDEAVhJ80j0fvXG6Ric_",
+          "links": [
+            {
+              "name": "64-205 Vorlesung Datenschutz in der Informationsgesellschaft",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404047090638,-N383404047009639,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Hannes Federrath",
+                  "name": "Vorlesung Datenschutz in der Informationsgesellschaft",
+                  "short": "Datenschutz VL",
+                  "type": "000000000000022",
+                  "id": "64-205",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:30",
+                      "end": "11:45 ",
+                      "hs": "B-201"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-DMSV: Digitale Mediensignalverarbeitung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A9iWZo6S2hKdpBUY0cQGB5-zEZUuSTgQW0GqFjzYW0UfQ~B~pxGmNE6AMyk6nNLJqoOvXc9O-5UILaJLlKWLXrNaRCyPA87QRi4zMa9rCi3Pkb0mlWdL2SA3jHYMj8iqQXsY~Be7NpNJkQwAliP7SID3TyeOgOqaDHPSNKxM848QGnmvMLex4yUqRh~EzIk-CcIlOYAY-GpRhvfg_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-DV: Datenvisualisierung und GPU-Computing ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Av16IQOqXXaCZL039PebCAjU0i8ahjUVmhNU5mxXfsDhdYdWiyg8lJIeldhC7GjQzIOCEElLVO1hvUL1KIERzQyb~AgtE3aEHM4nW8s4RJheJN-np8bDopATOlI5oBb0TU3oDBSt3qLp97UaGFF-eJfnV565LfqhizuR9qDyLH-q4ijQMkC7uOX7btyjlnHaxoa01qYizSeEEnf0_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-ES: Eingebettete Systeme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AVuYmML5~UE31YztQ8KlvV1jOu4ex8Y1LYflJCs67RgG2cAxMV~LPN44p~T1W7vdiDNDGOjYPm1~6NgQzBVlnTt61pc7rmY~BCxPj9G~fFIi~XiOf7z9BTXsNQLzHHuUHiUr2b3xurJiweeMHTMOuiU5G5Paq4fszHzBz2CIfZr5gObNhWy4nvA5C3uyi1KNRvmVxQWbL8Pm9ZxM_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-ESM: Einf\u00fchrung in die System-Medizin ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHX0K3H3FLOdXj991unM7PJdLA1wnOclB7SzUCAp6ZZsH29w2d2dZ~iqFviiprDhUFI9uP9WgZVkZjBM546rrpMihoGRMWa~cBGHBXMPbJo38rDi1J6REKArAkZNJSz77lmHxe9SjWcHs73Y9TqCj3ab7-hsBH2OCo5T2bnWVjbF30qIFDAe0v4qabgsBOzCIt5DxsDkYUI5CytM_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-GDB: Grundlagen von Datenbanken ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AAaIX8IOhtxrg4mN6rE87B27Xe-f0OKNTpcQqujnWm45vN4JNuLYSjJ7rHU2du3Bz0muytdZk2yz37gQkNq6Pj7vJHZZOhaimfO0jj5EsYHq-jV5ZGn0yKbUUC6rtdUT~OULLdLSaXvexwy~5Er4qL-7XMMQyNbA~OjG7EybeEmFXb4zM0uULbmGm-sNMUFEihpqFWWAarnVkGP0_",
+          "links": [
+            {
+              "name": "64-080 Vorlesung Grundlagen von Datenbanken",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403916661611,-N383403916658612,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Fabian Panse",
+                  "name": "Vorlesung Grundlagen von Datenbanken",
+                  "short": "GDB - VL",
+                  "type": "000000000000022",
+                  "id": "64-080",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "15:15",
+                      "end": "17:45 ",
+                      "hs": "Audimax 2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-081 \u00dcbungen Grundlagen von Datenbanken",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403916426591,-N383403916471592,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "short": "GDB - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-081",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 01 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 02 (Mi. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_1",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 03 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 04 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_3",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 05 (Mi. 14-16 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_4",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 06 (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_5",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 07 (Mi. 16-18 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_6",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 08 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_7",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 09 (Do. 08-10 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_8",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 10 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_9",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 11 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_10",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 12 (Do. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_11",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 13 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_12",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 14 (Fr. 10-12 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_13",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 15 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_14",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Grundlagen von Datenbanken",
+                  "groupname": "\u00dcbung Gr. 16 (Fr. 12-14 Uhr)",
+                  "dozent": "Felix Kiehn; Martin Jakob Poppinga; Mareike Schmidt; Benjamin Wollmer",
+                  "type": "000000000000021",
+                  "id": "64-081_15",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-GSS: Grundlagen der Systemsoftware (Studienstart bis WS 2018/19) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMLCQ118YGonmE5jAMi6qbhNH8RUZj3DEJBe-9kwxMm6YvRf1RXTm9GYDBOhgLMVLsnLlRKWY7ZsaVrR87qFDEM4h-tgfT6eiJDJVLPW5j~71dD2kx~7HmRSKCBIID4YBXINyhG8a0MXI3bPGwrlouz8KqHAzIT6IEKlgJ2EKQhWwoLi9L2iDp~Vx1g8omvq-2VfdLUmDMdyFCO8_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-HLR: Hochleistungsrechnen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ago3VMMnaALzAVaaiEadMrDTCW-E7WcWI2VxE6xZFd7yet-5Hyfco9GgGov2W-LScpQNv8yIC54VjT3V8eRXzkI9mOrSfvmo2Piof72ISquDe0X4a-5oj5YhwlYBCmg21NYPNz2Yqy4lf9eaYwnsLk6bZALnQVOLevms5UtgQoju72JEm82M-uPfDKrsfhlyyj4SZwZj~6Z91PXE_",
+          "links": [
+            {
+              "name": "64-253 Vorlesung Hochleistungsrechnen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404046914617,-N383404046925618,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Thomas Ludwig",
+                  "name": "Vorlesung Hochleistungsrechnen",
+                  "short": "HLR - VL",
+                  "type": "000000000000022",
+                  "id": "64-253",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "DKRZ, R-034"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "DKRZ, R-034"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-254 \u00dcbungen Hochleistungsrechnen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404046903613,-N383404046907614,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "name": "\u00dcbungen Hochleistungsrechnen",
+                  "short": "HLR - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-254",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Hochleistungsrechnen",
+                  "groupname": "\u00dcbungen Gr. 01 (Di. 14-16 Uhr)",
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "type": "000000000000021",
+                  "id": "64-254_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Hochleistungsrechnen",
+                  "groupname": "\u00dcbungen Gr. 02 (Di. 16-18 Uhr)",
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "type": "000000000000021",
+                  "id": "64-254_1",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-ICG: Interaktive Computergrafik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A8qhq47HrYBs7uqtWE2cBu8UhjNQwdg7WneZ5K4Dw3-dxKoWsfpVDK-k-1L8Vs~GbBiJr2N1Bfcii8XDEjor~yRFURAKEXYYAyen8ZYwYD0P1f4HHTyE79Gyl4QAb3lVhnkP0-dYq1RgbXqmNjfoM0N5UkmUAIhMG8HVZTh1bgcXwltCnWy5Gj3~JDwaCjR3kXlPqpBTLW4zqNFs_",
+          "links": [
+            {
+              "name": "64-282 Vorlesung Interaktive Computergrafik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404046920619,-N383404046985620,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Frank Steinicke",
+                  "name": "Vorlesung Interaktive Computergrafik",
+                  "short": "ICG - VL",
+                  "type": "000000000000022",
+                  "id": "64-282",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "D-125/129"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-283 \u00dcbungen Interaktive Computergrafik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404046900621,-N383404046902622,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "\u00dcbungen Interaktive Computergrafik",
+                  "short": "ICG - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-283",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Interaktive Computergrafik",
+                  "groupname": "\u00dcbung Gr. 01 (Do. 10-12 Uhr)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "64-283_0",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Interaktive Computergrafik",
+                  "groupname": "\u00dcbung Gr. 02 (Do. 12-14 Uhr)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "64-283_1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Interaktive Computergrafik",
+                  "groupname": "\u00dcbung Gr. 03 (Do. 14-16 Uhr)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "64-283_2",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Interaktive Computergrafik",
+                  "groupname": "\u00dcbung Gr. 04 (Do. 16-18 Uhr)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "64-283_3",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-ID: Interaktionsdesign ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AcBE5Zz5Z0H8F7KBDsmBGVGn8LUTsFBswQTPcGWW~eK3vQt-7YtUMOM7Tbt82EwOq7Ym2JbmoBxTq2WA6D-b4dgG4jKDCNSKS3AS9ixedhBBKw8Fa9PaKwXYQUbOiy2E9umeTgOV9Zx6AEdh-pWqwR-ZkDJs1KKD~KHvh0AyxH6h9E3K90cMBLiHpalNrAiSRqbZ908PeOFwGJ7k_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-IGMO: Informatikgest\u00fctzte Gestaltung und Modellierung von Organisationen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJdZ-MnGal7hiaMVx3qlA1AAIPjalElOrNxVV1Bobxh6GKOWsyt7WF9C-L2VEAaCJNLevvwOxKe4DO7ZU9iP7FnDAeGgmn-RT3OL6e3ZPEJeabTedpO2J5PVveGncMPWF5v4wTq8iPehNK59AoatZEYGWXNKtdzIvYCtT9Z~JeS0sZL5ZD3bPjT~7lLxJswtXAq8k7YSXwtuqv-o_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-MAKS: Modellierung und Analyse komplexer Systme (Studienstart ab WS 2019/20) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ag4YPB0ml6Xe1vTlDUpDlqi8RHD4G6-16VQh3U7-CJjAZ95ihAxp~vhi7p3SCNrFKpZbbv5FcfbiyBQcFZOVDEm8Eh7VYcJBXlwWlwoCQkQD2rys3w~4dczhoSqVmVdvcCB3DCsC55cCcGXmsMk9Ola27Cj4JxY3DtmnOP~lUrhx67df7VPwsMXS36Dq-fhsVNL~Pj2nmx86EiQQ_",
+          "links": [
+            {
+              "name": "64-256 Vorlesung Modellierung und Analyse komplexer Systeme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404047016640,-N383404047079641,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Vorlesung Modellierung und Analyse komplexer Systeme",
+                  "short": "MAKS - VL",
+                  "type": "000000000000022",
+                  "id": "64-256",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "B-201"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "B-201"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-257 \u00dcbungen Modellierung und Analyse komplexer Systeme",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404047063631,-N383404047011632,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dimitri Popov",
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "short": "MAKS - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-257",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 01 (Mo. 10-12 Uhr) G-021/022",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 02 (Mo. 10-12 Uhr) - G-203",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 03 (Mo. 12-14 Uhr) G-021/022",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_2",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 04  (Mo. 12-14 Uhr) - G-203",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_3",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Modellierung und Analyse komplexer Systeme",
+                  "groupname": "\u00dcbung MAKS Gr. 05 (Di. 10-12 Uhr) - C-221",
+                  "dozent": "Dimitri Popov",
+                  "type": "000000000000021",
+                  "id": "64-257_4",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-MOBS: Moderne Betriebssysteme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHLvBLJgYhQkL6qGZFQSilpe274NraIDzA6XrrBkOBQ-IYndEzfE3baHjbLlJufqw3ROUtH4N2QkGDuhVkY-cKrnFMBEWNBt9FbJTfjJMpU44F0Ysm7HP9-6l2R35ug3j2m7Myh-0iZ4bAesYWg9X2-b1o8bcMKG9e0wq17cMgSwrTMLuSxmlZJBFaaOuGwU6x8pEBZmIJqENZZI_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-PGIT: Philosophie, Gesellschaft und IT ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ardfekh0a~tcGU52APH189WzZ0dQHkDS~AlPxywvjoKek3bFk9iFCPmbeeeIzZPHWQh6bE77yzrTyW-kVXEPSG7A9rO6Un6bh8u1spmS19dNz-XTx6hd07vzw~ZjPYdlE6t~dH~2QRpCTct3GlgFhO8IFG0UXNQPckEDBCjxWRW4Fb5AOnqJHN1zvvhonBcd4uzrBUDt7B0GOFQs_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-PM: Projektmanagement ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ARhUdJyx9MjzwljAY79KNmDat-64f4EgDQU9Fmx3tA3HQPp3mGEUTQbj266~xl6-LG6n2Dhy981ZFVBmq91Xpx2J5OhIxZE023-vRtcLCbzBUtHnoyP5-Mb-fQHBgd-i-XgTTpy7S5ux85uoOBX4Y39gpFJeqS6jEa6X3wX-viDRObmLY6th7mbIj4NZ-9iNo57R9c74GhKQ3Mvs_",
+          "links": [
+            {
+              "name": "64-100 Vorlesung Projektmanagement",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383403916568609,-N383403916520610,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Marion Wiese",
+                  "name": "Vorlesung Projektmanagement",
+                  "short": "VL/\u00dcb - PM",
+                  "type": "000000000000063",
+                  "id": "64-100",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "08:15",
+                      "end": "09:45 ",
+                      "hs": "B-201"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfB-SWT: Softwaretechnik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANd3z5~6f71BZMjzMr1QMGzEVfRJW~kPel71AhbZjy81GBhvdY2MjUglzhjme0aCN-a3QJOewu1iY~kRoiwcdZtfY2BhYyPU9oqLRFd~RMUKRoXtZ7XAVOtgl1cJG~NbA2B6JWLCVkxN~0SCbWwCb7RjksEnd~SS3atkiMQ1hLF~OGxAXY6epldO0y9URXBcsJsjdXUK6aXxIfuE_",
+          "links": []
+        },
+        {
+          "name": " Modul InfB-UrhR: Urheberrecht in der Informationsgesellschacft (Studienstart ab WS 2019/20) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ay9w6ZN4eHy4q9LRwvt7587j9Z6tUceRGW6yRzlWLpibDDp67UeAbRxwNBDzFmn9TY0y0uWg43yX16oY0USXg0-G8uPPmXO-vA6PLBGVLLxbGHQFqjgGlA2MCuWKfCkzZ6VfEUxfnVmb~1Yh-JRgirc1ea04P3xahzFsTdXV67vYWBv4bL5LpkajPuNlF8YQu~jgFoHQMAx0gEXo_",
+          "links": []
+        },
+        {
+          "name": " Modul MATH-Inf/OPT: Optimierung f\u00fcr Studierende der Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AA49DevXuebRVYZ6NzueKyTSmiSgtb6qOk6wT8nJ0JL0QajFkXObXyyzcQDHEVz0Ro0Ewto8hWA1PVrsEIz9SzI6H5qlXunDDjYZdF4ICgj0p~-m7vFzT1HmetUGxY4XnQL-vUmEpBu2tKEKEMnY5fHmVNGlyrH1TepdQM-8c3Z1FotWRw7SnVyRvKC9Y8M--nGDoTX8iNo-qXmY_",
+          "links": [
+            {
+              "name": "65-831 Optimierung f\u00fcr Studierende der Informatik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N382854218663595,-N382854218685596,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Winnifried Wollner",
+                  "name": "Optimierung f\u00fcr Studierende der Informatik",
+                  "short": "Opt_Inf-V",
+                  "type": "000000000000022",
+                  "id": "65-831",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "16:00",
+                      "end": "18:00 ",
+                      "hs": "Geom H1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-832 \u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N382854218766602,-N382854218716603,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+                  "short": "Opt_Inf-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-832",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+                  "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik -  Gr. A1 (Mo 10-11)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-832_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+                  "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. A2 (Mo 10-11)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-832_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+                  "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. B1 (Mo 11-12)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-832_2",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+                  "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. B2 (Mo 11-12)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-832_3",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+                  "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. C (Di 8-9)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-832_4",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+                  "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. D (Di 9-10)",
+                  "dozent": "N.N.",
+                  "type": "000000000000021",
+                  "id": "65-832_5",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul MATH-Inf/STO1: Stochastik 1 f\u00fcr Studierende der Informatik (Studienstart bis WS 2018/19) ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AVGUSXBQ-lUKJMO4hJki5mga0dzGzhSN-buNGWHTUg2QABQ0gN1nMs5ulRho9KD7xxdEkNyFSi9WuNsS4xSn4JtNs8fUyrZ8rwGeoiTCHgEyI~zl0vjUC~Pe68PLawq4eXrdgxseE~cdfQb~3ARad20NfD35KISLvnFOPTQytURMZsDCie0fvFU0T6WUR60jB8V34nVXBsutij2k_",
+          "links": []
+        },
+        {
+          "name": " Modul MATH-Inf/STO2: Stochastik 2 f\u00fcr Studierende der Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Az3m0lOCgg72TA182e~3teMmN6WlXYGanC6hnLHbH3GmQlX~wkgFqPrdl~UvkU5B7TTHMScC~fRBX4R2mpi0R~IZm7zypFuneMvuh9tcVPD3kOnVSuOeuT-TQ7tsKvO4DVhDM-lhktBmuPFVhzoSPaX2j9YOv~bz~DD-sWhEu3WqJLb0nYE4ZcQJlxJnDq4gDn-6KYZdXVzRe2pM_",
+          "links": [
+            {
+              "name": "65-833 Stochastik 2 f\u00fcr Studierende der Informatik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N382854218748611,-N382854218759612,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Andrej Depperschmidt",
+                  "name": "Stochastik 2 f\u00fcr Studierende der Informatik",
+                  "short": "Stoch 2_Inf-V",
+                  "type": "000000000000022",
+                  "id": "65-833",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "12:00 ",
+                      "hs": "Geom H5"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "12:00 ",
+                      "hs": "Digital"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "65-834 \u00dcbungen zu Stochastik 2 f\u00fcr Studierende der Informatik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N382854218707623,-N382854218763624,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Andrej Depperschmidt",
+                  "name": "\u00dcbungen zu Stochastik 2 f\u00fcr Studierende der Informatik",
+                  "short": "Stoch 2_Inf-\u00dc",
+                  "type": "000000000000021",
+                  "id": "65-834",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "16:00",
+                      "end": "17:00 ",
+                      "hs": "Geom 1240"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " 4. Freier Wahlbereich ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ASY8--MaqtzGMSfTvX77-yQFoCyo18iV7BDHDWic~kZOZrJdb6Dk2w-KgDLDgjyuyUSfunoHoD2t45AyouIRKhkbiK9qFVVHbP9VmcvmOs3neAexxNGe9iV~25-0WFAwcZ0aSULWmdRCyOq6SIh8B5qBQMB2-BysABFeeH7dPqX2a4aOJ-ShZI0EikxXsFSipvZr~fVk4f8X15BY_",
+      "links": [
+        {
+          "name": " Weitere Lehrangebote Informatik - Lehrveranstaltungen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AiJ-RpkxvuwA-Ua7vRFSl6ZN4gDZKlgTvYnPRud0TCSwM8DpSjzpRd7UoW7p-wOVRRLDCXGRmt6acTP5-n6x7xM-U3eQtMrto1nInzVjQ4l2ZPh3aIw7efA4PBk6Lgt-ZAQ4jwXJgVvfAkfvefeC5K01J~LT0uEFajR8lGbZLgqxldMX28gzrqcOVPf7Sbbu1YMYtFRINpfMmisw_",
+          "links": [
+            {
+              "name": "64-635 #hacktheworldabetterplace - Lernen durch Begeisterung anderer",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383623246941089,-N383623246923090,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Tilo B\u00f6hmann",
+                  "name": "#hacktheworldabetterplace - Lernen durch Begeisterung anderer",
+                  "short": "hacktheworld",
+                  "type": "000000000000020",
+                  "id": "64-635",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "13:00",
+                      "end": "16:00 ",
+                      "hs": "C-221"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "13:00",
+                      "end": "14:30 ",
+                      "hs": "C-221"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-639 Seminar zur Ringvorlesung Taming the Machines",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415093949905,-N383415093962906,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Judith Simon",
+                  "name": "Seminar zur Ringvorlesung Taming the Machines",
+                  "short": "Sem zur RV",
+                  "type": "000000000000020",
+                  "id": "64-639",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "G-102"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-651 Abschlussarbeitenseminar",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094098911,-N383415094048912,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Abschlussarbeitenseminar",
+                  "short": "S Abschlussarbeiten",
+                  "type": "000000000000020",
+                  "id": "64-651",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "G-102"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-655 Student Cluster Competition",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094003923,-N383415094081924,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "name": "Student Cluster Competition",
+                  "short": "Stud.Cluster Comp",
+                  "type": "000000000000024",
+                  "id": "64-655",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            },
+            {
+              "name": "64-920 Data Thinking - Kreativmethoden zur Entwicklung datengetriebener Innovationen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473243723741,-N383473243766742,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Eva Alice Christiane Bittner; Prof. Dr. Tilo B\u00f6hmann; Prof. Dr. Kai-Uwe Schnapp",
+                  "name": "Data Thinking - Kreativmethoden zur Entwicklung datengetriebener Innovationen",
+                  "short": "Data Thinking",
+                  "type": "000000000000038",
+                  "id": "64-920",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "Junigiusstra\u00dfe"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Sa",
+                      "start": "10:00",
+                      "end": "16:00 ",
+                      "hs": "Junigiusstra\u00dfe"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "19:15 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "19:15 ",
+                      "hs": "Junigiusstra\u00dfe"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "16:15",
+                      "end": "19:15 ",
+                      "hs": "Junigiusstra\u00dfe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-921 Data-driven Solutions for the Smart City Hamburg",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473243967747,-N383473243942748,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Marten Borchers",
+                  "name": "Data-driven Solutions for the Smart City Hamburg",
+                  "short": "Smart City HH",
+                  "type": "000000000000020",
+                  "id": "64-921",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "14:00 ",
+                      "hs": "G-203"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "14:00 ",
+                      "hs": "C-221"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-923 Crossing Perspectives: Medien\u00f6kosysteme durch Architekturen illustrieren, analysieren und normativ bewerten",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473726728755,-N383473726750756,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Tilo B\u00f6hmann; Larissa Gebken; Fabian Burmeister; Christian Kurtz; Dr. Wolfgang Schulz",
+                  "name": "Crossing Perspectives: Medien\u00f6kosysteme durch Architekturen illustrieren, analysieren und normativ bewerten",
+                  "short": "",
+                  "type": "000000000000020",
+                  "id": "64-923",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "18:00 ",
+                      "hs": "Jungiusstra\u00dfe 11, Raum C-109"
+                    },
+                    {
+                      "day": "Di",
+                      "start": "10:00",
+                      "end": "18:00 ",
+                      "hs": "Jungiusstra\u00dfe 11, Raum C-109"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "15:00 ",
+                      "hs": "Jungiusstra\u00dfe 11, Raum C-109"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-924 Innovation by Legal Thinking - Studentisches Digitalisierungslabor",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473738013757,-N383473738023758,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Marten Borchers; Lukas Musumeci; Anton Roman Zero Sefkow",
+                  "name": "Innovation by Legal Thinking - Studentisches Digitalisierungslabor",
+                  "short": "",
+                  "type": "000000000000020",
+                  "id": "64-924",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:00",
+                      "end": "13:30 ",
+                      "hs": "Rhs UG 11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Weitere Lehrangebote Informatik - Module ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A5UzM8sPQDnTKEarrjNkSdDlfsAIBuO6~0zqSW3K2w~pUg6MoBXvIkmYTlOFD1bTu78h4horgXOpsWw5mrGXbGgeOS6C6b~hq66xsWbnU6HibZCRPGOFBF8WgSnmd9AsX94N2yz1nB4zZpJF7AUTStF0jLliDiDO00InS~ZcSGcIMuXs9k1BzzDDzzgauddeQ2~ySWwmQv9JEVtw_",
+          "links": [
+            {
+              "name": " InfB-ATI Aktuelle Themen der Theoretischen Informatik ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AEoYyi-MvHZGGSIDweuhheI~Q9ysahILvaiksLjngbQ9ua6-2twRQinQf4hOpGxkGTxOsHBV0cwNmjSOBqU1V73apD1mmmJc5eumdudowIyNisQsBICfNX2~VyBEqevo3sQDHrzli4obgk5V-85pMQ7WDTP2yIfNqJN2WN~sVJcbC25qEXzL94GEqoCmmxIKSkNDt9ngKnJX2ymw_",
+              "links": [
+                {
+                  "name": "64-658 Vorlesung Aktuelle Themen der Theoretischen Informatik",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383684675416676,-N383684675454677,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Prof. Dr. Petra Berenbrink",
+                      "name": "Vorlesung Aktuelle Themen der Theoretischen Informatik",
+                      "short": "ATI - VL",
+                      "type": "000000000000022",
+                      "id": "64-658",
+                      "time": [
+                        {
+                          "day": "Do",
+                          "start": "08:30",
+                          "end": "10:45 ",
+                          "hs": "G-102"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "64-659 \u00dcbungen Aktuelle Themen der Theoretischen Informatik",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383684717724679,-N383684717792680,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Prof. Dr. Petra Berenbrink",
+                      "name": "\u00dcbungen Aktuelle Themen der Theoretischen Informatik",
+                      "short": "ATI - \u00dcb",
+                      "type": "000000000000021",
+                      "id": "64-659",
+                      "time": [
+                        {
+                          "day": "Do",
+                          "start": "11:15",
+                          "end": "12:00 ",
+                          "hs": "G-102"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": " InfB-CN Rechnernetze ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ApQH9~QV4z8OfYXK4KT28k7M17i1pH-he69hcpNs4EebomKR6w1075Wig6aYp78K54x8Vsu8Za6n-cxWpZp7jtp-rehJqwXB-oyCIH1kqERgwewUykXCt0p5YnwplRHaDbXTYBevZlO6typsKzUBVwuVDiYJVsVvQKUxmlCeQ-V7EzMbjF1ehOgsV~r1dPhFWGiFdj~XXtpvBZkk_",
+              "links": [
+                {
+                  "name": "64-642 Vorlesung Rechnernetze",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094198941,-N383415094123942,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Prof. Dr. Mathias Fischer",
+                      "name": "Vorlesung Rechnernetze",
+                      "short": "CN - VL",
+                      "type": "000000000000022",
+                      "id": "64-642",
+                      "time": [
+                        {
+                          "day": "Mi",
+                          "start": "12:15",
+                          "end": "13:45 ",
+                          "hs": "B-201"
+                        },
+                        {
+                          "day": "Fr",
+                          "start": "10:15",
+                          "end": "11:45 ",
+                          "hs": "B-201"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "64-643 \u00dcbungen Rechnernetze",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094116943,-N383415094180944,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+                      "name": "\u00dcbungen Rechnernetze",
+                      "short": "CN - \u00dcb",
+                      "type": "000000000000021",
+                      "id": "64-643",
+                      "blub": "Es liegen keine Termine vor.",
+                      "time": []
+                    },
+                    {
+                      "name": "\u00dcbungen Rechnernetze",
+                      "groupname": "\u00dcbungen Rechnernetze Gr.1 (Fr. 10-12 Uhr)",
+                      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+                      "type": "000000000000021",
+                      "id": "64-643_0",
+                      "time": [
+                        {
+                          "day": "Fr",
+                          "start": "10:15",
+                          "end": "11:45",
+                          "hs": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u00dcbungen Rechnernetze",
+                      "groupname": "\u00dcbungen Rechnernetze Gr.2 (Fr. 10-12 Uhr)",
+                      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+                      "type": "000000000000021",
+                      "id": "64-643_1",
+                      "time": [
+                        {
+                          "day": "Fr",
+                          "start": "10:15",
+                          "end": "11:45",
+                          "hs": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u00dcbungen Rechnernetze",
+                      "groupname": "\u00dcbungen Rechnernetze Gr.3 (Fr. 12-14 Uhr)",
+                      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+                      "type": "000000000000021",
+                      "id": "64-643_2",
+                      "time": [
+                        {
+                          "day": "Fr",
+                          "start": "12:15",
+                          "end": "13:45",
+                          "hs": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": " InfB-KG Knowledge Graphs ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMZ235C2Qtm6WEmhmyU-9wX9~w~cZH5Svo5nIHlx5a~eMC4980KamCHIsbTb2~wPRL67cMcy8WfcEodQucAswOYh48U6pHdBbsKcXcm0ayKKTiIK7fAxSEuTeiPn4k0ul~5SUVtxEF93sFfmqSj6EJ6-ORaMMNl~RlMWoVN~qvOhCxFe5EA7B3viMcB5LKL77zGsv1vbK2J2VBOo_",
+              "links": [
+                {
+                  "name": "64-640 Vorlesung Knowledge Graphs",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094064929,-N383415094013930,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Prof. Dr. Ricardo Usbeck",
+                      "name": "Vorlesung Knowledge Graphs",
+                      "short": "64-640",
+                      "type": "000000000000022",
+                      "id": "64-640",
+                      "time": [
+                        {
+                          "day": "Di",
+                          "start": "16:15",
+                          "end": "17:45 ",
+                          "hs": "G-021/022"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "64-641 \u00dcbungen  Knowledge Graphs",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094098931,-N383415094023932,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Cedric M\u00f6ller",
+                      "name": "\u00dcbungen  Knowledge Graphs",
+                      "short": "64-641",
+                      "type": "000000000000021",
+                      "id": "64-641",
+                      "blub": "Es liegen keine Termine vor.",
+                      "time": []
+                    },
+                    {
+                      "name": "\u00dcbungen  Knowledge Graphs",
+                      "groupname": "\u00dcbungen  Knowledge Graphs Gr.01",
+                      "dozent": "Cedric M\u00f6ller",
+                      "type": "000000000000021",
+                      "id": "64-641_0",
+                      "time": [
+                        {
+                          "day": "Do",
+                          "start": "10:15",
+                          "end": "11:45",
+                          "hs": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u00dcbungen  Knowledge Graphs",
+                      "groupname": "\u00dcbungen  Knowledge Graphs Gr.02",
+                      "dozent": "Cedric M\u00f6ller",
+                      "type": "000000000000021",
+                      "id": "64-641_1",
+                      "time": [
+                        {
+                          "day": "Fr",
+                          "start": "10:15",
+                          "end": "11:45",
+                          "hs": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

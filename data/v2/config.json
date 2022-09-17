@@ -1,0 +1,41 @@
+{
+    "studiengange": [
+        {
+            "short": "Inf",
+            "name": "Informatik",
+            "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2K~JNwigDxn2Zz4kc2GNnIW2gGjlxas4SbyvsOUucs29CmqMY4-f8YQiFpxXqNci9rdWIBSrBQ~lKFVgK5l-nyt~Cmge~TiPM03YELQGSkvMaOUsOeYu6sLFS3nqSLAXboqteO1IQ-PeHXBLCFbsqyumQIiJtell1qHs7Bgjy1s-doivd0j5sHJx-ES2Oj5UeM-Y0qOuU2QUrrk_"
+        },
+        {
+            "short": "CisPhy",
+            "name": "Computing in Science - Physik",
+            "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AsBlEbB-LJAPQO3rmLgIAUFC8xHSt6pwP2Uidt6PwScbv-F0FaOyWU4DLJuGcjEqqkP-U-fKYyDfWNlO0bxu9~yqXWYOSGXMP8Z~DBnLd-owy0rgTmYiSB3cBJju15VPR4UNMIN5938RjvJws~WdQpRf9o6X-DXnx4SJVncO2f7Z2J1igQ8urCCz5yVN7MINKOlnGYlBGlFRlNnI_"
+        },
+        {
+            "short": "Phy",
+            "name": "Physik",
+            "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AoepE19QJAGYj~5rV5xzEPC4kOX1EaUP8Wz~Di4l2Ad8a5Wszr72wW-hUgXhfLTvSHV1G97FCEct39iY3BvGmXDZ0lSUm8nFEL~qFNm~mKkZOYGU8HDlXq68PzRlDB7YZEC~hvJbLJebdpJa48X9okPvDpsz-CEtFaKvoveCHrRh7ACrOCgVJXmrFsTPjY8A6AE6Glmf8z6ox-No_"
+        }
+    ],
+    "parser": {
+        "debug": false,
+        "baseUrl": "https://stine.uni-hamburg.de",
+        "file_name_prefix": "data/linkList_",
+        "OVERVIEW_HREF_CLASS": "auditRegNodeLink",
+        "CATEGORY_HREF_CLASS": "eventTitle"
+    },
+    "preparer": {
+        "debug": false,
+        "file_name_prefix": "data/data_",
+        "input_prefix": "data/linkList_"
+    },
+    "merger": {
+        "debug": false,
+        "file_name": "data/data_merged.json",
+        "input_prefix": "data/data_"
+    },
+    "enricher": {
+        "debug": false,
+        "file_name": "data/data_enriched.json",
+        "input": "data/data_merged.json"
+    }
+}
