@@ -1,16 +1,240 @@
 {
-  "exported": "09/16/2022, 23:39:20",
-  "files": [
+  "file": "data/data_merged.json",
+  "exported": "09/17/2022, 03:18:46",
+  "input_files": [
+    {
+      "name": "Informatik",
+      "parsed": "09/17/2022, 03:15:00"
+    },
     {
       "name": "Computing in Science - Physik",
-      "parsed": "09/16/2022, 23:38:06"
+      "parsed": "09/17/2022, 03:15:00"
     },
     {
       "name": "Physik",
-      "parsed": "09/16/2022, 23:36:32"
+      "parsed": "09/17/2022, 03:15:00"
     }
   ],
   "data": [
+    {
+      "dozent": "Prof. Dr. Walid Maalej",
+      "name": "Vorlesung Softwareentwicklung I",
+      "short": "SE 1 - VL",
+      "type": "000000000000022",
+      "id": "64-000",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "H\u00f6rsaal A Chemie",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ],
+      "base": "64-001"
+    },
+    {
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "short": "SE 1 - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-001",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 01 (Mo. 09-12 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_0",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "09:00",
+          "end": "12:00",
+          "hs": "",
+          "slot": [
+            0,
+            0
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 02 (Mo. 13-16 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_1",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "13:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            2,
+            0
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 03 (Di. 09-12 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_2",
+      "time": [
+        {
+          "day": "Di",
+          "start": "09:00",
+          "end": "12:00",
+          "hs": "",
+          "slot": [
+            0,
+            1
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 04 (Di. 14-17 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_3",
+      "time": [
+        {
+          "day": "Di",
+          "start": "14:00",
+          "end": "17:00",
+          "hs": "",
+          "slot": [
+            3,
+            1
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 05 (Mi. 09-12 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_4",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "09:00",
+          "end": "12:00",
+          "hs": "",
+          "slot": [
+            0,
+            2
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 06 (Do. 09-12 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_5",
+      "time": [
+        {
+          "day": "Do",
+          "start": "09:00",
+          "end": "12:00",
+          "hs": "",
+          "slot": [
+            0,
+            3
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 07 (Do. 14-17 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_6",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "17:00",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "name": "\u00dcbung zu Softwareentwicklung I",
+      "groupname": "\u00dcbung Gr. 08 (Fr. 09-12 Uhr)",
+      "dozent": "Volodymyr Biryuk; Danilo De Oliveira Ribeiro e Silva; Dr. Mikko Lauri; Clara Marie L\u00fcders; Dr. Wolf Dietmar Posdorfer; Paula Rachow; Steffen Remus; Noha Abdelsalam Abdelkader Sarhan; Dr. Andr\u00e9 van Hoorn",
+      "type": "000000000000021",
+      "id": "64-001_7",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "09:00",
+          "end": "12:00",
+          "hs": "",
+          "slot": [
+            0,
+            4
+          ]
+        }
+      ],
+      "base": "64-000"
+    },
+    {
+      "dozent": "Prof. Dr. Tilo B\u00f6hmann; Prof. Dr. Judith Simon; Prof. Dr. Frank Steinicke",
+      "name": "Vorlesung Informatik im Kontext",
+      "short": "IKON - VL",
+      "type": "000000000000022",
+      "id": "64-030",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "17:15",
+          "end": "18:45 ",
+          "hs": "ESA A",
+          "slot": [
+            4,
+            0
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "08:15",
+          "end": "09:45 ",
+          "hs": "ESA A",
+          "slot": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
     {
       "dozent": "Dr. Andreas M\u00e4der; Prof. Dr. Jianwei Zhang",
       "name": "Vorlesung Rechnerstrukturen und Betriebssysteme",
@@ -1533,6 +1757,888 @@
       "base": "64-080"
     },
     {
+      "dozent": "Marion Wiese",
+      "name": "Vorlesung Projektmanagement",
+      "short": "VL/\u00dcb - PM",
+      "type": "000000000000063",
+      "id": "64-100",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "08:15",
+          "end": "09:45 ",
+          "hs": "B-201",
+          "slot": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Laura Vanessa Eva Fichtner",
+      "name": "Wissenschaftstheorie und Forschungs-/Datenethik in der Informatik",
+      "short": "MK - wiss. Schreiben",
+      "type": "000000000000047",
+      "id": "64-111a",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "08:15",
+          "end": "09:45 ",
+          "hs": "D-125/129",
+          "slot": [
+            0,
+            0
+          ]
+        },
+        {
+          "day": "Mo",
+          "start": "12:00",
+          "end": "16:00 ",
+          "hs": "D-125/129",
+          "slot": [
+            2,
+            0
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "18:00 ",
+          "hs": "D-125/129",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Laura Vanessa Eva Fichtner",
+      "name": "Wissenschaftstheorie und Forschungs-/Datenethik in der Informatik",
+      "short": "MK - wiss. Schreiben",
+      "type": "000000000000047",
+      "id": "64-111b",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "D-220",
+          "slot": [
+            1,
+            4
+          ]
+        },
+        {
+          "day": "Mo",
+          "start": "12:00",
+          "end": "16:00 ",
+          "hs": "D-125/129",
+          "slot": [
+            2,
+            0
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "18:00 ",
+          "hs": "D-125/129",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Jakob Immer",
+      "name": "Pr\u00e4sentationstechniken",
+      "short": "MK Pr\u00e4sent.techn",
+      "type": "000000000000047",
+      "id": "64-112",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "13:45 ",
+          "hs": "F-132",
+          "slot": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Jason Branford",
+      "name": "Ethics Workshop: Doing Ethics Assessment in Informatics",
+      "short": "MK Ethics Workshop",
+      "type": "000000000000047",
+      "id": "64-114a",
+      "time": [
+        {
+          "day": "Sa",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "G-021/022",
+          "slot": [
+            0,
+            5
+          ]
+        },
+        {
+          "day": "So",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "G-021/022",
+          "slot": [
+            0,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Jason Branford",
+      "name": "Ethics Workshop: Doing Ethics Assessment in Informatics",
+      "short": "MK Ethics Workshop",
+      "type": "000000000000047",
+      "id": "64-114b",
+      "time": [
+        {
+          "day": "Sa",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "G-021/022",
+          "slot": [
+            0,
+            5
+          ]
+        },
+        {
+          "day": "So",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "G-021/022",
+          "slot": [
+            0,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Lothar Hotz",
+      "name": "Selbst forschen? - Erarbeitung von Kompetenzen wissenschaftlichen Arbeitens",
+      "short": "MK - Selbst forschen",
+      "type": "000000000000047",
+      "id": "64-116",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "D-220",
+          "slot": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Anne Kunstmann",
+      "name": "Proseminar Grundlagen der IT-Sicherheit",
+      "short": "PS IT-Sicherheit",
+      "type": "000000000000003",
+      "id": "64-121",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-635",
+          "slot": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Ricardo Usbeck",
+      "name": "Proseminar Knowledge Graphs and NLP",
+      "short": "Pros Knowledge Graph",
+      "type": "000000000000003",
+      "id": "64-123",
+      "time": [
+        {
+          "day": "Di",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "G-021/022",
+          "slot": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Frank Steinicke",
+      "name": "Proseminar Mensch-Computer-Interaktion",
+      "short": "Pros HCI",
+      "type": "000000000000003",
+      "id": "64-127a",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-334",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Michael Heinecke",
+      "name": "Proseminar Mensch-Computer-Interaktion",
+      "short": "Pros HCI",
+      "type": "000000000000003",
+      "id": "64-127b",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-534",
+          "slot": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Michaela Regneri",
+      "name": "Proseminar Digitale Verantwortung: Ethik und Nachhaltigkeit im datengetriebenen Zeitalter",
+      "short": "Pros Digit. Verantw.",
+      "type": "000000000000003",
+      "id": "64-137",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-534",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Navid Tavanapour",
+      "name": "Proseminar Design Science Research: Towards the Design and Development of Software Artifacts",
+      "short": "Pros Design Science",
+      "type": "000000000000003",
+      "id": "64-139",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "D-220",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Kristina Tesch",
+      "name": "Praktikum Audiosignalverarbeitung",
+      "short": "Prak Audiosignal",
+      "type": "000000000000023",
+      "id": "64-148",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:00",
+          "end": "18:00 ",
+          "hs": "D-017",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Niklas Fiedler",
+      "name": "Praktikum Mobile Roboter",
+      "short": "Prak Mob.Roboter",
+      "type": "000000000000023",
+      "id": "64-156",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:00",
+          "end": "18:00 ",
+          "hs": "F-334",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Christian Wilms",
+      "name": "Praktikum Computer Vision",
+      "short": "Prak Computer Vision",
+      "type": "000000000000023",
+      "id": "64-157",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:00",
+          "end": "18:00 ",
+          "hs": "D-118/119",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Philipp Kisters",
+      "name": "Praktikum Entwicklung von Kontextsensitiven Anwendungen f\u00fcr mobile Ger\u00e4te",
+      "short": "Prak Distributed OS",
+      "type": "000000000000023",
+      "id": "64-158",
+      "time": [
+        {
+          "day": "Sa",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "D-125/129",
+          "slot": [
+            0,
+            5
+          ]
+        },
+        {
+          "day": "So",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "D-125/129",
+          "slot": [
+            0,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Daniel Moldt",
+      "name": "Seminar Kommunikation, Koordination, Kooperation und Kollaboration in der verteilten Software-Entwicklung",
+      "short": "Sem vert.Softw.Entw.",
+      "type": "000000000000020",
+      "id": "64-160",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    G-228",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Timo Florian Gerkmann",
+      "name": "Seminar Aktuelle Themen der Audiosignalverarbeitung",
+      "short": "Sem Audiosignal",
+      "type": "000000000000020",
+      "id": "64-162",
+      "time": [
+        {
+          "day": "Di",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "F-132",
+          "slot": [
+            4,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Felix Kiehn",
+      "name": "Seminar Database as a Service",
+      "short": "Sem Database",
+      "type": "000000000000020",
+      "id": "64-164",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-334",
+          "slot": [
+            1,
+            2
+          ]
+        },
+        {
+          "day": "Mo",
+          "start": "10:00",
+          "end": "16:00 ",
+          "hs": "F-334",
+          "slot": [
+            1,
+            0
+          ]
+        },
+        {
+          "day": "Di",
+          "start": "10:00",
+          "end": "16:00 ",
+          "hs": "F-334",
+          "slot": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Seid Muhie Yimam",
+      "name": "Seminar Data science seminar on data curation and model interpretation",
+      "short": "Sem Data science",
+      "type": "000000000000020",
+      "id": "64-165",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "F-534",
+          "slot": [
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Simone Frintrop; Andr\u00e9 Kelm",
+      "name": "Seminar Computer Vision",
+      "short": "Sem Computer Vision",
+      "type": "000000000000020",
+      "id": "64-166",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "R-031",
+          "slot": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Pascal Wichmann",
+      "name": "Seminar Technischer Datenschutz",
+      "short": "Sem Datenschutz",
+      "type": "000000000000020",
+      "id": "64-170",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-635",
+          "slot": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Anna Fuchs; Jannek Squar",
+      "name": "Seminar Supercomputer: Forschung und Innovation",
+      "short": "Sem Supercomputer",
+      "type": "000000000000020",
+      "id": "64-174",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "DKRZ, Rm 034",
+          "slot": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Frank Steinicke",
+      "name": "Seminar Aktuelle Themen der Mensch-Computer-Interaktion",
+      "short": "Sem HCI",
+      "type": "000000000000020",
+      "id": "64-177",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "F-635",
+          "slot": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Ingrid Schneider",
+      "name": "Seminar Digitalisierung, Gesellschaft und Politik",
+      "short": "Sem Digitalis.",
+      "type": "000000000000020",
+      "id": "64-178",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:15",
+          "end": "17:45 ",
+          "hs": "G-102",
+          "slot": [
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Wolf Dietmar Posdorfer",
+      "name": "Projekt base.camp",
+      "short": "PJ base.camp",
+      "type": "000000000000024",
+      "id": "64-181",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:00",
+          "end": "18:00 ",
+          "hs": "F-534",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Guido Gryczan; Prof. Dr. Eva Alice Christiane Bittner",
+      "name": "Projekt Softwareentwicklung f\u00fcr die Digitale Stadt",
+      "short": "PJ Digitale Stadt",
+      "type": "000000000000024",
+      "id": "64-183",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:00",
+          "end": "16:00 ",
+          "hs": "D-114",
+          "slot": [
+            1,
+            0
+          ]
+        },
+        {
+          "day": "Mo",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "C-221",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Daniel Moldt",
+      "name": "Projekt Kollaborative verteilte Software-Entwicklung",
+      "short": "Pj Softw.Entwicklung",
+      "type": "000000000000024",
+      "id": "64-184",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:00",
+          "end": "16:00 ",
+          "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117",
+          "slot": [
+            2,
+            3
+          ]
+        },
+        {
+          "day": "Fr",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Walid Maalej; Lloyd Montgomery",
+      "name": "Projekt M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+      "short": "Pj:Mobis Lab",
+      "type": "000000000000024",
+      "id": "64-186",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "18:30 ",
+          "hs": "D-220",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Seid Muhie Yimam; Dr. Abhik Jana",
+      "name": "Projekt Anwendungen der k\u00fcnstlichen Intelligenz",
+      "short": "Proj KI",
+      "type": "000000000000024",
+      "id": "64-187",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "09:00",
+          "end": "12:00 ",
+          "hs": "D-010",
+          "slot": [
+            0,
+            4
+          ]
+        },
+        {
+          "day": "Mo",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "D-010",
+          "slot": [
+            0,
+            0
+          ]
+        },
+        {
+          "day": "Di",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "D-010",
+          "slot": [
+            0,
+            1
+          ]
+        },
+        {
+          "day": "Mi",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "D-010",
+          "slot": [
+            0,
+            2
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "D-010",
+          "slot": [
+            0,
+            3
+          ]
+        },
+        {
+          "day": "Fr",
+          "start": "09:00",
+          "end": "17:00 ",
+          "hs": "D-010",
+          "slot": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "N.N.",
+      "name": "Projekt Mensch-Computer-Interaktion",
+      "short": "PJ MCI",
+      "type": "000000000000024",
+      "id": "64-188",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:00",
+          "end": "20:00 ",
+          "hs": "HCI Labor",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Andreas M\u00e4der; Bernd Sch\u00fctz",
+      "name": "Projekt Entwurf, Realisierung und Programmierung eines Mikrorechners",
+      "short": "PJ Mikrorechner",
+      "type": "000000000000024",
+      "id": "64-189",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "18:30 ",
+          "hs": "F-304",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Fabian Panse",
+      "name": "Projekt Generierung von realistischen Trainings- und Testdaten f\u00fcr Datenintegrationsalgorithmen",
+      "short": "PJ  Datenintegr.",
+      "type": "000000000000024",
+      "id": "64-191",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "19:00 ",
+          "hs": "G-102",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Jannek Squar; Anna Fuchs",
+      "name": "Projekt Parallele Systeme",
+      "short": "PJ Parallele Systeme",
+      "type": "000000000000024",
+      "id": "64-194",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "DKRZ, Rm 034",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "N.N.",
+      "name": "Projekt RoboCup - Mit humanoiden Robotern Fu\u00dfball spielen",
+      "short": "PJ RoboCup",
+      "type": "000000000000024",
+      "id": "64-195",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:00",
+          "end": "18:30 ",
+          "hs": "D-010\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    F-009",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Danilo De Oliveira Ribeiro e Silva; Bunlong Lay",
+      "name": "Projekt Deep Learning for Audio Processing",
+      "short": "PJ Audio Processing",
+      "type": "000000000000024",
+      "id": "64-197",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:00",
+          "end": "18:30 ",
+          "hs": "R-133",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Hannes Federrath",
+      "name": "Vorlesung Datenschutz in der Informationsgesellschaft",
+      "short": "Datenschutz VL",
+      "type": "000000000000022",
+      "id": "64-205",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:30",
+          "end": "11:45 ",
+          "hs": "B-201",
+          "slot": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
       "dozent": "Prof. Dr. Thomas Ludwig",
       "name": "Vorlesung Hochleistungsrechnen",
       "short": "HLR - VL",
@@ -1751,6 +2857,558 @@
         }
       ],
       "base": "64-256"
+    },
+    {
+      "dozent": "Prof. Dr. Frank Steinicke",
+      "name": "Vorlesung Interaktive Computergrafik",
+      "short": "ICG - VL",
+      "type": "000000000000022",
+      "id": "64-282",
+      "time": [
+        {
+          "day": "Di",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "D-125/129",
+          "slot": [
+            2,
+            1
+          ]
+        }
+      ],
+      "base": "64-283"
+    },
+    {
+      "dozent": "N.N.",
+      "name": "\u00dcbungen Interaktive Computergrafik",
+      "short": "ICG - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-283",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-282"
+    },
+    {
+      "name": "\u00dcbungen Interaktive Computergrafik",
+      "groupname": "\u00dcbung Gr. 01 (Do. 10-12 Uhr)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "64-283_0",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:15",
+          "end": "11:45",
+          "hs": "",
+          "slot": [
+            1,
+            3
+          ]
+        }
+      ],
+      "base": "64-282"
+    },
+    {
+      "name": "\u00dcbungen Interaktive Computergrafik",
+      "groupname": "\u00dcbung Gr. 02 (Do. 12-14 Uhr)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "64-283_1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": [
+            2,
+            3
+          ]
+        }
+      ],
+      "base": "64-282"
+    },
+    {
+      "name": "\u00dcbungen Interaktive Computergrafik",
+      "groupname": "\u00dcbung Gr. 03 (Do. 14-16 Uhr)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "64-283_2",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "15:45",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "64-282"
+    },
+    {
+      "name": "\u00dcbungen Interaktive Computergrafik",
+      "groupname": "\u00dcbung Gr. 04 (Do. 16-18 Uhr)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "64-283_3",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "17:45",
+          "hs": "",
+          "slot": [
+            4,
+            3
+          ]
+        }
+      ],
+      "base": "64-282"
+    },
+    {
+      "dozent": "Prof. Dr. Tilo B\u00f6hmann",
+      "name": "#hacktheworldabetterplace - Lernen durch Begeisterung anderer",
+      "short": "hacktheworld",
+      "type": "000000000000020",
+      "id": "64-635",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "13:00",
+          "end": "16:00 ",
+          "hs": "C-221",
+          "slot": [
+            2,
+            0
+          ]
+        },
+        {
+          "day": "Mo",
+          "start": "13:00",
+          "end": "14:30 ",
+          "hs": "C-221",
+          "slot": [
+            2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Judith Simon",
+      "name": "Seminar zur Ringvorlesung Taming the Machines",
+      "short": "Sem zur RV",
+      "type": "000000000000020",
+      "id": "64-639",
+      "time": [
+        {
+          "day": "Di",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "G-102",
+          "slot": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Ricardo Usbeck",
+      "name": "Vorlesung Knowledge Graphs",
+      "short": "64-640",
+      "type": "000000000000022",
+      "id": "64-640",
+      "time": [
+        {
+          "day": "Di",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "G-021/022",
+          "slot": [
+            4,
+            1
+          ]
+        }
+      ],
+      "base": "64-641"
+    },
+    {
+      "dozent": "Cedric M\u00f6ller",
+      "name": "\u00dcbungen  Knowledge Graphs",
+      "short": "64-641",
+      "type": "000000000000021",
+      "id": "64-641",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-640"
+    },
+    {
+      "name": "\u00dcbungen  Knowledge Graphs",
+      "groupname": "\u00dcbungen  Knowledge Graphs Gr.01",
+      "dozent": "Cedric M\u00f6ller",
+      "type": "000000000000021",
+      "id": "64-641_0",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:15",
+          "end": "11:45",
+          "hs": "",
+          "slot": [
+            1,
+            3
+          ]
+        }
+      ],
+      "base": "64-640"
+    },
+    {
+      "name": "\u00dcbungen  Knowledge Graphs",
+      "groupname": "\u00dcbungen  Knowledge Graphs Gr.02",
+      "dozent": "Cedric M\u00f6ller",
+      "type": "000000000000021",
+      "id": "64-641_1",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "11:45",
+          "hs": "",
+          "slot": [
+            1,
+            4
+          ]
+        }
+      ],
+      "base": "64-640"
+    },
+    {
+      "dozent": "Prof. Dr. Mathias Fischer",
+      "name": "Vorlesung Rechnernetze",
+      "short": "CN - VL",
+      "type": "000000000000022",
+      "id": "64-642",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "B-201",
+          "slot": [
+            2,
+            2
+          ]
+        },
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "B-201",
+          "slot": [
+            1,
+            4
+          ]
+        }
+      ],
+      "base": "64-643"
+    },
+    {
+      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+      "name": "\u00dcbungen Rechnernetze",
+      "short": "CN - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-643",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-642"
+    },
+    {
+      "name": "\u00dcbungen Rechnernetze",
+      "groupname": "\u00dcbungen Rechnernetze Gr.1 (Fr. 10-12 Uhr)",
+      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+      "type": "000000000000021",
+      "id": "64-643_0",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "11:45",
+          "hs": "",
+          "slot": [
+            1,
+            4
+          ]
+        }
+      ],
+      "base": "64-642"
+    },
+    {
+      "name": "\u00dcbungen Rechnernetze",
+      "groupname": "\u00dcbungen Rechnernetze Gr.2 (Fr. 10-12 Uhr)",
+      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+      "type": "000000000000021",
+      "id": "64-643_1",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "11:45",
+          "hs": "",
+          "slot": [
+            1,
+            4
+          ]
+        }
+      ],
+      "base": "64-642"
+    },
+    {
+      "name": "\u00dcbungen Rechnernetze",
+      "groupname": "\u00dcbungen Rechnernetze Gr.3 (Fr. 12-14 Uhr)",
+      "dozent": "Nurefsan Sertbas B\u00fclb\u00fcl",
+      "type": "000000000000021",
+      "id": "64-643_2",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ],
+      "base": "64-642"
+    },
+    {
+      "dozent": "Dr. Daniel Moldt",
+      "name": "Abschlussarbeitenseminar",
+      "short": "S Abschlussarbeiten",
+      "type": "000000000000020",
+      "id": "64-651",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "G-102",
+          "slot": [
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Anna Fuchs; Jannek Squar",
+      "name": "Student Cluster Competition",
+      "short": "Stud.Cluster Comp",
+      "type": "000000000000024",
+      "id": "64-655",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Petra Berenbrink",
+      "name": "Vorlesung Aktuelle Themen der Theoretischen Informatik",
+      "short": "ATI - VL",
+      "type": "000000000000022",
+      "id": "64-658",
+      "time": [
+        {
+          "day": "Do",
+          "start": "08:30",
+          "end": "10:45 ",
+          "hs": "G-102",
+          "slot": [
+            0,
+            3
+          ]
+        }
+      ],
+      "base": "64-659"
+    },
+    {
+      "dozent": "Prof. Dr. Petra Berenbrink",
+      "name": "\u00dcbungen Aktuelle Themen der Theoretischen Informatik",
+      "short": "ATI - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-659",
+      "time": [
+        {
+          "day": "Do",
+          "start": "11:15",
+          "end": "12:00 ",
+          "hs": "G-102",
+          "slot": [
+            1,
+            3
+          ]
+        }
+      ],
+      "base": "64-658"
+    },
+    {
+      "dozent": "Prof. Dr. Eva Alice Christiane Bittner; Prof. Dr. Tilo B\u00f6hmann; Prof. Dr. Kai-Uwe Schnapp",
+      "name": "Data Thinking - Kreativmethoden zur Entwicklung datengetriebener Innovationen",
+      "short": "Data Thinking",
+      "type": "000000000000038",
+      "id": "64-920",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "Junigiusstra\u00dfe",
+          "slot": [
+            4,
+            3
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "Digital",
+          "slot": [
+            4,
+            3
+          ]
+        },
+        {
+          "day": "Sa",
+          "start": "10:00",
+          "end": "16:00 ",
+          "hs": "Junigiusstra\u00dfe",
+          "slot": [
+            1,
+            5
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "19:15 ",
+          "hs": "Digital",
+          "slot": [
+            4,
+            3
+          ]
+        },
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "19:15 ",
+          "hs": "Junigiusstra\u00dfe",
+          "slot": [
+            4,
+            3
+          ]
+        },
+        {
+          "day": "Fr",
+          "start": "16:15",
+          "end": "19:15 ",
+          "hs": "Junigiusstra\u00dfe",
+          "slot": [
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Marten Borchers",
+      "name": "Data-driven Solutions for the Smart City Hamburg",
+      "short": "Smart City HH",
+      "type": "000000000000020",
+      "id": "64-921",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "10:00",
+          "end": "14:00 ",
+          "hs": "G-203",
+          "slot": [
+            1,
+            2
+          ]
+        },
+        {
+          "day": "Mi",
+          "start": "10:00",
+          "end": "14:00 ",
+          "hs": "C-221",
+          "slot": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Tilo B\u00f6hmann; Larissa Gebken; Fabian Burmeister; Christian Kurtz; Dr. Wolfgang Schulz",
+      "name": "Crossing Perspectives: Medien\u00f6kosysteme durch Architekturen illustrieren, analysieren und normativ bewerten",
+      "short": "",
+      "type": "000000000000020",
+      "id": "64-923",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:00",
+          "end": "18:00 ",
+          "hs": "Jungiusstra\u00dfe 11, Raum C-109",
+          "slot": [
+            1,
+            0
+          ]
+        },
+        {
+          "day": "Di",
+          "start": "10:00",
+          "end": "18:00 ",
+          "hs": "Jungiusstra\u00dfe 11, Raum C-109",
+          "slot": [
+            1,
+            1
+          ]
+        },
+        {
+          "day": "Mi",
+          "start": "10:00",
+          "end": "15:00 ",
+          "hs": "Jungiusstra\u00dfe 11, Raum C-109",
+          "slot": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dozent": "Marten Borchers; Lukas Musumeci; Anton Roman Zero Sefkow",
+      "name": "Innovation by Legal Thinking - Studentisches Digitalisierungslabor",
+      "short": "",
+      "type": "000000000000020",
+      "id": "64-924",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:00",
+          "end": "13:30 ",
+          "hs": "Rhs UG 11",
+          "slot": [
+            1,
+            3
+          ]
+        }
+      ]
     },
     {
       "dozent": "Prof. Dr. Thomas Schmidt",
@@ -2615,6 +4273,550 @@
       "id": "65-816",
       "blub": "Es liegen keine Termine vor.",
       "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Nathan James Bowler",
+      "name": "Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik)",
+      "short": "Mathe I_Inf-V",
+      "type": "000000000000022",
+      "id": "65-821",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:00",
+          "end": "12:00 ",
+          "hs": "Audimax 2",
+          "slot": [
+            1,
+            3
+          ]
+        },
+        {
+          "day": "Fr",
+          "start": "16:00",
+          "end": "18:00 ",
+          "hs": "Erzwiss H",
+          "slot": [
+            4,
+            4
+          ]
+        }
+      ],
+      "base": "65-822"
+    },
+    {
+      "dozent": "PD Dr. Stefan Geschke",
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "short": "Mathe I_Inf-\u00dc",
+      "type": "000000000000021",
+      "id": "65-822",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A1 (Do 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_0",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A2 (Do 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C2 (Fr 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_10",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C3 (Fr 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_11",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C4 (Fr 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_12",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C5 (Fr 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_13",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C6 (Fr 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_14",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A3 (Do 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_2",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A4 (Do 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_3",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A5 (Do 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_4",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. A6 (Do 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_5",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            3
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. B1 (Fr 12-14)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_6",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:00",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. B2 (Fr 12-14)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_7",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:00",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. B3 (Fr 12-14)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_8",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:00",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "name": "\u00dcbungen zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (15 Gruppen)",
+      "groupname": "\u00dcbungen zu Mathe I f\u00fcr Studierende der Informatik Gr. C1 (Fr 14-16)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-822_9",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "14:00",
+          "end": "16:00",
+          "hs": "",
+          "slot": [
+            3,
+            4
+          ]
+        }
+      ],
+      "base": "65-821"
+    },
+    {
+      "dozent": "Steven K\u00f6hler",
+      "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+      "short": "Mathe I_Inf-T",
+      "type": "000000000000016",
+      "id": "65-824",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+      "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik Gr. 1",
+      "dozent": "Steven K\u00f6hler",
+      "type": "000000000000016",
+      "id": "65-824_0",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "12:00",
+          "end": "14:00",
+          "hs": "",
+          "slot": [
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+      "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik Gr. 2",
+      "dozent": "Steven K\u00f6hler",
+      "type": "000000000000016",
+      "id": "65-824_1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:00",
+          "end": "18:00",
+          "hs": "",
+          "slot": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik) (3 Gruppen)",
+      "groupname": "Tutorium zu Mathematik I f\u00fcr Studierende der Informatik Gr. 3",
+      "dozent": "Steven K\u00f6hler",
+      "type": "000000000000016",
+      "id": "65-824_2"
+    },
+    {
+      "dozent": "Prof. Dr. Winnifried Wollner",
+      "name": "Optimierung f\u00fcr Studierende der Informatik",
+      "short": "Opt_Inf-V",
+      "type": "000000000000022",
+      "id": "65-831",
+      "time": [
+        {
+          "day": "Di",
+          "start": "16:00",
+          "end": "18:00 ",
+          "hs": "Geom H1",
+          "slot": [
+            4,
+            1
+          ]
+        }
+      ],
+      "base": "65-832"
+    },
+    {
+      "dozent": "N.N.",
+      "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+      "short": "Opt_Inf-\u00dc",
+      "type": "000000000000021",
+      "id": "65-832",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "65-831"
+    },
+    {
+      "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+      "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik -  Gr. A1 (Mo 10-11)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-832_0",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:00",
+          "end": "11:00",
+          "hs": "",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ],
+      "base": "65-831"
+    },
+    {
+      "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+      "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. A2 (Mo 10-11)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-832_1",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:00",
+          "end": "11:00",
+          "hs": "",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ],
+      "base": "65-831"
+    },
+    {
+      "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+      "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. B1 (Mo 11-12)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-832_2",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "11:00",
+          "end": "12:00",
+          "hs": "",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ],
+      "base": "65-831"
+    },
+    {
+      "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+      "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. B2 (Mo 11-12)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-832_3",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "11:00",
+          "end": "12:00",
+          "hs": "",
+          "slot": [
+            1,
+            0
+          ]
+        }
+      ],
+      "base": "65-831"
+    },
+    {
+      "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+      "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. C (Di 8-9)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-832_4",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:00",
+          "end": "09:00",
+          "hs": "",
+          "slot": [
+            0,
+            1
+          ]
+        }
+      ],
+      "base": "65-831"
+    },
+    {
+      "name": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik (6 Gruppen)",
+      "groupname": "\u00dcbungen zu Optimierung f\u00fcr Studierende der Informatik - Gr. D (Di 9-10)",
+      "dozent": "N.N.",
+      "type": "000000000000021",
+      "id": "65-832_5",
+      "time": [
+        {
+          "day": "Di",
+          "start": "09:00",
+          "end": "10:00",
+          "hs": "",
+          "slot": [
+            0,
+            1
+          ]
+        }
+      ],
+      "base": "65-831"
     },
     {
       "dozent": "Dr. Andrej Depperschmidt",
@@ -4731,7 +6933,28 @@
             2
           ]
         }
+      ],
+      "base": "67-100"
+    },
+    {
+      "dozent": "Marc Frerichs; Prof. Dr. Markus N\u00fcttgens; Heiko Stein; Stephan Tammen",
+      "name": "Projekt Wirtschaftsinformatik",
+      "short": "WiInf-BAProjekt",
+      "type": "000000000000020",
+      "id": "88-813",
+      "time": [
+        {
+          "day": "Do",
+          "start": "18:00",
+          "end": "20:00 ",
+          "hs": "Digital",
+          "slot": [
+            5,
+            3
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "file_name": "data/data_enriched.json"
 }

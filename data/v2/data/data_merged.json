@@ -1,18 +1,18 @@
 {
   "file": "data/data_merged.json",
-  "exported": "09/17/2022, 02:11:03",
+  "exported": "09/17/2022, 03:18:46",
   "input_files": [
     {
       "name": "Informatik",
-      "parsed": "09/17/2022, 02:07:09"
+      "parsed": "09/17/2022, 03:15:00"
     },
     {
       "name": "Computing in Science - Physik",
-      "parsed": "09/17/2022, 02:07:09"
+      "parsed": "09/17/2022, 03:15:00"
     },
     {
       "name": "Physik",
-      "parsed": "09/17/2022, 02:07:09"
+      "parsed": "09/17/2022, 03:15:00"
     }
   ],
   "data": [

@@ -2,15 +2,15 @@
   "file": "data/linkList_Phy.json",
   "name": "Physik",
   "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AoepE19QJAGYj~5rV5xzEPC4kOX1EaUP8Wz~Di4l2Ad8a5Wszr72wW-hUgXhfLTvSHV1G97FCEct39iY3BvGmXDZ0lSUm8nFEL~qFNm~mKkZOYGU8HDlXq68PzRlDB7YZEC~hvJbLJebdpJa48X9okPvDpsz-CEtFaKvoveCHrRh7ACrOCgVJXmrFsTPjY8A6AE6Glmf8z6ox-No_",
-  "date": "09/17/2022, 02:07:09",
+  "date": "09/17/2022, 03:15:00",
   "links": [
     {
       "name": " 1. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A60L75wx69f-jhz3chO9JEqmeg~y6aRp-BeYDqFf4Y6LR61At7y9lmtYSfoCCj9Ctj93z4kf7pr-cR8OJkSgTX7JZUg0F-GdefEtbF51XL6bBljo0VHKDTNfljyQaTAhlWm5tcHMWFLL-44J5swNjGLHkjA--R~n0~JRGw7-BGY3hwF2Flx5BkWNXp0RW~dIIrrZeGL19GjJBKiM_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A80VyOvduhrRLJ4l7xlCXxH96fSvSdwsHKvYGK-bN8EbeHRxwyMHhcrtFx5vyzZgNSBKQaGPG2LtZzjjcvrzANekk8K471DGU9MrjU97ocbMBp4ji8kdBN~BGgffT9F9LW6HTkBE0Xf72snfXFPJmAh-mzK7Qbe8LAhSzL3-ccm01ZgupHfVY2xDFxGW7BEDwqbYQE-GG76qLQeA_",
       "links": [
         {
           "name": " Modul PHY-OE: Orientierungseinheit ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~yi6L~JwSVsgZdteCMkwFxfPZwmEoub11pQayvKt-g40Nnx8GoDhk6njZhp6tiJjYRgKOeXo9nBgcklnMAd18VC-bBwPcN63~YFr-JxSRXL9jmjiH-HI7QZk5iQKTF3c-xY0fJ5DyWkuvTU9du1x0ig2DLhn05Vfks8O4VXm116GSXeR3bZlpz-r7iEHOVvHAq32IdTGqioDo70_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ab0Jia8kGtHfrH4hL8DLPSl1sECtao0n3KLrfkCPsF1iUtdrV-nfsTcVN36hSlkJwATDwsKeLi17ghzkPfcCIZ5SqJk5e2m0dLP3Oa63rm5hmeqrwrC0fzi4Pnb9f5I6wXVhXlRH6rRwbX368eG234PS6bUMYd4LxoRewEZryu11JmOQZDkBPeaVZofR3Dhnjw198ohD5ox6NRj4_",
           "links": [
             {
               "name": "66-005 Orientierungseinheit f\u00fcr Studienanf\u00e4nger:innen",
@@ -32,7 +32,7 @@
         },
         {
           "name": " Modul PHY-E1: Physik I (Mechanik und W\u00e4rmelehre) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AfpOl-T~-EzQnDb6i3Clzwhf4X~i6fX31iKJzihajo-jUYmbosxX0UZwqh3uj1Sbf00MZL6J0oMgEtlzzlh-OGeDNIbI3ml5L5n9O3dgET5Jt3MqzpKlX6PfgPFmkMz1xBog5LDSQkrvvqZmqvESVYoAZAPyngRKp9-GqN9lNLBI7aP9jNK1OdqDIFniqlf-Wvp4gA579SktpNh0_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHMjMRSRwoL5Ye4B8Ayw0M8~P0OZ1SY7fs44FxPPl2TCHz7V2pdKYp-HqWqSqMwK6R~KOfTb2b7qoIOGWYdGWweGaO1B0IlafmaaGt8nHHGrYKVAs-5jj0ShWLwilJ6B3bt7MJB5aYK38O1bb8UGS3ls1k~iyOXmT03MN1exQym8g9h27TxABwOcMNlPRnYZ4KYFeWl000EtdVS4_",
           "links": [
             {
               "name": "66-100 Physik I",
@@ -351,7 +351,7 @@
         },
         {
           "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7JNffIPBJ3Qdh45Lozq86BGXerjua6ix6ifCWWwbe6FevD4OBmEq8wgEoyehidnvrzpwQGMtmiS25JExGqYZTm5rJbo7mLssyvShOaN23UdrBVT9FZ7bUIPP2IVsFMxM5YqB0dSmej29u5GutgecJ67U9l8lZIaaU6E7bDX7NM~pJ0VGpd6v3TbG1mQGhbkMY01DqpvuxkcjsVg_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYQoAiJkA9rjLC2mQH92BftWmr8B0913UUDpOqtKpaNWspOywZBpMufNUzaK~H7E5ZgJIbFsAhTQPi5qUNPIWs4obtVII96ldVvBxzTjQTEQkFicrn~uk8EWwBtzaSvqAv5ub7ANpzZ~qx3uT3xR7XxKQrKvajKbfkz~LfJ~UaJZMdGgPtKhgy00j6cztzFejIUG8~nZn92u4VQo_",
           "links": [
             {
               "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
@@ -627,7 +627,7 @@
         },
         {
           "name": " Modul PHY-AP I: Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AzYohZ5girC-SCaBIEVNuM87VqJs2GE945cdC3rbqZYfNp54vWagZCthliXx0o-9YloGfS9Dj2Fx1UoZaPE4cx2jNfOpNKZxw9LD85bVRTYVbL2nj9VkmR3pSLxqzWq-7GlH3pEWad-cqjTg0eRPmZS1aQEu9qR~kronH7HPn9u89zy5xNH4UwFau4LbquyFcIETDyCAGVb6xixo_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AnANd5K1XHdHcQJw0Ns4gb0ebvLvQI9Nheh7dOIgjs5Sxkkdm7l9vBK96qnfJkokIY3P5VEmN3HCu2oibGlDIJczvZ~WD4RYZ323FgMi7MyITDrk4zcmg5D3VWBixSwCa8BEU000GVF4KtX8kjPpGIYF-9SxpvH~TMzHdooFxw8r-UB21EAgqx-ZS2bueGR-DpRaGu-dtxh811BI_",
           "links": [
             {
               "name": "66-120 Physikalisches Praktikum I f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
@@ -667,11 +667,11 @@
     },
     {
       "name": " 2. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A5TBvy~vg6144hN-ZB0AF8BxPPDVmGFEzzSpmG1mErpiEmlVgPKIxK7wLrY8UCra4cbbEEo6asz2nQNno0nLAocd2ki5nPexYSb8Po-TOXK~yZScSNQ8Nyf~MIEztRuVSzCrsB9HD31-4St1qcf~3ccHNvc6S7lf9H5d~6k~Osz6gHaebCNFrlijgpkZh8eI3545InkMY5TvyydQ_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aoae~x7jMlgrqaNOfhaoOFXHzAOP6NFcxVpBadXGQT1O8ncK5m7Zt7IAXEG-UsIgwoMVYaEYNuB7ImmwNi3h4ZQHf-MtukiWpfQ2hWisRWNnczWOO5-xSqnOWj7YRUxR3D8c1HExbX~C3jLLU8tstT0PgbQSN~z56MBtg8m7GXmX1PpPcYhoT2oOFo-4R1dGagTCinODYDhmuqGc_",
       "links": [
         {
           "name": " Modul PHY-E2: Physik II (Elektrodynamik & Optik) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AZXeb-qeodBT7PvyMhgK3S8P6tY7NAuYsKOZqAsgHERupUAbu0mPhu83KViRpgWVzTt22SuLx5NieSJPk6tNhQg4sfLcJsow1HZqr5h4-6h0ra6sy1u~1v1817q9dFHb2MUA1RkGrXVWhWV5yK9lPnE5YkEF6MIYlPSxDVQxi1KVpmsBXHR-FSx-gBJFhdSkPmgajHW2LCye~lDo_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AQrUv4EADgNp0UaOqruiKFKZYDjpjDAfHyE-xoN6RgoOQS-uSdV6LG9lCtR1JFewRf0u~XzczyXpu5rAcc15gQKvFiyeILgolLHsfKbI2m2A8Dh2DfS3vDN6BLICzdNfph6cRxM7Lt~RvfGovMnieENWq4MtWaQ~wl87VGpzxaEwBZ5y~a6Rkur9BaSxtj~VWchc2X2BomrRNpn8_",
           "links": [
             {
               "name": "66-110 Physik II",
@@ -825,7 +825,7 @@
         },
         {
           "name": " Modul MATH1: Mathematik I f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A5HLh5YyA0JxpjemtVlgwhDXPHc4B2lnfa0Kvk08Cr2OsWVjwnBZTlmxnMhryuLJJB20zvJjJz1mBAZuqoy-dkcEbntrWe4Wq3Z22f2NF9x3ed6FIV9NbBD0AljMK6HLVAtqzOUzCUYSZ8ZiLRbFy9~kwhcDVXfEVMjbNVF945JfBZUj1cYt15rEdJM9HegvVeUd2g3Dc-aPnH9I_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AZKcwJ1GJbZWpw7sXJ6xjYiKrtygEFQqsfT3qcacWUhNgiImVf03s6y8CzzVoYWQHxGCPHMLnW2U6QVC0JupABOaJeEpuNtMXQp21EfUB4cmigECzcOpqtJIZuFnFShuZTo~h5OCkJOWdXasU5NFECr2dKU6rY-8ICz7jmAKqpN1qYzrEJImbTH6qIcf2u0YOV9y17ZnHFIRssQc_",
           "links": [
             {
               "name": "65-801 Mathematik I f\u00fcr Studierende der Physik",
@@ -1101,7 +1101,7 @@
         },
         {
           "name": " Modul PHY-AP II: Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ah~WbxgJw52KRuh84feXzmOcDRAqb0Hr2uA3MrDGtRlzTLBlsii7LHrpVb1nREYunU4hqWY1ysc1sUgsTCpBmb9yJgziBvEuRe4S-J5zb~8xOzjernXNzeuFLmqELjjflHjKMv1hWC6dzRfhBxQ1MEIbnX2xfa1DTCqedAzRt4axqyGboCZaePoTUfDkezHGpqZzjHyVtMRHrZcM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AE9IrdXwqEwqUUO~ZqsDzj7D9Ps7fyZDJ063vYG~rwg3fLtTdMCgwLmgp8o-6jN5Zwl7v94oudyf8ofMIWDRpG2RnK3Ckgnu1DB7EaPCc03Ho9jWc~Y~zKMEsKNeI6U2s~H8fBLg1vwxfTT~3i5P0UhszuSb~D4GMQt9dBvDhRz9cUcqMSrfXbs-hCgqKuhTm3BqGBrc72Vo~S~E_",
           "links": [
             {
               "name": "66-122 Physikalisches Praktikum II f\u00fcr Studierende der Naturwissenschaften (Vorlesungszeit)",
@@ -1141,11 +1141,11 @@
     },
     {
       "name": " 3. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ATG-eGj5ksOncM4OiLAJ3~qQQh5gox1Vq6bJoABYAbbyD6EZxEwZQR2LdS4r00gv24i0knS3TBSw8lsG1HG~-7J3HFytaPqTgzxddKUg7VNZfyAJ6ufuj5xf3c17MIpHJ6mDsn45cbGigZPEaGWTqoVRbqxAXTzWJEoPuNp1pW9lb5kX9fYJ6sC1xpjFTKP~vngt0tCt64pBLCB8_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANHnfVB1Mv2KKOsumIt16HwcrN7PCB17Evawwb6K9Q-W8EH3RYhvh6MwqIuC4QfYc7U-oQcGxg~F4DR7g0-f3PfwePzXhDzsLy-yQI8NfFpTHuuLXLtx4C1FSNGHE8Qajroe2OpQuZwjlJs5SboeORPqDxSiaS86YYH3x1eHPnb22FXNaJ6sBc~eY37ZAmJjx2DHmZw6dANl71lQ_",
       "links": [
         {
           "name": " Modul PHY-E3: Physik III (Quantenphysik und Statistische Physik) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7Tk8~k-M3Ol3zzHgXCT0YpnxUNHs6IF2JqAyGv40e-IG~uPe48X0yxrahp9EjRjxcZfO2FAfAYHuK1kSpTYVhBDIiNByyOJccOzDlohJOr0gkD3yxPr6Io6Fc4lsa9biShO1e8MK2FCFhJIM1oW6GmKXlVYrwUb-uJ74ih5ZLlxk-dRelypqMTwWZ3cjsNA0xStmYJA52rgYPzg_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AuMFz3yIA048BSME5dx7Au90mq-5enSqx94vK9T4ElX-IAs6aqHRy42JQYyH26ssvjdGCLvi54xvXuvmDiijMmXPBjpO0rF5IvXez76Fqw79Hw6XmFSPon09ilzhYbb7d5Ixn8LDTJM~V6kkc2BDvTWC1J31PmK5pu2Uw4JvUEo8M0v6GXC2MS2gYsyZhrHNatQ5hW21EZgUryQc_",
           "links": [
             {
               "name": "66-130 Physik III",
@@ -1301,7 +1301,7 @@
         },
         {
           "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Akx5HaMFu6M84aL3eDriIBGLpk5CPgFiV6WgZk0kC4mhIWvRlmOpb~kwgbntFA7Gh1m-ajaUFdhP8sFmu7hS5lrMWaBR~a5XGiQBYT0iyzGkV3hjButM4Qu4rvXWLz26wgWU6sEVjfokM8iJR88YhuMbWm2JlANjR-nMIrJnQD0ETM9Z7KoACvM2gT0yg7E8Bk5w5femY9mvrvHc_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Acx78dwXuB80~t0BqPJvWxy7XE~Ls4ezba99XAZUbjRbkD-xZJrqNbQ65DFZ2lpdzMk46zgmCDEfiAg-cjWp9Tm3VgWSKbyhQadhHBPDx6ksQowenFKcq~q66DArv9Ryn317g0NQdeTjRXBu-Nxsj-SbS-saAPfZY897e3MvwS8o1GMoR2V1KU2DWVK2vm9u7Dajk~mLhDA8gO7c_",
           "links": [
             {
               "name": "66-170 Theoretische Physik I",
@@ -1487,7 +1487,7 @@
         },
         {
           "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2zdB~ibKiANiM7lTVSriWhBcihaKtNVQUlziBK-F5-uhuk4JAgVYAfp~mC51Dym21~In3vVeNGUFD7dDdUiWWXfVyy8Cdx6zWAuSKn1nmCyr7aHcuu2161a8feT2SwU1rJBWBjN5zO9VJgvuoFED-m9MEE9WgSViUoc34wVEUbPeTZ5SW8DeeLhWDZ8xsal-f2Di6OeG5j4A~C8_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANzoyCQrkK39czUGHmjTlIGcPr6nUJZs-boBlZXCOgu2YEX8~nwmYhG1eLqUQWCLQuakEzxkRvH1pDH4jnTmHcLO~p-9LVu2YzWgeaJh6ZBeQUXnNiHG1mHAPVdGkkdjjl3PNW5P1qb2QyoB1bJSvdxBEjRM4dHhn8yDnyiknF65EGfCNvBigoLFXTuOCh3Apb4mJ5ETW~ACaI2A_",
           "links": [
             {
               "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
@@ -1705,11 +1705,11 @@
     },
     {
       "name": " 4. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A59fvFeF11xKA86p0JoKQO3k6nf9HmPkLeItUWfdb9hZ-AMGGLEy9VNqxr14O2Y2-NYBzxzpjYYIEtqOKjEU9y-cJPJeYX6OM78peu6tIHYwiX-8D4hpASsT9DVxbNfEz8cx3piXebI7ZRuBOnsFCMEj8sUvZ3J1TVfqXPf-x16pV8Wrq9-PmrHQsRo8JV71ORFZizE3bvI~ZzDA_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AQcN85h6QoVDkx0BDw5Vkct40fGJMitmNkwgrJgnB8DUDbl-On7aIGH5c~Ef3J6Zbg1hCWljV-mwh9smwl3NC5x0KxkgR5YNnVXCcsiSDdTJABDwxY8IqjIM0lxWAUDLyQZRPboMAtEr5HWs~5B3VTtKfhyqpLDbNRkjhYQp1YbssvPymkUDHa65KZqcamFs8acnm1szswEzMjZo_",
       "links": [
         {
           "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ask8Fp8qOfvGOoNLJU9cDV1xe45YcJIWL5M2E3o41Qnd3N80gSE2-BdL7TXatmIZ255GZvuuNFezCCN3YwdbB3uTMP4X8G8F9wPp2a2VD67YbhgJn5wzffdM0X45RgucSgk~w845DT-D5UvEiew07KiCYPSqQZlqYpmFodFfOix0equkLP8MrZ3RsaoeKUtsiE-Ft9pv2rmRAV-Y_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2nlnFXTBZ~i71UP3~jFqbSSOTbNtYwTvZygomKrPmPeclvQ9Wq-vU-IpOTYXffjdD8LPvjVqrCI-pgw0hjM400AeVgwgtaLhFtLrNcattqB~Pl4PEal3fXIvFSgG~oJ-8bYJdzJm9YMXF3fOUWCqE72CUeWKVhATw4MCPfXx4luXg5Qf0hlaY82tnY8P~0ARDOsowrOPg1ZxYj8_",
           "links": [
             {
               "name": "66-150 Physik V",
@@ -1864,7 +1864,7 @@
         },
         {
           "name": " Modul PHY-T1: Theoretische Mechanik und Elektrodynamik (Theoretische Physik I ) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-8zaZaAmv5k7FU7IwciHUpXT0uzDFvTYhXygSFunXM3~H-eC8OsOXiVNZoNMzofoT~VHDKaw8GN4sW87usP~PynkPa969sXG7LtrQbGviqlF-o8xYRtmnzFB8dHQ7LzeVGqSlc~TtohTSCPoVWsbVFUviibSeDxqtmTdNc62x93er~B5sD7sHc5aaXMFIXhVjDKFebmd8q0O4J4_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A86b1YExFOPQA320flEFA1BAZl~ztSToiFwmNhi1~lhk~CnexOQWHwxfNdFI25lCqoX3g2Wir0EVLEfmXhJ-4teZCkNGGLorfjp4ZdRCV3UNeyV1LcqtU1Ue3swnq4tPi6gr7XST0QC67~~wcxVOkscoZF93Ud5qmMeQsxEGctZ4Mq65Plq1Vw~Wt9puc1K9WLDPVsV~C0ubXZkM_",
           "links": [
             {
               "name": "66-170 Theoretische Physik I",
@@ -2050,7 +2050,7 @@
         },
         {
           "name": " Modul MATH3: Mathematik III f\u00fcr Studierende der Physik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~t1dLR2gfvGLiO0qLJDF7lnQdxV0Grln0P8jSP8KB~hW~aK~~pgs4xxlyfWdEqOWZC6TkO2eBOyd9IfwR86azo9Ejl0a~DPHuDwKNYG73ftfRLW6RJP8ObTwaCOagnKL1l9xTFWnOsxE3yZsGzsXmD2JJSn7dSXGd6wZUj3sbml99LVXK8b87ZxNFxjLuNTk4aeH0IO86rhrMM4_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AtzKk~QEEj8u22~jD6WGUwJ8VcYmT2vjUTdPMXnjR8hqMW5pcmuBiEM4m3gQsYCrgM4wYlZwSLDP0IOECh7SRHVAnaGqLqvJVvkiYvOcMWUI~X3UciIgmgkwdzv2KoIu731jcalOXyYYSVaJf3kgFRCEtwOlD4ocuC~75dbr2MBsjvt1ADbIZ6zsUTuShuMeoVdg1DFn3UQP1E5E_",
           "links": [
             {
               "name": "65-811 Mathematik III f\u00fcr Studierende der Physik",
@@ -2266,7 +2266,7 @@
         },
         {
           "name": " Modul PHY-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AyugvFGQm6EzU3KD6KjwMc1Ur7Kplh-iqlxl~PZwlwxThaOlbMtIz63yyIr4UEiO7WWVqaG6J80Tjrx5INCsLzkm6Is44P1bUItdWDDV~B2iQ0MWQvbtRbAVq2jnAd5OqcRVjrVbc~HQ9Lcmcf1LbaFNv8n~95O548q21PwHfn0j~9ziSARFRyT2dTJTovVD44ycksVUVzYjsKTU_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3FxRvMyJVOJMrhsGAX0DdfHFbbI0gWlbecEBe41HAMti40OP1oGLU1u~D5IA5qV57uhPz9ADRVr9sQ56nYG40aTWqI7Zsm~b3e8W5c3HjNS2dwChzBH~KXfXRhhBhVs8MFq9jmN248oKP4q50CYU1Uc~8eJAzrnKyohDb8Mb8dTKSXYhftdYLdFJCYUiUKu~tbbdwPZjIFU0xS4_",
           "links": [
             {
               "name": "66-455 Physikalisches Praktikum f\u00fcr Fortgeschrittene",
@@ -2306,11 +2306,11 @@
     },
     {
       "name": " 5. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7hMI2NiJY60vMIIcUikVEEtvPmYzh4baqAjBYfuWYvB~ANHhhCzch9-ICy4dvXnCjmI3YBna10v~Z2mlJFtHezNMM8PeqRRDsZpL~x9EtSZJY2n8vk0n0XjAAIEJHbdrmFNvLxtZ4R1YQuE6PuasQtBeewMXJedx-4ZxuUXr~6N25QeZS9gUShZkw8vEs4h53hbMOB86HQlvDMk_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AwqVGpLxIztMR34QgCw4C~wAZgTtsqNXPZ2eTm9iEwKa4NxDIVzITmLZaRLda9cv7eI-WNDhJZVl8WLWMFPmyI4tpPar~kPp6Ef3W3jrU96tsD68tQjMvImBKf4NmKuml3LEVlp85FwGMmBSW-SDpdbqe7oK1wOI7sDEIx2mMg4k2WHG-XSTyFmt7~IJ16DiWnZ98k6tAUuRy2Ok_",
       "links": [
         {
           "name": " Modul PHY-E5: Kern- und Teilchenphysik (Physik V) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ac8Vv4bPrAdJQNKiUvk58tkq-KMz8jJwm60EXuws4MP~lhFs~drGD2LCKK8qSI9QS3~sqYDXzDtoJ-byhGIMo1vfWI41G9vbLpHAYBql2SDFO~3z2A4ZpmtSrS~LOLCcfyvj349ykY67w8fjJl2aM-4KlayifCNJlKCikYoWklq5n2nMMTZwARm6dt-WzsLy7rcfehA~GR9ExF6I_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHEnJobTrT8HGRVvHXcKZFPutNV1pr8mvQ2P0EOuje6G7CHSOF53pmNFrUNUQzeBU0u9yj9WETt7kEvJwMMZjrV~e8gpD2sGJu2tcn2DKpvDiiZ6eYXiqzfWEUqX77hidcFTPDaXUaZw6QTQNXzMg~qRrsDTv62c8PEYKz9wzlTsEXH5vmbPfrCR9SqvabwUwS6QqmlNnFPKvhXs_",
           "links": [
             {
               "name": "66-150 Physik V",
@@ -2465,7 +2465,7 @@
         },
         {
           "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Av21GL26cyCxRo3~MuqHhtuunWsrOu5I1lY49fm69IVDw4yKwcwjTa8scptN1nTTH2cUmxqiKu~AEt6MbOB6DZdYDa5sR~IvuT2FVTqGpBuwDMW4YHyZN3BzwqvrHq9qKYhTL5WGp9Oy8EkW79j2OU3A69vPZp9-Dy2cwLZhzkhHiQb~uiloIhp91Wxkp~sPc9917J2IdQ5rgSpA_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A6FY7uw6Y9iwpw5b9USYzdUvE~hK2V9hR8yAYL--AHAv2dx2g-X43qpdyYr8FoDhX4wO7ReQ4LhCJpzOSuzxrXjj6WO~tOjaheZT8GZctj0FI~R~Ir3fdLhfNS~0O7tu~gVj37wtSlNWM0ZmQA-tUakM-IYEtc8-uUtqZXEbNHAL3HQfZG4BF6kYu14IqM7pvoQwB6ukSlZa33aU_",
           "links": [
             {
               "name": "66-190 Theoretische Physik III",
@@ -2620,7 +2620,7 @@
         },
         {
           "name": " Modul PHY-FP: Physikalisches Praktikum f\u00fcr Fortgeschrittene ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Agf7u5xRRKlxxBiOjeejiRDShgl4xdfiJtIl~31YT0gW2pVaqR1O9qqTdQKe4n3BSkl3t3-TU-LjXMKfhcNLfQnnEbef7QgxlIziBSy52j5nuOOaAGSfAdV9hwOnnGnaSHF1AXEhzyKTB1RObjG9a7YKVuO-0r7aEx-7rp2iJi2UgHeHXavKi3w7SN9MPQ3inoyLInc0zQsam84I_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AdJfzLPRQOpCNAi~0duzCA~3s7Fzb0r58Hu8iMnRz9jdP52ightt5nV2o8wNiMPjOUSjDPjnY5NvJ6kq8Q0~s701EVLnFxROe7G6s2RdmhmpXziWGQrf8suR7aLu7BR0EGr2Ojj1nK37G-mLYuaV3QCzr9tMXgM0y287V6lIqLlZmswxTcGKeo3rd-YDUTik5LkOl1wK5FWwoWxA_",
           "links": [
             {
               "name": "66-455 Physikalisches Praktikum f\u00fcr Fortgeschrittene",
@@ -2660,11 +2660,11 @@
     },
     {
       "name": " 6. Fachsemester ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AKAliKSL0MTuFdTBPlpGwjbBWilDH0WoYwFpQh8WlECIm1wUe4hP~vbvQIG73h2NFOHE-OJqUgSKUmYGFnWtJv97KEAjJejagFeNQT4NzX0L6ETpiIioIljuuNmR5twLPdGNUF4RtsAUDXA3ftCyAuGLjjriEpbcAQ-Bm1DJ2oETz4M0WqGzb2bw1Qu996v1HO23jDb6MOkWtTgA_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AQftZBoTE7PfWZIQQdozLW84pMffETQMyXH9P4~biL~p03kkt8mOqteRrnAEr5ATHhNkfyKE2IOqu66p3EddxicWXBkmvU4iW2Usxuh5iifdP~aaftC6JRkGLdBrRdt9lv8ly3WjNIv2HkaLmF4OrIehZMFwJtEH1YzXUO7rWcQbxEnN5DRrVvnZkJ2VK2DcKA9VSY9OyNb6epJ4_",
       "links": [
         {
           "name": " Modul PHY-T3: Statistik und Thermodynamik (Theoretische Physik III) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AX4RxTY9OfJne02Oh-WCh5TLwMOl7gW2hUNWARrQ7vp5DGR1jJyptUpXXUfCIDqA03-p35Yt4hJZiVgXYq6mMxvvRlLxWNHw44PavnTmtN1sNwZHlt0AH3J0JCQ3EZN2vHhA9WVvjgMvdLBNFjm-sPzrOEoFS7wePRx0qkalTzf4MyswJTsOX6YMJPc0KP1ErGvvfQadcgI2gBcM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbUlZlHLJzKQYk5kZKeRVVOIXfokb~Cm7LLMwy-bfwAPsVQCJM0AvSvHr0L-3tZXc-fJEb92IR8SahKArWpunxqaA~vP~GKhq7V7DWg782jE1WLUb0qFnsaEdvew6Y8OBOD50PEjqV6Znu0dx3G4qw6SA6jEqf9VoMku~QNOS~2-l3rGTSz3MJ2-wP0vrlsKk~OpEE-nXLn2cR~Y_",
           "links": [
             {
               "name": "66-190 Theoretische Physik III",
@@ -2821,7 +2821,7 @@
     },
     {
       "name": " ABK-Module f\u00fcr Physik (B.Sc.) ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AVYQrrDnCMStsRajn3MRfSn~k3CitlH2Na6vhNFKBDgOYdlDoluBMp-~apWWCCkE3YLG3IvjJ1Y1OZrgP~0wrO-4rfutdpyMFIM7ZMDSDxhnmArO3Ta2FD6~bTldua1-TMpML9Xm2Qu8dqGveS4oEG8LPzodluB3jkMkLkv85WiL7W8McCd2gDyD3tvTesdhNOQzMp0~u2okl~6g_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AxARMp2HHnWB-C-eHDc7H1hD0RPe6PaS6OvZvD42V4W5eYSRHJQkHl3Qh8hLAkwUaC6syV8NUhWcv~uiWkQ4eNlXXY5TOanJkefYNwvJ9kkG8nosvPk~RuKPzi6tMfy8g9feAYCro3hkKTopnDYCd-c~Zoj5gwbbiJhaSypY0iDtEgo23ZqDhJLElVznkEWya-zulSOAPlKqQGPM_",
       "links": [
         {
           "name": "66-860 Arbeiten mit Gruppen II - Leitung einer Fachtutoriumsgruppe",
@@ -2889,7 +2889,7 @@
     },
     {
       "name": " Proseminare f\u00fcr Physik (B.Sc.) ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Awvv0aWUEyS5svew2KS9mBVnS1PoduLxOFJqPivg0GOzKySFpEf3n0769oiCjNGvVsVZSg0P~Bz783Q0ZFJ7LcttGTWwqKLW-V~UjjU3c3AOVbZfVyazDxCgeVm~Jyw2ogUmOsg7vKhihhE0uQ~uI98XkOJ~zSqQOywASn95Is85VrbzWq-kSgj0G~xj2mskKgz76USXP81vXOHw_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AWS8r7DbA~0Y5-veKNrQh0FunZZ4K-vxu0itjnDgiQ4uWyVs1OpPvChrw3p7sikX1q9kWWIFXPmbTcXEa-hPgpH1Jw3HKG3kp0eYX3iHjAg97cOIxtlrAMWldh5Phvoyc75z6cycOeo7BkamdcUIGaAkOs22N-yeYIhkjIcR~mGw-osS-ZhmQ4AXfZ2pzNRgXJy9fzVRqtODq7SQ_",
       "links": [
         {
           "name": "66-502 Proseminar: Teilchen- und Astroteilchenphysik",
@@ -3223,15 +3223,15 @@
     },
     {
       "name": " Wahlbereich f\u00fcr Physik (B.Sc.) ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANazBJ03vqX7aygWk66vhErBwy5lnlnwuXOHfNKClZyxjHOxXWmi3XMSn42CrKIl~dlErju9ebEStwc8r2LbM5yJVm6nSu3TcnbgnBHVvlyK3GnhMgC3rtti84~3XLLVHPUbG2xiuf6Fh1XVUahAOfMRrLGwddGeOy8c8ut1sd-iqlqSrbby7AbQ6SrcwZYQFW0zs-1iYbExyCpU_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANT-8~q1huuBjhlKRLG1nvyw3aUFJ5jKHjGSSk0DUkjN1-SnQ9E4gSHAteqZoy5mDQC0cpJ5dE~zbTsdfAuTqEvuoJUsHIYGOkeFm-K5IrqiMM5g2NZ9bse82NjyzGWJcOtKWYDqvmE04NcwA3GTYoQEjHAMyMoY~MPA010tulzvUWAx-ohbqYLcp-FkB-6FeU4AD0G8r-2GkrUA_",
       "links": [
         {
           "name": " Astronomie und Astrophysik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ALyw4y5qHOrsH1Rx0vqFbm0D-f4yt5qZfxTpA7xa-JulizJEUlKWEBzfb-6JqaPTAe1fsiE818PWsvBRJtvZxL4TjviFh4~1hGWZvy4qHBxFVvg~usIr0mBXFNphqRsYQ3xpBnDg0Mw9fXPG0Arq6ZJxG6RN~fxIHffOTP30aRJPAYg4bfjv0y09OpVOM7OMzvG1V~YRKTrmzVnM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AaIFmO3OQwqTnJP8lt-MexETTGLuDuicS4aDzY1i4jI49oYEanjNiKvHvjN57eOzcGcFlz9hUZR8GNWu~pUcDnlW2CvHet3XFWgjT1byZVZAgPznBNHHW63Q-7Ux3c-2tYjfLtxjYGlpBKA6Y1Feu9PJrQ3-o99OPnBwQLyklxjUelEhuIIkR1k1vtDeHa6n6qFdZkqlZFhs0nFE_",
           "links": [
             {
               "name": " Modul PHY-Astro I: Astronomie und Astrophysik I ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AvnHctI16GLQAYyErXsMmYGZWFSbPQtQI5FhEpN4BgQ6fRY0PbuaLABa8iJkTUEFR~BY4pfim~t43IxP5Mu13uahkDF5vSZqUx5DEyhSE1LmzoeKsTtuM8na4Xy-63Wi6vFuhlSlpktpGNXFFbbjnrumDIguNIhycioqCVNawFzM6fNReCm2K~SGcCbEIDlRT5cdDbK35-cYZ9xs_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AfgNLrrFBcRua8grw2NR42~2xdJspnCvKZxnny4zB1HNRJszcvlvOFRtDcFd~GafWepJ5GSj5zxwosoNSqnFW6EBdiFpGGyK5RBlD5XNce0lgbvHkf~CliPb-Z3I80Y1XOF-JD99jyx4fAuMTVlJIUxfUcPibc3Li38jnyHj1nMscvupVXj45NOyN2y-K2GCX-~iZWse-kvEXPDQ_",
               "links": [
                 {
                   "name": "66-901 Einf\u00fchrung in die Astronomie und Astrophysik I",
@@ -3335,7 +3335,7 @@
             },
             {
               "name": " Modul PHY-Astro II: Astronomie und Astrophysik II ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AKxIrgQfe0NzChACzwse-V4Q4I8FQD~Vgut~O~vOOtsC6gy~DuJAHfy~QYQKsaz-3Qewl39Kdsd8cZOKyu~33pcYsfzPp6hYDs5rJ5jwP9UFm4pgNLv8DjQu9sobd5-lrRcR3R0sIT6fR2twEQRi40hj2UGJ-bujdBZulXBA8gXsDLjm2C8yr6hT3QGIsmz8-JBZvG-dMPjBhqJ4_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJSFZJ4s1CceV1jOB0jF5ExGoZcdPOLhodgBSMoHcdmbMI434xWE~O1WJq7~~ryJHXsbemoCC0oydw04O487HiCMr25aDxGX0~bAcJ8ZDRpkZRiuBOv5PbW~-bRRwUFw9ZLFFanFDYlYIbRE21-qqMEP~PoXBoln12Fd41zayTKMNnWm8N-TtsQZC3hbHY7bxrMET-xkMQO6I82g_",
               "links": [
                 {
                   "name": "66-903 Einf\u00fchrung in die Astronomie und Astrophysik II",
@@ -3426,11 +3426,11 @@
         },
         {
           "name": " Introduction to biomedical physics ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AwXxdmSHEQUnq8W3i00Z13shCR5ZJ8y45Yz086~gD7QDDKxRvsVPXSGEL1-NQs4MsFkBtF6nygd8jQnRDdAXBRG6MML3TVH8wM-N71ANBwERrmKCVcjg32mYJFBPynSGms8ZH6zxmiGFj~K3Mq7MIOfDbpPolh6Xlbb9V2pC-fbmYrUJkwbW4PXQeJ93VO5fgiSMNgYwnrFVhJZM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AZDsK5lOEIuMJ4NsXdqOLhZK7wLxchNr~7CXmaZwwtsgZRhiKtzdiyddDS1omNS4A-9h6PysfPnfHpk1mHGPfv2WFcIpNtqYzpUNaDaxN5LcU0w8SYr3DYVyKXNxDZ-e5UYWyDHQkyUXZtKClXv3phjc~QB38Dsb6A2tbvg59QrBb9RhmWFFS7Q2vOuwFggyWMPrk1IMEefIYCXk_",
           "links": [
             {
               "name": " Modul PHY-NF-BS02: Introduction to biomedical physics II ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AQvI--jLVq2VErv4cqEg9nFh7VJ5JPT--RWxhlYOfAxiO9K7ZfFFhyd2DBCF9gwai9Z46SvQU0E5iEpa8gqnRCjRHVAAcSIxMZR4J0~lwyrD26~rkZtnvf7w~wVlzH0mKo0vo32Xd-XBiG12n0LSI77P-1JtTD~SWXQK~~cehpvEVL19Kez1k~Yudg5DBJmf4uQaygS41~s8l7Hk_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A0mEhso8msxt0A1jvCoF2muReo4rnRfZrWHmayv3OVFUoAbtjkIsJkWjMtCyMbnuOX6T-H2xWwbSjpdj-94p5NovSmqk84ZSHAc1~g7cUnZyqRZL6~kuezF4EHiDLkJQNQnWmrQDn0e7KW3RdvKN2WGIZFkDt9-bL7BIkgRdWboCOG8s1zDubjo45uYWMiQ1H1ni91cmXzrwtGiY_",
               "links": [
                 {
                   "name": "66-675 Introduction to biomedical physics II",
@@ -3458,7 +3458,7 @@
             },
             {
               "name": " Modul PHY-NF-BS-P: Introduction to biomedical physics - laboratory ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AyRliZv-BcQzf4eceaTmRE6eQzSgT1xHAtZw8NQLKPhlseH~Oq0RuNx6APEntsC7Yx570~jqhX9xqHY-g5dUmBkKSnPufeuQzaCSdooeq9sn8KFipwuwmpzCtnknJ2aWzZpdqfle9WNDyXpOS6Gzg5MJZk6vxeWpK1QvEEcsE8R2-mTMOkqCDwMK2yCmiAjoKo0O8qvd9XGMSzBw_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aj5VKxyRvFt5U6~l6d-4F4YaYHBiM5VGuqDgB30CB0Msns5rea3rXh4prOPtqdc2GbPLM6b9K2eDvSI7iyMzDn09dXF62DJxN1sxgOUawDSu6r9rV4LjLU1sOwjh1QmTNZhsd7Exc2tqjClcWDFikdWF42Y3N2tfnrjcNK~HKF~3mJ4ezLJjJCvelp8QCCg5vhceoMYirolSQUJs_",
               "links": [
                 {
                   "name": "66-677 Introduction to biomedical physics - laboratory",
@@ -3482,7 +3482,7 @@
         },
         {
           "name": " Zentrum f\u00fcr Naturwissenschaft und Friedensforschung ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AH6BvPRhUD4xKHDB4nEJ0aBBsu6YeHw3CvbabPvtGCtM9~zF3AfTEktM7s6NHgXdS8UkwTC16vk5LCSfmhiQYwzzRFVeB5RUcRtnd79g0rM881VvZeKB2J8X2Hr6tTJVWDCpcZ-3qsT~CymzfPq1R7TBLg6H5JmwH3vmuGd5dU5~vSXSoNoyfKYSQ0jwMEND5AXkTtBGOfrnGkBY_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ak8IGzwbqFrXiI5~pe690uQ1fTPG6S1KvDfjw-fCnd6XsAxAFI-xhRex-WTKRubco40CgyrzYJl897690kvH-vHdb9kW86K1-Q~vYcpTgcbJnNwTNFgkk26xm3TrpymtFdiResFohx7AFUJfZ9-jnuNBK5WIc~amhQILEHpdrdfaO1shHjZjzsdvXNlODEZ~u4iT~HRHGBVQNXEw_",
           "links": []
         },
         {

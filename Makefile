@@ -1,5 +1,25 @@
 all: clean download prepare copy build
 
+v2: v2Clean v2Prepare v2Copy build
+
+v2Prepare:
+	( \
+		cd data; \
+    	source .venv/bin/activate; \
+		cd v2; \
+		python DataImporter.py; \
+		python NaviCreator.py; \
+	)
+
+v2Clean:
+	rm -f data/v2/data/*.json
+	rm -rf vue/dist
+
+v2Copy:
+	cp data/v2/data/data_enriched.json vue/src/assets/data.json
+	cp data/v2/data/nav.json vue/src/assets
+
+
 clean:
 	rm -f data/linkList*.json data/data*.json
 	rm -rf vue/dist

@@ -2,15 +2,15 @@
   "file": "data/linkList_Inf.json",
   "name": "Informatik",
   "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2K~JNwigDxn2Zz4kc2GNnIW2gGjlxas4SbyvsOUucs29CmqMY4-f8YQiFpxXqNci9rdWIBSrBQ~lKFVgK5l-nyt~Cmge~TiPM03YELQGSkvMaOUsOeYu6sLFS3nqSLAXboqteO1IQ-PeHXBLCFbsqyumQIiJtell1qHs7Bgjy1s-doivd0j5sHJx-ES2Oj5UeM-Y0qOuU2QUrrk_",
-  "date": "09/17/2022, 02:07:09",
+  "date": "09/17/2022, 03:15:00",
   "links": [
     {
       "name": " 1. Pflicht Informatik ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJlLucS-DSSxXTrkN5j44E3M7bPF4x9S-DJvgXf4jUz5gPfdIAbTblEsvb1vQFUKlcY32y2BHYfcVk-WVDquFe4YVLLv3r5R824yGyXK5JnYigz6JDvdyDD5RY93Gh5QohBaSIa8~pxRMm9wYCGMrn9fUysvin2nO1c05bPBeQdYYUVXgxq60zFEQW7vvuOq9pa4IneQ4VJBz0ic_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A8iSZ6FPfw79CaF4Fsr128lmv9hwxWtTQm3vbHYxmFCurEBHe31VsZd6KgE9lraV-76wGfAFlJ8H~2KCU-8eV52BWOTF32rHYDSDIktejDY4JycnhAesb8Qw1IHPYGlQ4AreDsZeo8E00fzHGDZkJ2Z3YukH2L~q9Ncnwho5bUkmPh1LXe~4GiMCIllg7b2iVbDqcXyPtextkEfc_",
       "links": [
         {
           "name": " Modul InfB-AD: Algorithmen und Datenstrukturen ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AAF0UdnJDTnValx3uwn1AUesJILsGf4~aK5MhcVxXsjyEis1h-bly79QT5EugO2Xb57-HeBR9aVlikLTfRlbwZ3Wm2Uvw0RjPHW9OpLxL3ZYxdg0vqYMb~uON0Cd30hoRpUVtBTBD1ZOMdDNAv8nXxKIpuc~tJ6VJbtNWq2BeM9YtpeMBsHFO53jrqV4FmLytMa2c4SBeHBokE04_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~vexELvPHpq88~zKwIbbYdXlCWxqjO7DMk93R3lePVWSBA2TzsZ9FN6smK6MzPDA~c-m68uwtg7Ib0TgfzgUlh~xSKhnZS-dRR5apPKJwaQ1USk61tvH6bqaS-0uDXFe8qqMD3f0yfn8oG4ctcBGEfkaohx9i~W9ZeSLcp2mMxwTNeO-voNo7dO5kUWepMsyKR6cPg5E5BLW2EY_",
           "links": [
             {
               "name": "64-070 Vorlesung Algorithmen und Datenstrukturen",
@@ -399,22 +399,22 @@
         },
         {
           "name": " Modul InfB-BKA: Berechenbarkeit, Komplexit\u00e4t und Approximation (Studienstart ab WS 2019/20) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AZvIx0-6Dx02xycdcrG5wfmVQ7RapYKhJaEeQVdk7WtCoppcfjgQN-UFay5Z23LW2IlWMlgK8L~J1tx7U2w~VV2~drqA26ideOc8TmwOfiFvkrdXTE066x6gz7hTH4RmBKocaKbsJt9TkFBSsxSUwEaRJ4USnB5qc7ZL~IVcRs3hu8LOO1vhMm6erYCN3phCgXocnB34MD9sUJJE_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AiXcQm65ND3CzwTUD2ynR1R~b~7BOJFSxO8xWOMHkALu52~ROIbmSi31JFYYqIxNI1llNzUnCEGbWvi6GRyuOt6D7bJY4WgzSy9nhJkphHPWr4Y8EiKhqsSkcN9BZkNCOm9YP8JB9fHPjl6crUsRJdYOJ20lO0MMjPVKJbQmHShguZFUf41nAWHdyYvB61xOjHXH4PI~-Vu0vYtk_",
           "links": []
         },
         {
           "name": " Modul InfB-ETI: Einf\u00fchrung in die Theoretische Informatik (Studienstar ab WS 2019/20) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AaGf1OhGHUWI5hq0N~kvDs4mHB2s0klrMiMDRwfA1tNx9oI~JILc5s6nTO9sliAe3js8MiW7yD2ANWIMQuql1bx1VphEepdh3hmIKqy92Em~h6IQS204BSkBn8UBzpi~6PKT8RGqW0McIy2f1ctimteNIhDyM0wBPTL4k6USGJgCO1-Qkr2kMEBtwTn8ygghO~CoBSLXkY99I3yE_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Am-RB6h1MBPMWlO1ItLu-dyvrDvdj6qmApgoM-Rz6pdVSkW4w9XT~eHh-sDz7aLp8QCc47iAKrgOUjxJBxtP54osreOb5DC~-hQs6wVSluBX4dpKROLu0yhhJgYDlquQNHhmBj9O7IBVaZP2R-vGv7-oLDwK3ZHmTnQmw2NG5x4NhwN4LGRchOIwEGmQLQVDxE-JC4QiO9RcEDvg_",
           "links": []
         },
         {
           "name": " Modul InfB-FGI 1: Formale Grundlagen der Informatik I (Studienstart bis WS 2018/19) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A0h1OKSC-~WxRv~0fovODm5BbrpLmjC8QRzE8a2bcz95Tl5zGPTRLwJH2uBAXOtoVLB7yLaVxU~CDDknoSGh-I5fHr8W27kS371TFG9Nw899Sfx5ED6KEw4S3ejsuQjA3x9O7Ft4sfXAEpKrCzr4lwa3iaxdHrqPQfOQs9fkAkU1d0c5JNWKQwQlKQPGgtJcTnGXDbXU84s~lbIA_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A8dYfri8-VnCD7qQXZqKv9byDriLZwnncqSm1hgWyrDbp61mRPGOCBxvOqDksrl5M3dgrk5NawPCdLESOi8GWBu3ZLDSexM7hsmRfgQIlF4LuYAtizpT61FBKHa7VdD10OUQqXVxTeikDqHB7MH1x4~MuvRnlFXW2XGhw0HaeONiXPBEDREb2OeUtMj6-mDDx3OscLQOVc~91TPI_",
           "links": []
         },
         {
           "name": " Modul InfB-IKON: Informatik im Kontext ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AdgoSqTih70RAF0g~IczL6G36LfYNShwcxFm9xcUhqYsLEUCRAeycFfX2yL93m7Jl46FDTGNNbcGno42wDYUtiti7PtFAHnILk~LOaccnRpA7ocBjncXWTNjx1inxgRMtRYkGyqkGxnwjqqGYKi4JDFCeDK-zeDq5TI53idNjvLuFzsyje7q-GU~RC6QTEDCnF7NFJ4Iq-Pm1de4_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A02It~ecM90pGS-iwN5ts1yzcZpDJuxGk0HzbWneqGLL8RAs9aJ43VieiFWffIvKAY~pR0jZgimSATJPw~grIWvDliN2bAtpKy56nvfRAHSvsBuSKQpVMSPRF-37Uy-KvShNkpOTZNbJFeip2eIGB8WXUM0QZPPBiNS8JgB-rlB3dPJgv5mAdQqtNWbsB1S9diE7yU0eZt4uM8lE_",
           "links": [
             {
               "name": "64-030 Vorlesung Informatik im Kontext",
@@ -448,7 +448,7 @@
         },
         {
           "name": " Modul InfB-MK: Methodenkompetenz ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7MtqD4hmsdTrATUtIx89rCDs9wMwq3pacR0MGis9D4HCkFcnD8zAUhXt9slaA-4tYKLiHaO4NOUxLmz91~9bKGmwFd6koE5~bG5UOYtPq2HG1R8Dtsoy-C-COBHkfV90FyqO76WGP5chr~~XUS01jxDYRvQzGvq59gAiVOlD35mf94TCxwmuIwGbB2ASCRQGuvY36~QgsO1UVo4_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYjnoJ85xGP2kHQh-9wEvXku~feBSVtlkBo5iSRgl8W2qiLLhd4tIZpd3n4Y5JekfNmXG9GWwHn33aGmNtdVTVJ~LJBxKLCaS6aqKtbMXl5A622cKG5ng0Ch87PWwQ-pQjoQF8reEecMPp311WkbQwA2Bv1BbqM3zELq31TBSmagoYCjqw10ft44z13P8yODpMCm6r5sBw675dOI_",
           "links": [
             {
               "name": "64-111a Wissenschaftstheorie und Forschungs-/Datenethik in der Informatik",
@@ -622,7 +622,7 @@
         },
         {
           "name": " Modul InfB-Prak: Praktikum ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHUeMQKhkrFMeC-pTvDoOa88daM1JvmtT7q47oHaTtvkutVJduEH8RGidchYqliG2Zb8CtSiuqSaPR7-nw2Al4q1a4kbxLqsnRoyhm3pwh1zKe53F0tSKRRCWau3HMekZvUILntl0V50jjLBPJekQEYAZ-WF4M~Z5I5JfWxmZnTSYX6eavxmpgdRB68qq6QzTid3KysM4HbhLt5A_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2ujSPgKXDZXuPGOW6lhLnboAJg5QHmBBg2k-EFy0JrgMcByB0IO0E~mzd1t1G59F2RCIM55WOfZMwqQv5jJlqqz54eBaawr3dF3QLLkptWWIvFgX8SgB5vsmXF3T5R51jV0kya6veTv1Hp086IMU3CPyWUrWbm72KPvHNmY-H~EP1uzTeJF0nMdfIClxuf2IjqcmFEj~Xx5scBA_",
           "links": [
             {
               "name": "64-148 Praktikum Audiosignalverarbeitung",
@@ -722,7 +722,7 @@
         },
         {
           "name": " Modul InfB-Proj: Projekt ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A9wbcbzPZ7raoaVakSpGCK4qy-07c-XmTUZpqO7hE5x6QwvT~qNbyyzoxXWM5tFvSBLbkV2rl6LAy2aSX40H1MB71POO7iWf9T3Lh8-51DgjmiznewkP0j4oArOnUr4a28yidDA9Ub2ew9GRtMMifDyKRUbpGAq8LEi9zOjrkqvW46qqMfzhrMsofA1SXF4jJ0ZiMYHqZPFp86y8_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A1D8XHPmsJtpk2OOdW7~MxhBUoiQV4jQ2uiGS-xqCnBM~WshZF2kqW9WXm3Zdjl1Ay5hO-2usumaVQxD4u2kbOiLwa~LJKjwLSxZCc4WTG7L23H7xTcFNJx8LOAlKOaG1lWWcMdKCw~~wkj1q6Ze1E-oqPnJtrC5cZkDr1IGy5g1bpMWWUXmX-~VbURZtTErHOZS0DI0URdYZvRU_",
           "links": [
             {
               "name": "64-181 Projekt base.camp",
@@ -1034,7 +1034,7 @@
         },
         {
           "name": " Modul InfB-Pros: Proseminar ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3F3fK~UfZ7pEOxlq~Iimg7R8fSroC~Qcd81V4VMiIzpc6E-TD4e2RUHFeGIAwwwy6QfoWGHv~fGXnIeH3SLEThaPnT6Mo23T6Ypyn-8kNc6Xa9ThonWUTAMdX4VrDNPXXCisgqmolrNR5OgfC-V5wU2Z2kg5-j34rLi6buI5osw7rCr8QjgRBuvoWNkO39aaiShHLP4J41Zxfo4_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AV4dXzR-AgSpyN6zslvBJjEFcDJ2yNi~M0MW0~JSLgGNLM8va0w0ax~38Af9we4dFpg0Pfp-Cnz~ewbUZPByC0-tMk4a-qDYPNXSbmced1N4xvG~2mr9-6dw1E-8f0dGa4GdPMLOc3nbmFRaa0gsVJu8qJOkXCk4j-yaKiY0tqRHLlp5bGXMvYAKXdufTcmnzIXlVriGo7i~ACnE_",
           "links": [
             {
               "name": "64-121 Proseminar Grundlagen der IT-Sicherheit",
@@ -1172,7 +1172,7 @@
         },
         {
           "name": " Modul InfB-RSB: Rechnerstrukturen und Betriebssysteme ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Asw5zKg5m2b53c8ZKlZi3J-zILEszTZa-6ECXRaTeIsTUS2NNus8VEcJHqAKMRcm31zCTPbqTSHRxR0Pq9xrizzb6KwbfDVsCBcb6F-8UUlz6p09UBGArvmaTczwqDekOkfoMHNpDiimO7nMi9Lhw2v182Hclhn6ocaXqI9erDEqmRKzsSnad7n6F1XsfDiy0uzpdlki22H7JfeQ_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AKQ765elvto2e2JdKt4CzeSEyrMdck3S1Yxu13uwk6bzsPmOB-LzkJUJQkyJTlsxGPeM8~MRfoofayBoZTfI24Hf6RHe4pb3bndXBmepC0sUKtpHMttX8M4z57iXrnj-KTFZn6yypngTmjkW3S~-X~LxyNeZ1dtwVIsncJdqDXAmCJrxnbRoPazjvlS5GZRs9sKNsw~2~lJL~ZPw_",
           "links": [
             {
               "name": "64-040 Vorlesung Rechnerstrukturen und Betriebssysteme",
@@ -1725,7 +1725,7 @@
         },
         {
           "name": " Modul InfB-SE 1: Softwareentwicklung I ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbKMyJTHJLL2VqwvBivRBoDWmq1AsDI304F1HThRMoMi6Fkb5sq6UW~IhkcKkUr4cSMyVgNBqzjYigbTZeHaGTnTfSNnfisLMP~zsMarMmsJ9LzkC77DxH2wgH~CkFa4ph56Rr~Kv~7fzTaOAso2qBX45b7pMATBp~9fxQSZRzMb8L8qjZIjlfnZ4ZuhmQETnVyziv2DJ6oZK3Us_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ASm-B6gNC7de86sK3mqPOJoU8ZcU2j5Hf6iUII-AoRDFbx7C04GtX6YUQDTVIE0W49Hoq4B6bxIlSv2x8G4NaM28Ez5-ZoQxArmspacHX630Y2bxjWbNUhIigwe35vKbol6vfwxIEAhyhcTtfb5zK7pAtycZ3onHv7YoLfJaYIB5O2T~JI7eEYyZ9XXXw9I-9VpNzf4g~k1bzrek_",
           "links": [
             {
               "name": "64-000 Vorlesung Softwareentwicklung I",
@@ -1889,12 +1889,12 @@
         },
         {
           "name": " Modul InfB-SE 2: Softwareentwicklung II ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ACczdb5MkA7oEqlYhOMtjeCS1mUslgFfPsQdbQd8GeCrqjOMflg3BtImsUvIknJXYr3HWgi58hG5Gj8xm97XC5Y3WC3thOPciY-5vVq3yhs6C90v5lpTRivjpVnHn-6hZMIBd6HLkszc9UVJTITdNkSAJAVMq4jLoT31BhGv7nj42CsxddoE0GORu5iCiNq8~XGgEqcDvVMqIdY8_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A6dC7sXb~c4cmfc~QIk65LFCWdNFLoxFRVRlTjT3zmTzQDbwrtbnSipa0bzoM7qLYLJOmGXFXrcgVOJ8~SZIIdvPEuZC0YKLgijdL5R2rpoOBhN36ky693MBPGuY9KrI4QsWYyba1yF9sabmR3lRtmC0VVprcDlFNQ5Fwlvoxk4MzEBOOUHAH7KmYzoHE8Z-jd-63bemB9sF7x2M_",
           "links": []
         },
         {
           "name": " Modul InfB-Sem: Seminar ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3pXUmNevUscivgbHN1rJca4qb~cejoVSCk6QT6RjNuAiMVrl4k2~t2HWzAVykkiGw~prFtsWAFm3MzN~vYoNtEoJJpx2tyF1kiX9HxVsVexB2jxSB2chtktSW-xF~rcnwIvu9b6Uxocc52ziDroeROpbVoJSPV1dM5wVDtRs612wKmT4C5KCGWkdzEbIqx6UMTuSWeJ6kRGWFGo_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ABZ0Z73O78CJSW~Cgav08fu-lN~xEh6pE-66XdTPlqb2VbG10P7UqPLBr-tMddIAzGLdguKiLn2Gyxj~PMBV1QXziDPenqlIpqHz8Ol~ppKBkNrQJLZJvRc6Us53piNMLmmy4Qy3QpThnSvRCIiwYthwrHkOW4WqN49NnJMrz5FJTVA3~5PVVdjtNtFv4FsHdSTUCtVGd2tm17Qo_",
           "links": [
             {
               "name": "64-160 Seminar Kommunikation, Koordination, Kooperation und Kollaboration in der verteilten Software-Entwicklung",
@@ -2110,18 +2110,18 @@
         },
         {
           "name": " Modul InfB-VSS: Verteilte Systeme und Systemsicherheit (Studienstart ab WS 2019/20) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~W9IXqpltUWLEPoj3TxAtjMbujVnn1Mhn9alJhYNdKlG4NXuytvW5kNiD6LP1T7R0SHFdNDOgaM6a42vn5DKsxx4bfqfAkDsWbYiL0Ng2XGo7z9YD-EOutW4HslSknTP-DxaV03HNhX-JKFa0LpPpc4p31qYi6XEgIJt7z-OGNMPJVn2NzfP7UFLYsXle3QTKSKPV3SqyOwzb50_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AhaQNaP9lRdHT0R02y2IjLFvVCBbNo0PrM-g9VL7VwpGkLJUPCg9qo1qv3t7OxB7iLOluoIWbFI8u1i-J0nsRGksaAXpUDyZBuQd9wbRirUl1cZliAlUVfyvCsJAUoHdE0ZvGo1j8~9-ATDl04kWgK~XzSELPQttFVOkqTZA2BdchD0hcUtdKgdPj7aNQFu-adSrct1eMUXv3soQ_",
           "links": []
         }
       ]
     },
     {
       "name": " 2. Pflicht Mathematik ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AAxmxsK4OYLFehMCF8vyzJbOXOmie68Ls45VilAvEo16PGINtlmnDQ70MsckuRSHBsI9myhBXnX3uhynhXOWgCpQQskjX-CsgVx8XZ4gQxR8aXTIx-85FtCVtLUdm2gidKeiifzCmRo12d1uPD1KQuc7~qCFPvwn0nca3qaxMoC7IatAXKA79nfpIbnX-cZE08c60AIKxaRYMphY_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Av03In1pPjsf9QV7jDD1BonQiXGHHUIbPrQv2IGy5ljRaLY0ZV2NyJIv2x7~XHkNn2Avz1XNKo6xwtlWVzPOaIRKkMRD4IpZCtU4QoRz1-hgCgx51ji0R-TTDRjY3FgfIaJrME8jJ7-deVbsLYSOJ8zA7KXdGBeylQVSQhKtyf8qudGX6F-rI2CPjISNNuHkywAO-NebqkmXAEf0_",
       "links": [
         {
           "name": " Modul MATH-Inf/DM: Diskrete Mathematik f\u00fcr Studierende der Informatik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AyLkVippvQ74KnHuiARmC3PKg3h53gpFD9saghs1GyEBgNjWYMcjr3eQBnl58LWldMYwazPa4pZNXqNfUs6XEEUBZI8QD6TjgPKWZh-0J3pBowZfFWpu69Zex1~tMGZKVD5pWmH~krTim0sDpq8AY0T64oMziZ2vy4iu4M7b7o8IORSxQ7nt4daajJ8yYBGfZQil8XSY4WZhtWwA_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~DsVEit31AOW5f7a~kfEHVybsNVCIBsdHf0r4VWxBn-agavoZ7KfHvWkMtRDV18LD-xsZdqW4c26RKwu8id6WdcpAV6XZbJaM57norPoHGDERwTaLKU4ZJdu-xVe0~HfQu7k~iKOmsWfhL49DwsUxTPtiXxVjrfkaGZgMsuEykYPoT2Vt-VsN~ltDci9hSIsJH3SbsaMIYQKyLI_",
           "links": [
             {
               "name": "65-821 Mathematik I f\u00fcr Studierende der Informatik (Diskrete Mathematik)",
@@ -2449,38 +2449,38 @@
         },
         {
           "name": " Modul MATH-Inf/ALA: Analysis und lineare Algebra f\u00fcr Studierende der Informatik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AuHB3H4Mnhu6Yx5T4kQwQ4aqJe3zvMVBMRSpPdUZTBY7sg8GhnY3IqPq4~ftER~N8vkQhyfeGJl1~9siXZD1hQgrZvosTvx0FieYgeeS-zTtl78gClOBbVv5vqcsKCHeZ-zXNeQMtEjo0j4sgs-xYm0MSTRGwRCmYmgYRUid9het4X8q8esfLL9FmPd5t0mEve6Qr4udKGigh1vs_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AnzjmSTx8z33cVvOzpTUCQbz7r1w658I4Djlu4BdfzBf0JCXu8evP0YlIrs4DUO1T6C-5RnOnYC9JNBFr8SaFyexu--AfUf92~fGJVX0poKPFxDkgmdjbaJKFwFo5E5O2ZRVLbePo0i-CobTxYTnzyWV8Fvq4R2cA7qB4005lKb7By7eSfDr0Y0XZa8qy2G1LfhCWKoYd-RYW~hk_",
           "links": []
         },
         {
           "name": " Modul MATH-Inf/STO1: Stochastik 1 f\u00fcr Studierende der Informatik (Studienstart ab WS 2019/20) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-lgLU6we2cd8F86IMwbGu7gb0GaU9C0f6PdPDVfIWzQbGQJq~PaSsskynekyGkJ3dd7x-CxSM8de7ju2VCKmwle20OnkxkjJH4-Yf2YS3n6rDvvYkLLUpDYTq9wSxlUby~eYeFuHZ-hkvl~4TrBjL6PaQCGenjmqIFWv-ehw58IEMhqEVE7mHjKJfYkOpgh83QBO0DSNdTY-5Bk_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AvQgmD29F2tq0MHBYmWrJl98frGxofTiyLaLrm73SXONveeY1tQafFq4uhE4ZLALbq~woFSI4fu~44TzPXnhke-WQkk377ov79VqbiFAL820SaudWJvo54SwYHoMEOQ0deI8h6efX08KfOOYz-f-nZNR9No4NwgbfmDstEAoI0P6EUPfDzoqTgjBLrLFazW-d5WT9z7vundKh3fE_",
           "links": []
         }
       ]
     },
     {
       "name": " 3. Wahlpflichtmodule ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AzeZzHP3Hrk85NaFNjudC42tQhd4sv-0i4M0KM3s-Nc1WaLqKIcclVQc4oWxYZpSWTGPVG5v9Z8viaUcQMTvrE8VdGDV5415VuvoWaLzMyiDkHNPshgWr3OT4Bm4KA55gCV4IcxOLDjqaq~yN5sYFYQv1rPMrBHZIpNKmMAelngzR3H6LuBfO4FR1RqBEI1~4Khq18BmcryH4qCo_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AFefxdgzun9QX2eXURUT7j5nYDAMJcshFqLQgNb4tL5KEuYDW6BdM30OK9IWko6eiMVmYZJkMFym~tRBShe0ptABPdM-oY9nMve3CwGnfT5408vMDZKqulthmZq-WRP0gPxXgI0qDtrw34CdoRIAkuT6GVvL4I3Df1r8q8xJpkuMk8ytyT6lMPjjMlH7jGN5ixX09TDJCMzOqPzs_",
       "links": [
         {
           "name": " Modul InfB-BKA: Berechenbarkeit, Komplexit\u00e4t und Approximation (Studienstart bis WS 2018/19) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-giSHmyAsmah0gkoPN-yPQpO6lg8ILBnE4CgZi9ZjWf4J6xTOnaaAw~NT2EHla5Fy4oPRhtCt77FprfwMggUbURolO-XiPGG6N~GnBTAf2CbM3SWGXI~BG0hWvkMXPcZcNoNY1bhmCaBUJSlUF-W8UViuZOMD80YxFbWLLGKxmF7bMh0ScikZEHkVJDHj1kRO-d9dPuUS5axnyY_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AFqNAiKLts13FnS4NloiWJwi268TWTTKWp3FQ3SaRKmz2WnDnCDKGTmnP7pw0-XvfwQswE2D~DPjonDHO5Y1K7phiz-6mowsInQ3ihAnHE2n4qwJiXchfLuB6DRB2~GMQNvNMsl8zmGaibptP5~waiBbQ98sbkcfrnuCLeFlv-ljsSzBYy-mC7RyCCwJWRH7cIS5x2QNAhscXVKg_",
           "links": []
         },
         {
           "name": " Modul InfB-BV: Bildverarbeitung ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMVRxaijgiAufa9bkPyI8XkSqJf9s7efEk7VKQVDbQSCgi5zfuntolI49HQR3cg1wFfg6TdqoMETX0h4PQm6RHTvAE8E~TDGQ3m9md6KaLLf4x7M53mIwMX73SC7txdE5xqsdSpvahxh7dnGrY80~2DXZa8WXnNCAjeWyjNRDmi0RQCvHagv0WE01BpkNmjYnVNF3JloTMbs62Co_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A4J1Q-4-dObei8K6VYbBcdzhQZsr6oN4EhCSa2TidWfuWy8CSKRAnXygymZ2A5RlM4W3jjwRWXW1whLgVGetSgQH9Nejs86QvXjPJ1bM9APboWZIRHSOsG2IkGUz6ficp6MWDeuC5AIbSj7I1CayDCB-mGI1-u0c6D0GzoVW7sNiscIT7ulXjqcP64QAQ9PCzOoSobrTP~oompcU_",
           "links": []
         },
         {
           "name": " Modul InfB-DAIS: Data-driven Intelligent Systems ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AUtRIzcJj5U0ZUnCz1v02~m3XLVRbEsdPvjTk-JBVMY7hQyh5D9RFFK64xZexiOBRUgaP3VvbcbuJmy20tNadNc6iHLSiFtHaW28YwkcNckUqfy4uvhWSt-5yix5v~-7i0kzxq6T4JfLpOX9CCwLN1na0PI~6gFQxnEXZpfLaTEGWoPnTWouEn~ZXi5kmROS4XPP2MAXp2yJt-is_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A3lWk-ENaxNqW-VF0k0MdWvaGUQaQVfWjxUn6g7g9Oiz1TNhp2WdUBKXhrnlI-mv21ZWxm0kb8w366FJUdoTbZt-BhDGh9BAFcGfeiisL-Zl3oV-vr0lYAU1giXQ4igUht6xQSfykpkEaEcPp9wqmeB3TzHQLSrVCYa2NWXO7IKQELsJH~NXTiuUrTl2eoB4XVQfXuNrWbmgtjlY_",
           "links": []
         },
         {
           "name": " Modul InfB-DIG: Datenschutz in der Informationsgesellschaft (Studienstart ab WS 2019/20) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aubx6fbnX2gH7vf0~UJOma10Br3nz60~z23QnsO-EWwNhr01Qdxb5pTYtZGpL~NJGrT1Uv2sOwLVQFLFfD3XehrMeGBuafKlI8h3sOMGoa6MNwhn6RHNMfx-oJ1pm6vwwtZzjF~N01lAZVUHaBg~YT55n~-7aiontYHoSMijwTpA1qOCa4ifR1cbGO4gVVDEAVhJ80j0fvXG6Ric_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJ10srohibrS9pY01~QY5YjzUS~8VwnCLxFMUVCQOaMXSQsbqNWEkCInJXITAqcR~Kn60VfXYc1MspiI9eQPkcTaBrGlNa2o3MGD8nHKiL9VZumJdSYnxTtPrx0xTKIf9qHhOo12seRUCIMa~XQ11SXJ9k8B4CCfF8TuiQ1yJQgDhdAJez5TBpxopchLANik50ATo8y45fYLG94M_",
           "links": [
             {
               "name": "64-205 Vorlesung Datenschutz in der Informationsgesellschaft",
@@ -2508,27 +2508,27 @@
         },
         {
           "name": " Modul InfB-DMSV: Digitale Mediensignalverarbeitung ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A9iWZo6S2hKdpBUY0cQGB5-zEZUuSTgQW0GqFjzYW0UfQ~B~pxGmNE6AMyk6nNLJqoOvXc9O-5UILaJLlKWLXrNaRCyPA87QRi4zMa9rCi3Pkb0mlWdL2SA3jHYMj8iqQXsY~Be7NpNJkQwAliP7SID3TyeOgOqaDHPSNKxM848QGnmvMLex4yUqRh~EzIk-CcIlOYAY-GpRhvfg_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ALps-KRPoY0r4zpv6Y9eT847VcPYTnMkRXEqpZvZEUgnSWMdROopYZXOJ1rk0YMdyAZ4dEAk3EeiA-ZVerHcN9Jp3OFgW2Vj3Rn7swe9afpB9zxtei-VKgLzbrua4lqJJy003zRrvUZ8BqHAZQD8ou~w8X7~x7CNAXkjoV5jWZOyXATI4D0Vg2Ot72MLT1Lj4BIZmkNC~hiA3P2U_",
           "links": []
         },
         {
           "name": " Modul InfB-DV: Datenvisualisierung und GPU-Computing ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Av16IQOqXXaCZL039PebCAjU0i8ahjUVmhNU5mxXfsDhdYdWiyg8lJIeldhC7GjQzIOCEElLVO1hvUL1KIERzQyb~AgtE3aEHM4nW8s4RJheJN-np8bDopATOlI5oBb0TU3oDBSt3qLp97UaGFF-eJfnV565LfqhizuR9qDyLH-q4ijQMkC7uOX7btyjlnHaxoa01qYizSeEEnf0_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHa2deWAUN83kjXG4adhdqgnqE6JPlrYq3WqYYQtxSMjfgj4Oyrbxm8RNcGDlylW32ueyVf35zrD0Q7eRvbJ7NOJ-PmEK-pk84v-gUt6EZ09Ce-ETCQAu0~8LaQEZSf5kxUSqbLRNekTkM0oHDUn~nGy9UvStE2avSi-QDQIOoz8W1ZZLXR9i6X1TTXrC4xpOUrK2WbTQCN3N4CM_",
           "links": []
         },
         {
           "name": " Modul InfB-ES: Eingebettete Systeme ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AVuYmML5~UE31YztQ8KlvV1jOu4ex8Y1LYflJCs67RgG2cAxMV~LPN44p~T1W7vdiDNDGOjYPm1~6NgQzBVlnTt61pc7rmY~BCxPj9G~fFIi~XiOf7z9BTXsNQLzHHuUHiUr2b3xurJiweeMHTMOuiU5G5Paq4fszHzBz2CIfZr5gObNhWy4nvA5C3uyi1KNRvmVxQWbL8Pm9ZxM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AGkIJ~XE1PDNqjjA2en53GX-ZrNEHYb7y3rkFwstc-J85atUBOChjG0WyX9a-NEYQv73saZCMVQ6wMbGPCNRBXAHSSyPgvcGhaROq3PpiuDt3G9zjYptVhOhWsdKPICRak~PP3irAnTRnruMFpZez7d3w5Wck-aEGBPwEEy61VGG~QYEKmb9RLDt-aMf10OB3yM-1Edtbk~zKyQ0_",
           "links": []
         },
         {
           "name": " Modul InfB-ESM: Einf\u00fchrung in die System-Medizin ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHX0K3H3FLOdXj991unM7PJdLA1wnOclB7SzUCAp6ZZsH29w2d2dZ~iqFviiprDhUFI9uP9WgZVkZjBM546rrpMihoGRMWa~cBGHBXMPbJo38rDi1J6REKArAkZNJSz77lmHxe9SjWcHs73Y9TqCj3ab7-hsBH2OCo5T2bnWVjbF30qIFDAe0v4qabgsBOzCIt5DxsDkYUI5CytM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANbIR8fl2u6xiSJO22QVhFSEbmj9IqJd~2~xbvSy293krlWi4xZ0d~C2bquU2pgzp2~Wipd6LCFBt62hyoPQwJt1uN4lxdFgl6gsOBxaakPIAmG2WgZ4AGAkso2zQTTCBg7dCJrB8sdl-flpuCWmNUv8gj6U6KomOuSNuXKe9HlYShOX6gBUow3AUgJg6p2a36n4wtfnTOyHGC5g_",
           "links": []
         },
         {
           "name": " Modul InfB-GDB: Grundlagen von Datenbanken ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AAaIX8IOhtxrg4mN6rE87B27Xe-f0OKNTpcQqujnWm45vN4JNuLYSjJ7rHU2du3Bz0muytdZk2yz37gQkNq6Pj7vJHZZOhaimfO0jj5EsYHq-jV5ZGn0yKbUUC6rtdUT~OULLdLSaXvexwy~5Er4qL-7XMMQyNbA~OjG7EybeEmFXb4zM0uULbmGm-sNMUFEihpqFWWAarnVkGP0_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AmJEygQhFYjvlalw~XqIgDiPiHfMiBAM2KL3d7yLLLnMQdngTCTYQZxRgNnfW1bez~gsctu9z4e4vmG4bDoX-LShXf-4CEhPbYTEa-1sCAmYoJLFvU4Cq-tTUJEROuypzYSrdZIqfr4SP1e3F21W9S3POwq2NmSqlh2YaspyfrxQWxgXsYG394A6G~9NYsxOoJDj-ZXUEU51wWdg_",
           "links": [
             {
               "name": "64-080 Vorlesung Grundlagen von Datenbanken",
@@ -2812,12 +2812,12 @@
         },
         {
           "name": " Modul InfB-GSS: Grundlagen der Systemsoftware (Studienstart bis WS 2018/19) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMLCQ118YGonmE5jAMi6qbhNH8RUZj3DEJBe-9kwxMm6YvRf1RXTm9GYDBOhgLMVLsnLlRKWY7ZsaVrR87qFDEM4h-tgfT6eiJDJVLPW5j~71dD2kx~7HmRSKCBIID4YBXINyhG8a0MXI3bPGwrlouz8KqHAzIT6IEKlgJ2EKQhWwoLi9L2iDp~Vx1g8omvq-2VfdLUmDMdyFCO8_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ax3VG3fKbk0af-NtoKBNf~3bYYP8GFi04pUjcA9G14ITWOi9frWczCn0wPOidaLgA7HVDCH~o41kHnGkh3mIzxxPLrI3Vor7MigJr3hCAN8pTrVv6g1p~jGxPL4AioBI5jyAh5GkLuuIvIiKLI7O-AzPsQCB~7Zg-eZmnQ6EHMQtCU1pWmR6A9HQcIx4Ceyo7JK66hIL6O~S3snw_",
           "links": []
         },
         {
           "name": " Modul InfB-HLR: Hochleistungsrechnen ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ago3VMMnaALzAVaaiEadMrDTCW-E7WcWI2VxE6xZFd7yet-5Hyfco9GgGov2W-LScpQNv8yIC54VjT3V8eRXzkI9mOrSfvmo2Piof72ISquDe0X4a-5oj5YhwlYBCmg21NYPNz2Yqy4lf9eaYwnsLk6bZALnQVOLevms5UtgQoju72JEm82M-uPfDKrsfhlyyj4SZwZj~6Z91PXE_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AWIdMP9~0FhpjGivyYoly-C6xQfT7tf8yOTO1K7HaUXbYtQwf7wQDAGjyeYF-HGQPIQVQfNfNqcoFAJrRRVvQiEA0AypP4PSHOQmt3Zv2mV8ZRT9Q78gmBSlcLAZqRUB7xh0UoPLyC6ZHw4bcaRi4ma4mXM1E9Op7C~1MsByyRjL5NTCbDnus6A9V3zOP-QQQ-MnE9Z7TTEocqvI_",
           "links": [
             {
               "name": "64-253 Vorlesung Hochleistungsrechnen",
@@ -2897,7 +2897,7 @@
         },
         {
           "name": " Modul InfB-ICG: Interaktive Computergrafik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A8qhq47HrYBs7uqtWE2cBu8UhjNQwdg7WneZ5K4Dw3-dxKoWsfpVDK-k-1L8Vs~GbBiJr2N1Bfcii8XDEjor~yRFURAKEXYYAyen8ZYwYD0P1f4HHTyE79Gyl4QAb3lVhnkP0-dYq1RgbXqmNjfoM0N5UkmUAIhMG8HVZTh1bgcXwltCnWy5Gj3~JDwaCjR3kXlPqpBTLW4zqNFs_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~4PCuEJxp2sm4CPlH3rDAvONFYED5QWJ5zIIU-wXUsZRllp7bR3IX0s5ISVsBxZQGaaSWdHm9lRrBIae95NzkEBErlFqvoMhXU3Gut7D3ZDAcd7QOnQ2R-E9M9tumF~BtzB4EdOZoEaPWmk7gquDjWaKwmk9OeTLuoVC3ylBvUmbsCg7aJEhTL4trPmW2xruUh81936ZKTyk~8s_",
           "links": [
             {
               "name": "64-282 Vorlesung Interaktive Computergrafik",
@@ -3001,17 +3001,17 @@
         },
         {
           "name": " Modul InfB-ID: Interaktionsdesign ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AcBE5Zz5Z0H8F7KBDsmBGVGn8LUTsFBswQTPcGWW~eK3vQt-7YtUMOM7Tbt82EwOq7Ym2JbmoBxTq2WA6D-b4dgG4jKDCNSKS3AS9ixedhBBKw8Fa9PaKwXYQUbOiy2E9umeTgOV9Zx6AEdh-pWqwR-ZkDJs1KKD~KHvh0AyxH6h9E3K90cMBLiHpalNrAiSRqbZ908PeOFwGJ7k_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ASO34BnvGt81N9RGUj0qwSy0sBC3j1U7yucgRv0nRT3cS7BzpeL8vSsq0fgcq-krlHvASYdi6oZcbzMoFxw4QYtp93e60nSJEg3sCYkZZrfZrNxlU~FJoQQ1~a4M925Ozi7p6T0QEK-T9mFXMR4Lban1PsVR~X-1LGdrw9m0A0T0NgTMYGDfr95JLzdIls15~GUZWxD7ZVzGcWLg_",
           "links": []
         },
         {
           "name": " Modul InfB-IGMO: Informatikgest\u00fctzte Gestaltung und Modellierung von Organisationen ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJdZ-MnGal7hiaMVx3qlA1AAIPjalElOrNxVV1Bobxh6GKOWsyt7WF9C-L2VEAaCJNLevvwOxKe4DO7ZU9iP7FnDAeGgmn-RT3OL6e3ZPEJeabTedpO2J5PVveGncMPWF5v4wTq8iPehNK59AoatZEYGWXNKtdzIvYCtT9Z~JeS0sZL5ZD3bPjT~7lLxJswtXAq8k7YSXwtuqv-o_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AaIBctN3ESPEu8kH0Z1y1qw~ImGyHPBdl7XuSaLVwCMXMFOCfa1zh86-XvNpc0IqHKPLIKCkLWy~UU0-kZP36ybFdgVG8K-O0s32qnl3wgmVrOlgkHzLQB9jNnSDLbq2CUgmNQSor70N78LSWlTmSlDnFuc72hYj8f4HfAlTFIHHk1bgE66wINT9xB4kIowb0MuqBKXcicDu0geI_",
           "links": []
         },
         {
           "name": " Modul InfB-MAKS: Modellierung und Analyse komplexer Systme (Studienstart ab WS 2019/20) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ag4YPB0ml6Xe1vTlDUpDlqi8RHD4G6-16VQh3U7-CJjAZ95ihAxp~vhi7p3SCNrFKpZbbv5FcfbiyBQcFZOVDEm8Eh7VYcJBXlwWlwoCQkQD2rys3w~4dczhoSqVmVdvcCB3DCsC55cCcGXmsMk9Ola27Cj4JxY3DtmnOP~lUrhx67df7VPwsMXS36Dq-fhsVNL~Pj2nmx86EiQQ_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AbmQHbM-V38CJZX3k6FR8BHCA8g6ZQK-TUvVe-9tqyf2IUsc~Uni3YZzR5TM9ZMgl5UVWksOww3eBqnx95kwQppbS4mUZCLC93iJIPGuI2ktdHuyigEGFvHu7k72gSdt-Sssd6E96FqoHSXCmFgf4Mp7X-6PydCQdCG9mUiw12~tnZRk3UMVKo3wPffPjd0xUbmRNICpvtm07NiA_",
           "links": [
             {
               "name": "64-256 Vorlesung Modellierung und Analyse komplexer Systeme",
@@ -3136,17 +3136,17 @@
         },
         {
           "name": " Modul InfB-MOBS: Moderne Betriebssysteme ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AHLvBLJgYhQkL6qGZFQSilpe274NraIDzA6XrrBkOBQ-IYndEzfE3baHjbLlJufqw3ROUtH4N2QkGDuhVkY-cKrnFMBEWNBt9FbJTfjJMpU44F0Ysm7HP9-6l2R35ug3j2m7Myh-0iZ4bAesYWg9X2-b1o8bcMKG9e0wq17cMgSwrTMLuSxmlZJBFaaOuGwU6x8pEBZmIJqENZZI_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AFJ4oqYiGxX1YGPO95P3B3oXHEGr6TyiSqA0grwtJu~F5OuLSt9JQPueN6~hT2Vob-boHotSUdUF3Si3TDaQqi-nqSSzRrhc3y~8eUfWudLY-Xwjy5CWTP~iAevDMspPS5vWYP9oaKX3r70za1-uQ1wEUInlf7HoPdGwVROSwrMy~120ZgbNDFtCr71H3SWWY8QMRBkHtFLcGNtI_",
           "links": []
         },
         {
           "name": " Modul InfB-PGIT: Philosophie, Gesellschaft und IT ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ardfekh0a~tcGU52APH189WzZ0dQHkDS~AlPxywvjoKek3bFk9iFCPmbeeeIzZPHWQh6bE77yzrTyW-kVXEPSG7A9rO6Un6bh8u1spmS19dNz-XTx6hd07vzw~ZjPYdlE6t~dH~2QRpCTct3GlgFhO8IFG0UXNQPckEDBCjxWRW4Fb5AOnqJHN1zvvhonBcd4uzrBUDt7B0GOFQs_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ay9yWg-ic9DTy4IW-0bX~B1BXvFtRXOc1m5nTZxa7XUYCliQmuZdHsYmTSdbXMQHFpIhQSMq-tETGfNFksEnAO6-DcpEORZLI-vfblxhKJwTehnkmGlrMCIfuVjh7nLf3FRukzjqqQq~TmkP5sme7SqVCQqTZBKG3VsE5cgzH7MNj3grNj-o9RbnIIafiQtIKIn8pmcIxWPLEbNY_",
           "links": []
         },
         {
           "name": " Modul InfB-PM: Projektmanagement ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ARhUdJyx9MjzwljAY79KNmDat-64f4EgDQU9Fmx3tA3HQPp3mGEUTQbj266~xl6-LG6n2Dhy981ZFVBmq91Xpx2J5OhIxZE023-vRtcLCbzBUtHnoyP5-Mb-fQHBgd-i-XgTTpy7S5ux85uoOBX4Y39gpFJeqS6jEa6X3wX-viDRObmLY6th7mbIj4NZ-9iNo57R9c74GhKQ3Mvs_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AqsuZVVh5Lfo~Y2nPonLyU7m8Y8uTCo4i-3OEN2eEoNPTjJR7qD22cLBmjr4ttY-uogNyaMiBRbW1viRiDYqzVw8Mnm2n2ByFvh5NrWofgGHYVlXFL-mNojKBgCqYGvse~BSbCc37u1F-4ixxqJ8bppf1ViHxMtA5TsPJbmgNjUK8LFTa7aoeq0UB62TWSyFjWRJLONGiIM-gtic_",
           "links": [
             {
               "name": "64-100 Vorlesung Projektmanagement",
@@ -3174,17 +3174,17 @@
         },
         {
           "name": " Modul InfB-SWT: Softwaretechnik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANd3z5~6f71BZMjzMr1QMGzEVfRJW~kPel71AhbZjy81GBhvdY2MjUglzhjme0aCN-a3QJOewu1iY~kRoiwcdZtfY2BhYyPU9oqLRFd~RMUKRoXtZ7XAVOtgl1cJG~NbA2B6JWLCVkxN~0SCbWwCb7RjksEnd~SS3atkiMQ1hLF~OGxAXY6epldO0y9URXBcsJsjdXUK6aXxIfuE_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYwob8IQb03yAC8WrWwfrMtuC1atJ8dIPfdh~xPfzF4d0K2w3AZsf0OJfXAIoPOiouUQgjVXwVBk0fGQcuFSjlkgpbPx0o2LkZu6HRDF8aZgJD77UpD1S07rmJA2wai1jFM406oJY2zVEUQn5Jc1d9G2Jn4JmSxnMjWyVZr0vSOvkPQhWs6KvVr0dTvjJAy8sLLg0KmgTDBWwIDY_",
           "links": []
         },
         {
           "name": " Modul InfB-UrhR: Urheberrecht in der Informationsgesellschacft (Studienstart ab WS 2019/20) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ay9w6ZN4eHy4q9LRwvt7587j9Z6tUceRGW6yRzlWLpibDDp67UeAbRxwNBDzFmn9TY0y0uWg43yX16oY0USXg0-G8uPPmXO-vA6PLBGVLLxbGHQFqjgGlA2MCuWKfCkzZ6VfEUxfnVmb~1Yh-JRgirc1ea04P3xahzFsTdXV67vYWBv4bL5LpkajPuNlF8YQu~jgFoHQMAx0gEXo_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ALdqbM088F80y-BcI2vGsdjYZgiSs1Z0PzXRz0cIVbaeP4qxuPLqzubCIspMHttPq7N5Rdn05LkApF3uspb6~sfQ~zUHsHWwIONaP6AiTK~F-vgeMTHgjIQVJ-RIb8znpO73yc733buMsgZyEoXW2nTjWBEwQd~3L2WUvV~oojvCzFbGU-KxHPMovdR~mycjc27VsEz1IO28u4NU_",
           "links": []
         },
         {
           "name": " Modul MATH-Inf/OPT: Optimierung f\u00fcr Studierende der Informatik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AA49DevXuebRVYZ6NzueKyTSmiSgtb6qOk6wT8nJ0JL0QajFkXObXyyzcQDHEVz0Ro0Ewto8hWA1PVrsEIz9SzI6H5qlXunDDjYZdF4ICgj0p~-m7vFzT1HmetUGxY4XnQL-vUmEpBu2tKEKEMnY5fHmVNGlyrH1TepdQM-8c3Z1FotWRw7SnVyRvKC9Y8M--nGDoTX8iNo-qXmY_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYck0DL7U01iGiyByl-b-SAACfPZ~pLv8HtGhd~xqQdsP1EW14RIcN8OLw7GZSwcXFhih~zVfexJxwGJiq-rF28FH7VKgU7t51FE6E8mV-BOuoLv9X~Ole4n3OVVhaiClzkJinOdTg7g7O9layx4v-uIksA7ka0OF2mE9ur3XU4GsJ3ehjRsWolo~Xbam4EFx4c1UigOp0el-h3s_",
           "links": [
             {
               "name": "65-831 Optimierung f\u00fcr Studierende der Informatik",
@@ -3318,12 +3318,12 @@
         },
         {
           "name": " Modul MATH-Inf/STO1: Stochastik 1 f\u00fcr Studierende der Informatik (Studienstart bis WS 2018/19) ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AVGUSXBQ-lUKJMO4hJki5mga0dzGzhSN-buNGWHTUg2QABQ0gN1nMs5ulRho9KD7xxdEkNyFSi9WuNsS4xSn4JtNs8fUyrZ8rwGeoiTCHgEyI~zl0vjUC~Pe68PLawq4eXrdgxseE~cdfQb~3ARad20NfD35KISLvnFOPTQytURMZsDCie0fvFU0T6WUR60jB8V34nVXBsutij2k_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AzrA4pWjJE5vpFIO98rBCXHDxXf18yOmGdfHxHwtwgDgE2BhiHlnj13GKzYfFytFs4QeTezsiNBhT9ixg4zd9eBer263vSkRPzF-92mWhGAsaorrhnR0C6NtJMBaVz~TQsbGjbCePWsPXvNl0lPEOYOf~jhFYNNhZ9SnWDk3icfPhbzJ9VZHmFopYNfgxzflMyptHpR0Bw1qwGiI_",
           "links": []
         },
         {
           "name": " Modul MATH-Inf/STO2: Stochastik 2 f\u00fcr Studierende der Informatik ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Az3m0lOCgg72TA182e~3teMmN6WlXYGanC6hnLHbH3GmQlX~wkgFqPrdl~UvkU5B7TTHMScC~fRBX4R2mpi0R~IZm7zypFuneMvuh9tcVPD3kOnVSuOeuT-TQ7tsKvO4DVhDM-lhktBmuPFVhzoSPaX2j9YOv~bz~DD-sWhEu3WqJLb0nYE4ZcQJlxJnDq4gDn-6KYZdXVzRe2pM_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ArEAcLVJUIQS0f7QZ~~3DxCikLRo0DlpvKsY9C~ZmkOrq8K92hLpYfJMPxFvWuea2xBbo0es5wq9bMuEVarR1yhyGqrLFDFnjQrAuB11jcWCAUEoRhJ06pDc83KjP2y-9qYsJfSVav52CNgXTkI9rPsDP0T7Ridd8RTiUPbOcHkkwxxc14XPFXONQwjBRcrZGic1MNwWMD-HhLIM_",
           "links": [
             {
               "name": "65-833 Stochastik 2 f\u00fcr Studierende der Informatik",
@@ -3381,11 +3381,11 @@
     },
     {
       "name": " 4. Freier Wahlbereich ",
-      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ASY8--MaqtzGMSfTvX77-yQFoCyo18iV7BDHDWic~kZOZrJdb6Dk2w-KgDLDgjyuyUSfunoHoD2t45AyouIRKhkbiK9qFVVHbP9VmcvmOs3neAexxNGe9iV~25-0WFAwcZ0aSULWmdRCyOq6SIh8B5qBQMB2-BysABFeeH7dPqX2a4aOJ-ShZI0EikxXsFSipvZr~fVk4f8X15BY_",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AXmPA9qPEK2WULWZHwPntAFF~Y5RUnlFuiKJ9dVm5VPM34qnQsSVUfryQcIOYbxpNFDDNICeop-9Ej0HiQ4UMuBd22OS2JS1poxABizw3ve1OW8R2c0RO~V49HWATWQX08QM0bpE1AVxyqgGavbo0MFDHsHAJj91Vl7JAxxET0ytOXjvbkTY4HqRQvMnnmMy7zuPu3K~Frl~3SA8_",
       "links": [
         {
           "name": " Weitere Lehrangebote Informatik - Lehrveranstaltungen ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AiJ-RpkxvuwA-Ua7vRFSl6ZN4gDZKlgTvYnPRud0TCSwM8DpSjzpRd7UoW7p-wOVRRLDCXGRmt6acTP5-n6x7xM-U3eQtMrto1nInzVjQ4l2ZPh3aIw7efA4PBk6Lgt-ZAQ4jwXJgVvfAkfvefeC5K01J~LT0uEFajR8lGbZLgqxldMX28gzrqcOVPf7Sbbu1YMYtFRINpfMmisw_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AYnoVqXYOHmXQCoVgBPY011j4FV1h1BMk5G8Y3f-2FShwLvkQahDLWxixiRoVyO3SVAekLscTdThE~VOwlmYe7pbuukftTza~xjv8wXjFaJXZyMIdDItcx9817U6OiDPigK5GSbK8SVWK27Ftb01JeyQut3jgd1y2whVl8G5baFG9yxtA49T1ThKpNvlrOqOdvk2Icyu8lBcZFKc_",
           "links": [
             {
               "name": "64-635 #hacktheworldabetterplace - Lernen durch Begeisterung anderer",
@@ -3615,11 +3615,11 @@
         },
         {
           "name": " Weitere Lehrangebote Informatik - Module ",
-          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A5UzM8sPQDnTKEarrjNkSdDlfsAIBuO6~0zqSW3K2w~pUg6MoBXvIkmYTlOFD1bTu78h4horgXOpsWw5mrGXbGgeOS6C6b~hq66xsWbnU6HibZCRPGOFBF8WgSnmd9AsX94N2yz1nB4zZpJF7AUTStF0jLliDiDO00InS~ZcSGcIMuXs9k1BzzDDzzgauddeQ2~ySWwmQv9JEVtw_",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Axdy75HeKE-SSuOUYaIxpZCpcy1nBDpjSR7AUpyLxzGx2MTg103V~QHMRRdQHWXWp9cQWGJxGBtSA9YqQbOd5mnlMdZNxw-fxYz94qw1kfnoTg0nTyOyCz3P-n0MXslhB5NQ5Naxlmv1N1lG5Tlf9E6A4z47rFhIIbEaPcr8VKCJyW9E79zXu9Z0o5JIfPMCMoJeR2RUwLzxf7ag_",
           "links": [
             {
               "name": " InfB-ATI Aktuelle Themen der Theoretischen Informatik ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AEoYyi-MvHZGGSIDweuhheI~Q9ysahILvaiksLjngbQ9ua6-2twRQinQf4hOpGxkGTxOsHBV0cwNmjSOBqU1V73apD1mmmJc5eumdudowIyNisQsBICfNX2~VyBEqevo3sQDHrzli4obgk5V-85pMQ7WDTP2yIfNqJN2WN~sVJcbC25qEXzL94GEqoCmmxIKSkNDt9ngKnJX2ymw_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Avt8uKvICP6OnXPQFYC0bM3ThvbZwT48jxEk7LmAzM4UnjFZKKxae1mY-idWfxGdXycqhWo-T-XMlwDbqhStdjxbKLlFf9FB5vfEFUUk79HF-DWY6N3y1asufuOh-6PTmLALH6PygjGvaxRTw1CMvFANEwKY28dQEO9cDe87d36juQWrFmQCBf3AFxKFtpYzxz665uos38RxEgM4_",
               "links": [
                 {
                   "name": "64-658 Vorlesung Aktuelle Themen der Theoretischen Informatik",
@@ -3669,7 +3669,7 @@
             },
             {
               "name": " InfB-CN Rechnernetze ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ApQH9~QV4z8OfYXK4KT28k7M17i1pH-he69hcpNs4EebomKR6w1075Wig6aYp78K54x8Vsu8Za6n-cxWpZp7jtp-rehJqwXB-oyCIH1kqERgwewUykXCt0p5YnwplRHaDbXTYBevZlO6typsKzUBVwuVDiYJVsVvQKUxmlCeQ-V7EzMbjF1ehOgsV~r1dPhFWGiFdj~XXtpvBZkk_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AzUCHwW3viVLYSPLEahZbylk0ZvXASiyMwOy2e7f8o4IzsnjDjMsKUBcyfSnBWoq8dHFidPEECnirjEOVOmyn4Vz0aUSm~877eUL3qDXOS~1~8W79HE3Wwq81zbzplgabP9UDzkILkU0FOFkeKFRkZK526MArEJXyjRTlGpkbDbF8jw4QaQj63Cu26926JFT5dGICwxGkHez4CBI_",
               "links": [
                 {
                   "name": "64-642 Vorlesung Rechnernetze",
@@ -3764,7 +3764,7 @@
             },
             {
               "name": " InfB-KG Knowledge Graphs ",
-              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AMZ235C2Qtm6WEmhmyU-9wX9~w~cZH5Svo5nIHlx5a~eMC4980KamCHIsbTb2~wPRL67cMcy8WfcEodQucAswOYh48U6pHdBbsKcXcm0ayKKTiIK7fAxSEuTeiPn4k0ul~5SUVtxEF93sFfmqSj6EJ6-ORaMMNl~RlMWoVN~qvOhCxFe5EA7B3viMcB5LKL77zGsv1vbK2J2VBOo_",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ATqPIWB~3XQ5b302xYMBmGSda9cMjU8Yuyq9TbSFr4IYW4GA15KvH54SOtH7yY91JV4~3VN94cCt9y~68zdcY-4i7drvfPKmTMYpXBKsyN2Yt8Oi3RjjNAuBTN5PqvmMTobql0RMvB5EOyBKlGW8xytU0QTQOUJ3~8KszLk6wwI7jB6C6L0PeS-hblrlPGx106rlZwxVdb~rI4QI_",
               "links": [
                 {
                   "name": "64-640 Vorlesung Knowledge Graphs",
