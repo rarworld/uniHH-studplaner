@@ -37,5 +37,10 @@
         "debug": false,
         "file_name": "data/data_enriched.json",
         "input": "data/data_merged.json"
+    },
+    "navi": {
+        "debug": false,
+        "file_name": "data/nav.json",
+        "input_prefix": "data/linkList_"
     }
 }

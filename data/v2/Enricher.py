@@ -39,8 +39,7 @@ class Enricher:
 
         for i in range(lessons_count-1):
             vl = all_lessons[i]
-            if( 'short' in vl and vl['short'] != "" ):
-                if(vl['type'] == "000000000000022"):
+            if( 'short' in vl and vl['short'] != "" and vl['type'] == "000000000000022"):
                     ubg = all_lessons[i+1]
                     if(ubg['type'] == "000000000000021"):
                         vl_clean_name = vl['name'].replace("Vorlesung ","").lower()
