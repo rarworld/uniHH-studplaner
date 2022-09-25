@@ -6,6 +6,11 @@
             "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2K~JNwigDxn2Zz4kc2GNnIW2gGjlxas4SbyvsOUucs29CmqMY4-f8YQiFpxXqNci9rdWIBSrBQ~lKFVgK5l-nyt~Cmge~TiPM03YELQGSkvMaOUsOeYu6sLFS3nqSLAXboqteO1IQ-PeHXBLCFbsqyumQIiJtell1qHs7Bgjy1s-doivd0j5sHJx-ES2Oj5UeM-Y0qOuU2QUrrk_"
         },
         {
+            "short": "InfMsc",
+            "name": "Informatik Master",
+            "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Az5FQC1ku7UnpARY6T~yNLT0BvRcV0TtuoEa1CH0lBxfWLsz5cqKDKrpRjI-q5qUHeNwCpUovGOx0RbiakMr2HyBIJwOxZEhLuGQUo~KRoNWDS0la~svK2p5jihKFh9~YjgA6mekInWDnzVv2lB3EW8gIOBWOOqiNfx3rwiGXfphTWp52h9LDtU73O309P~uA2WwIqv5SFMRirvI_"
+        },
+        {
             "short": "CisPhy",
             "name": "Computing in Science - Physik",
             "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AsBlEbB-LJAPQO3rmLgIAUFC8xHSt6pwP2Uidt6PwScbv-F0FaOyWU4DLJuGcjEqqkP-U-fKYyDfWNlO0bxu9~yqXWYOSGXMP8Z~DBnLd-owy0rgTmYiSB3cBJju15VPR4UNMIN5938RjvJws~WdQpRf9o6X-DXnx4SJVncO2f7Z2J1igQ8urCCz5yVN7MINKOlnGYlBGlFRlNnI_"
