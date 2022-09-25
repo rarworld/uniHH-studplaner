@@ -1,7 +1,2062 @@
 {
   "file": "data/linkList_InfMsc.json",
   "name": "Informatik Master",
-  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Az5FQC1ku7UnpARY6T~yNLT0BvRcV0TtuoEa1CH0lBxfWLsz5cqKDKrpRjI-q5qUHeNwCpUovGOx0RbiakMr2HyBIJwOxZEhLuGQUo~KRoNWDS0la~svK2p5jihKFh9~YjgA6mekInWDnzVv2lB3EW8gIOBWOOqiNfx3rwiGXfphTWp52h9LDtU73O309P~uA2WwIqv5SFMRirvI_",
-  "date": "09/25/2022, 03:37:15",
-  "links": []
+  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AvpwjQlyta2vOqphpXw-hEe0Lbu6IAQ6ohSgxyei-Ztx5Cu10-FKHsUdfAEEPOcNeKftCrLLVyaX3oIyoM~Kh2pAMK1n4jsIGC0T-toIt2Fa2tqDuDqA4zjtKPw1NHlV6mZIb-ZunMufjI4~gvgT3SG2nUJhWuf8dyHHUV~owPJJiAN3X6WR~lVjpMTIXjjz3rpmn613-yugJXGY_",
+  "date": "09/25/2022, 03:48:39",
+  "links": [
+    {
+      "name": " 1. Pflichtbereich Informatik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-APLbbRAkkpfrjwJ~UdvTZrrAYHamMj4EaN3extJcrQp4cqEOzHghRCkrwDz1zJKVEDtEaCUn4TcKa0MtAdlr8on-4P2ROIqGzIL2wWmI4VcAc17ifSqvOwVFvNu48ddOIIYM~7rZEEN~Dl-wvGjNCakY6WBJuLAGX2ae8CpUL78fWaoXD-rC~ZBwwQX-N3e8GkXGi3pZMBj8j8JM_",
+      "links": [
+        {
+          "name": " Modul InfM-Proj: Projekt Informatik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A1~ud7mWweiNWWKq3rFDgVnhGQp5GPRkKSIOYeviHo39qAzJB7i2EUctihwLLq6l-p8uAzvZA9r1xA3X0XGRJw~LexVb5J1Hx20WRMya3Fn8stWrK-pEKdqLzSNHXirpT78FFUShIbF8ppGGozV9jxNnhiCSgRzCUjxAE9IcvI9hqYgFkIjdCJJpTSAPcjHDl1ZjTsIkNsEeTLLQ_",
+          "links": [
+            {
+              "name": "64-850 P1 Masterprojekt Intelligent Robotics (Teil 1)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740023730,-N383405740016731,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Jianwei Zhang",
+                  "name": "Masterprojekt Intelligent Robotics (Teil 1)",
+                  "short": "MP Intell. Robot. 1",
+                  "type": "000000000000024",
+                  "id": "64-850 P1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "F-334"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-850 S Integriertes Seminar Intelligent Robotics",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740014733,-N383405740076734,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Jianwei Zhang",
+                  "name": "Integriertes Seminar Intelligent Robotics",
+                  "short": "MS Intell. Robot.",
+                  "type": "000000000000020",
+                  "id": "64-850 S",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "F-334"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-851-P Masterprojekt M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740026739,-N383405740047740,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Walid Maalej; Lloyd Montgomery",
+                  "name": "Masterprojekt M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+                  "short": "MProj - Mobis",
+                  "type": "000000000000024",
+                  "id": "64-851-P",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "18:30 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-851-S Integriertes Seminar M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740080736,-N383405740091737,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Walid Maalej; Lloyd Montgomery",
+                  "name": "Integriertes Seminar M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+                  "short": "MProj/Sem - Mobis",
+                  "type": "000000000000020",
+                  "id": "64-851-S",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "18:30",
+                      "end": "20:00 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-852-P Masterprojekt Parallele Systeme f\u00fcr Fortgeschrittene",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740184741,-N383405740172742,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "name": "Masterprojekt Parallele Systeme f\u00fcr Fortgeschrittene",
+                  "short": "MProj - PR",
+                  "type": "000000000000024",
+                  "id": "64-852-P",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "DKRZ, Rm 034"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-852-S Integriertes Seminar Supercomputer: Forschung und Innovation",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740128743,-N383405740175744,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anna Fuchs; Jannek Squar",
+                  "name": "Integriertes Seminar Supercomputer: Forschung und Innovation",
+                  "short": "MProj/Sem - PR",
+                  "type": "000000000000020",
+                  "id": "64-852-S",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "DKRZ, Rm 034"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-853 P Masterprojekt Chatbot Development",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405748771770,-N383405748751771,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Eva Alice Christiane Bittner; Maren Gierlich-Joas",
+                  "name": "Masterprojekt Chatbot Development",
+                  "short": "MProj WISTS",
+                  "type": "000000000000024",
+                  "id": "64-853 P",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "18:00 ",
+                      "hs": "C-221"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-853 S Integriertes Seminar Challenges of designing human-centered Al",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405748715772,-N383405748778773,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Maren Gierlich-Joas",
+                  "name": "Integriertes Seminar Challenges of designing human-centered Al",
+                  "short": "MProj/Sem WISTS",
+                  "type": "000000000000020",
+                  "id": "64-853 S",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "C-221"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-854-P Masterprojekt Advanced Topics in IT-Security",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740157746,-N383405740176747,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Richard See; Tatjana Wingarz",
+                  "name": "Masterprojekt Advanced Topics in IT-Security",
+                  "short": "MProj - RDS",
+                  "type": "000000000000024",
+                  "id": "64-854-P",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:00",
+                      "end": "20:00 ",
+                      "hs": "G-228"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-854-S Integriertes Seminar Advanced Topics in IT-Security",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740109748,-N383405740193749,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Mathias Fischer",
+                  "name": "Integriertes Seminar Advanced Topics in IT-Security",
+                  "short": "MProj/Sem - RDS",
+                  "type": "000000000000020",
+                  "id": "64-854-S",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "G-228"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-858-P Masterprojekt Kollaborative verteilte Software-Entwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740135754,-N383405740163755,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Masterprojekt Kollaborative verteilte Software-Entwicklung",
+                  "short": "MProj - ThI",
+                  "type": "000000000000024",
+                  "id": "64-858-P",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:00",
+                      "end": "16:00 ",
+                      "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-858-S Integriertes Seminar Herausforderung in der verteilten Software-Entwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740125751,-N383405740194752,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Integriertes Seminar Herausforderung in der verteilten Software-Entwicklung",
+                  "short": "MProj/Sem - ThI",
+                  "type": "000000000000020",
+                  "id": "64-858-S",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    G-228"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-859-P2 Masterprojekt Source Separation for Speech Controlled Robots (Teil 2)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405755392775,-N383405755362776,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Tal Peer",
+                  "name": "Masterprojekt Source Separation for Speech Controlled Robots (Teil 2)",
+                  "short": "MProj - SP",
+                  "type": "000000000000024",
+                  "id": "64-859-P2",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "18:45 ",
+                      "hs": "R-133"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-859-S Integriertes Seminar Source Separation for Speech Controlled Robots",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405755360777,-N383405755357778,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Timo Florian Gerkmann; Tal Peer",
+                  "name": "Integriertes Seminar Source Separation for Speech Controlled Robots",
+                  "short": "MProj/Sem - SP",
+                  "type": "000000000000020",
+                  "id": "64-859-S",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "R-133"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-861-P1 Masterprojekt Computer Vision (Teil 1)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740262756,-N383405740234757,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Simone Frintrop; Ehsan Yaghoubi",
+                  "name": "Masterprojekt Computer Vision (Teil 1)",
+                  "short": "MProj - CV",
+                  "type": "000000000000024",
+                  "id": "64-861-P1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:00",
+                      "end": "17:00 ",
+                      "hs": "R-031"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-866-P1 Masterprojekt Smart Cities & IoT(Teil 1)",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740239759,-N383405740269760,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Doganalp Ergenc",
+                  "name": "Masterprojekt Smart Cities & IoT(Teil 1)",
+                  "short": "MProj - DOS",
+                  "type": "000000000000024",
+                  "id": "64-866-P1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "F-534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-866-S Integriertes Seminar Smart Cities & IoT",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740277762,-N383405740261763,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Philipp Kisters",
+                  "name": "Integriertes Seminar Smart Cities & IoT",
+                  "short": "MProj/Sem - DOS",
+                  "type": "000000000000020",
+                  "id": "64-866-S",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "F-534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-868-P Masterprojekt Human-Robot Interaction",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740281768,-N383405740269769,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dennis Becker; Connor Ulf Christoph G\u00e4de",
+                  "name": "Masterprojekt Human-Robot Interaction",
+                  "short": "MProj - HRI",
+                  "type": "000000000000024",
+                  "id": "64-868-P",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:00",
+                      "end": "16:00 ",
+                      "hs": "F-234"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "10:00",
+                      "end": "18:00 ",
+                      "hs": "F-234"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-868-S Integriertes Seminar Human-Robot Interaction",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405740233765,-N383405740234766,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Kyra Ahrens",
+                  "name": "Integriertes Seminar Human-Robot Interaction",
+                  "short": "MProj/Sem - HRI",
+                  "type": "000000000000020",
+                  "id": "64-868-S",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "F-234"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " 2. Wahlpflichtbereich Theorie ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AjJce3HPp~oKfYWTRodpa7v4F5VEk7xbxIPtCkTAwB-vqi3pWH0a2BuaF~OORDDMgUf2E~M~KiRNdXP7CyP-4pzX9HnsMQSAr~CZ64dpDvCSeacoijiJ4cHwsp9GjhZt8v9~1aGxUc4RR-OwBY5pG4WoOmz4X3aXSRCqMcL4evhXvnZqkpMRF5QCALeuar1ZyHGYtVo4nPSgvlJc_",
+      "links": [
+        {
+          "name": " Modul InfM-ALG: Algorithmik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AvM3Pr08mreuCxzzUcUm9P6OzCQdb3uXaFH98YE1d2GGh3KAWeqONXWCzQrbGJN7XzrH2~TEhPA0t3SELnxjU2KBfOLwVIpO8zn97qx6b0uhhPpf3QR90KSMobYZOixkU2KasExzdCe3Th8t4nDEGfVWWFp~6xuz7XhLiJImYeXGM6XqzwhZd-7kGh5p-Ew0oXol3FVCUsrfw1GE_",
+          "links": [
+            {
+              "name": "64-330 Vorlesung Algorithmik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093766651,-N383404093792652,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Matthias Rarey",
+                  "name": "Vorlesung Algorithmik",
+                  "short": "ALG - VL",
+                  "type": "000000000000022",
+                  "id": "64-330",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "11:30 ",
+                      "hs": "Wiwi B2"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "11:30 ",
+                      "hs": "F-132"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-132"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-331 \u00dcbungen Algorithmik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093787646,-N383404093728647,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Ole Berg",
+                  "name": "\u00dcbungen Algorithmik",
+                  "short": "ALG - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-331",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Algorithmik",
+                  "groupname": "\u00dcbungen ALG Gr. 01 (Mo. 12-14 Uhr) - F-635",
+                  "dozent": "Jonathan Pletzer-Zelgert",
+                  "type": "000000000000021",
+                  "id": "64-331_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmik",
+                  "groupname": "\u00dcbungen ALG Gr. 02 (Mo. 12-14 Uhr) - F-534",
+                  "dozent": "Ole Berg",
+                  "type": "000000000000021",
+                  "id": "64-331_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmik",
+                  "groupname": "\u00dcbungen ALG Gr. 03 (Mi. 12-14 Uhr ) - F-534",
+                  "dozent": "Ole Berg",
+                  "type": "000000000000021",
+                  "id": "64-331_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-ARA: Analyse randomisierter Algorithmen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ALmoh6Xn-GbVtUaF6L332jKCzVur-U8uWXXjsVHsovANG6eOjmCJh77Dio1~p3NOoThB~JuvLIN7NISwXIKhwdxkyuI~q68tu5yPUMGblU00zdiTdWqUBzHEVGBOECCU1xcesQe54kugp80NhJ0ZxcFRGzMdFYakeUEE63ZlVTAQcB7YQTu0kUKWbQfT5fXPZR6KMvJzH6KysGss_",
+          "links": [
+            {
+              "name": "64-364 Vorlesung Randomisierte Algorithmen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093815655,-N383404093827656,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Petra Berenbrink",
+                  "name": "Vorlesung Randomisierte Algorithmen",
+                  "short": "ARA - VL+\u00dcb",
+                  "type": "000000000000063",
+                  "id": "64-364",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:15",
+                      "end": "11:45 ",
+                      "hs": "G-228"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-365 Seminar Randomisierte Algorithmen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093888653,-N383404093879654,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Tim Christopher Hahn",
+                  "name": "Seminar Randomisierte Algorithmen",
+                  "short": "ARA - Sem",
+                  "type": "000000000000020",
+                  "id": "64-365",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-Kryp: Kryptographie ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A7PTiHk2E6SwrLUhIQoeIjPzGgp6Hpms0b3h0QNTtkbs-XC0Y9rTC1CIyLejHGWhqrIfj4zqFYJijTSoQ9LjPGYISdzKCR5wV-rKx6E4B9t594xXtfP6vd9fgBsDh1R8lc8gkg9Dy2p0d27DZT0fQYUdGhSbJHP1yGQTdRQE9c58j2NJGhf163bYxxoi1ACEc~SxY0dsMS7QcEnc_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-MDAE: Methoden des Algorithmenentwurfes ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A48k8LNTX4ezFxAEOwDq~EO3LghXuV18zRP0eNfDn7ssO04TfCcuuPVYNnPUzJblrpPY1Jo-ZjGPjcs--c6H-wInyn1vmM8XvACJMJmA68fQik4T5Px4Li8eXUnTbjs3KiEy9QAZQfvpvbhz5Hd0a0a99vp12Hq5AEmA3lXyXzPQiCQvYHWJpfS2T0UnbiwAZCx5ngdVYlyp-vfQ_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-ML: Maschinelles Lernen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJ9oC6zS6iUmd1thbJUuCM6M-PR-Rt1sfzM27QzNjqshzPGFGwSzzUY32LzwJnN-yfqBLPhQtXG66H8ENl31-CXIqZ~GgO23bJE~tEreXg0fssOSnPQN~mLuV0BvfnailqR6zDoEGEiphzslsNVLAupuXAz-dDok2ejWLIRktwRijS~uu4Jx6l77-IsKSBLAOsLZXUCGQB47JDS8_",
+          "links": []
+        }
+      ]
+    },
+    {
+      "name": " 3. Allgemeiner Wahlpflichtbereich Informatik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AnDv4CAmuYfn5DVpSkLPlh4gtXCgPxp5ILy5F44xeuHGC0cIMLsF-chNlQl0O7ePHdmbjZgC3i4z5Jl-jkN4vHJ-zGn3ORXsRJneHuuwqZCizLwxTK-m3UMBDijc-~fSI2z6Bhk8CEMWy~grUkhNp~DcOUDIJpaTHM4PqcxA3Cy~AUvSnww6OTEWYH8JRSSiRdCbTS0CXk9H35hU_",
+      "links": [
+        {
+          "name": " Modul InfM-ALG: Algorithmik ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AIDpx9EqLlRYUHP8BLCtaWtpchlaByIzfMo1-aPjes4dG7CFpki2eUQj1JK9RpdMdwpCyMcfsHG6Ad9jfuTcBV8fcvZKNMPzAvIXTY4EbJnX~4tKoFJ0lvUl0Jccb5K5NA7LsVsaecQBZn5aKbDpl8bhQsgQcffCqvIWKJL3J1404ccdT6InmeG8BpvFoKNYJZXojdxiHyi6gnpI_",
+          "links": [
+            {
+              "name": "64-330 Vorlesung Algorithmik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093766651,-N383404093792652,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Matthias Rarey",
+                  "name": "Vorlesung Algorithmik",
+                  "short": "ALG - VL",
+                  "type": "000000000000022",
+                  "id": "64-330",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "11:30 ",
+                      "hs": "Wiwi B2"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "11:30 ",
+                      "hs": "F-132"
+                    },
+                    {
+                      "day": "Mo",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-132"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-331 \u00dcbungen Algorithmik",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093787646,-N383404093728647,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Ole Berg",
+                  "name": "\u00dcbungen Algorithmik",
+                  "short": "ALG - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-331",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Algorithmik",
+                  "groupname": "\u00dcbungen ALG Gr. 01 (Mo. 12-14 Uhr) - F-635",
+                  "dozent": "Jonathan Pletzer-Zelgert",
+                  "type": "000000000000021",
+                  "id": "64-331_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmik",
+                  "groupname": "\u00dcbungen ALG Gr. 02 (Mo. 12-14 Uhr) - F-534",
+                  "dozent": "Ole Berg",
+                  "type": "000000000000021",
+                  "id": "64-331_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Algorithmik",
+                  "groupname": "\u00dcbungen ALG Gr. 03 (Mi. 12-14 Uhr ) - F-534",
+                  "dozent": "Ole Berg",
+                  "type": "000000000000021",
+                  "id": "64-331_2",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-ARA: Analyse randomisierter Algorithmen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-APGsnrZEQP0eGnHH43HK6WFJioDARfPWJM3PZ4GFdfIXEiwI~ib~YYh9JvaKEyZSydTJ-w9XFV6ByHpxTBEvFdo5N1dkRt7krPq8vjo1B1PZ3y9YzvKzB1MzvztYRq5Or6HFm70s4y9wM1PcRrQJyH1GSowcqo~zgBMkmU2qibtuwgnxDX5rhp4zRQmIpbPV2koRdXAbS6LxUy2c_",
+          "links": [
+            {
+              "name": "64-364 Vorlesung Randomisierte Algorithmen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093815655,-N383404093827656,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Petra Berenbrink",
+                  "name": "Vorlesung Randomisierte Algorithmen",
+                  "short": "ARA - VL+\u00dcb",
+                  "type": "000000000000063",
+                  "id": "64-364",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:15",
+                      "end": "11:45 ",
+                      "hs": "G-228"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-365 Seminar Randomisierte Algorithmen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093888653,-N383404093879654,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Tim Christopher Hahn",
+                  "name": "Seminar Randomisierte Algorithmen",
+                  "short": "ARA - Sem",
+                  "type": "000000000000020",
+                  "id": "64-365",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-DIS: Datenbanken und Informationssysteme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AWVFqNEgv3y5DyLmLu0GcRBcAy2gzVfwrQcBEB70obF936rBDlIOSrJCoRWFxRR8t5Fqj7g36HVfiErjk0H8bRstH1iAahcsUjrYmJmq9GlY401yIllTDNer-BQFDvpL0hdbdgbc8hIA7M5~BIKFDACQFFRwLFhKMNENR3NU3mCWRMCdDlbLABzBuYLvYXn47ezZxi-SaNx-lko0_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-EMSE: Empirical Software Engineering ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AUmqHvqaMH-v6NtWaE7PW0UJjKy-pqnXNlDNOaI7j1sV1Um0GCEWtckhHzGhSC0GqMze090M80dbP2m00lHcBDoIu~sNn0v8C9XYBOtub7g0yUPbRBi~gKyoPI58Q4MoNbl4DsUgLZ1ucA7UcMfBwwmIcTTq3dbUB-tOBlQ2dqNcKU9O8J2xcCKHqHgV6T-XLiGhJBnEnKJWBizo_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-IGD: Interactive Game Development ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AIPTDGholWPntnbXTfpV05OcegieqmkcTfvaEKNiQa778ql4j-atcmTehbvIDbBiPgghc8OTK55EPrRtyNX2MC8RDJo8Q2rjCiSpmh-cSfyfxbtDwqkZ4TT7uxqvBgoOm4tEhGnRRdBWrwIHWm9z6vkIfSQhrQ-ez3vlLOyAXNPzUvF0moLxw0irs8viCAnbmlobABrLT3DPRMnM_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-KM: Knowledge Work and Knowledge Management ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ABqgnghen1q3fQmIKD4r9i3PJGHZLbN9MubTiRzsrqsjxug3h5f9VfpecAfvr-a74XI~mT4EyGt-v3iPg1E9hxs9rqnXjJU03zi1jvEwgr9Z~xxFGfWHnMfT4RZyrXP1sNxjmjwkp-ZcBeQmYrnWtz6~Dbuo609pqhApyyJEe7bMXT3z-Ytnip161AUrXoabK4vvwy1HHBl-86SQ_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-Kryp: Kryptographie ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-onYUI09xyw-Y21DOkty4tp29gjCA6Ab5XS2XeGyJ0JhX87-rzG5ms8DQOqPSGiA0ub43SJ6MjBPVvlG4Udor8j8AN5trw7jCIKO-qnIgmeSIskOcDNxKhrriLfLzEB-VqHfI4ubTo68g0qEApn0ANmDbyfk9AZT3-2dbsc5PyxcqczBUqrhETSWknNW5Ievgv7LsIk9wtPBzAY_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-MDAE: Methoden des Algorithmenentwurfes ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AuKQxcoqzYslLbgoFJcJnRDVJgsZ0G-1vmhtgrVpKrwPeUGLUd-gWB0MpwfDvHkgJCCROytX0knABrQ1lDd7Fk3mhPMNl3JMGpFwu~WE6TCqg7yp5040LDlVB6xNyWkhstTNeduvVcJRq1ARTJEkE8DWU8Dao2f~V0HY8-WKkcS0a0QS0MvAXyXQ0k4nnPQ7Q78Sf5zQ8fcte9e0_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-ML: Maschinelles Lernen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AOGFkZMD5~KLm2ull~Ce5NChW7OkKCEiSA2Uje97TVg3xLGY803xfOkQsRb2yrZQt2z4YfiMnaV6p3XlYE1FjhkTTt4iq5u4oBaQLfNaB3pHa7izzR~MPlngq18o5K1hDIyT45AvtLBQqDNgl9vV2R~NNuVegLogdgdbuqzSD3-~9BKxLOtPBoR7EWs1I4oeUVPXauATwp9iC5sc_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-MMS: Multidimensionale und multimodale Signale ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AkcE7aaPzmKhuEhL9L3~veAcWADzJwaJuZ4Jk3qvu7XHrjLsfZEFQrWezmXU3DN~VlAUbRNLbtTtxp3~rQKudeNznl-Ex7XFNI3wEpACTXu6NoHAjiW4gdE3fjHltMtAk4MHTfTPqhvaD2W0CWh85tHO7CDUwHgCspv2bPY-7Mr2PBOBlY-lHwNf4x9NrzDB9dNGltMT~K2ikWCE_",
+          "links": [
+            {
+              "name": "64-350 Vorlesung Statistical Signal Processing",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093827659,-N383404093849660,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Timo Florian Gerkmann",
+                  "name": "Vorlesung Statistical Signal Processing",
+                  "short": "MMS - VL",
+                  "type": "000000000000022",
+                  "id": "64-350",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-132"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "F-132"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-351 \u00dcbungen Statistical Signal Processing",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093883665,-N383404093871666,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Tal Peer; Kristina Tesch",
+                  "name": "\u00dcbungen Statistical Signal Processing",
+                  "short": "MMS - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-351",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Statistical Signal Processing",
+                  "groupname": "\u00dcbung MMS Gr. 1 (Di. 08-10 Uhr)",
+                  "dozent": "Tal Peer; Kristina Tesch",
+                  "type": "000000000000021",
+                  "id": "64-351_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Statistical Signal Processing",
+                  "groupname": "\u00dcbung MMS Gr. 2 (Do. 08-10 Uhr)",
+                  "dozent": "Tal Peer; Kristina Tesch",
+                  "type": "000000000000021",
+                  "id": "64-351_1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-MvS: Modellierung verteilter Systeme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A6R2HaG0f-7M~YVLzK-msaPGSaUsZTlRXE3WAvBETeVxm9G07y~gJJI79xdvhs9DMusl6lPbgx35bfe7YJ0vMyFTLwHGusRv9mGqCGCSBSRyINiiIj-flBIvXbEtweQJ22RkFmgXzoQGufid7D30fABZTK7wI3Sqfn8A-GXKjEzh9x2kmgOqcrLcD9ndE0hO6fmpCM5ptTZ2lFWw_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-SbD: Security by Design ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AxqrCv6MvMN3oaCpUa6p3YLd77sABDPgUTUOlXaJA7BBKBBz~3ppFSrzdmtWGl4dJjQhR444Emjzbndun9Y5D9ViFDj5aj8xDhcFqWX~iVXoVfg2cMLK1ADV3rkIqK7VB3GOm04vV3RHOf28a3HSwnyHLfRn1Vd9-JjtiHwpe60iqrM7vhcNNt4tRX62F80SB7j6oMw931-~GLU0_",
+          "links": [
+            {
+              "name": "64-320 Vorlesung Security by Design",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093849657,-N383404093886658,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Hannes Federrath",
+                  "name": "Vorlesung Security by Design",
+                  "short": "SbD - VL",
+                  "type": "000000000000022",
+                  "id": "64-320",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "17:45 ",
+                      "hs": "ESA O, Rm 221"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-321 \u00dcbungen Security by Design",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404093970669,-N383404093948670,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Pascal Wichmann",
+                  "name": "\u00dcbungen Security by Design",
+                  "short": "SbD- \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-321",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " 4. Vertiefungsbereich Informatik ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-APcWuRS5UvceAvkespQ4XElxa29yADun6GgOmxgYi7BAnQks2MMs2kZOeBuK6MqGbWnHM779XIZvwk64bvGCzS0hbcXqVQaMzvuwrgVMZjY2qJKh-sMTRoAGKmeOK0IfHV7koG08DBiWw3XvC7l-cGniK3ApkrmnbtI5yHolOCUSxmmBnRDl-dRqiadvap8UOEWFoKNi9Niuu0fY_",
+      "links": [
+        {
+          "name": " Modul InfM-BAI: Bioinspirierte K\u00fcnstliche Intelligenz ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AjPGwZlj9ml52vWq4r-Djc2U72RKtR~Z4F1eWizbs2tXLRG-40dfahg9r5Q-pW96MpSzCQGUl1lIriE9N~4HoKmk6kOrV9tsysjI6bjbaLAWGYmeUhejRl5fu9v35c142hsMbC6zVGnf1tfrwcszFoJWA3kdE2tnFDkO7Ns8x3182xg4RfsmmRN8HCy3cvbByBey7pNRmV3gAquQ_",
+          "links": [
+            {
+              "name": "64-454 Vorlesung Bio-Inspired Artificial Intelligence",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811734697,-N383404811761698,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Stefan Wermter",
+                  "name": "Vorlesung Bio-Inspired Artificial Intelligence",
+                  "short": "BAI - VL",
+                  "type": "000000000000022",
+                  "id": "64-454",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-455 Seminar Bio-Inspired Artificial Intelligence",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811883699,-N383404811822700,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Stefan Wermter; Dennis Becker",
+                  "name": "Seminar Bio-Inspired Artificial Intelligence",
+                  "short": "BAI - Sem",
+                  "type": "000000000000020",
+                  "id": "64-455",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-CV 1: Computer Vision I ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Azis-fcT6RNbVXRtYRgtnn4ClI7kW7i-PFrNoGb7GLgR7qoaENnUn4MXcj3cNp1ih6VZtHXtvaa2m8Dn33cZlh1QOKD-rF09iVx-kLAK34dDubaCIFwDnjZxvW5PSffaXGmVGM-B9hDAgB9uemoFsOk~ccNA2IyJVfXMiAZ0D4~VSU4a8U4YEJxOWfnk5NGbEEwryZ1gSmJbRFOg_",
+          "links": [
+            {
+              "name": "64-420 Vorlesung Computer Vision I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811880713,-N383404811841714,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Ehsan Yaghoubi",
+                  "name": "Vorlesung Computer Vision I",
+                  "short": "CV 1 - VL",
+                  "type": "000000000000022",
+                  "id": "64-420",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "G-021/022"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-421 \u00dcbungen Computer Vision I",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811973715,-N383404811928716,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+                  "name": "\u00dcbungen Computer Vision I",
+                  "short": "CV 1 - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-421",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Computer Vision I",
+                  "groupname": "\u00dcbung CV 1 Gr.01 (Do. 12-14 Uhr)",
+                  "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+                  "type": "000000000000021",
+                  "id": "64-421_0",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Computer Vision I",
+                  "groupname": "\u00dcbung CV 1 Gr.02 (Fr. 12-14 Uhr)",
+                  "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+                  "type": "000000000000021",
+                  "id": "64-421_1",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Computer Vision I",
+                  "groupname": "\u00dcbung CV 1 Gr.03 (Fr. 12-14 Uhr)",
+                  "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+                  "type": "000000000000021",
+                  "id": "64-421_2",
+                  "time": [
+                    {
+                      "day": "Fr",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-CV 2: Computer Vision II ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AoVAxoQi04rsNkCncCgNluFgxLvHs4pcGnAay0x7XM7pmsYCDfVqYc63UExWEOh-dohmENBE41JThFxi5MaE4gm~0l2vY46TZ2t3wmVQxHShcaacdTHvNQje21qYwc9aaL3ePddkZxSR2fe0O6CHhXUJr~c-0ieNP1hxVzmqVK0wCaQG~PM-BSjblZduZyxj8~aBmOXE6T8Wv300_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-CSCW: Computer Supported Cooperative Work and Social Computing ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AfyYgPEtipKrekfubM1BrNOy-IqX~YJQdi9XiMtpAQRV03zVNS862NwSjQYp-MbqpfGCPG-0Y0WZllhgzWsTJJgmgs~gSU47jBDW0YhxxiHc3QvaSe8AKNx1taLBM80nc5BfZqkPwMAi1dit0LE2upURfNkUhqdMQ7gsudH9612tvyBIlVNCUfDBwKgofxjreF8QQxHtDm1XMa4g_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-EAM: Enterprise Architecture Management ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-APnfWja5iQhP5jiQKFFlTCPi9yrZ7Vl5jnbeKaomKwL6pe7vgqee8XUSjrwXtE5qq4hx67BYZkn5YDLIReak~0vCbSj0rsp2t1c~KAZCkh5mvKfLnAOoCllV7HxII2B7g2lw7-jEys7N-1tWFMlvTeM-qAmlrZkQCDChMq2EiWOTS6MslXYa246KVYe8att5WpQ3bJP-SvwcVJt0_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-HLEA: Hochleistungs-Ein-/Ausgabe ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-APJnNaZoY4ma2J8Cv1D1ryGBUfam~a8ilvUVPXIubjlBCFTqUIaPMVIDEOsnErQU3ekCl-JhdxpmSrp7FwtYs6gRDoueJepGcoTG12OCHaPStCNa6s13ZdAwAyvTyiJhfxAOgWFybwo5RbbLvG9k2BJcM~njEiyqg6jRHYkc1foTHbqQGm71GSPZ97W7yfrb-siwvKI2ugt-x1GU_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-IR: Intelligente Roboter ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ATFDZPe~MAo-FpymP9zUksqxYN1EgPJuvyVhU5ASnZrKDFpHp-CGoY7vuZC10VFAGG9x3PdqHQ~eN6euUvPwiosnoqv4i9WSkVjHcvQhquF2LNRAaHTzNN5UjzUoIqSBoiaHK4hEBO2xRwRvi60nSJuNili9UTf4abYoJcXluASUNMMflBigK9MLAve30GpX8s9AVO4rxV4K4Gmg_",
+          "links": [
+            {
+              "name": "64-424 Vorlesung Intelligente Roboter",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811733693,-N383404811783694,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Niklas Fiedler",
+                  "name": "Vorlesung Intelligente Roboter",
+                  "short": "IR - VL",
+                  "type": "000000000000022",
+                  "id": "64-424",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "G-021/022"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-425 Seminar Intelligente Roboter",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811690676,-N383404811659677,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Niklas Fiedler; Shuang Li",
+                  "name": "Seminar Intelligente Roboter",
+                  "short": "IR - Sem",
+                  "type": "000000000000020",
+                  "id": "64-425",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Seminar Intelligente Roboter",
+                  "groupname": "Integriertes Seminar IR Gr. 01 (Mo. 16-18 Uhr)",
+                  "dozent": "Niklas Fiedler; Shuang Li",
+                  "type": "000000000000020",
+                  "id": "64-425_0",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Seminar Intelligente Roboter",
+                  "groupname": "Integriertes Seminar IR Gr. 02 (Mo. 16-18 Uhr)",
+                  "dozent": "Niklas Fiedler; Shuang Li",
+                  "type": "000000000000020",
+                  "id": "64-425_1",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-IWT: Informatik: Zwischen Wissenschaft und Technikgestaltung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ALY5NPItygFa826uzvh5H8uFLQasdFISzSMqLTS~-kA3KTK-q4WGiCI1g83BABRh~Us1Bh1kItV-HVBJKytHA5H7EI7dUTxkOGWVxEhT-zeoBrezz~SeLcGjtT2VGqtHv2owWfrJVvSczEGzag6-EQlLhvXlPPGMbkZ4JiDHdLr-O38VobBJG0ht986JlR0jozwHqg9NtAUZnh80_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-KIS: Komplexe Informationssysteme ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ASS5vv~8a3vJ5JdfS~hiLh7LBjL1PqmD1omaWn19zhqbJ9OlRzEaOgOD1bq4AX2AaamXS2RsX6yVYXiP4M5c40KaKLgDwltioghyxLPXvkC4u2CkcIqzMaq8rdsW2a-1qNuFUzna8dmlNhL36Iuym2MIlIdwQj~s7Pzdfx-kKXpmiHb7uTh9dY~Itd-I9MtGMfFb7CvcI3DbrB7I_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-LT: Language Technology ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AKYBN5MpCK6AIbiH8VBbbICkR3hqcIU16hXsaGAu6NKHr20yAf6CVg3QX8eb01bxV9RGUpP8OaX6ZsrL3zMA3~pzeGqoJLqKVQFbGxXnEM4t5kNrRp1F1XCmLeev4lHV9DPK3H1sU6yb0QGbBlQurR91dIt17l8HLA~j~GqUA1kID1Uwzy92mYqAChftuSEgct52LX4d~0mEeRuE_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-MBSE: Modellbasierte Softwareentwicklung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A5zv~7XekpLY7fka8zpqGyU2G~z4jo0dH8Dk5c5hEtoafwgQN7YJzb7H6QRf26cCTzG9MDrRvU9FNm90K7PvQ8EAUNOoVlmrWzFaFDILxBjNiQrKT4nRjLIe1d-gcN3zwZdsa9XY9oH4wj6Yw92--p~KVnHLhBlPOiiMfVDIaVZZP6oKXPGDfCplGte6oMnl2XHpuCLGxTySEaMU_",
+          "links": [
+            {
+              "name": "64-440 Vorlesung Modellbasierte Softwareentwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405714190724,-N383405714134725,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Matthias Riebisch",
+                  "name": "Vorlesung Modellbasierte Softwareentwicklung",
+                  "short": "MBSE - VL",
+                  "type": "000000000000022",
+                  "id": "64-440",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "08:15",
+                      "end": "09:45 ",
+                      "hs": "D-125/129"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-441 Seminar Modellbasierte Softwareentwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383405714111726,-N383405714170727,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Leif Bonorden",
+                  "name": "Seminar Modellbasierte Softwareentwicklung",
+                  "short": "MBSE - Sem",
+                  "type": "000000000000020",
+                  "id": "64-441",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "D-125/129"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-NLP: Nat\u00fcrliche Sprachverarbeitung und das Web ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A2XHFL-QUU~G4AFvYtUnwbUvAnyRTXYOjH8br9Ywq1i-oMk55IqIunS4bwV80f9K5JawGJaqin-fpqpFKtaPCWv6xOIJEJbINIa9KzgrrJd5XB15G3hZh~BbovLfo2QbK9WIPLDBWQXOs36iLFDHj1NQQK4MiXw-rKq1YtYDtIwoooUJIv6k80spok5XcVsdbDtDGXSAENTImUvo_",
+          "links": [
+            {
+              "name": "64-406 Vorlesung Nat\u00fcrliche Sprachverarbeitung und das Web",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811969722,-N383404811922723,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Christian Biemann",
+                  "name": "Vorlesung Nat\u00fcrliche Sprachverarbeitung und das Web",
+                  "short": "NLP - VL",
+                  "type": "000000000000022",
+                  "id": "64-406",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "B-201"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-407 \u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811712688,-N383404811747689,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Seid Muhie Yimam",
+                  "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+                  "short": "NLP - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-407",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+                  "groupname": "\u00dcbung NLP Gr. 01 (Di. 16-18 Uhr)",
+                  "dozent": "Seid Muhie Yimam",
+                  "type": "000000000000021",
+                  "id": "64-407_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+                  "groupname": "\u00dcbung NLP Gr. 02 (Mi. 16-18 Uhr)",
+                  "dozent": "Seid Muhie Yimam",
+                  "type": "000000000000021",
+                  "id": "64-407_1",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-NN: Neuronale Netzwerke ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ANapAvgcPNUyh6QbUuBpAgQc7B0417EcmxrpYEiEXRszDV3dthwj-vrGlaJTdtgXti46S-~BWNIOqjF0YDyvdei3U4lg6~P5MMNfjcSsPkhkBivZzSnjy15FqVRGADY3yC7l7xkEw1kZdzx9Teb-qEL54oW1touAClVrO6fyijNhlrRY8xlHEK4f2q6p53TNh8qGP7eD7iJ6MvOI_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-PbD: Privacy by Design ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AJqrx~qHWb6Agm54JKIz87DU0oflTQdIID2-2WFxxOc4T22phYMho5OUYk-b7b1isloUfxRbDhtNJB8TggJ3XV6EhgmCbxQkiXd61uaw4sccp~0-ARycON~GrQE6-t4IoqAgcUDGjTixt~IH70fA7LnWu6eUfecXCqDWj~4pUPC1m2467EpdlS4vwAtuFHSZWSQxRtCav1-cIJq0_",
+          "links": [
+            {
+              "name": "64-402 Vorlesung Privacy by Design",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811866705,-N383404811841706,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Hannes Federrath",
+                  "name": "Vorlesung Privacy by Design",
+                  "short": "PbD - VL",
+                  "type": "000000000000022",
+                  "id": "64-402",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "08:15",
+                      "end": "11:45 ",
+                      "hs": "D-125/129"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "08:15",
+                      "end": "11:45 ",
+                      "hs": "D-125/129\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    B-201"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-403 Seminar Privacy by Design",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811811711,-N383404811845712,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Anne Kunstmann",
+                  "name": "Seminar Privacy by Design",
+                  "short": "PbD - Sem",
+                  "type": "000000000000020",
+                  "id": "64-403",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "08:15",
+                      "end": "11:45 ",
+                      "hs": "D-125/129"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "08:15",
+                      "end": "11:45 ",
+                      "hs": "D-125/129\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    B-201"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-RN: Resilient Networks ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A-dtXcF~z3-8KXKC0ybRAvBY~D850zgCxIqQR6PRm-3D0cbYQSc9aFUH8y93M-ffmDovvfbfMYKMW8YDRdANGT3~HAsQmpekmaLdu4yTElTVUG-rF1zifqp5xfii-fTMHxtVg3SbqgvvWRNi6a1UsVQZzwNQNrERki8bGhbSuVhoXx7CcccWAkMWqFCN68USTEdNsM5YpVfpuhaE_",
+          "links": [
+            {
+              "name": "64-442 Vorlesung Resiliente Netzwerke",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811874707,-N383404811880708,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Mathias Fischer",
+                  "name": "Vorlesung Resiliente Netzwerke",
+                  "short": "RN - VL",
+                  "type": "000000000000022",
+                  "id": "64-442",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "G-021/022"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-443 \u00dcbungen Resiliente Netzwerke",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811890701,-N383404811883702,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Mathias Fischer; Richard See",
+                  "name": "\u00dcbungen Resiliente Netzwerke",
+                  "short": "RN - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-443",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "\u00dcbungen Resiliente Netzwerke",
+                  "groupname": "Resiliente Netzwerke Gr.01 (Di. 8-10 Uhr)",
+                  "dozent": "Prof. Dr. Mathias Fischer; Richard See",
+                  "type": "000000000000021",
+                  "id": "64-443_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "\u00dcbungen Resiliente Netzwerke",
+                  "groupname": "Resiliente Netzwerke Gr.02 (Di. 8-10 Uhr)",
+                  "dozent": "Prof. Dr. Mathias Fischer; Richard See",
+                  "type": "000000000000021",
+                  "id": "64-443_1",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-RT: Robot Technology ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AgpEIuRP20ebTXDhi06ojZX5gGOXf8VoCucbZoopRvPmDBr4ue-29t7i-pwgSwCRx574FBfq7D~mu9N42Ro0NBj3n3xVOtaJieSRZNxyewgYVbUmR8~OSynrz-LQ82kgcg9Qtl37L1SNUVUvDGc1kzmd-SXmyKPn~ukbIzN92N6hsalRZ-WwyGA-NMX1Ce2wPZuUQKAl~gOcYZ9k_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-SMT: Sicherheitsmanagement ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AvV-0QXtCPcbJsMe9oqQGQ~2BUypIKaE3KxMNp68aVn3ZfJEWBdPePQsaXmPaSC3-Vtc0C1FxRAVcpFYwA-ElwOudEQvifm3uJs6EG9zHIkghyPN22by9~4W1zraf9IHQq9bWkpJAW7MELUCYCphkFFWejLHW9Liz0JXy-6M0KQ-MTaUvJBy0hSg8e9kByEDQrSemzl8TfsbyyVg_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-SRE: Software Reengineering ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A~1cIi3RJiwOFgoqYAxS4NXnawca7Sw0QKDs4Ll7niI4JWnd2gHWXaQgcv-Q5vz2l3khlBRenf~GpsOAX0LcCHjMsVu8mpLLrh-kOat~oPr4W5ltvffFsZej2UJOEasOE1gbU4-l73LAq2GzuNrBF6amf7EiAW1VUEXOCinMacEWhaN8cDS~blVWqolS7JuLuPUGRk2dCUs488V0_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-SSV: Sprachsignalverarbeitung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ACkp1nbwUjKBNlTUBMFIQKy0bdb9ZXD55PV4Rf7QJY-6GVpiOwvjPheJpneUjWPIChTUnJ5zsqRZf~Nr0LUj4~41PV8euNUwZM-JpBReUuQ3~tjALgQe9Pjx8Bqf~5bZk7RQlEDZg8i1AzZNJZszpUHkbzqm3IewQgIYsPXfjHaZTntNarSjXVlWbIb~LFE~nXR9cvzIldL9UuNk_",
+          "links": []
+        },
+        {
+          "name": " Modul InfM-SWA: Softwarearchitektur ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ayg8pWpDV9uAkdlc~OpPHoUKMzpT9mvPccg54~AcgiFOiIR~bnP7jlBDOTXZOm-vjF4JpCXR-cqgOWMvvU5zcXSFpcuMFdMBD~tI1diMhqICS2oC8U4nZqWec2Xz-UJdC8N5GeQ5tc5O7HOl2hROUYRWVi-vc3S38prcwLPkOt7Ll3capuumSGeEl-FeyIXtYdFeDltssXcmTYio_",
+          "links": [
+            {
+              "name": "64-426 Vorlesung Softwarearchitektur",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811771695,-N383404811776696,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Matthias Riebisch",
+                  "name": "Vorlesung Softwarearchitektur",
+                  "short": "SWA - VL",
+                  "type": "000000000000022",
+                  "id": "64-426",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "10:15",
+                      "end": "11:45 ",
+                      "hs": "D-125/129"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-427 Seminar Architekturzentrierte Softwareentwicklung",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811636680,-N383404811639681,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+                  "name": "Seminar Architekturzentrierte Softwareentwicklung",
+                  "short": "SWA- Sem",
+                  "type": "000000000000020",
+                  "id": "64-427",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Seminar Architekturzentrierte Softwareentwicklung",
+                  "groupname": "Seminar SWA Gr. 01 (Di. 8-10 Uhr) - deutsch",
+                  "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+                  "type": "000000000000020",
+                  "id": "64-427_0",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:15",
+                      "end": "09:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Seminar Architekturzentrierte Softwareentwicklung",
+                  "groupname": "Seminar SWA Gr. 02 (Di. 8-10 Uhr) - englisch",
+                  "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+                  "type": "000000000000020",
+                  "id": "64-427_1",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "08:30",
+                      "end": "10:00",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Seminar Architekturzentrierte Softwareentwicklung",
+                  "groupname": "Seminar SWA Gr. 03 (Di. 12-14 Uhr) - deutsch",
+                  "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+                  "type": "000000000000020",
+                  "id": "64-427_2",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Seminar Architekturzentrierte Softwareentwicklung",
+                  "groupname": "Seminar SWA Gr. 04 (Di. 12-14 Uhr) - englisch",
+                  "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+                  "type": "000000000000020",
+                  "id": "64-427_3",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-UIST: User Interface Software and Technology ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Au6p11QDbyQvCH534jV~NceTYI9NXzrKPqhQ6keeBL06ebZWWHIV7fQtTv5EPPBgLUG8uxbO-7wXGpHkL7LpU8~xfLjAG9fCF14awScbpdg6B0dbJFlMdD2UhKMhwiogVYDULYBbsc5TD8pHMrhwlLEQfNP1NThJ0ZWpPPknKDdaE1Q2WoBJyWi6nR-vUx2J6aKf7lzna6OmQQzY_",
+          "links": [
+            {
+              "name": "64-434 Vorlesung User Interface Software and Technology",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811733686,-N383404811735687,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Frank Steinicke",
+                  "name": "Vorlesung User Interface Software and Technology",
+                  "short": "UIST - VL",
+                  "type": "000000000000022",
+                  "id": "64-434",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "F-132"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-435 \u00dcbungen User Interface Software and Technology",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811866709,-N383404811891710,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "N.N.",
+                  "name": "\u00dcbungen User Interface Software and Technology",
+                  "short": "UIST - \u00dcb",
+                  "type": "000000000000021",
+                  "id": "64-435",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "F-132"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Modul InfM-WV: Wissensverarbeitung ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AUn0Tih1CknchR-Jice1JtY2XsBaENxHtPkHKvi98ATrn5dE4qnSAG2ljffCaeS8j33pyFr6YtEj5w6qdpJtR6mEBbqReAYESeDExis-hPvXfQ14RUCFy-vfLyeKdY7qZ33ERdD9aSyG~Jk31-QlO4jlijNSrlWbq3xyp4PINR-9K6E4rmhrIZovt1zJAOneg2jHEgeM3yx~ke~g_",
+          "links": [
+            {
+              "name": "64-414 Vorlesung Knowledge Processing in Intelligent Systems",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811936720,-N383404811939721,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Matthias Kerzel",
+                  "name": "Vorlesung Knowledge Processing in Intelligent Systems",
+                  "short": "WV - VL",
+                  "type": "000000000000022",
+                  "id": "64-414",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "D-220"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-415 Seminar  Knowledge Processing in Intelligent Systems",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383404811510671,-N383404811594672,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Cornelius Andreas Stefan Weber",
+                  "name": "Seminar  Knowledge Processing in Intelligent Systems",
+                  "short": "WV - Sem",
+                  "type": "000000000000020",
+                  "id": "64-415",
+                  "blub": "Es liegen keine Termine vor.",
+                  "time": []
+                },
+                {
+                  "name": "Seminar  Knowledge Processing in Intelligent Systems",
+                  "groupname": "Integriertes Seminar WV Gr. 01 (Mi. 16-18 Uhr)",
+                  "dozent": "Dr. Cornelius Andreas Stefan Weber",
+                  "type": "000000000000020",
+                  "id": "64-415_0",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "16:15",
+                      "end": "17:45",
+                      "hs": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "Seminar  Knowledge Processing in Intelligent Systems",
+                  "groupname": "Integriertes Seminar WV Gr. 02 (Do. 12-14 Uhr)",
+                  "dozent": "Dr. Cornelius Andreas Stefan Weber",
+                  "type": "000000000000020",
+                  "id": "64-415_1",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45",
+                      "hs": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " 5. Freier Wahlbereich ",
+      "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AxDxrq1LNd3zOKf5EdUxIIQI8ojiV6TCJ1Q1jD12rlyXEpR19Mvikk0SHgMOoCMlNLmIe~6PT-dmwoD4oXFhPNFJKMgraIiWmHLYRdGnuvJuzAv59BawJLFSHdbtC-FwD1MzbvFaLpd9UsVe71Ma92v5H7cp0vc-L7LoW-VafgjxWYfUF722anM8tRZdXRak1GN9ZFxw1nKVCl2U_",
+      "links": [
+        {
+          "name": " Weitere Lehrangebote Informatik - Lehrveranstaltungen ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AEy6zo9qSS4etA-GPYeicC1QTUq6YqKhhnxehH80E3ZAefz5SjZnnozkB-EAk0lzm62M-rpucBY3I4adCNt5i5qgTvGOCSiJ5MTVBIQQBXc7VpFHj2s9TqZ0h7XIQHvxGrCxB0hQtNN-ekUaLG4yL9MscSDMKFNFhzslHIgQP1gjWqnJWAWm2PHU6ADMyvRSExkj0pnLnKhiQLHk_",
+          "links": [
+            {
+              "name": "24-907.32 Algorithmische Optimierung in demokratischen \u00d6ffentlichkeiten - interdisziplin\u00e4res Design eines Nachrichtenempfehlungssystems [Pr\u00e4senz]",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383163373165921,-N383163373139922,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Laura Linda Laugwitz; Nadja Schaetz",
+                  "name": "Algorithmische Optimierung in demokratischen \u00d6ffentlichkeiten - interdisziplin\u00e4res Design eines Nachrichtenempfehlungssystems [Pr\u00e4senz]",
+                  "short": "M7: Algorithmische O",
+                  "type": "000000000000018",
+                  "id": "24-907.32",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "16:15",
+                      "end": "19:00 ",
+                      "hs": "VMP 9 A316"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-638 Deep Learning for Unstructured Data",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094139935,-N383415094195936,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Steffen Remus",
+                  "name": "Deep Learning for Unstructured Data",
+                  "short": "Deep Learning",
+                  "type": "000000000000020",
+                  "id": "64-638",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "F-635"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-639 Seminar zur Ringvorlesung Taming the Machines",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415093949905,-N383415093962906,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Judith Simon",
+                  "name": "Seminar zur Ringvorlesung Taming the Machines",
+                  "short": "Sem zur RV",
+                  "type": "000000000000020",
+                  "id": "64-639",
+                  "time": [
+                    {
+                      "day": "Di",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "G-102"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-651 Abschlussarbeitenseminar",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094098911,-N383415094048912,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Dr. Daniel Moldt",
+                  "name": "Abschlussarbeitenseminar",
+                  "short": "S Abschlussarbeiten",
+                  "type": "000000000000020",
+                  "id": "64-651",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "14:15",
+                      "end": "15:45 ",
+                      "hs": "G-102"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-652 Seminar Skalierbare Datenbanken",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415094038917,-N383415094093918,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Mareike Schmidt",
+                  "name": "Seminar Skalierbare Datenbanken",
+                  "short": "Skalierb.Datenb.",
+                  "type": "000000000000020",
+                  "id": "64-652",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "12:15",
+                      "end": "13:45 ",
+                      "hs": "F-534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-920 Data Thinking - Kreativmethoden zur Entwicklung datengetriebener Innovationen",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473243723741,-N383473243766742,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Eva Alice Christiane Bittner; Prof. Dr. Tilo B\u00f6hmann; Prof. Dr. Kai-Uwe Schnapp",
+                  "name": "Data Thinking - Kreativmethoden zur Entwicklung datengetriebener Innovationen",
+                  "short": "Data Thinking",
+                  "type": "000000000000038",
+                  "id": "64-920",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "17:45 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Sa",
+                      "start": "10:00",
+                      "end": "16:00 ",
+                      "hs": "SemRm 2 (Ju 9, 110)"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "19:15 ",
+                      "hs": "Digital"
+                    },
+                    {
+                      "day": "Do",
+                      "start": "16:15",
+                      "end": "19:15 ",
+                      "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)"
+                    },
+                    {
+                      "day": "Fr",
+                      "start": "16:15",
+                      "end": "19:15 ",
+                      "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-921 Data-driven Solutions for the Smart City Hamburg",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473243967747,-N383473243942748,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Marten Borchers",
+                  "name": "Data-driven Solutions for the Smart City Hamburg",
+                  "short": "Smart City HH",
+                  "type": "000000000000020",
+                  "id": "64-921",
+                  "time": [
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "14:00 ",
+                      "hs": "G-203"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "14:00 ",
+                      "hs": "C-221"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-923 Crossing Perspectives: Medien\u00f6kosysteme durch Architekturen illustrieren, analysieren und normativ bewerten",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473726728755,-N383473726750756,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Prof. Dr. Tilo B\u00f6hmann; Larissa Gebken; Fabian Burmeister; Christian Kurtz; Dr. Wolfgang Schulz",
+                  "name": "Crossing Perspectives: Medien\u00f6kosysteme durch Architekturen illustrieren, analysieren und normativ bewerten",
+                  "short": "",
+                  "type": "000000000000020",
+                  "id": "64-923",
+                  "time": [
+                    {
+                      "day": "Mo",
+                      "start": "10:00",
+                      "end": "18:00 ",
+                      "hs": "Jungiusstra\u00dfe 11, Raum C-109"
+                    },
+                    {
+                      "day": "Di",
+                      "start": "10:00",
+                      "end": "18:00 ",
+                      "hs": "Jungiusstra\u00dfe 11, Raum C-109"
+                    },
+                    {
+                      "day": "Mi",
+                      "start": "10:00",
+                      "end": "15:00 ",
+                      "hs": "Jungiusstra\u00dfe 11, Raum C-109"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "64-924 Innovation by Legal Thinking - Studentisches Digitalisierungslabor",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383473738013757,-N383473738023758,-N0,-N0,-N0",
+              "links": [],
+              "vorlesung": [
+                {
+                  "dozent": "Marten Borchers; Lukas Musumeci; Anton Roman Zero Sefkow",
+                  "name": "Innovation by Legal Thinking - Studentisches Digitalisierungslabor",
+                  "short": "",
+                  "type": "000000000000020",
+                  "id": "64-924",
+                  "time": [
+                    {
+                      "day": "Do",
+                      "start": "10:00",
+                      "end": "13:30 ",
+                      "hs": "Rhs UG 11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": " Weitere Lehrangebote Informatik - Module ",
+          "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Acg0rO1609p7iE78L9lVN5PJBEAHLOdgx6rY4bhAAoI8fdsjkJq6Ug8PtErrZGmEFUsvYEqFlLfoRpWXqSz6lRqEW~BFmW3cJbEaIPygiGk7zTffbfcQgbeFrNSEIztN9IvYxCldXvVZFXDO9w0-KNeOGCj4v9LzBHKJBo~WARMXuYghbErgognO-FaPukn7k6gPaDbN3hRci-O8_",
+          "links": [
+            {
+              "name": " InfM-BKIM Biostatistik und K\u00fcnstliche Intelligenz in der Medizin ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A8n~0SWNVgmkkctS6CQtOp~BaZ6Mf9xpNGNK~SM5BaRnV3N6Gp7tN20YuV-Uh2~l9jJ233XvHwLmo6WMEmRDv2VW7ZoEjfVUUMzUnMr7NFApqJAipigfI5Q2Qi5Q-lbhDtTPFCvouOya8NSYgB4s9x0TUZCZAoH1QPsd-~uf9uvyMWcdM0fGm99Nm6R4~wQUp0sp6H0b3qMN9eMQ_",
+              "links": [
+                {
+                  "name": "67-550 Vorlesung Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383464587699562,-N383464587725563,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Prof. Dr. Jan Baumbach",
+                      "name": "Vorlesung Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+                      "short": "BKIM - LVL",
+                      "type": "000000000000022",
+                      "id": "67-550",
+                      "time": [
+                        {
+                          "day": "Mo",
+                          "start": "15:30",
+                          "end": "17:00 ",
+                          "hs": "SemRm 1083"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "67-551 \u00dcbungen Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383464638969564,-N383464638998565,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "N.N.",
+                      "name": "\u00dcbungen Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+                      "short": "BKIM - \u00dcb",
+                      "type": "000000000000021",
+                      "id": "67-551",
+                      "time": [
+                        {
+                          "day": "Mo",
+                          "start": "17:15",
+                          "end": "18:45 ",
+                          "hs": "SemRm 1083"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": " InfM-QASA Quantitative Analyse von Softwarearchitekturen ",
+              "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-A9qhsvWh7QI5FFIwgbiNjthB5Jpwscmg0l4-D3tcvdnZF-zCjFynZYnYMY1D9xwGy4rVFTM2yv32z7cCi0TEgNP5lmz4FwlSWTp2jcHJ8MpI3Y82rDJmqniv~KwMPiX3cjWNOY3rXSdSFbrNQm4qN8CSpyFAwwz96IKQvBjJCRMkv~2qR2BRtVMKlPepT8xVeTLcJWbcyjMEzoRs_",
+              "links": [
+                {
+                  "name": "64-670 Vorlesung Quantitative Analyse von Softwarearchitekturen",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415310710975,-N383415310719976,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Dr. Andr\u00e9 van Hoorn",
+                      "name": "Vorlesung Quantitative Analyse von Softwarearchitekturen",
+                      "short": "QASA - VL",
+                      "type": "000000000000022",
+                      "id": "64-670",
+                      "time": [
+                        {
+                          "day": "Mo",
+                          "start": "12:15",
+                          "end": "13:45 ",
+                          "hs": "D-220"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "64-671 \u00dcbungen Quantitative Analyse von Softwarearchitekturen",
+                  "url": "/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000673,-N0,-N383415303072973,-N383415303076974,-N0,-N0,-N0",
+                  "links": [],
+                  "vorlesung": [
+                    {
+                      "dozent": "Dr. Andr\u00e9 van Hoorn",
+                      "name": "\u00dcbungen Quantitative Analyse von Softwarearchitekturen",
+                      "short": "QASA - \u00dcb",
+                      "type": "000000000000021",
+                      "id": "64-671",
+                      "time": [
+                        {
+                          "day": "Di",
+                          "start": "12:15",
+                          "end": "13:45 ",
+                          "hs": "D-010"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

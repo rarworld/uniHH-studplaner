@@ -1519,7 +1519,1011 @@
   },
   {
     "name": "Informatik Master",
-    "submenu": [],
+    "submenu": [
+      {
+        "name": " 1. Pflichtbereich Informatik ",
+        "submenu": [
+          {
+            "name": " Modul InfM-Proj: Projekt Informatik ",
+            "submenu": [
+              {
+                "name": "64-850 P1 Masterprojekt Intelligent Robotics (Teil 1)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-850 P1",
+                    "name": "Masterprojekt Intelligent Robotics (Teil 1)"
+                  }
+                ]
+              },
+              {
+                "name": "64-850 S Integriertes Seminar Intelligent Robotics",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-850 S",
+                    "name": "Integriertes Seminar Intelligent Robotics"
+                  }
+                ]
+              },
+              {
+                "name": "64-851-P Masterprojekt M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-851-P",
+                    "name": "Masterprojekt M-Lab: Innovationslabor f\u00fcr App Entwicklung"
+                  }
+                ]
+              },
+              {
+                "name": "64-851-S Integriertes Seminar M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-851-S",
+                    "name": "Integriertes Seminar M-Lab: Innovationslabor f\u00fcr App Entwicklung"
+                  }
+                ]
+              },
+              {
+                "name": "64-852-P Masterprojekt Parallele Systeme f\u00fcr Fortgeschrittene",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-852-P",
+                    "name": "Masterprojekt Parallele Systeme f\u00fcr Fortgeschrittene"
+                  }
+                ]
+              },
+              {
+                "name": "64-852-S Integriertes Seminar Supercomputer: Forschung und Innovation",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-852-S",
+                    "name": "Integriertes Seminar Supercomputer: Forschung und Innovation"
+                  }
+                ]
+              },
+              {
+                "name": "64-853 P Masterprojekt Chatbot Development",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-853 P",
+                    "name": "Masterprojekt Chatbot Development"
+                  }
+                ]
+              },
+              {
+                "name": "64-853 S Integriertes Seminar Challenges of designing human-centered Al",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-853 S",
+                    "name": "Integriertes Seminar Challenges of designing human-centered Al"
+                  }
+                ]
+              },
+              {
+                "name": "64-854-P Masterprojekt Advanced Topics in IT-Security",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-854-P",
+                    "name": "Masterprojekt Advanced Topics in IT-Security"
+                  }
+                ]
+              },
+              {
+                "name": "64-854-S Integriertes Seminar Advanced Topics in IT-Security",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-854-S",
+                    "name": "Integriertes Seminar Advanced Topics in IT-Security"
+                  }
+                ]
+              },
+              {
+                "name": "64-858-P Masterprojekt Kollaborative verteilte Software-Entwicklung",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-858-P",
+                    "name": "Masterprojekt Kollaborative verteilte Software-Entwicklung"
+                  }
+                ]
+              },
+              {
+                "name": "64-858-S Integriertes Seminar Herausforderung in der verteilten Software-Entwicklung",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-858-S",
+                    "name": "Integriertes Seminar Herausforderung in der verteilten Software-Entwicklung"
+                  }
+                ]
+              },
+              {
+                "name": "64-859-P2 Masterprojekt Source Separation for Speech Controlled Robots (Teil 2)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-859-P2",
+                    "name": "Masterprojekt Source Separation for Speech Controlled Robots (Teil 2)"
+                  }
+                ]
+              },
+              {
+                "name": "64-859-S Integriertes Seminar Source Separation for Speech Controlled Robots",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-859-S",
+                    "name": "Integriertes Seminar Source Separation for Speech Controlled Robots"
+                  }
+                ]
+              },
+              {
+                "name": "64-861-P1 Masterprojekt Computer Vision (Teil 1)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-861-P1",
+                    "name": "Masterprojekt Computer Vision (Teil 1)"
+                  }
+                ]
+              },
+              {
+                "name": "64-866-P1 Masterprojekt Smart Cities & IoT(Teil 1)",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-866-P1",
+                    "name": "Masterprojekt Smart Cities & IoT(Teil 1)"
+                  }
+                ]
+              },
+              {
+                "name": "64-866-S Integriertes Seminar Smart Cities & IoT",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-866-S",
+                    "name": "Integriertes Seminar Smart Cities & IoT"
+                  }
+                ]
+              },
+              {
+                "name": "64-868-P Masterprojekt Human-Robot Interaction",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-868-P",
+                    "name": "Masterprojekt Human-Robot Interaction"
+                  }
+                ]
+              },
+              {
+                "name": "64-868-S Integriertes Seminar Human-Robot Interaction",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-868-S",
+                    "name": "Integriertes Seminar Human-Robot Interaction"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          }
+        ],
+        "entries": []
+      },
+      {
+        "name": " 2. Wahlpflichtbereich Theorie ",
+        "submenu": [
+          {
+            "name": " Modul InfM-ALG: Algorithmik ",
+            "submenu": [
+              {
+                "name": "64-330 Vorlesung Algorithmik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-330",
+                    "name": "Vorlesung Algorithmik"
+                  }
+                ]
+              },
+              {
+                "name": "64-331 \u00dcbungen Algorithmik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-331",
+                    "name": "\u00dcbungen Algorithmik"
+                  },
+                  {
+                    "id": "64-331_0",
+                    "name": "\u00dcbungen Algorithmik"
+                  },
+                  {
+                    "id": "64-331_1",
+                    "name": "\u00dcbungen Algorithmik"
+                  },
+                  {
+                    "id": "64-331_2",
+                    "name": "\u00dcbungen Algorithmik"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-ARA: Analyse randomisierter Algorithmen ",
+            "submenu": [
+              {
+                "name": "64-364 Vorlesung Randomisierte Algorithmen",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-364",
+                    "name": "Vorlesung Randomisierte Algorithmen"
+                  }
+                ]
+              },
+              {
+                "name": "64-365 Seminar Randomisierte Algorithmen",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-365",
+                    "name": "Seminar Randomisierte Algorithmen"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-Kryp: Kryptographie ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-MDAE: Methoden des Algorithmenentwurfes ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-ML: Maschinelles Lernen ",
+            "submenu": [],
+            "entries": []
+          }
+        ],
+        "entries": []
+      },
+      {
+        "name": " 3. Allgemeiner Wahlpflichtbereich Informatik ",
+        "submenu": [
+          {
+            "name": " Modul InfM-ALG: Algorithmik ",
+            "submenu": [
+              {
+                "name": "64-330 Vorlesung Algorithmik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-330",
+                    "name": "Vorlesung Algorithmik"
+                  }
+                ]
+              },
+              {
+                "name": "64-331 \u00dcbungen Algorithmik",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-331",
+                    "name": "\u00dcbungen Algorithmik"
+                  },
+                  {
+                    "id": "64-331_0",
+                    "name": "\u00dcbungen Algorithmik"
+                  },
+                  {
+                    "id": "64-331_1",
+                    "name": "\u00dcbungen Algorithmik"
+                  },
+                  {
+                    "id": "64-331_2",
+                    "name": "\u00dcbungen Algorithmik"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-ARA: Analyse randomisierter Algorithmen ",
+            "submenu": [
+              {
+                "name": "64-364 Vorlesung Randomisierte Algorithmen",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-364",
+                    "name": "Vorlesung Randomisierte Algorithmen"
+                  }
+                ]
+              },
+              {
+                "name": "64-365 Seminar Randomisierte Algorithmen",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-365",
+                    "name": "Seminar Randomisierte Algorithmen"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-DIS: Datenbanken und Informationssysteme ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-EMSE: Empirical Software Engineering ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-IGD: Interactive Game Development ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-KM: Knowledge Work and Knowledge Management ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-Kryp: Kryptographie ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-MDAE: Methoden des Algorithmenentwurfes ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-ML: Maschinelles Lernen ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-MMS: Multidimensionale und multimodale Signale ",
+            "submenu": [
+              {
+                "name": "64-350 Vorlesung Statistical Signal Processing",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-350",
+                    "name": "Vorlesung Statistical Signal Processing"
+                  }
+                ]
+              },
+              {
+                "name": "64-351 \u00dcbungen Statistical Signal Processing",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-351",
+                    "name": "\u00dcbungen Statistical Signal Processing"
+                  },
+                  {
+                    "id": "64-351_0",
+                    "name": "\u00dcbungen Statistical Signal Processing"
+                  },
+                  {
+                    "id": "64-351_1",
+                    "name": "\u00dcbungen Statistical Signal Processing"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-MvS: Modellierung verteilter Systeme ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-SbD: Security by Design ",
+            "submenu": [
+              {
+                "name": "64-320 Vorlesung Security by Design",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-320",
+                    "name": "Vorlesung Security by Design"
+                  }
+                ]
+              },
+              {
+                "name": "64-321 \u00dcbungen Security by Design",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-321",
+                    "name": "\u00dcbungen Security by Design"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          }
+        ],
+        "entries": []
+      },
+      {
+        "name": " 4. Vertiefungsbereich Informatik ",
+        "submenu": [
+          {
+            "name": " Modul InfM-BAI: Bioinspirierte K\u00fcnstliche Intelligenz ",
+            "submenu": [
+              {
+                "name": "64-454 Vorlesung Bio-Inspired Artificial Intelligence",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-454",
+                    "name": "Vorlesung Bio-Inspired Artificial Intelligence"
+                  }
+                ]
+              },
+              {
+                "name": "64-455 Seminar Bio-Inspired Artificial Intelligence",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-455",
+                    "name": "Seminar Bio-Inspired Artificial Intelligence"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-CV 1: Computer Vision I ",
+            "submenu": [
+              {
+                "name": "64-420 Vorlesung Computer Vision I",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-420",
+                    "name": "Vorlesung Computer Vision I"
+                  }
+                ]
+              },
+              {
+                "name": "64-421 \u00dcbungen Computer Vision I",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-421",
+                    "name": "\u00dcbungen Computer Vision I"
+                  },
+                  {
+                    "id": "64-421_0",
+                    "name": "\u00dcbungen Computer Vision I"
+                  },
+                  {
+                    "id": "64-421_1",
+                    "name": "\u00dcbungen Computer Vision I"
+                  },
+                  {
+                    "id": "64-421_2",
+                    "name": "\u00dcbungen Computer Vision I"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-CV 2: Computer Vision II ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-CSCW: Computer Supported Cooperative Work and Social Computing ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-EAM: Enterprise Architecture Management ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-HLEA: Hochleistungs-Ein-/Ausgabe ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-IR: Intelligente Roboter ",
+            "submenu": [
+              {
+                "name": "64-424 Vorlesung Intelligente Roboter",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-424",
+                    "name": "Vorlesung Intelligente Roboter"
+                  }
+                ]
+              },
+              {
+                "name": "64-425 Seminar Intelligente Roboter",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-425",
+                    "name": "Seminar Intelligente Roboter"
+                  },
+                  {
+                    "id": "64-425_0",
+                    "name": "Seminar Intelligente Roboter"
+                  },
+                  {
+                    "id": "64-425_1",
+                    "name": "Seminar Intelligente Roboter"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-IWT: Informatik: Zwischen Wissenschaft und Technikgestaltung ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-KIS: Komplexe Informationssysteme ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-LT: Language Technology ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-MBSE: Modellbasierte Softwareentwicklung ",
+            "submenu": [
+              {
+                "name": "64-440 Vorlesung Modellbasierte Softwareentwicklung",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-440",
+                    "name": "Vorlesung Modellbasierte Softwareentwicklung"
+                  }
+                ]
+              },
+              {
+                "name": "64-441 Seminar Modellbasierte Softwareentwicklung",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-441",
+                    "name": "Seminar Modellbasierte Softwareentwicklung"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-NLP: Nat\u00fcrliche Sprachverarbeitung und das Web ",
+            "submenu": [
+              {
+                "name": "64-406 Vorlesung Nat\u00fcrliche Sprachverarbeitung und das Web",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-406",
+                    "name": "Vorlesung Nat\u00fcrliche Sprachverarbeitung und das Web"
+                  }
+                ]
+              },
+              {
+                "name": "64-407 \u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-407",
+                    "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web"
+                  },
+                  {
+                    "id": "64-407_0",
+                    "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web"
+                  },
+                  {
+                    "id": "64-407_1",
+                    "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-NN: Neuronale Netzwerke ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-PbD: Privacy by Design ",
+            "submenu": [
+              {
+                "name": "64-402 Vorlesung Privacy by Design",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-402",
+                    "name": "Vorlesung Privacy by Design"
+                  }
+                ]
+              },
+              {
+                "name": "64-403 Seminar Privacy by Design",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-403",
+                    "name": "Seminar Privacy by Design"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-RN: Resilient Networks ",
+            "submenu": [
+              {
+                "name": "64-442 Vorlesung Resiliente Netzwerke",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-442",
+                    "name": "Vorlesung Resiliente Netzwerke"
+                  }
+                ]
+              },
+              {
+                "name": "64-443 \u00dcbungen Resiliente Netzwerke",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-443",
+                    "name": "\u00dcbungen Resiliente Netzwerke"
+                  },
+                  {
+                    "id": "64-443_0",
+                    "name": "\u00dcbungen Resiliente Netzwerke"
+                  },
+                  {
+                    "id": "64-443_1",
+                    "name": "\u00dcbungen Resiliente Netzwerke"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-RT: Robot Technology ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-SMT: Sicherheitsmanagement ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-SRE: Software Reengineering ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-SSV: Sprachsignalverarbeitung ",
+            "submenu": [],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-SWA: Softwarearchitektur ",
+            "submenu": [
+              {
+                "name": "64-426 Vorlesung Softwarearchitektur",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-426",
+                    "name": "Vorlesung Softwarearchitektur"
+                  }
+                ]
+              },
+              {
+                "name": "64-427 Seminar Architekturzentrierte Softwareentwicklung",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-427",
+                    "name": "Seminar Architekturzentrierte Softwareentwicklung"
+                  },
+                  {
+                    "id": "64-427_0",
+                    "name": "Seminar Architekturzentrierte Softwareentwicklung"
+                  },
+                  {
+                    "id": "64-427_1",
+                    "name": "Seminar Architekturzentrierte Softwareentwicklung"
+                  },
+                  {
+                    "id": "64-427_2",
+                    "name": "Seminar Architekturzentrierte Softwareentwicklung"
+                  },
+                  {
+                    "id": "64-427_3",
+                    "name": "Seminar Architekturzentrierte Softwareentwicklung"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-UIST: User Interface Software and Technology ",
+            "submenu": [
+              {
+                "name": "64-434 Vorlesung User Interface Software and Technology",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-434",
+                    "name": "Vorlesung User Interface Software and Technology"
+                  }
+                ]
+              },
+              {
+                "name": "64-435 \u00dcbungen User Interface Software and Technology",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-435",
+                    "name": "\u00dcbungen User Interface Software and Technology"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Modul InfM-WV: Wissensverarbeitung ",
+            "submenu": [
+              {
+                "name": "64-414 Vorlesung Knowledge Processing in Intelligent Systems",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-414",
+                    "name": "Vorlesung Knowledge Processing in Intelligent Systems"
+                  }
+                ]
+              },
+              {
+                "name": "64-415 Seminar  Knowledge Processing in Intelligent Systems",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-415",
+                    "name": "Seminar  Knowledge Processing in Intelligent Systems"
+                  },
+                  {
+                    "id": "64-415_0",
+                    "name": "Seminar  Knowledge Processing in Intelligent Systems"
+                  },
+                  {
+                    "id": "64-415_1",
+                    "name": "Seminar  Knowledge Processing in Intelligent Systems"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          }
+        ],
+        "entries": []
+      },
+      {
+        "name": " 5. Freier Wahlbereich ",
+        "submenu": [
+          {
+            "name": " Weitere Lehrangebote Informatik - Lehrveranstaltungen ",
+            "submenu": [
+              {
+                "name": "24-907.32 Algorithmische Optimierung in demokratischen \u00d6ffentlichkeiten - interdisziplin\u00e4res Design eines Nachrichtenempfehlungssystems [Pr\u00e4senz]",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "24-907.32",
+                    "name": "Algorithmische Optimierung in demokratischen \u00d6ffentlichkeiten - interdisziplin\u00e4res Design eines Nachrichtenempfehlungssystems [Pr\u00e4senz]"
+                  }
+                ]
+              },
+              {
+                "name": "64-638 Deep Learning for Unstructured Data",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-638",
+                    "name": "Deep Learning for Unstructured Data"
+                  }
+                ]
+              },
+              {
+                "name": "64-639 Seminar zur Ringvorlesung Taming the Machines",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-639",
+                    "name": "Seminar zur Ringvorlesung Taming the Machines"
+                  }
+                ]
+              },
+              {
+                "name": "64-651 Abschlussarbeitenseminar",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-651",
+                    "name": "Abschlussarbeitenseminar"
+                  }
+                ]
+              },
+              {
+                "name": "64-652 Seminar Skalierbare Datenbanken",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-652",
+                    "name": "Seminar Skalierbare Datenbanken"
+                  }
+                ]
+              },
+              {
+                "name": "64-920 Data Thinking - Kreativmethoden zur Entwicklung datengetriebener Innovationen",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-920",
+                    "name": "Data Thinking - Kreativmethoden zur Entwicklung datengetriebener Innovationen"
+                  }
+                ]
+              },
+              {
+                "name": "64-921 Data-driven Solutions for the Smart City Hamburg",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-921",
+                    "name": "Data-driven Solutions for the Smart City Hamburg"
+                  }
+                ]
+              },
+              {
+                "name": "64-923 Crossing Perspectives: Medien\u00f6kosysteme durch Architekturen illustrieren, analysieren und normativ bewerten",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-923",
+                    "name": "Crossing Perspectives: Medien\u00f6kosysteme durch Architekturen illustrieren, analysieren und normativ bewerten"
+                  }
+                ]
+              },
+              {
+                "name": "64-924 Innovation by Legal Thinking - Studentisches Digitalisierungslabor",
+                "submenu": [],
+                "entries": [
+                  {
+                    "id": "64-924",
+                    "name": "Innovation by Legal Thinking - Studentisches Digitalisierungslabor"
+                  }
+                ]
+              }
+            ],
+            "entries": []
+          },
+          {
+            "name": " Weitere Lehrangebote Informatik - Module ",
+            "submenu": [
+              {
+                "name": " InfM-BKIM Biostatistik und K\u00fcnstliche Intelligenz in der Medizin ",
+                "submenu": [
+                  {
+                    "name": "67-550 Vorlesung Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+                    "submenu": [],
+                    "entries": [
+                      {
+                        "id": "67-550",
+                        "name": "Vorlesung Biostatistik und K\u00fcnstliche Intelligenz in der Medizin"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "67-551 \u00dcbungen Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+                    "submenu": [],
+                    "entries": [
+                      {
+                        "id": "67-551",
+                        "name": "\u00dcbungen Biostatistik und K\u00fcnstliche Intelligenz in der Medizin"
+                      }
+                    ]
+                  }
+                ],
+                "entries": []
+              },
+              {
+                "name": " InfM-QASA Quantitative Analyse von Softwarearchitekturen ",
+                "submenu": [
+                  {
+                    "name": "64-670 Vorlesung Quantitative Analyse von Softwarearchitekturen",
+                    "submenu": [],
+                    "entries": [
+                      {
+                        "id": "64-670",
+                        "name": "Vorlesung Quantitative Analyse von Softwarearchitekturen"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "64-671 \u00dcbungen Quantitative Analyse von Softwarearchitekturen",
+                    "submenu": [],
+                    "entries": [
+                      {
+                        "id": "64-671",
+                        "name": "\u00dcbungen Quantitative Analyse von Softwarearchitekturen"
+                      }
+                    ]
+                  }
+                ],
+                "entries": []
+              }
+            ],
+            "entries": []
+          }
+        ],
+        "entries": []
+      }
+    ],
     "entries": []
   },
   {

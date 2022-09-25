@@ -1,25 +1,44 @@
 {
   "file": "data/data_merged.json",
-  "exported": "09/25/2022, 03:41:06",
+  "exported": "09/25/2022, 03:53:41",
   "input_files": [
     {
       "name": "Informatik",
-      "parsed": "09/25/2022, 03:37:15"
+      "parsed": "09/25/2022, 03:48:39"
     },
     {
       "name": "Informatik Master",
-      "parsed": "09/25/2022, 03:37:15"
+      "parsed": "09/25/2022, 03:48:39"
     },
     {
       "name": "Computing in Science - Physik",
-      "parsed": "09/25/2022, 03:37:15"
+      "parsed": "09/25/2022, 03:48:39"
     },
     {
       "name": "Physik",
-      "parsed": "09/25/2022, 03:37:15"
+      "parsed": "09/25/2022, 03:48:39"
     }
   ],
   "data": [
+    {
+      "dozent": "Laura Linda Laugwitz; Nadja Schaetz",
+      "name": "Algorithmische Optimierung in demokratischen \u00d6ffentlichkeiten - interdisziplin\u00e4res Design eines Nachrichtenempfehlungssystems [Pr\u00e4senz]",
+      "short": "M7: Algorithmische O",
+      "type": "000000000000018",
+      "id": "24-907.32",
+      "time": [
+        {
+          "day": "Di",
+          "start": "16:15",
+          "end": "19:00 ",
+          "hs": "VMP 9 A316",
+          "slot": {
+            "hour": 4,
+            "day": 1
+          }
+        }
+      ]
+    },
     {
       "dozent": "Prof. Dr. Walid Maalej",
       "name": "Vorlesung Softwareentwicklung I",
@@ -2973,6 +2992,894 @@
       "base": "64-282"
     },
     {
+      "dozent": "Prof. Dr. Hannes Federrath",
+      "name": "Vorlesung Security by Design",
+      "short": "SbD - VL",
+      "type": "000000000000022",
+      "id": "64-320",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:15",
+          "end": "17:45 ",
+          "hs": "ESA O, Rm 221",
+          "slot": {
+            "hour": 3,
+            "day": 2
+          }
+        }
+      ],
+      "base": "64-321"
+    },
+    {
+      "dozent": "Pascal Wichmann",
+      "name": "\u00dcbungen Security by Design",
+      "short": "SbD- \u00dcb",
+      "type": "000000000000021",
+      "id": "64-321",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-320"
+    },
+    {
+      "dozent": "Prof. Dr. Matthias Rarey",
+      "name": "Vorlesung Algorithmik",
+      "short": "ALG - VL",
+      "type": "000000000000022",
+      "id": "64-330",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "10:00",
+          "end": "11:30 ",
+          "hs": "Wiwi B2",
+          "slot": {
+            "hour": 1,
+            "day": 0
+          }
+        },
+        {
+          "day": "Mi",
+          "start": "10:00",
+          "end": "11:30 ",
+          "hs": "F-132",
+          "slot": {
+            "hour": 1,
+            "day": 2
+          }
+        },
+        {
+          "day": "Mo",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-132",
+          "slot": {
+            "hour": 1,
+            "day": 0
+          }
+        }
+      ],
+      "base": "64-331"
+    },
+    {
+      "dozent": "Ole Berg",
+      "name": "\u00dcbungen Algorithmik",
+      "short": "ALG - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-331",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-330"
+    },
+    {
+      "name": "\u00dcbungen Algorithmik",
+      "groupname": "\u00dcbungen ALG Gr. 01 (Mo. 12-14 Uhr) - F-635",
+      "dozent": "Jonathan Pletzer-Zelgert",
+      "type": "000000000000021",
+      "id": "64-331_0",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 0
+          }
+        }
+      ],
+      "base": "64-330"
+    },
+    {
+      "name": "\u00dcbungen Algorithmik",
+      "groupname": "\u00dcbungen ALG Gr. 02 (Mo. 12-14 Uhr) - F-534",
+      "dozent": "Ole Berg",
+      "type": "000000000000021",
+      "id": "64-331_1",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 0
+          }
+        }
+      ],
+      "base": "64-330"
+    },
+    {
+      "name": "\u00dcbungen Algorithmik",
+      "groupname": "\u00dcbungen ALG Gr. 03 (Mi. 12-14 Uhr ) - F-534",
+      "dozent": "Ole Berg",
+      "type": "000000000000021",
+      "id": "64-331_2",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 2
+          }
+        }
+      ],
+      "base": "64-330"
+    },
+    {
+      "dozent": "Prof. Dr. Timo Florian Gerkmann",
+      "name": "Vorlesung Statistical Signal Processing",
+      "short": "MMS - VL",
+      "type": "000000000000022",
+      "id": "64-350",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-132",
+          "slot": {
+            "hour": 1,
+            "day": 1
+          }
+        },
+        {
+          "day": "Do",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "F-132",
+          "slot": {
+            "hour": 1,
+            "day": 3
+          }
+        }
+      ],
+      "base": "64-351"
+    },
+    {
+      "dozent": "Tal Peer; Kristina Tesch",
+      "name": "\u00dcbungen Statistical Signal Processing",
+      "short": "MMS - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-351",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-350"
+    },
+    {
+      "name": "\u00dcbungen Statistical Signal Processing",
+      "groupname": "\u00dcbung MMS Gr. 1 (Di. 08-10 Uhr)",
+      "dozent": "Tal Peer; Kristina Tesch",
+      "type": "000000000000021",
+      "id": "64-351_0",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:15",
+          "end": "09:45",
+          "hs": "",
+          "slot": {
+            "hour": 0,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-350"
+    },
+    {
+      "name": "\u00dcbungen Statistical Signal Processing",
+      "groupname": "\u00dcbung MMS Gr. 2 (Do. 08-10 Uhr)",
+      "dozent": "Tal Peer; Kristina Tesch",
+      "type": "000000000000021",
+      "id": "64-351_1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "08:15",
+          "end": "09:45",
+          "hs": "",
+          "slot": {
+            "hour": 0,
+            "day": 3
+          }
+        }
+      ],
+      "base": "64-350"
+    },
+    {
+      "dozent": "Prof. Dr. Petra Berenbrink",
+      "name": "Vorlesung Randomisierte Algorithmen",
+      "short": "ARA - VL+\u00dcb",
+      "type": "000000000000063",
+      "id": "64-364",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:15",
+          "end": "11:45 ",
+          "hs": "G-228",
+          "slot": {
+            "hour": 0,
+            "day": 1
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Tim Christopher Hahn",
+      "name": "Seminar Randomisierte Algorithmen",
+      "short": "ARA - Sem",
+      "type": "000000000000020",
+      "id": "64-365",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "dozent": "Prof. Dr. Hannes Federrath",
+      "name": "Vorlesung Privacy by Design",
+      "short": "PbD - VL",
+      "type": "000000000000022",
+      "id": "64-402",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "08:15",
+          "end": "11:45 ",
+          "hs": "D-125/129",
+          "slot": {
+            "hour": 0,
+            "day": 2
+          }
+        },
+        {
+          "day": "Mi",
+          "start": "08:15",
+          "end": "11:45 ",
+          "hs": "D-125/129\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    B-201",
+          "slot": {
+            "hour": 0,
+            "day": 2
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Anne Kunstmann",
+      "name": "Seminar Privacy by Design",
+      "short": "PbD - Sem",
+      "type": "000000000000020",
+      "id": "64-403",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "08:15",
+          "end": "11:45 ",
+          "hs": "D-125/129",
+          "slot": {
+            "hour": 0,
+            "day": 2
+          }
+        },
+        {
+          "day": "Mi",
+          "start": "08:15",
+          "end": "11:45 ",
+          "hs": "D-125/129\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    B-201",
+          "slot": {
+            "hour": 0,
+            "day": 2
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Christian Biemann",
+      "name": "Vorlesung Nat\u00fcrliche Sprachverarbeitung und das Web",
+      "short": "NLP - VL",
+      "type": "000000000000022",
+      "id": "64-406",
+      "time": [
+        {
+          "day": "Di",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "B-201",
+          "slot": {
+            "hour": 3,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-407"
+    },
+    {
+      "dozent": "Seid Muhie Yimam",
+      "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+      "short": "NLP - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-407",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-406"
+    },
+    {
+      "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+      "groupname": "\u00dcbung NLP Gr. 01 (Di. 16-18 Uhr)",
+      "dozent": "Seid Muhie Yimam",
+      "type": "000000000000021",
+      "id": "64-407_0",
+      "time": [
+        {
+          "day": "Di",
+          "start": "16:15",
+          "end": "17:45",
+          "hs": "",
+          "slot": {
+            "hour": 4,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-406"
+    },
+    {
+      "name": "\u00dcbungen Nat\u00fcrliche Sprachverarbeitung und das Web",
+      "groupname": "\u00dcbung NLP Gr. 02 (Mi. 16-18 Uhr)",
+      "dozent": "Seid Muhie Yimam",
+      "type": "000000000000021",
+      "id": "64-407_1",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "16:15",
+          "end": "17:45",
+          "hs": "",
+          "slot": {
+            "hour": 4,
+            "day": 2
+          }
+        }
+      ],
+      "base": "64-406"
+    },
+    {
+      "dozent": "Dr. Matthias Kerzel",
+      "name": "Vorlesung Knowledge Processing in Intelligent Systems",
+      "short": "WV - VL",
+      "type": "000000000000022",
+      "id": "64-414",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "D-220",
+          "slot": {
+            "hour": 3,
+            "day": 2
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Cornelius Andreas Stefan Weber",
+      "name": "Seminar  Knowledge Processing in Intelligent Systems",
+      "short": "WV - Sem",
+      "type": "000000000000020",
+      "id": "64-415",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "name": "Seminar  Knowledge Processing in Intelligent Systems",
+      "groupname": "Integriertes Seminar WV Gr. 01 (Mi. 16-18 Uhr)",
+      "dozent": "Dr. Cornelius Andreas Stefan Weber",
+      "type": "000000000000020",
+      "id": "64-415_0",
+      "time": [
+        {
+          "day": "Mi",
+          "start": "16:15",
+          "end": "17:45",
+          "hs": "",
+          "slot": {
+            "hour": 4,
+            "day": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seminar  Knowledge Processing in Intelligent Systems",
+      "groupname": "Integriertes Seminar WV Gr. 02 (Do. 12-14 Uhr)",
+      "dozent": "Dr. Cornelius Andreas Stefan Weber",
+      "type": "000000000000020",
+      "id": "64-415_1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Ehsan Yaghoubi",
+      "name": "Vorlesung Computer Vision I",
+      "short": "CV 1 - VL",
+      "type": "000000000000022",
+      "id": "64-420",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "G-021/022",
+          "slot": {
+            "hour": 1,
+            "day": 4
+          }
+        }
+      ],
+      "base": "64-421"
+    },
+    {
+      "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+      "name": "\u00dcbungen Computer Vision I",
+      "short": "CV 1 - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-421",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-420"
+    },
+    {
+      "name": "\u00dcbungen Computer Vision I",
+      "groupname": "\u00dcbung CV 1 Gr.01 (Do. 12-14 Uhr)",
+      "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+      "type": "000000000000021",
+      "id": "64-421_0",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        }
+      ],
+      "base": "64-420"
+    },
+    {
+      "name": "\u00dcbungen Computer Vision I",
+      "groupname": "\u00dcbung CV 1 Gr.02 (Fr. 12-14 Uhr)",
+      "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+      "type": "000000000000021",
+      "id": "64-421_1",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 4
+          }
+        }
+      ],
+      "base": "64-420"
+    },
+    {
+      "name": "\u00dcbungen Computer Vision I",
+      "groupname": "\u00dcbung CV 1 Gr.03 (Fr. 12-14 Uhr)",
+      "dozent": "Dr. Mikko Lauri; Noha Abdelsalam Abdelkader Sarhan",
+      "type": "000000000000021",
+      "id": "64-421_2",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 4
+          }
+        }
+      ],
+      "base": "64-420"
+    },
+    {
+      "dozent": "Niklas Fiedler",
+      "name": "Vorlesung Intelligente Roboter",
+      "short": "IR - VL",
+      "type": "000000000000022",
+      "id": "64-424",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "G-021/022",
+          "slot": {
+            "hour": 3,
+            "day": 0
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Niklas Fiedler; Shuang Li",
+      "name": "Seminar Intelligente Roboter",
+      "short": "IR - Sem",
+      "type": "000000000000020",
+      "id": "64-425",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "name": "Seminar Intelligente Roboter",
+      "groupname": "Integriertes Seminar IR Gr. 01 (Mo. 16-18 Uhr)",
+      "dozent": "Niklas Fiedler; Shuang Li",
+      "type": "000000000000020",
+      "id": "64-425_0",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "16:15",
+          "end": "17:45",
+          "hs": "",
+          "slot": {
+            "hour": 4,
+            "day": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seminar Intelligente Roboter",
+      "groupname": "Integriertes Seminar IR Gr. 02 (Mo. 16-18 Uhr)",
+      "dozent": "Niklas Fiedler; Shuang Li",
+      "type": "000000000000020",
+      "id": "64-425_1",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "16:15",
+          "end": "17:45",
+          "hs": "",
+          "slot": {
+            "hour": 4,
+            "day": 0
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Matthias Riebisch",
+      "name": "Vorlesung Softwarearchitektur",
+      "short": "SWA - VL",
+      "type": "000000000000022",
+      "id": "64-426",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "D-125/129",
+          "slot": {
+            "hour": 1,
+            "day": 1
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+      "name": "Seminar Architekturzentrierte Softwareentwicklung",
+      "short": "SWA- Sem",
+      "type": "000000000000020",
+      "id": "64-427",
+      "blub": "Es liegen keine Termine vor.",
+      "time": []
+    },
+    {
+      "name": "Seminar Architekturzentrierte Softwareentwicklung",
+      "groupname": "Seminar SWA Gr. 01 (Di. 8-10 Uhr) - deutsch",
+      "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+      "type": "000000000000020",
+      "id": "64-427_0",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:15",
+          "end": "09:45",
+          "hs": "",
+          "slot": {
+            "hour": 0,
+            "day": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seminar Architekturzentrierte Softwareentwicklung",
+      "groupname": "Seminar SWA Gr. 02 (Di. 8-10 Uhr) - englisch",
+      "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+      "type": "000000000000020",
+      "id": "64-427_1",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:30",
+          "end": "10:00",
+          "hs": "",
+          "slot": {
+            "hour": 0,
+            "day": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seminar Architekturzentrierte Softwareentwicklung",
+      "groupname": "Seminar SWA Gr. 03 (Di. 12-14 Uhr) - deutsch",
+      "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+      "type": "000000000000020",
+      "id": "64-427_2",
+      "time": [
+        {
+          "day": "Di",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seminar Architekturzentrierte Softwareentwicklung",
+      "groupname": "Seminar SWA Gr. 04 (Di. 12-14 Uhr) - englisch",
+      "dozent": "Dr. Jan Christian Dammann; Prof. Dr. Matthias Riebisch; Marion Wiese",
+      "type": "000000000000020",
+      "id": "64-427_3",
+      "time": [
+        {
+          "day": "Di",
+          "start": "12:15",
+          "end": "13:45",
+          "hs": "",
+          "slot": {
+            "hour": 2,
+            "day": 1
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Frank Steinicke",
+      "name": "Vorlesung User Interface Software and Technology",
+      "short": "UIST - VL",
+      "type": "000000000000022",
+      "id": "64-434",
+      "time": [
+        {
+          "day": "Di",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "F-132",
+          "slot": {
+            "hour": 3,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-435"
+    },
+    {
+      "dozent": "N.N.",
+      "name": "\u00dcbungen User Interface Software and Technology",
+      "short": "UIST - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-435",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "F-132",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        }
+      ],
+      "base": "64-434"
+    },
+    {
+      "dozent": "Prof. Dr. Matthias Riebisch",
+      "name": "Vorlesung Modellbasierte Softwareentwicklung",
+      "short": "MBSE - VL",
+      "type": "000000000000022",
+      "id": "64-440",
+      "time": [
+        {
+          "day": "Do",
+          "start": "08:15",
+          "end": "09:45 ",
+          "hs": "D-125/129",
+          "slot": {
+            "hour": 0,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Leif Bonorden",
+      "name": "Seminar Modellbasierte Softwareentwicklung",
+      "short": "MBSE - Sem",
+      "type": "000000000000020",
+      "id": "64-441",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "D-125/129",
+          "slot": {
+            "hour": 1,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Mathias Fischer",
+      "name": "Vorlesung Resiliente Netzwerke",
+      "short": "RN - VL",
+      "type": "000000000000022",
+      "id": "64-442",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "G-021/022",
+          "slot": {
+            "hour": 1,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-443"
+    },
+    {
+      "dozent": "Prof. Dr. Mathias Fischer; Richard See",
+      "name": "\u00dcbungen Resiliente Netzwerke",
+      "short": "RN - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-443",
+      "blub": "Es liegen keine Termine vor.",
+      "time": [],
+      "base": "64-442"
+    },
+    {
+      "name": "\u00dcbungen Resiliente Netzwerke",
+      "groupname": "Resiliente Netzwerke Gr.01 (Di. 8-10 Uhr)",
+      "dozent": "Prof. Dr. Mathias Fischer; Richard See",
+      "type": "000000000000021",
+      "id": "64-443_0",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:15",
+          "end": "09:45",
+          "hs": "",
+          "slot": {
+            "hour": 0,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-442"
+    },
+    {
+      "name": "\u00dcbungen Resiliente Netzwerke",
+      "groupname": "Resiliente Netzwerke Gr.02 (Di. 8-10 Uhr)",
+      "dozent": "Prof. Dr. Mathias Fischer; Richard See",
+      "type": "000000000000021",
+      "id": "64-443_1",
+      "time": [
+        {
+          "day": "Di",
+          "start": "08:15",
+          "end": "09:45",
+          "hs": "",
+          "slot": {
+            "hour": 0,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-442"
+    },
+    {
+      "dozent": "Prof. Dr. Stefan Wermter",
+      "name": "Vorlesung Bio-Inspired Artificial Intelligence",
+      "short": "BAI - VL",
+      "type": "000000000000022",
+      "id": "64-454",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "D-220",
+          "slot": {
+            "hour": 1,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Stefan Wermter; Dennis Becker",
+      "name": "Seminar Bio-Inspired Artificial Intelligence",
+      "short": "BAI - Sem",
+      "type": "000000000000020",
+      "id": "64-455",
+      "time": [
+        {
+          "day": "Do",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "D-220",
+          "slot": {
+            "hour": 1,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
       "dozent": "Prof. Dr. Tilo B\u00f6hmann",
       "name": "#hacktheworldabetterplace - Lernen durch Begeisterung anderer",
       "short": "hacktheworld",
@@ -2997,6 +3904,25 @@
           "slot": {
             "hour": 2,
             "day": 0
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Steffen Remus",
+      "name": "Deep Learning for Unstructured Data",
+      "short": "Deep Learning",
+      "type": "000000000000020",
+      "id": "64-638",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "F-635",
+          "slot": {
+            "hour": 3,
+            "day": 3
           }
         }
       ]
@@ -3210,6 +4136,25 @@
       ]
     },
     {
+      "dozent": "Mareike Schmidt",
+      "name": "Seminar Skalierbare Datenbanken",
+      "short": "Skalierb.Datenb.",
+      "type": "000000000000020",
+      "id": "64-652",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "F-534",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
       "dozent": "Anna Fuchs; Jannek Squar",
       "name": "Student Cluster Competition",
       "short": "Stud.Cluster Comp",
@@ -3257,6 +4202,427 @@
         }
       ],
       "base": "64-658"
+    },
+    {
+      "dozent": "Dr. Andr\u00e9 van Hoorn",
+      "name": "Vorlesung Quantitative Analyse von Softwarearchitekturen",
+      "short": "QASA - VL",
+      "type": "000000000000022",
+      "id": "64-670",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "D-220",
+          "slot": {
+            "hour": 2,
+            "day": 0
+          }
+        }
+      ],
+      "base": "64-671"
+    },
+    {
+      "dozent": "Dr. Andr\u00e9 van Hoorn",
+      "name": "\u00dcbungen Quantitative Analyse von Softwarearchitekturen",
+      "short": "QASA - \u00dcb",
+      "type": "000000000000021",
+      "id": "64-671",
+      "time": [
+        {
+          "day": "Di",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "D-010",
+          "slot": {
+            "hour": 2,
+            "day": 1
+          }
+        }
+      ],
+      "base": "64-670"
+    },
+    {
+      "dozent": "Prof. Dr. Jianwei Zhang",
+      "name": "Masterprojekt Intelligent Robotics (Teil 1)",
+      "short": "MP Intell. Robot. 1",
+      "type": "000000000000024",
+      "id": "64-850 P1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "F-334",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Jianwei Zhang",
+      "name": "Integriertes Seminar Intelligent Robotics",
+      "short": "MS Intell. Robot.",
+      "type": "000000000000020",
+      "id": "64-850 S",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "F-334",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Walid Maalej; Lloyd Montgomery",
+      "name": "Masterprojekt M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+      "short": "MProj - Mobis",
+      "type": "000000000000024",
+      "id": "64-851-P",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "18:30 ",
+          "hs": "D-220",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Walid Maalej; Lloyd Montgomery",
+      "name": "Integriertes Seminar M-Lab: Innovationslabor f\u00fcr App Entwicklung",
+      "short": "MProj/Sem - Mobis",
+      "type": "000000000000020",
+      "id": "64-851-S",
+      "time": [
+        {
+          "day": "Do",
+          "start": "18:30",
+          "end": "20:00 ",
+          "hs": "D-220",
+          "slot": {
+            "hour": 5,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Anna Fuchs; Jannek Squar",
+      "name": "Masterprojekt Parallele Systeme f\u00fcr Fortgeschrittene",
+      "short": "MProj - PR",
+      "type": "000000000000024",
+      "id": "64-852-P",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "DKRZ, Rm 034",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Anna Fuchs; Jannek Squar",
+      "name": "Integriertes Seminar Supercomputer: Forschung und Innovation",
+      "short": "MProj/Sem - PR",
+      "type": "000000000000020",
+      "id": "64-852-S",
+      "time": [
+        {
+          "day": "Di",
+          "start": "10:15",
+          "end": "11:45 ",
+          "hs": "DKRZ, Rm 034",
+          "slot": {
+            "hour": 1,
+            "day": 1
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Eva Alice Christiane Bittner; Maren Gierlich-Joas",
+      "name": "Masterprojekt Chatbot Development",
+      "short": "MProj WISTS",
+      "type": "000000000000024",
+      "id": "64-853 P",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "18:00 ",
+          "hs": "C-221",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Maren Gierlich-Joas",
+      "name": "Integriertes Seminar Challenges of designing human-centered Al",
+      "short": "MProj/Sem WISTS",
+      "type": "000000000000020",
+      "id": "64-853 S",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "C-221",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Richard See; Tatjana Wingarz",
+      "name": "Masterprojekt Advanced Topics in IT-Security",
+      "short": "MProj - RDS",
+      "type": "000000000000024",
+      "id": "64-854-P",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:00",
+          "end": "20:00 ",
+          "hs": "G-228",
+          "slot": {
+            "hour": 4,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Mathias Fischer",
+      "name": "Integriertes Seminar Advanced Topics in IT-Security",
+      "short": "MProj/Sem - RDS",
+      "type": "000000000000020",
+      "id": "64-854-S",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "G-228",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Daniel Moldt",
+      "name": "Masterprojekt Kollaborative verteilte Software-Entwicklung",
+      "short": "MProj - ThI",
+      "type": "000000000000024",
+      "id": "64-858-P",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:00",
+          "end": "16:00 ",
+          "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        },
+        {
+          "day": "Fr",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "D-115\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    D-117",
+          "slot": {
+            "hour": 3,
+            "day": 4
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Dr. Daniel Moldt",
+      "name": "Integriertes Seminar Herausforderung in der verteilten Software-Entwicklung",
+      "short": "MProj/Sem - ThI",
+      "type": "000000000000020",
+      "id": "64-858-S",
+      "time": [
+        {
+          "day": "Fr",
+          "start": "12:15",
+          "end": "13:45 ",
+          "hs": "D-118/119\r\n                                                                                                                                                                                                                                                                                                                                                                     ,\u00a0\r\n                                                    \r\n                                                    G-228",
+          "slot": {
+            "hour": 2,
+            "day": 4
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Tal Peer",
+      "name": "Masterprojekt Source Separation for Speech Controlled Robots (Teil 2)",
+      "short": "MProj - SP",
+      "type": "000000000000024",
+      "id": "64-859-P2",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "18:45 ",
+          "hs": "R-133",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Timo Florian Gerkmann; Tal Peer",
+      "name": "Integriertes Seminar Source Separation for Speech Controlled Robots",
+      "short": "MProj/Sem - SP",
+      "type": "000000000000020",
+      "id": "64-859-S",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "R-133",
+          "slot": {
+            "hour": 4,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Prof. Dr. Simone Frintrop; Ehsan Yaghoubi",
+      "name": "Masterprojekt Computer Vision (Teil 1)",
+      "short": "MProj - CV",
+      "type": "000000000000024",
+      "id": "64-861-P1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:00",
+          "end": "17:00 ",
+          "hs": "R-031",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Doganalp Ergenc",
+      "name": "Masterprojekt Smart Cities & IoT(Teil 1)",
+      "short": "MProj - DOS",
+      "type": "000000000000024",
+      "id": "64-866-P1",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "F-534",
+          "slot": {
+            "hour": 4,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Philipp Kisters",
+      "name": "Integriertes Seminar Smart Cities & IoT",
+      "short": "MProj/Sem - DOS",
+      "type": "000000000000020",
+      "id": "64-866-S",
+      "time": [
+        {
+          "day": "Do",
+          "start": "14:15",
+          "end": "15:45 ",
+          "hs": "F-534",
+          "slot": {
+            "hour": 3,
+            "day": 3
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Dennis Becker; Connor Ulf Christoph G\u00e4de",
+      "name": "Masterprojekt Human-Robot Interaction",
+      "short": "MProj - HRI",
+      "type": "000000000000024",
+      "id": "64-868-P",
+      "time": [
+        {
+          "day": "Do",
+          "start": "12:00",
+          "end": "16:00 ",
+          "hs": "F-234",
+          "slot": {
+            "hour": 2,
+            "day": 3
+          }
+        },
+        {
+          "day": "Fr",
+          "start": "10:00",
+          "end": "18:00 ",
+          "hs": "F-234",
+          "slot": {
+            "hour": 1,
+            "day": 4
+          }
+        }
+      ]
+    },
+    {
+      "dozent": "Kyra Ahrens",
+      "name": "Integriertes Seminar Human-Robot Interaction",
+      "short": "MProj/Sem - HRI",
+      "type": "000000000000020",
+      "id": "64-868-S",
+      "time": [
+        {
+          "day": "Do",
+          "start": "16:15",
+          "end": "17:45 ",
+          "hs": "F-234",
+          "slot": {
+            "hour": 4,
+            "day": 3
+          }
+        }
+      ]
     },
     {
       "dozent": "Prof. Dr. Eva Alice Christiane Bittner; Prof. Dr. Tilo B\u00f6hmann; Prof. Dr. Kai-Uwe Schnapp",
@@ -6939,6 +8305,46 @@
         }
       ],
       "base": "67-100"
+    },
+    {
+      "dozent": "Prof. Dr. Jan Baumbach",
+      "name": "Vorlesung Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+      "short": "BKIM - LVL",
+      "type": "000000000000022",
+      "id": "67-550",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "15:30",
+          "end": "17:00 ",
+          "hs": "SemRm 1083",
+          "slot": {
+            "hour": 3,
+            "day": 0
+          }
+        }
+      ],
+      "base": "67-551"
+    },
+    {
+      "dozent": "N.N.",
+      "name": "\u00dcbungen Biostatistik und K\u00fcnstliche Intelligenz in der Medizin",
+      "short": "BKIM - \u00dcb",
+      "type": "000000000000021",
+      "id": "67-551",
+      "time": [
+        {
+          "day": "Mo",
+          "start": "17:15",
+          "end": "18:45 ",
+          "hs": "SemRm 1083",
+          "slot": {
+            "hour": 4,
+            "day": 0
+          }
+        }
+      ],
+      "base": "67-550"
     },
     {
       "dozent": "Marc Frerichs; Prof. Dr. Markus N\u00fcttgens; Heiko Stein; Stephan Tammen",
