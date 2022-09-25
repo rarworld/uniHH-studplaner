@@ -1,10 +1,10 @@
 <template>
-    <div class="row" :id="'tableRow_'+row.id">
-        <div class="col-2 border fs-4">{{ row.timeRange }}</div>
-        <div v-for="(day,i) in row.data" class="col-2 border" :id="'col_'+row.id+'_'+i" :key="row.id+'_'+i">
+    <tr :id="'tableRow_'+row.id">
+        <td class="col-md-2">{{ row.timeRange }}</td>
+        <td v-for="(day,i) in row.data" :id="'col_'+row.id+'_'+i" :key="row.id+'_'+i" class="col-md-2" :rowspan=day.rowspan>
             <vorlesungsBox v-for="(vorl, index) in day.vl" :key="index" :data="vorl" @box-hoover="onHoover" :hover="hover" @box-click="onClick"></vorlesungsBox>
-        </div>
-    </div>
+        </td>
+    </tr>
 </template>
 
 <script>

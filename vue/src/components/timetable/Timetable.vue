@@ -1,25 +1,29 @@
 <template>
-  <div>
-    <div class="container table">
-      <div class="row bg-secondary bg-gradient" id="timetableHead">
-        <div class="col-2 border">#</div>
-        <div class="col-2 border">Montag</div>
-        <div class="col-2 border">Dienstag</div>
-        <div class="col-2 border">Mittwoch</div>
-        <div class="col-2 border">Donnerstag</div>
-        <div class="col-2 border">Freitag</div>
-      </div>
-      <stundenplan-row 
-          v-for="row in studTable" 
-          v-bind:key="row.id"
-          v-bind:row="row"
-          :hover="hoover"
-          @box-click="onClick"
-          @box-hoover="onHoover">
-      </stundenplan-row>
-    </div>
+  <div class="table-responsive">
+    <table class="table" style="width:100%;">
+      <thead>
+        <tr id="timetableHead">
+          <th scope="col">#</th>
+          <th style="width:17%" scope="col">Montag</th>
+          <th style="width:17%" scope="col">Dienstag</th>
+          <th style="width:17%" scope="col">Mittwoch</th>
+          <th style="width:17%" scope="col">Donnerstag</th>
+          <th style="width:17%" scope="col">Freitag</th>
+        </tr>
+      </thead>
+      <tbody>
+        <stundenplan-row 
+            v-for="row in studTable" 
+            v-bind:key="row.id"
+            v-bind:row="row"
+            :hover="hoover"
+            @box-click="onClick"
+            @box-hoover="onHoover">
+        </stundenplan-row>
+      </tbody>
+    </table>
 
-    <div class="container table border">
+    <div class="container table border"> 
       <div class="row bg-secondary bg-gradient" id="timelessHead">
         <div class="col">
           Timeless
@@ -31,7 +35,7 @@
         </div>
       </div>
     </div>
-  </div>        
+  </div>
 </template>
 
 <script>
