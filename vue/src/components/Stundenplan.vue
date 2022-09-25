@@ -155,7 +155,7 @@ export default {
             timelessTable: [],
             delModalVid: "",
             isDelModalVisible: false,
-            dataInfo: usersData['files']
+            dataInfo: usersData['input_files']
         }
       },
     components: {
