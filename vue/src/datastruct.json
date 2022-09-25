@@ -1,0 +1,347 @@
+{
+    "hours": [
+        {
+            "id": 0,
+            "name": "08:00-10:00"
+        },
+        {
+            "id": 1,
+            "name": "10:00-12:00"
+        },
+        {
+            "id": 2,
+            "name": "12:00-14:00"
+        },
+        {
+            "id": 3,
+            "name": "14:00-16:00"
+        }
+    ],
+    "days": [
+        {
+            "name": "Monday",
+            "hours": [
+                {
+                    "hour": 10,
+                    "vl": [
+                        {
+                            "id": "v100",
+                            "size": 1
+                        },
+                        {
+                            "id": "v101",
+                            "size": 1
+                        },
+                        {
+                            "id": "v102",
+                            "size": 2
+                        }
+                    ],
+                    "width": 3,
+                    "height": 2,
+                    "master": true,
+                    "slave": false
+                },
+                {
+                    "hour": 12,
+                    "vl": [
+                        {
+                            "id": "v201",
+                            "size": 2
+                        }
+                    ],
+                    "width": 1,
+                    "height": 2,
+                    "master": true,
+                    "slave": true
+                },
+                {
+                    "hour": 14,
+                    "vl": [
+                        {
+                            "id": "v300",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": true
+                },
+                {
+                    "hour": 16,
+                    "vl": [
+                        {
+                            "id": "v400",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": false
+                }
+            ]
+        },
+        {
+            "name": "Tuesday",
+            "hours": [
+                {
+                    "hour": 10,
+                    "vl": [
+                        {
+                            "id": "v100",
+                            "size": 1
+                        },
+                        {
+                            "id": "v101",
+                            "size": 1
+                        },
+                        {
+                            "id": "v102",
+                            "size": 2
+                        }
+                    ],
+                    "width": 3,
+                    "height": 2,
+                    "master": true,
+                    "slave": false
+                },
+                {
+                    "hour": 12,
+                    "vl": [
+                        {
+                            "id": "v201",
+                            "size": 2
+                        }
+                    ],
+                    "width": 1,
+                    "height": 2,
+                    "master": true,
+                    "slave": true
+                },
+                {
+                    "hour": 14,
+                    "vl": [
+                        {
+                            "id": "v300",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": true
+                },
+                {
+                    "hour": 16,
+                    "vl": [
+                        {
+                            "id": "v400",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": false
+                }
+            ]
+        },
+        {
+            "name": "Wednesday",
+            "hours": [
+                {
+                    "hour": 10,
+                    "vl": [
+                        {
+                            "id": "v100",
+                            "size": 1
+                        },
+                        {
+                            "id": "v101",
+                            "size": 1
+                        },
+                        {
+                            "id": "v102",
+                            "size": 2
+                        }
+                    ],
+                    "width": 3,
+                    "height": 2,
+                    "master": true,
+                    "slave": false
+                },
+                {
+                    "hour": 12,
+                    "vl": [
+                        {
+                            "id": "v201",
+                            "size": 2
+                        }
+                    ],
+                    "width": 1,
+                    "height": 2,
+                    "master": true,
+                    "slave": true
+                },
+                {
+                    "hour": 14,
+                    "vl": [
+                        {
+                            "id": "v300",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": true
+                },
+                {
+                    "hour": 16,
+                    "vl": [
+                        {
+                            "id": "v400",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": false
+                }
+            ]
+        },
+        {
+            "name": "Thursday",
+            "hours": [
+                {
+                    "hour": 10,
+                    "vl": [
+                        {
+                            "id": "v100",
+                            "size": 1
+                        },
+                        {
+                            "id": "v101",
+                            "size": 1
+                        },
+                        {
+                            "id": "v102",
+                            "size": 2
+                        }
+                    ],
+                    "width": 3,
+                    "height": 2,
+                    "master": true,
+                    "slave": false
+                },
+                {
+                    "hour": 12,
+                    "vl": [
+                        {
+                            "id": "v201",
+                            "size": 2
+                        }
+                    ],
+                    "width": 1,
+                    "height": 2,
+                    "master": true,
+                    "slave": true
+                },
+                {
+                    "hour": 14,
+                    "vl": [
+                        {
+                            "id": "v300",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": true
+                },
+                {
+                    "hour": 16,
+                    "vl": [
+                        {
+                            "id": "v400",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": false
+                }
+            ]
+        },
+        {
+            "name": "Friday",
+            "hours": [
+                {
+                    "hour": 10,
+                    "vl": [
+                        {
+                            "id": "v100",
+                            "size": 1
+                        },
+                        {
+                            "id": "v101",
+                            "size": 1
+                        },
+                        {
+                            "id": "v102",
+                            "size": 2
+                        }
+                    ],
+                    "width": 3,
+                    "height": 2,
+                    "master": true,
+                    "slave": false
+                },
+                {
+                    "hour": 12,
+                    "vl": [
+                        {
+                            "id": "v201",
+                            "size": 2
+                        }
+                    ],
+                    "width": 1,
+                    "height": 2,
+                    "master": true,
+                    "slave": true
+                },
+                {
+                    "hour": 14,
+                    "vl": [
+                        {
+                            "id": "v300",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": true
+                },
+                {
+                    "hour": 16,
+                    "vl": [
+                        {
+                            "id": "v400",
+                            "size": 1
+                        }
+                    ],
+                    "width": 1,
+                    "height": 1,
+                    "master": false,
+                    "slave": false
+                }
+            ]
+        }
+    ]
+}
