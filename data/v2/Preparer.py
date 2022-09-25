@@ -125,12 +125,17 @@ class Preparer:
     def __calc_slot(self, timeJson):
         day = timeJson['day']
         start_time = datetime.strptime(timeJson['start'], self.FMT)
-        res=-1
-        for ts in self.TIME_SLOTS:
-            if ts[0] <= start_time.time():
-                res = ts[1]
+        # end_time = datetime.strptime(timeJson['end'].strip(), self.FMT)- time(0,1,1)
+        start_block=int((start_time.hour - 8)/2)
+        # end_block=int((end_time.hour - 8)/2)
+        # size = end_block - start_block + 1
         
-        return (res, self.DAY_TO_NUMBER[day])
+        return {
+            'hour': start_block, 
+            'day': self.DAY_TO_NUMBER[day]
+            # 'size': size,
+            # 'end': end_block
+        }
 
 
 if __name__ == "__main__":

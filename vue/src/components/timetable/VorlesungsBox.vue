@@ -4,7 +4,7 @@
         <div class="card-body">
             <div class="card-title"><strong>{{ data.name }}</strong></div>
             <div class="card-subtitle mb-2 text-muted">{{ data.id}}</div>
-            <div v-if="data.dozent.length > 0" class="text-truncate"><strong>Dozent:</strong> {{ data.dozent }}</div>
+            <div v-if="data.dozent.length > 0" class="text-truncate"><strong>Dozent:</strong> {{ shorter(data.dozent,10) }}</div>
             <div v-if="data.hs.length > 0"><strong>HS:</strong> {{ data.hs }}</div>
             <div v-if="data.time.length > 0"><strong>Zeit:</strong> {{ data.time }}</div>
         </div>
@@ -31,6 +31,9 @@ export default {
     methods:{
         test(value){
             this.$emit('box-click',value)
+        },
+        shorter(content, length=50){
+            return content.length > length ? content.slice(0, length) + "..." : content;
         }
     }
 }

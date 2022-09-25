@@ -116,14 +116,30 @@ import timetable from './timetable/Timetable.vue';
 import navmenu from './navmenu/NavMenu.vue';
 import delModal from './DelModal.vue';
 
+function createEmptyBlock() {
+  return {
+    rowspan:1,
+    visible:true,
+    vl:[]
+  }
+}
+
+function createEmptyDataBlock() {
+  let data=[]
+  for (let i = 0; i < 5; i++) {
+    data.push(createEmptyBlock())
+  }
+  return data
+}
+
 function createDataArray() {
   return [
-          { id: 0, data:[ [], [], [], [], [] ], timeRange: "08:00-10:00" },
-          { id: 1, data:[ [], [], [], [], [] ], timeRange: "10:00-12:00" },
-          { id: 2, data:[ [], [], [], [], [] ], timeRange: "12:00-14:00" },
-          { id: 3, data:[ [], [], [], [], [] ], timeRange: "14:00-16:00" },
-          { id: 4, data:[ [], [], [], [], [] ], timeRange: "16:00-18:00" },
-          { id: 5, data:[ [], [], [], [], [] ], timeRange: "18:00-20:00" }
+          { id: 0, data: createEmptyDataBlock(), timeRange: "08:00-10:00" },
+          { id: 1, data: createEmptyDataBlock(), timeRange: "10:00-12:00" },
+          { id: 2, data: createEmptyDataBlock(), timeRange: "12:00-14:00" },
+          { id: 3, data: createEmptyDataBlock(), timeRange: "14:00-16:00" },
+          { id: 4, data: createEmptyDataBlock(), timeRange: "16:00-18:00" },
+          { id: 5, data: createEmptyDataBlock(), timeRange: "18:00-20:00" }
       ];
 }
 
@@ -169,7 +185,7 @@ export default {
                 'hs': slotTmp['hs'],
                 'time': slotTmp['start']+" - "+slotTmp['end']
               }
-              this.studTable[slot[0]]['data'][slot[1]].push(tt);
+              this.studTable[slot['hour']]['data'][slot['day']]['vl'].push(tt);
             })
           }
         },
