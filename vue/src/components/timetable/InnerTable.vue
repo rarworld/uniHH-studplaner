@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import vorlesungsBox from "../timetable/VorlesungsBox.vue";
+import vorlesungsBox from "./VorlesungsBox.vue";
 
 export default {
   name: "innerTable",

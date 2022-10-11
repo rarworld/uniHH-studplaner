@@ -26,8 +26,10 @@
           "end": "15:30 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 2,
-            "day": 1
+            "hour": 5,
+            "day": 1,
+            "size": 3,
+            "end": 8
           }
         },
         {
@@ -36,8 +38,10 @@
           "end": "10:45 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 0,
-            "day": 3
+            "hour": 1,
+            "day": 3,
+            "size": 2,
+            "end": 3
           }
         }
       ]
@@ -55,8 +59,10 @@
           "end": "17:15 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 3,
-            "day": 1
+            "hour": 7,
+            "day": 1,
+            "size": 3,
+            "end": 10
           }
         },
         {
@@ -65,8 +71,10 @@
           "end": "12:00 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 1,
-            "day": 3
+            "hour": 3,
+            "day": 3,
+            "size": 1,
+            "end": 4
           }
         }
       ]
@@ -93,8 +101,10 @@
           "end": "15:15",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 3
+            "hour": 5,
+            "day": 3,
+            "size": 3,
+            "end": 8
           }
         }
       ]
@@ -112,8 +122,10 @@
           "end": "15:15",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 3
+            "hour": 5,
+            "day": 3,
+            "size": 3,
+            "end": 8
           }
         }
       ]
@@ -131,8 +143,10 @@
           "end": "15:15",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 3
+            "hour": 5,
+            "day": 3,
+            "size": 3,
+            "end": 8
           }
         }
       ]
@@ -150,8 +164,10 @@
           "end": "15:15",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 3
+            "hour": 5,
+            "day": 3,
+            "size": 3,
+            "end": 8
           }
         }
       ]
@@ -169,8 +185,10 @@
           "end": "15:15",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 3
+            "hour": 5,
+            "day": 3,
+            "size": 3,
+            "end": 8
           }
         }
       ]
@@ -188,8 +206,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 3
+            "hour": 7,
+            "day": 3,
+            "size": 3,
+            "end": 10
           }
         }
       ]
@@ -207,8 +227,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 3
+            "hour": 7,
+            "day": 3,
+            "size": 3,
+            "end": 10
           }
         }
       ]
@@ -226,8 +248,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 3
+            "hour": 7,
+            "day": 3,
+            "size": 3,
+            "end": 10
           }
         }
       ]
@@ -245,8 +269,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 3
+            "hour": 7,
+            "day": 3,
+            "size": 3,
+            "end": 10
           }
         }
       ]
@@ -264,8 +290,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 3
+            "hour": 7,
+            "day": 3,
+            "size": 3,
+            "end": 10
           }
         }
       ]
@@ -283,8 +311,10 @@
           "end": "20:15",
           "hs": "",
           "slot": {
-            "hour": 5,
-            "day": 3
+            "hour": 10,
+            "day": 3,
+            "size": 3,
+            "end": 13
           }
         }
       ]
@@ -302,8 +332,10 @@
           "end": "20:15",
           "hs": "",
           "slot": {
-            "hour": 5,
-            "day": 3
+            "hour": 10,
+            "day": 3,
+            "size": 3,
+            "end": 13
           }
         }
       ]
@@ -321,8 +353,10 @@
           "end": "20:15",
           "hs": "",
           "slot": {
-            "hour": 5,
-            "day": 3
+            "hour": 10,
+            "day": 3,
+            "size": 3,
+            "end": 13
           }
         }
       ]
@@ -340,8 +374,10 @@
           "end": "20:15",
           "hs": "",
           "slot": {
-            "hour": 5,
-            "day": 3
+            "hour": 10,
+            "day": 3,
+            "size": 3,
+            "end": 13
           }
         }
       ]
@@ -359,8 +395,10 @@
           "end": "20:15",
           "hs": "",
           "slot": {
-            "hour": 5,
-            "day": 3
+            "hour": 10,
+            "day": 3,
+            "size": 3,
+            "end": 13
           }
         }
       ]
@@ -388,7 +426,9 @@
           "hs": "ESA A",
           "slot": {
             "hour": 0,
-            "day": 2
+            "day": 2,
+            "size": 2,
+            "end": 2
           }
         },
         {
@@ -398,7 +438,9 @@
           "hs": "ESA A",
           "slot": {
             "hour": 0,
-            "day": 4
+            "day": 4,
+            "size": 2,
+            "end": 2
           }
         }
       ]
@@ -425,8 +467,10 @@
           "end": "12:00",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 2
+            "hour": 2,
+            "day": 2,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -444,8 +488,10 @@
           "end": "12:00",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 2
+            "hour": 2,
+            "day": 2,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -463,8 +509,10 @@
           "end": "12:00",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 2
+            "hour": 2,
+            "day": 2,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -482,8 +530,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 2
+            "hour": 4,
+            "day": 2,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -501,8 +551,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 2
+            "hour": 4,
+            "day": 2,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -520,8 +572,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 2
+            "hour": 4,
+            "day": 2,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -539,8 +593,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 2
+            "hour": 6,
+            "day": 2,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -558,8 +614,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 2
+            "hour": 6,
+            "day": 2,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -577,8 +635,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 2
+            "hour": 6,
+            "day": 2,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -596,8 +656,10 @@
           "end": "18:00",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 2
+            "hour": 8,
+            "day": 2,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -615,8 +677,10 @@
           "end": "18:00",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 2
+            "hour": 8,
+            "day": 2,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -634,8 +698,10 @@
           "end": "18:00",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 2
+            "hour": 8,
+            "day": 2,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -703,8 +769,10 @@
           "end": "15:30 ",
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 6,
+            "day": 0,
+            "size": 2,
+            "end": 8
           }
         },
         {
@@ -713,8 +781,10 @@
           "end": "11:45 ",
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 1,
-            "day": 2
+            "hour": 2,
+            "day": 2,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -732,8 +802,10 @@
           "end": "16:45 ",
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 7,
+            "day": 0,
+            "size": 2,
+            "end": 9
           }
         },
         {
@@ -742,8 +814,10 @@
           "end": "13:15 ",
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 2,
-            "day": 2
+            "hour": 4,
+            "day": 2,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -770,8 +844,10 @@
           "end": "12:30",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 1
+            "hour": 2,
+            "day": 1,
+            "size": 3,
+            "end": 5
           }
         }
       ]
@@ -789,8 +865,10 @@
           "end": "13:30",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 0
+            "hour": 3,
+            "day": 0,
+            "size": 3,
+            "end": 6
           }
         }
       ]
@@ -808,8 +886,10 @@
           "end": "12:30",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 1
+            "hour": 2,
+            "day": 1,
+            "size": 3,
+            "end": 5
           }
         }
       ]
@@ -827,8 +907,10 @@
           "end": "12:30",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 1
+            "hour": 2,
+            "day": 1,
+            "size": 3,
+            "end": 5
           }
         }
       ]
@@ -873,8 +955,10 @@
           "end": "16:00 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 6,
+            "day": 0,
+            "size": 2,
+            "end": 8
           }
         },
         {
@@ -883,8 +967,10 @@
           "end": "11:45 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 1,
-            "day": 2
+            "hour": 2,
+            "day": 2,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -911,8 +997,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 0
+            "hour": 8,
+            "day": 0,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -930,8 +1018,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 0
+            "hour": 8,
+            "day": 0,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -949,8 +1039,10 @@
           "end": "17:45",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 0
+            "hour": 8,
+            "day": 0,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -969,7 +1061,9 @@
           "hs": "",
           "slot": {
             "hour": 0,
-            "day": 2
+            "day": 2,
+            "size": 2,
+            "end": 2
           }
         }
       ]
@@ -988,7 +1082,9 @@
           "hs": "",
           "slot": {
             "hour": 0,
-            "day": 2
+            "day": 2,
+            "size": 2,
+            "end": 2
           }
         }
       ]
@@ -1007,7 +1103,9 @@
           "hs": "",
           "slot": {
             "hour": 0,
-            "day": 2
+            "day": 2,
+            "size": 2,
+            "end": 2
           }
         }
       ]
@@ -1035,7 +1133,9 @@
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
             "hour": 0,
-            "day": 0
+            "day": 0,
+            "size": 2,
+            "end": 2
           }
         },
         {
@@ -1044,8 +1144,10 @@
           "end": "14:00 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 2,
-            "day": 3
+            "hour": 4,
+            "day": 3,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1072,8 +1174,10 @@
           "end": "11:45",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 0
+            "hour": 2,
+            "day": 0,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1091,8 +1195,10 @@
           "end": "11:45",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 0
+            "hour": 2,
+            "day": 0,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1110,8 +1216,10 @@
           "end": "13:30",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 0
+            "hour": 4,
+            "day": 0,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1129,8 +1237,10 @@
           "end": "13:30",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 0
+            "hour": 4,
+            "day": 0,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1148,8 +1258,10 @@
           "end": "10:30",
           "hs": "",
           "slot": {
-            "hour": 0,
-            "day": 3
+            "hour": 1,
+            "day": 3,
+            "size": 2,
+            "end": 3
           }
         }
       ]
@@ -1167,8 +1279,10 @@
           "end": "12:15",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 3
+            "hour": 2,
+            "day": 3,
+            "size": 3,
+            "end": 5
           }
         }
       ]
@@ -1186,8 +1300,10 @@
           "end": "12:15",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 3
+            "hour": 2,
+            "day": 3,
+            "size": 3,
+            "end": 5
           }
         }
       ]
@@ -1205,8 +1321,10 @@
           "end": "12:15",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 3
+            "hour": 2,
+            "day": 3,
+            "size": 3,
+            "end": 5
           }
         }
       ]
@@ -1234,7 +1352,9 @@
           "hs": "Geom H1",
           "slot": {
             "hour": 0,
-            "day": 1
+            "day": 1,
+            "size": 2,
+            "end": 2
           }
         },
         {
@@ -1244,7 +1364,9 @@
           "hs": "Geom H1",
           "slot": {
             "hour": 0,
-            "day": 4
+            "day": 4,
+            "size": 2,
+            "end": 2
           }
         }
       ]
@@ -1271,8 +1393,10 @@
           "end": "12:00",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 1
+            "hour": 2,
+            "day": 1,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1290,8 +1414,10 @@
           "end": "12:00",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 1
+            "hour": 2,
+            "day": 1,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1309,8 +1435,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 1
+            "hour": 4,
+            "day": 1,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1328,8 +1456,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 1
+            "hour": 4,
+            "day": 1,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1347,8 +1477,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 1
+            "hour": 6,
+            "day": 1,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1366,8 +1498,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 1
+            "hour": 6,
+            "day": 1,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1385,8 +1519,10 @@
           "end": "18:00",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -1404,8 +1540,10 @@
           "end": "18:00",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -1455,8 +1593,10 @@
           "end": "11:45 ",
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 1,
-            "day": 1
+            "hour": 2,
+            "day": 1,
+            "size": 2,
+            "end": 4
           }
         },
         {
@@ -1465,8 +1605,10 @@
           "end": "11:45 ",
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 1,
-            "day": 4
+            "hour": 2,
+            "day": 4,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1493,8 +1635,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 4
+            "hour": 4,
+            "day": 4,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1512,8 +1656,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 4
+            "hour": 4,
+            "day": 4,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1531,8 +1677,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 4
+            "hour": 4,
+            "day": 4,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1550,8 +1698,10 @@
           "end": "14:00",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 4
+            "hour": 4,
+            "day": 4,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1569,8 +1719,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 4
+            "hour": 6,
+            "day": 4,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1588,8 +1740,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 4
+            "hour": 6,
+            "day": 4,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1607,8 +1761,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 4
+            "hour": 6,
+            "day": 4,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1645,7 +1801,9 @@
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
             "hour": 0,
-            "day": 0
+            "day": 0,
+            "size": 2,
+            "end": 2
           }
         },
         {
@@ -1655,7 +1813,9 @@
           "hs": "H\u00f6rsaal I (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
             "hour": 0,
-            "day": 3
+            "day": 3,
+            "size": 2,
+            "end": 2
           }
         }
       ]
@@ -1682,8 +1842,10 @@
           "end": "11:45",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 0
+            "hour": 2,
+            "day": 0,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1701,8 +1863,10 @@
           "end": "11:45",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 0
+            "hour": 2,
+            "day": 0,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1720,8 +1884,10 @@
           "end": "13:30",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 0
+            "hour": 4,
+            "day": 0,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1739,8 +1905,10 @@
           "end": "13:30",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 0
+            "hour": 4,
+            "day": 0,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1758,8 +1926,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 6,
+            "day": 0,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1777,8 +1947,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 6,
+            "day": 0,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1796,8 +1968,10 @@
           "end": "16:00",
           "hs": "",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 6,
+            "day": 0,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1833,8 +2007,10 @@
           "end": "11:30",
           "hs": "",
           "slot": {
-            "hour": 1,
-            "day": 0
+            "hour": 2,
+            "day": 0,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1852,8 +2028,10 @@
           "end": "13:30",
           "hs": "",
           "slot": {
-            "hour": 2,
-            "day": 0
+            "hour": 4,
+            "day": 0,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -1872,7 +2050,9 @@
           "hs": "Ju 11, A203",
           "slot": {
             "hour": 0,
-            "day": 1
+            "day": 1,
+            "size": 2,
+            "end": 2
           }
         }
       ]
@@ -1890,8 +2070,10 @@
           "end": "10:45 ",
           "hs": "Bibliothek INF",
           "slot": {
-            "hour": 0,
-            "day": 2
+            "hour": 1,
+            "day": 2,
+            "size": 2,
+            "end": 3
           }
         }
       ]
@@ -1909,8 +2091,10 @@
           "end": "16:00 ",
           "hs": "Bibliothek INF",
           "slot": {
-            "hour": 3,
-            "day": 2
+            "hour": 6,
+            "day": 2,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -1928,8 +2112,10 @@
           "end": "17:30 ",
           "hs": "Bibliothek INF",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -1956,8 +2142,10 @@
           "end": "11:45 ",
           "hs": "Bibliothek INF",
           "slot": {
-            "hour": 1,
-            "day": 3
+            "hour": 2,
+            "day": 3,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -1975,8 +2163,10 @@
           "end": "14:30 ",
           "hs": "Ju 11, A208",
           "slot": {
-            "hour": 2,
-            "day": 1
+            "hour": 5,
+            "day": 1,
+            "size": 2,
+            "end": 7
           }
         }
       ]
@@ -2003,8 +2193,10 @@
           "end": "15:00 ",
           "hs": "SemRm 1 (Ju 9, 103)",
           "slot": {
-            "hour": 2,
-            "day": 2
+            "hour": 5,
+            "day": 2,
+            "size": 2,
+            "end": 7
           }
         }
       ]
@@ -2022,8 +2214,10 @@
           "end": "15:30 ",
           "hs": "Bahrenfeld, Geb. 69, SemRm 052",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 6,
+            "day": 0,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -2059,8 +2253,10 @@
           "end": "19:15 ",
           "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 4,
+            "end": 12
           }
         }
       ]
@@ -2078,8 +2274,10 @@
           "end": "10:30 ",
           "hs": "Ju 11, A208",
           "slot": {
-            "hour": 0,
-            "day": 4
+            "hour": 1,
+            "day": 4,
+            "size": 2,
+            "end": 3
           }
         }
       ]
@@ -2097,8 +2295,10 @@
           "end": "14:00 ",
           "hs": "Bibliothek INF",
           "slot": {
-            "hour": 2,
-            "day": 0
+            "hour": 4,
+            "day": 0,
+            "size": 2,
+            "end": 6
           }
         }
       ]
@@ -2116,8 +2316,10 @@
           "end": "16:30 ",
           "hs": "UKE, Geb. N55, Raum 210/211",
           "slot": {
-            "hour": 3,
-            "day": 2
+            "hour": 7,
+            "day": 2,
+            "size": 2,
+            "end": 9
           }
         }
       ]
@@ -2135,8 +2337,10 @@
           "end": "15:45 ",
           "hs": "H\u00f6rsaal II (Physik, Jungiusstra\u00dfe 9)",
           "slot": {
-            "hour": 3,
-            "day": 3
+            "hour": 6,
+            "day": 3,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -2163,8 +2367,10 @@
           "end": "17:30",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 3
+            "hour": 8,
+            "day": 3,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -2182,8 +2388,10 @@
           "end": "17:30",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 3
+            "hour": 8,
+            "day": 3,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -2201,8 +2409,10 @@
           "end": "17:30",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 3
+            "hour": 8,
+            "day": 3,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -2220,8 +2430,10 @@
           "end": "19:15",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 3
+            "hour": 9,
+            "day": 3,
+            "size": 3,
+            "end": 12
           }
         }
       ]
@@ -2239,8 +2451,10 @@
           "end": "11:45 ",
           "hs": "H\u00f6rsaal INF (Jungiusstra\u00dfe 11)",
           "slot": {
-            "hour": 1,
-            "day": 1
+            "hour": 2,
+            "day": 1,
+            "size": 2,
+            "end": 4
           }
         }
       ]
@@ -2267,8 +2481,10 @@
           "end": "17:30",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -2286,8 +2502,10 @@
           "end": "17:30",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -2305,8 +2523,10 @@
           "end": "17:30",
           "hs": "",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 2,
+            "end": 10
           }
         }
       ]
@@ -2324,8 +2544,10 @@
           "end": "15:45 ",
           "hs": "H\u00f6rsaal der Kinderklinik,045, UKE, Martinistra\u00dfe 52",
           "slot": {
-            "hour": 3,
-            "day": 0
+            "hour": 6,
+            "day": 0,
+            "size": 2,
+            "end": 8
           }
         }
       ]
@@ -2352,8 +2574,10 @@
           "end": "17:00 ",
           "hs": "HARBOR (Geb. 610), Campus Bahrenfeld",
           "slot": {
-            "hour": 3,
-            "day": 2
+            "hour": 7,
+            "day": 2,
+            "size": 2,
+            "end": 9
           }
         }
       ]
@@ -2371,8 +2595,10 @@
           "end": "17:30 ",
           "hs": "SemRm 1083",
           "slot": {
-            "hour": 4,
-            "day": 1
+            "hour": 8,
+            "day": 1,
+            "size": 2,
+            "end": 10
           }
         },
         {
@@ -2381,8 +2607,10 @@
           "end": "11:45 ",
           "hs": "SemRm 1083",
           "slot": {
-            "hour": 1,
-            "day": 4
+            "hour": 2,
+            "day": 4,
+            "size": 2,
+            "end": 4
           }
         }
       ]

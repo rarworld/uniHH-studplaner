@@ -16,10 +16,7 @@
               </innerTable>
             </template>
             <template v-else-if="day.hours[h.id].vl.length > 0">
-              <td :key="day.name+'_'+h.id">
-                <vorlesungsBox :data="day.hours[h.id].vl[0]" @box-hoover="onHoover" :hover="hoover" @box-click="onClick">
-                </vorlesungsBox>
-              </td>
+              <tableColumn :key="day.name+'_'+h.id" :vl="day.hours[h.id].vl[0]" :hover="hoover" @box-click="onClick" @box-hoover="onHoover"></tableColumn>
             </template>
             <template v-else>
               <td :key="day.name+'_'+h.id"></td>
@@ -46,13 +43,14 @@
 <script>
 import innerTable from "./InnerTable.vue";
 import vorlesungsBox from "./VorlesungsBox.vue";
+import tableColumn from "./TableColumn.vue";
 
 export default {
   name: "tableTimeTable",
   props: ['studTable', 'hoover', 'selected', 'timelessTable'],
-  computed: {
-    console: () => console,
-  },
+  // computed: {
+  //   console: () => console,
+  // },
   methods: {
     onHoover(vId) {
       this.$emit("box-hoover", vId);
@@ -77,7 +75,7 @@ export default {
       return height;
     }
   },
-  components: { innerTable, vorlesungsBox },
+  components: { innerTable, vorlesungsBox, tableColumn },
   emits: ['box-hoover', 'box-click']
 }
 </script>

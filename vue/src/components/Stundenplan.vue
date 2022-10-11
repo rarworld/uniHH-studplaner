@@ -117,46 +117,12 @@ import navmenu from './navmenu/NavMenu.vue';
 import delModal from './DelModal.vue';
 import tableTimeTable from './timetable/TableTimeTable.vue';
 
-
-function createDay(number, dayName) {
-  let data = []
-  for (let i = 0; i < number; i++) {
-    data.push({
-      "hour": i,
-      "vl": [],
-      "width": 1,
-      "height": 1,
-      "master": false,
-      "slave": false
-    })
-  }
-  return {
-    name: dayName,
-    hours: data
-  }
-}
-
-function createDataArray() {
-  const hours = [{ id: 0, name: "08:00-10:00" }, { id: 1, name: "10:00-12:00" }, { id: 2, name: "12:00-14:00" }, { id: 3, name: "14:00-16:00" }, { id: 4, name: "16:00-18:00" }, { id: 5, name: "18:00-20:00" }]
-  return {
-    hours: hours,
-    days: [
-      createDay(hours.length, "Monday"),
-      createDay(hours.length, "Tuesday"),
-      createDay(hours.length, "Wednesday"),
-      createDay(hours.length, "Thursday"),
-      createDay(hours.length, "Friday"),
-    ]
-  };
-
-}
-
 export default {
   name: "Stundenplanner",
   data: function () {
     return {
       vorlesungsListe: usersData['data'],
-      studTable: createDataArray(),
+      studTable: this.createDataArray(),
       hoover: "",
       selected: "",
       activeVorlesungen: [],
@@ -170,6 +136,51 @@ export default {
     navmenu, delModal, tableTimeTable
   },
   methods: {
+    createDay(number, dayName) {
+      let data = []
+      for (let i = 0; i < number; i++) {
+        data.push({
+          "hour": i,
+          "vl": [],
+          "width": 1,
+          "height": 1,
+          "master": false,
+          "slave": false
+        })
+      }
+      return {
+        name: dayName,
+        hours: data
+      }
+    },
+    createDataArray() {
+      const hours = [
+        { id: 0, name: "08:00-09:00" }, 
+        { id: 1, name: "09:00-10:00" }, 
+        { id: 2, name: "10:00-11:00" }, 
+        { id: 3, name: "11:00-12:00" }, 
+        { id: 4, name: "12:00-13:00" }, 
+        { id: 5, name: "13:00-14:00" }, 
+        { id: 6, name: "14:00-15:00" }, 
+        { id: 7, name: "15:00-16:00" }, 
+        { id: 8, name: "16:00-17:00" }, 
+        { id: 9, name: "17:00-18:00" }, 
+        { id: 10, name: "18:00-19:00" },
+        { id: 11, name: "19:00-20:00" }
+      ]
+      return {
+        hours: hours,
+        days: [
+          this.createDay(hours.length, "Monday"),
+          this.createDay(hours.length, "Tuesday"),
+          this.createDay(hours.length, "Wednesday"),
+          this.createDay(hours.length, "Thursday"),
+          this.createDay(hours.length, "Friday"),
+        ]
+      };
+
+    },
+
     addToTable(element) {
       if (!element['time'] || element['time'].length == 0) {
         let tt = {
@@ -191,6 +202,7 @@ export default {
             'name': element['name'],
             'dozent': element['dozent'],
             'hs': slotTmp['hs'],
+            'size': slot['size'],
             'time': slotTmp['start'] + " - " + slotTmp['end']
           }
           this.studTable.days[slot['day']].hours[slot['hour']].vl.push(tt)
@@ -220,6 +232,7 @@ export default {
       this.setVorlesungen();
       this.hideModal()
     },
+    // add Button under the Dropdown
     activateVorlesung(vId) {
       if (!this.activeVorlesungen.includes(vId)) {
         this.activeVorlesungen.push(vId)
@@ -230,11 +243,13 @@ export default {
     onHoover(vId) {
       this.hoover = vId;
     },
+    // build timetable
     setVorlesungen() {
-      this.studTable = createDataArray();
+      this.studTable = this.createDataArray();
       this.timelessTable = []
       this.activeVorlesungen.forEach(vID => this.addVorlesung(vID));
     },
+    // checkbox in navigation Tree
     activateNavCheckbox(vId, value) {
       if (value) {
         this.activateVorlesung(vId)
@@ -242,10 +257,12 @@ export default {
         this.delVorlesung(vId)
       }
     },
+    // dbl-click on lecture in timetable
     showModal(vId) {
       this.delModalVid = vId
       this.isDelModalVisible = true
     },
+    // cancel modal
     hideModal() {
       this.delModalVid = ""
       this.isDelModalVisible = false
@@ -255,7 +272,7 @@ export default {
     if (window.location.search != "") {
       let searchParams = decodeURIComponent(window.location.search.substr(1).split('=')[1])
       this.activeVorlesungen = searchParams.split(',')
-      this.activeVorlesungen.forEach(vID => this.addVorlesung(vID))
+      this.setVorlesungen()
       this.hoover = ""
     }
   }

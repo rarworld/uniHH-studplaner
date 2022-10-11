@@ -7,6 +7,7 @@
             <div v-if="data.dozent.length > 0" class="text-truncate"><strong>Dozent:</strong> {{ shorter(data.dozent,10) }}</div>
             <div v-if="data.hs.length > 0"><strong>HS:</strong> {{ data.hs }}</div>
             <div v-if="data.time.length > 0"><strong>Zeit:</strong> {{ data.time }}</div>
+            <div><strong>Blöcke:</strong> {{ data.size }}</div>
         </div>
     </div>
 </template>
