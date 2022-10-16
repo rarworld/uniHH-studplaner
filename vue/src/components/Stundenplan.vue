@@ -287,7 +287,6 @@ export default {
     },
     onHoover(vId) {
       this.hoover = vId;
-      this.$refs.timeTable.testomater(vId)
     },
     // build timetable
     setVorlesungen() {
@@ -312,7 +311,6 @@ export default {
     hideModal() {
       this.delModalVid = ""
       this.isDelModalVisible = false
-      calcHeightAndSlaves(this.studTable.days[2], this.studTable.hours.length)
     }
   },
   created: function () {
