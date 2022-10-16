@@ -8,7 +8,7 @@
 import vorlesungsBox from "./VorlesungsBox.vue";
 
 export default {
-  name: "ableColumn",
+  name: "tableColumn",
   props: ['vl', "hover"],
   components: {
     vorlesungsBox

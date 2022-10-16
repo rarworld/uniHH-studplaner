@@ -11,8 +11,8 @@
           <template v-for="day in studTable.days">
             <template v-if="day.hours[h.id].slave">
             </template>
-            <template v-else-if="day.hours[h.id].vl.length > 1">
-              <innerTable :key="day.name+'_'+h.id" :hourId="h.id" :day="day" :height="calcRowHeight(day,h.id)" :hover="hoover" @box-click="onClick" @box-hoover="onHoover">
+            <template v-else-if="day.hours[h.id].master">
+              <innerTable :key="day.name+'_'+h.id" :hourId="h.id" :day="day" :height="day.hours[h.id].height" :hover="hoover" @box-click="onClick" @box-hoover="onHoover">
               </innerTable>
             </template>
             <template v-else-if="day.hours[h.id].vl.length > 0">
@@ -28,7 +28,7 @@
     <div class="container table border">
       <div class="row bg-secondary bg-gradient" id="timelessHead">
         <div class="col">
-          Timeless
+          Timeless {{ testomat }}
         </div>
       </div>
       <div class="row row-cols-auto" id="timelessRow">
@@ -48,6 +48,11 @@ import tableColumn from "./TableColumn.vue";
 export default {
   name: "tableTimeTable",
   props: ['studTable', 'hoover', 'selected', 'timelessTable'],
+  data: function() {
+       return {
+        testomat: 'Pierre',
+        }
+  },
   // computed: {
   //   console: () => console,
   // },
@@ -73,6 +78,9 @@ export default {
         run++;
       }
       return height;
+    },
+    testomater(ttName) {
+      this.testomat = ttName
     }
   },
   components: { innerTable, vorlesungsBox, tableColumn },

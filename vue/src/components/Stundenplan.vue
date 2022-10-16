@@ -97,7 +97,7 @@
     </div>
 
     <tableTimeTable @box-hoover="onHoover" @box-click="showModal" :studTable="studTable" :hoover="hoover"
-      :selected="selected" :timelessTable="timelessTable" />
+      :selected="selected" :timelessTable="timelessTable" ref="timeTable"/>
 
     <delModal v-show="isDelModalVisible" :vId="delModalVid" @delModal="delVorlesung" @modalCancel="hideModal" />
 
@@ -117,12 +117,98 @@ import navmenu from './navmenu/NavMenu.vue';
 import delModal from './DelModal.vue';
 import tableTimeTable from './timetable/TableTimeTable.vue';
 
+function createDay(number, dayName) {
+  let data = []
+  for (let i = 0; i < number; i++) {
+    data.push({
+      "hour": i,
+      "vl": [],
+      "width": 1,
+      "height": 1,
+      "master": false,
+      "slave": false
+    })
+  }
+  return {
+    name: dayName,
+    hours: data
+  }
+}
+
+function createDataArray() {
+  const hours = [
+    { id: 0, name: "08:00-09:00" },
+    { id: 1, name: "09:00-10:00" },
+    { id: 2, name: "10:00-11:00" },
+    { id: 3, name: "11:00-12:00" },
+    { id: 4, name: "12:00-13:00" },
+    { id: 5, name: "13:00-14:00" },
+    { id: 6, name: "14:00-15:00" },
+    { id: 7, name: "15:00-16:00" },
+    { id: 8, name: "16:00-17:00" },
+    { id: 9, name: "17:00-18:00" },
+    { id: 10, name: "18:00-19:00" },
+    { id: 11, name: "19:00-20:00" }
+  ]
+  return {
+    hours: hours,
+    days: [
+      createDay(hours.length, "Monday"),
+      createDay(hours.length, "Tuesday"),
+      createDay(hours.length, "Wednesday"),
+      createDay(hours.length, "Thursday"),
+      createDay(hours.length, "Friday"),
+    ]
+  };
+
+}
+
+Array.prototype.max = function () {
+  return Math.max.apply(null, this);
+};
+
+function calcHeightAndSlaves(day, maxHour) {
+  let masterCandidateHour = undefined
+  let runnerSize = 0
+  let runHour
+  let i = 0;
+  while (i < maxHour) {
+    if (runnerSize == 0) {
+      masterCandidateHour = undefined
+    }
+    runHour = day.hours[i]
+    if (runHour.vl.length > 0) {
+      runHour.height = runHour.vl.map(vl => vl.size).max()
+
+      if (masterCandidateHour == undefined) {
+        masterCandidateHour = runHour
+        runnerSize = masterCandidateHour.height
+        if (runnerSize > 1) {
+          masterCandidateHour.master = true
+        }
+      } else {
+        if (runHour.height > runnerSize) {
+          masterCandidateHour.height += runHour.height - runnerSize
+          runnerSize = runHour.height - 1
+        }
+        runHour.slave = true
+      }
+    } else {
+      if (masterCandidateHour != undefined && runnerSize > 0) {
+        runHour.slave = true
+      }
+    }
+    runnerSize--
+    i++;
+  }
+}
+
 export default {
   name: "Stundenplanner",
   data: function () {
     return {
       vorlesungsListe: usersData['data'],
-      studTable: this.createDataArray(),
+      studTable: createDataArray(),
       hoover: "",
       selected: "",
       activeVorlesungen: [],
@@ -132,55 +218,13 @@ export default {
       dataInfo: usersData['input_files']
     }
   },
+  computed: {
+    console: () => console,
+  },
   components: {
     navmenu, delModal, tableTimeTable
   },
   methods: {
-    createDay(number, dayName) {
-      let data = []
-      for (let i = 0; i < number; i++) {
-        data.push({
-          "hour": i,
-          "vl": [],
-          "width": 1,
-          "height": 1,
-          "master": false,
-          "slave": false
-        })
-      }
-      return {
-        name: dayName,
-        hours: data
-      }
-    },
-    createDataArray() {
-      const hours = [
-        { id: 0, name: "08:00-09:00" }, 
-        { id: 1, name: "09:00-10:00" }, 
-        { id: 2, name: "10:00-11:00" }, 
-        { id: 3, name: "11:00-12:00" }, 
-        { id: 4, name: "12:00-13:00" }, 
-        { id: 5, name: "13:00-14:00" }, 
-        { id: 6, name: "14:00-15:00" }, 
-        { id: 7, name: "15:00-16:00" }, 
-        { id: 8, name: "16:00-17:00" }, 
-        { id: 9, name: "17:00-18:00" }, 
-        { id: 10, name: "18:00-19:00" },
-        { id: 11, name: "19:00-20:00" }
-      ]
-      return {
-        hours: hours,
-        days: [
-          this.createDay(hours.length, "Monday"),
-          this.createDay(hours.length, "Tuesday"),
-          this.createDay(hours.length, "Wednesday"),
-          this.createDay(hours.length, "Thursday"),
-          this.createDay(hours.length, "Friday"),
-        ]
-      };
-
-    },
-
     addToTable(element) {
       if (!element['time'] || element['time'].length == 0) {
         let tt = {
@@ -206,6 +250,7 @@ export default {
             'time': slotTmp['start'] + " - " + slotTmp['end']
           }
           this.studTable.days[slot['day']].hours[slot['hour']].vl.push(tt)
+          calcHeightAndSlaves(this.studTable.days[slot['day']], this.studTable.hours.length)
         })
       }
     },
@@ -242,10 +287,11 @@ export default {
     },
     onHoover(vId) {
       this.hoover = vId;
+      this.$refs.timeTable.testomater(vId)
     },
     // build timetable
     setVorlesungen() {
-      this.studTable = this.createDataArray();
+      this.studTable = createDataArray();
       this.timelessTable = []
       this.activeVorlesungen.forEach(vID => this.addVorlesung(vID));
     },
@@ -266,6 +312,7 @@ export default {
     hideModal() {
       this.delModalVid = ""
       this.isDelModalVisible = false
+      calcHeightAndSlaves(this.studTable.days[2], this.studTable.hours.length)
     }
   },
   created: function () {
