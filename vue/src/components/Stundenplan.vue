@@ -16,12 +16,13 @@
             <div id="v-model-select" class="demo">
               <select v-model="selected" class="form-select">
                 <option disabled value="">Please select one</option>
-                <option v-for="opt in vorlesungsListe" :key="opt.id" :value="opt.id">{{opt.id}}: {{opt.name}}</option>
+                <option v-for="opt in vorlesungsListe" :key="opt.id" :value="opt.id">{{ opt.id }}: {{ opt.name }}
+                </option>
               </select>
               <div class="btn-group" role="group" aria-label="Basic example">
                 <button type="button" class="btn btn-primary" @click="activateVorlesung(selected)">add</button>
-                <button type="button" class="btn btn-primary" @click="delVorlesung(selected)">del</button>
-                <button type="button" class="btn btn-primary" @click="onHoover(selected)">show</button>
+                <button type="button" class="btn btn-primary" @click="removeVorlesung(selected)">del</button>
+                <button type="button" class="btn btn-primary" @click="showVorlesung(selected)">show</button>
               </div>
             </div>
           </div>
@@ -39,7 +40,7 @@
           data-bs-parent="#accordionFlushExample">
           <div class="accordion-body">
             <navmenu :activeVorlesungen="activeVorlesungen"
-              @navMenuInput="activeVorlesungen = $event;setVorlesungen()" />
+              @navMenuInput="activeVorlesungen = $event; setVorlesungen()" />
           </div>
         </div>
       </div>
@@ -55,10 +56,11 @@
           data-bs-parent="#accordionFlushExample">
           <div class="accordion-body">
             <div v-for="opt in vorlesungsListe" :key="opt.id" class="form-check">
-              <input class="form-check-input" type="checkbox" @change="setVorlesungen" :id="'cb_'+opt.id"
+              <input class="form-check-input" type="checkbox" @change="setVorlesungen"
+                :id="'cb_' + opt.id"
                 :value="opt.id" v-model="activeVorlesungen">
               <label class="form-check-label" for="flexCheckDefault">
-                {{opt.id}}: {{opt.name}}
+                {{ opt.id }}: {{ opt.name }}
               </label>
             </div>
           </div>
@@ -89,11 +91,6 @@
           </div>
         </div>
       </div>
-
-      <div>
-        <br />
-        <span>Aktive Vorlesungen: {{ activeVorlesungen }}</span>
-      </div>
     </div>
 
     <timeTable ref="timeTable" />
@@ -101,7 +98,7 @@
     <div id="stats" class="text-muted py-5">
       <div class="row" v-for="li in dataInfo" :key="li.name">
         <div class="col-5 text-start">
-          <b>{{li.name}} </b> data from {{li.parsed}}
+          <b>{{ li.name }} </b> data from {{ li.parsed }}
         </div>
       </div>
     </div>
@@ -118,7 +115,7 @@ export default {
   data: function () {
     return {
       vorlesungsListe: usersData['data'],
-      activeVorlesungen:[],
+      activeVorlesungen: [],
       selected: "",
       delModalVid: "",
       isDelModalVisible: false,
@@ -132,39 +129,65 @@ export default {
     navmenu, timeTable
   },
   methods: {
+    // #######################
+    // Dropdown Methods
+    // #######################
+    activateVorlesung(vId) {
+      this.addVorlesung(vId);
+      this.showVorlesung(vId);
+    },
+    removeVorlesung(vId) {
+      this.$refs.timeTable.delVorlesung(vId)
+    },
+    showVorlesung(vId) {
+      this.onHoover(vId);
+    },
+
+
+    // #######################
+    // NavigationTree Methods
+    // #######################
+
+    // checkbox in navigation Tree
+    activateNavCheckbox(vId, value) {
+      alert(vId, value)
+      if (value) {
+        this.activateVorlesung(vId)
+      } else {
+        this.$refs.timeTable.delVorlesung(vId)
+      }
+    },
+
+    // #######################
+    // TimeTable Methods
+    // #######################
+
     addVorlesung(vId) {
       let res = undefined;
       this.vorlesungsListe.forEach(vorl => { if (vorl.id == vId) res = vorl })
       if (res) {
-        this.$refs.timeTable.addLecture(vId,res)
+        this.$refs.timeTable.addLecture(vId, res)
       }
-    },
-
-    // add Button under the Dropdown
-    activateVorlesung(vId) {
-      this.addVorlesung(vId);
-      this.onHoover(vId);
     },
     onHoover(vId) {
       this.$refs.timeTable.onHover(vId)
     },
+
+
+    // #######################
+    // other Methods
+    // #######################
+
     // build timetable
     setVorlesungen() {
       this.activeVorlesungen.forEach(vID => this.addVorlesung(vID));
     },
-    // checkbox in navigation Tree
-    activateNavCheckbox(vId, value) {
-      if (value) {
-        this.activateVorlesung(vId)
-      } else {
-        this.delVorlesung(vId)
-      }
-    }
+
   },
   mounted: function () {
     if (window.location.search != "") {
       let searchParams = decodeURIComponent(window.location.search.substr(1).split('=')[1])
-      searchParams.split(',').forEach( vl => this.addVorlesung(vl))
+      searchParams.split(',').forEach(vl => this.addVorlesung(vl))
       this.onHoover("")
     }
   }

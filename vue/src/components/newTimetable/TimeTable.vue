@@ -1,7 +1,11 @@
 <template>
   <div>
+    <div>
+      <br />
+      <span>Aktive Vorlesungen: {{ activeVorlesungen }}</span>
+    </div>
     <schedule :timeTable="timeTable" :hover="hover" @box-hover="onHover" @box-click="showModal" />
-    <timeLessTable :hover="hover" :lectureList="timelessTable" @box-hover="onHover" @box-click="showModal"  />
+    <timeLessTable :hover="hover" :lectureList="timelessTable" @box-hover="onHover" @box-click="showModal" />
     <delModal v-show="isDelModalVisible" :vId="delModalVid" @delModal="delVorlesung" @modalCancel="hideModal" />
   </div>
 </template>
@@ -164,9 +168,9 @@ export default {
       }
     },
     syncTable() {
-      this.timeTable.days.forEach(day =>{
-        day.hours.forEach(hour =>{
-          hour.vl = hour.vl.filter( lecture => this.activeVorlesungen.includes(lecture.id))
+      this.timeTable.days.forEach(day => {
+        day.hours.forEach(hour => {
+          hour.vl = hour.vl.filter(lecture => this.activeVorlesungen.includes(lecture.id))
         })
         calcMaxWidthOfDay(day, this.timeTable.hours.length)
       })
