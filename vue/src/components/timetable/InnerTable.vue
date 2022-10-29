@@ -3,9 +3,16 @@
     <table class="innerTable table table-bordered">
       <tbody>
         <tr v-for="i in height" :key="day.name+'-'+hourId+'_'+i" :id="'i'+day.name+'-'+hourId+'_'+i">
-          <td v-for="vl in day.hours[i+hourId-1].vl" :key="day.name+'-'+hourId+'_'+i+'_'+vl.id" :rowspan="vl.size">
-            <vorlesungsBox :data="vl" @box-hoover="onHoover" :hover="hover" @box-click="onClick"></vorlesungsBox>
-          </td>
+          <template v-for="vl in day.hours[i+hourId-1].vl" :key="day.name+'-'+hourId+'_'+i+'_'+vl.id">
+            <template v-if="vl.id != 'blank'">
+              <td :rowspan="vl.size">
+                <vorlesungsBox :data="vl" @box-hoover="onHoover" :hover="hover" @box-click="onClick"></vorlesungsBox>
+              </td>
+            </template>
+          </template>
+          <template v-if="day.width > day.hours[i+hourId-1].vl.length">
+            <td :colspan="day.width - day.hours[i+hourId-1].vl.length">empty</td>
+          </template>
         </tr>
       </tbody>
     </table>

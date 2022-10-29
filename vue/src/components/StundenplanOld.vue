@@ -96,7 +96,12 @@
       </div>
     </div>
 
+    <tableTimeTable @box-hoover="onHoover" @box-click="showModal" :studTable="studTable" :hoover="hoover"
+      :selected="selected" :timelessTable="timelessTable" ref="tableTimeTable" />
+
     <timeTable ref="timeTable" />
+
+    <delModal v-show="isDelModalVisible" :vId="delModalVid" @delModal="delVorlesung" @modalCancel="hideModal" />
 
     <div id="stats" class="text-muted py-5">
       <div class="row" v-for="li in dataInfo" :key="li.name">
@@ -111,15 +116,98 @@
 <script>
 import usersData from "../assets/data.json";
 import navmenu from './navmenu/NavMenu.vue';
+import delModal from './DelModal.vue';
+import tableTimeTable from './timetable/TableTimeTable.vue';
 import timeTable from './newTimetable/TimeTable.vue';
+
+function createDay(number, dayName) {
+  let data = []
+  for (let i = 0; i < number; i++) {
+    data.push({
+      "hour": i,
+      "vl": [],
+      "width": 0,
+      "height": 1,
+      "blank": false,
+      "master": false,
+      "slave": false
+    })
+  }
+  return {
+    name: dayName,
+    width: 0,
+    hours: data
+  }
+}
+
+function createDataArray() {
+  const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+  let startHour = 8;
+  const hours = [...Array(12).keys()].map((index) => {
+    return {
+      "id": index,
+      "name": (index + startHour) + ":00 - " + (index + startHour + 1) + ":00"
+    }
+  })
+
+  return {
+    hours: hours,
+    days: days.map(d => createDay(hours.length, d))
+  };
+}
+
+Array.prototype.max = function () {
+  return Math.max.apply(null, this);
+};
+
+function calcHeightAndSlaves(day, maxHour) {
+  let masterCandidateHour = undefined
+  let runnerSize = 0
+  let runHour
+  let i = 0;
+  while (i < maxHour) {
+    if (runnerSize == 0) {
+      masterCandidateHour = undefined
+    }
+    runHour = day.hours[i]
+    runHour.width = runHour.vl.length
+    if (runHour.vl.length > 0) {
+      runHour.height = runHour.vl.map(vl => vl.size).max()
+
+      if (masterCandidateHour == undefined) {
+        masterCandidateHour = runHour
+        runnerSize = masterCandidateHour.height
+        if (runnerSize > 1) {
+          masterCandidateHour.master = true
+        }
+      } else {
+        if (runHour.height > runnerSize) {
+          masterCandidateHour.height += runHour.height - runnerSize
+          runnerSize = runHour.height - 1
+        }
+        runHour.slave = true
+      }
+    } else {
+      if (masterCandidateHour != undefined && runnerSize > 0) {
+        runHour.slave = true
+      }
+    }
+    day.width = day.hours.map(hour => hour.width).max()
+    runnerSize--
+    i++;
+  }
+}
 
 export default {
   name: "Stundenplanner",
   data: function () {
     return {
       vorlesungsListe: usersData['data'],
-      activeVorlesungen:[],
+      studTable: createDataArray(),
+      hoover: "",
       selected: "",
+      activeVorlesungen: [],
+      timelessTable: [],
       delModalVid: "",
       isDelModalVisible: false,
       dataInfo: usersData['input_files']
@@ -129,27 +217,100 @@ export default {
     console: () => console,
   },
   components: {
-    navmenu, timeTable
+    navmenu, delModal, tableTimeTable, timeTable
   },
   methods: {
+    addToTable(element) {
+      if (!element['time'] || element['time'].length == 0) {
+        let tt = {
+          'id': element['id'],
+          'base': element['base'],
+          'name': element['name'],
+          'dozent': element['dozent'],
+          'size': 1,
+          'hs': "",
+          'time': ""
+        }
+        this.timelessTable.push(tt)
+      }
+      if (element['time'] && element['time'].length > 0) {
+        element["time"].forEach(slotTmp => {
+          let slot = slotTmp['slot']
+          let tt = {
+            'id': element['id'],
+            'base': element['base'],
+            'name': element['name'],
+            'dozent': element['dozent'],
+            'hs': slotTmp['hs'],
+            'size': slot['size'],
+            'time': slotTmp['start'] + " - " + slotTmp['end']
+          }
+          let wantedDay = this.studTable.days[slot['day']]
+          let startHour = slot['hour']
+          wantedDay.hours[startHour].vl.push(tt)
+
+          if (tt.size > 1) {
+            for (let i = 1; i < tt.size; i++) {
+              wantedDay.hours[startHour + i].vl.push({
+                'id': "blank",
+                'base': "",
+                'name': "",
+                'dozent': "",
+                'hs': "",
+                'time': ""
+              })
+            }
+          }
+
+          calcHeightAndSlaves(wantedDay, this.studTable.hours.length)
+        })
+      }
+    },
     addVorlesung(vId) {
       let res = undefined;
       this.vorlesungsListe.forEach(vorl => { if (vorl.id == vId) res = vorl })
       if (res) {
+        this.addToTable(res)
+      }
+    },
+    addLecture(vId) {
+      let res = undefined;
+      this.vorlesungsListe.forEach(vorl => { if (vorl.id == vId) res = vorl })
+      if (res ) {
         this.$refs.timeTable.addLecture(vId,res)
       }
     },
-
+    delVorlesung(vId) {
+      if (this.activeVorlesungen.includes(vId)) {
+        this.activeVorlesungen.forEach((vorl, i) => {
+          if (vId == vorl) {
+            this.activeVorlesungen.splice(i, 1);
+          }
+        })
+        this.timelessTable.forEach((vorl, i) => {
+          if (vId == vorl['id']) {
+            this.timelessTable.splice(i, 1);
+          }
+        })
+      }
+      this.setVorlesungen();
+      this.hideModal()
+    },
     // add Button under the Dropdown
     activateVorlesung(vId) {
-      this.addVorlesung(vId);
+      if (!this.activeVorlesungen.includes(vId)) {
+        this.activeVorlesungen.push(vId)
+      }
+      this.setVorlesungen();
       this.onHoover(vId);
     },
     onHoover(vId) {
-      this.$refs.timeTable.onHover(vId)
+      this.hoover = vId;
     },
     // build timetable
     setVorlesungen() {
+      this.studTable = createDataArray();
+      this.timelessTable = []
       this.activeVorlesungen.forEach(vID => this.addVorlesung(vID));
     },
     // checkbox in navigation Tree
@@ -159,13 +320,25 @@ export default {
       } else {
         this.delVorlesung(vId)
       }
+    },
+    // dbl-click on lecture in timetable
+    showModal(vId) {
+      this.delModalVid = vId
+      this.isDelModalVisible = true
+      this.addLecture(vId)
+    },
+    // cancel modal
+    hideModal() {
+      this.delModalVid = ""
+      this.isDelModalVisible = false
     }
   },
-  mounted: function () {
+  created: function () {
     if (window.location.search != "") {
       let searchParams = decodeURIComponent(window.location.search.substr(1).split('=')[1])
-      searchParams.split(',').forEach( vl => this.addVorlesung(vl))
-      this.onHoover("")
+      this.activeVorlesungen = searchParams.split(',')
+      this.setVorlesungen()
+      this.hoover = ""
     }
   }
 }
