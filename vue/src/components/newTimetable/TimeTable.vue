@@ -128,13 +128,24 @@ export default {
       this.isDelModalVisible = false
     },
 
-    delVorlesung(vId) {
-      if (this.activeVorlesungen.includes(vId)) {
+    updateActiveList(command, vId) {
+      if (command == "push") {
+        this.activeVorlesungen.push(vId)
+      }
+      if (command == "remove") {
         this.activeVorlesungen.forEach((vorl, i) => {
           if (vId == vorl) {
             this.activeVorlesungen.splice(i, 1);
           }
         })
+      }
+      this.$emit('activeLections', this.activeVorlesungen)
+    },
+
+    delVorlesung(vId) {
+      if (this.activeVorlesungen.includes(vId)) {
+        this.updateActiveList("remove", vId)
+
         this.timelessTable.forEach((vorl, i) => {
           if (vId == vorl['id']) {
             this.timelessTable.splice(i, 1);
@@ -144,6 +155,7 @@ export default {
       this.syncTable();
       this.hideModal()
     },
+
     addToTable(element) {
       if (!element['time'] || element['time'].length == 0) {
         this.timelessTable.push(createLection(element, undefined))
@@ -158,12 +170,13 @@ export default {
         })
       }
     },
+
     hasLecture(vId) {
       return this.activeVorlesungen.includes(vId)
     },
     addLecture(vId, element) {
       if (!this.hasLecture(vId)) {
-        this.activeVorlesungen.push(vId)
+        this.updateActiveList("push", vId)
         this.addToTable(element)
       }
     },
@@ -177,7 +190,7 @@ export default {
     },
 
   },
-  emits: []
+  emits: ['activeLections']
 }
 </script>
 
