@@ -60,17 +60,7 @@
         <div id="textArea-collapse" class="accordion-collapse collapse" aria-labelledby="textAreaHeader"
           data-bs-parent="#accordionFlushExample">
           <div class="accordion-body">
-            <form method="GET">
-              <div class="row">
-                <div class="col-10">
-                  <input name="activList" class="form-control" v-model="activeVorlesungen"
-                    placeholder="[VorlesugsId,…]" />
-                </div>
-                <div class="col-auto">
-                  <button type="submit" class="btn btn-primary mb-3">Laden</button>
-                </div>
-              </div>
-            </form>
+            <inputMenu :lectureList="activeVorlesungen" />
           </div>
         </div>
       </div>
@@ -91,6 +81,7 @@
 <script>
 import usersData from "../assets/data.json";
 import dropdownNavMenu from './dropmenu/DropdownNavMenu.vue';
+import inputMenu from './dropmenu/InputMenu.vue';
 import listNavMenu from './dropmenu/ListNavMenu.vue';
 import navmenu from './navmenu/NavMenu.vue';
 import timeTable from './newTimetable/TimeTable.vue';
@@ -108,7 +99,7 @@ export default {
     console: () => console,
   },
   components: {
-    dropdownNavMenu, navmenu, listNavMenu, timeTable
+    dropdownNavMenu, navmenu, listNavMenu, inputMenu, timeTable
   },
   methods: {
     // #######################
