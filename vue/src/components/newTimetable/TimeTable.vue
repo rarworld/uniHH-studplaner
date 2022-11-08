@@ -94,7 +94,7 @@ function calcMaxWidthOfDay(day, maxHour) {
       setBlankHours(day, vl.size, hour.hour, maxHour)
     })
   })
-  day.width = day.hours.map(hour => hour.maxWidth).max()
+  day.width = Math.max(1, day.hours.map(hour => hour.maxWidth).max())
 }
 
 export default {
